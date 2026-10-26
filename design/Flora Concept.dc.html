@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Familjen+Grotesk:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+body{margin:0;background:#12201a;color:#f1ece1;font-family:'Familjen Grotesk',sans-serif;-webkit-font-smoothing:antialiased}
+*{box-sizing:border-box}
+a{color:#d6e26b;text-decoration:none}
+a:hover{color:#f1ece1}
+input,select,textarea,button{font-family:inherit}
+::placeholder{color:rgba(241,236,225,.45)}
+</style>
+</helmet>
+
+<div style="min-height:100vh;background:#12201a;color:#f1ece1">
+
+<header style="position:fixed;top:0;left:0;right:0;z-index:50;display:flex;align-items:center;justify-content:space-between;gap:24px;padding:18px clamp(20px,4vw,56px);background:rgba(18,32,26,.78);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid rgba(241,236,225,.08)">
+  <div onClick="{{ goHome }}" style="cursor:pointer;display:flex;align-items:baseline;gap:8px">
+    <span style="font-family:'Instrument Serif',serif;font-size:28px;letter-spacing:-.01em;color:#f1ece1">Flora</span>
+    <span style="font-family:'Instrument Serif',serif;font-style:italic;font-size:28px;color:#d6e26b">concept</span>
+  </div>
+  <nav style="display:flex;flex-wrap:wrap;align-items:center;gap:clamp(14px,2.4vw,36px)">
+    <sc-for list="{{ nav }}" as="n" hint-placeholder-count="3">
+      <span onClick="{{ n.go }}" style="cursor:pointer;font-size:14px;letter-spacing:.02em;color:{{ n.color }};border-bottom:1px solid {{ n.line }};padding-bottom:3px" style-hover="color:#f1ece1">{{ n.label }}</span>
+    </sc-for>
+    <span onClick="{{ goContact }}" style="cursor:pointer;font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;background:#d6e26b;color:#12201a;padding:11px 18px;border-radius:999px" style-hover="background:#f1ece1">Devis rapide</span>
+  </nav>
+</header>
+
+<sc-if value="{{ isHome }}" hint-placeholder-val="{{ true }}">
+  <section data-screen-label="Accueil" style="position:relative;min-height:100vh;display:flex;align-items:flex-end;overflow:hidden">
+    <img src="https://www.floraconcept.com/wp-content/uploads/elementor/thumbs/qui-sommes-nous-flora-qrj9m8jld9l9bk2vh6w7vv6muthaabhl0bti75odww.jpg" alt="paysagiste entreprises flora" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover;filter:saturate(.85)">
+    <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(18,32,26,.35) 0%,rgba(18,32,26,.2) 40%,rgba(18,32,26,.95) 100%)"></div>
+    <div style="position:relative;width:100%;padding:0 clamp(20px,4vw,56px) clamp(40px,6vw,80px)">
+      <div style="display:flex;gap:18px;font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#d6e26b;margin-bottom:24px">
+        <span>Paysagiste pour entreprises</span><span style="color:rgba(241,236,225,.5)">—</span><span>Marseille · Nice</span>
+      </div>
+      <h1 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(72px,15vw,240px);line-height:.82;letter-spacing:-.035em">Flora<br><em style="color:#d6e26b;padding-left:clamp(40px,12vw,200px)">Concept</em></h1>
+      <div style="display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:32px;margin-top:40px;border-top:1px solid rgba(241,236,225,.25);padding-top:28px">
+        <p style="margin:0;font-family:'Instrument Serif',serif;font-style:italic;font-size:clamp(28px,3.4vw,48px);line-height:1.05">"Votre entreprise passe au vert..."</p>
+        <span onClick="{{ goContact }}" style="cursor:pointer;display:flex;align-items:center;gap:14px;font-size:14px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;border:1px solid #f1ece1;color:#f1ece1;padding:16px 26px;border-radius:999px" style-hover="background:#f1ece1;color:#12201a">Devis rapide <span style="font-size:18px">→</span></span>
+      </div>
+    </div>
+  </section>
+
+  <section style="background:#f1ece1;color:#12201a;padding:clamp(72px,10vw,140px) clamp(20px,4vw,56px)">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:clamp(32px,6vw,96px);max-width:1360px;margin:0 auto">
+      <div>
+        <div style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#3d5a40;margin-bottom:20px">Qui sommes-nous</div>
+        <h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(44px,6vw,92px);line-height:.92;letter-spacing:-.02em">Des oasis de verdure, <em style="color:#3d5a40">dedans comme dehors.</em></h2>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:24px;font-size:18px;line-height:1.6;text-wrap:pretty;color:#2a3a30">
+        <p style="margin:0"><strong>Flora Concept</strong> est une entreprise <strong>paysagiste</strong> de référence, implantée dans le sud de la France, avec des bureaux à <strong>Marseille et Nice</strong>. Fondée par une équipe d’experts passionnés, nous mettons à profit <strong>plus de 20 ans d’expérience</strong> dans le domaine de l’aménagement paysager pour offrir à nos clients des créations d’espaces verts qui allient esthétique, fonctionnalité et <strong>respect de l’environnement.</strong></p>
+        <p style="margin:0">Notre mission est <strong>de transformer vos espaces intérieurs et extérieurs</strong> en véritables oasis de verdure, en harmonie avec leur environnement et vos besoins spécifiques. Que vous soyez une entreprise à la recherche d’un aménagement paysager professionnel ou un particulier souhaitant sublimer son jardin, <strong>Flora Concept est votre partenaire de confiance.</strong></p>
+      </div>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,200px),1fr));max-width:1360px;margin:clamp(64px,8vw,120px) auto 0;border-top:1px solid #12201a">
+      <sc-for list="{{ stats }}" as="s" hint-placeholder-count="5">
+        <div style="padding:28px 24px 8px 0;border-right:1px solid rgba(18,32,26,.15);display:flex;flex-direction:column;gap:14px">
+          <div style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#3d5a40">{{ s.label }}</div>
+          <div style="font-family:'Instrument Serif',serif;font-size:clamp(48px,5vw,76px);line-height:.9;letter-spacing:-.02em">{{ s.big }}</div>
+          <div style="font-size:15px;color:#2a3a30">{{ s.text }}</div>
+        </div>
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="padding:clamp(72px,10vw,140px) clamp(20px,4vw,56px)">
+    <div style="max-width:1360px;margin:0 auto">
+      <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:24px;margin-bottom:48px">
+        <h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(44px,6vw,92px);line-height:.92;letter-spacing:-.02em">Nos <em style="color:#d6e26b">savoir-faire</em></h2>
+        <span style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:rgba(241,236,225,.6)">Trois métiers</span>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,320px),1fr));gap:20px">
+        <sc-for list="{{ services }}" as="v" hint-placeholder-count="3">
+          <div onClick="{{ v.go }}" style="cursor:pointer;position:relative;aspect-ratio:3/4;overflow:hidden;border-radius:4px" style-hover="transform:translateY(-6px)">
+            <img src="{{ v.img }}" alt="{{ v.title }}" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">
+            <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(18,32,26,0) 35%,rgba(18,32,26,.92) 100%)"></div>
+            <div style="position:absolute;left:0;right:0;bottom:0;padding:28px;display:flex;flex-direction:column;gap:12px">
+              <span style="font-size:12px;letter-spacing:.22em;color:#d6e26b">{{ v.num }}</span>
+              <h3 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:40px;line-height:1">{{ v.title }}</h3>
+              <p style="margin:0;font-size:15px;line-height:1.5;color:rgba(241,236,225,.82)">{{ v.text }}</p>
+              <span style="font-size:13px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:#d6e26b;margin-top:6px">Découvrir →</span>
+            </div>
+          </div>
+        </sc-for>
+      </div>
+    </div>
+  </section>
+
+  <section style="padding:0 clamp(20px,4vw,56px) clamp(72px,10vw,140px)">
+    <div style="max-width:1360px;margin:0 auto">
+      <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:24px;margin-bottom:40px;border-top:1px solid rgba(241,236,225,.15);padding-top:40px">
+        <h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(40px,5vw,72px);line-height:.95;letter-spacing:-.02em">Votre paysagiste</h2>
+        <a href="https://www.instagram.com/flora_concept_france/" target="_blank" style="font-size:13px;font-weight:600;letter-spacing:.1em;text-transform:uppercase">Voir nos réalisations →</a>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,260px),1fr));grid-auto-rows:260px;grid-auto-flow:dense;gap:12px">
+        <sc-for list="{{ gallery }}" as="g" hint-placeholder-count="12">
+          <div style="overflow:hidden;border-radius:3px;grid-row:{{ g.rows }};grid-column:{{ g.cols }}">
+            <img src="{{ g.src }}" alt="paysagiste entreprises flora" style="width:100%;height:100%;object-fit:cover;display:block;transition:transform .8s cubic-bezier(.2,.7,.2,1)" style-hover="transform:scale(1.06)">
+          </div>
+        </sc-for>
+      </div>
+    </div>
+  </section>
+
+  <section style="background:#1b2e24;padding:clamp(72px,10vw,140px) clamp(20px,4vw,56px)">
+    <div style="max-width:1360px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,360px),1fr));gap:clamp(32px,6vw,96px)">
+      <div>
+        <div style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#d6e26b;margin-bottom:20px">Nos partenaires</div>
+        <h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(40px,5vw,72px);line-height:.95;letter-spacing:-.02em">Pour un avenir <em style="color:#d6e26b">plus vert.</em></h2>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:20px;font-size:17px;line-height:1.65;color:rgba(241,236,225,.85);text-wrap:pretty">
+        <p style="margin:0">Nous travaillons étroitement avec des partenaires engagés d<strong style="color:#f1ece1">ans la protection de la biodiversité</strong> et <strong style="color:#f1ece1">la préservation des écosystèmes.</strong> En soutenant activement des initiatives <strong style="color:#f1ece1">en faveur de la faune</strong>, notamment <strong style="color:#f1ece1">des abeilles, des animaux sauvages</strong> et <strong style="color:#f1ece1">des écosystèmes locaux</strong>, nous œuvrons ensemble pour un avenir plus <strong style="color:#f1ece1">vert.</strong></p>
+        <p style="margin:0">Grâce à ces partenariats, nous contribuons à la création d’un environnement <strong style="color:#f1ece1">plus sain,</strong> <strong style="color:#f1ece1">durable</strong> et <strong style="color:#f1ece1">respectueux de la nature</strong>, tout en renforçant notre engagement envers <strong style="color:#f1ece1">la protection de la planète</strong> et <strong style="color:#f1ece1">la sauvegarde des espèces menacées.</strong></p>
+      </div>
+    </div>
+    <div style="max-width:1360px;margin:56px auto 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,160px),1fr));gap:12px">
+      <sc-for list="{{ partners }}" as="p" hint-placeholder-count="5">
+        <a href="{{ p.href }}" target="_blank" style="background:#f1ece1;border-radius:3px;aspect-ratio:3/2;display:flex;align-items:center;justify-content:center;padding:18px" style-hover="background:#ffffff">
+          <img src="{{ p.src }}" alt="partenaire flora" style="max-width:100%;max-height:100%;object-fit:contain;mix-blend-mode:multiply">
+        </a>
+      </sc-for>
+    </div>
+  </section>
+
+  <section style="background:#f1ece1;color:#12201a;padding:clamp(72px,10vw,140px) clamp(20px,4vw,56px)">
+    <div style="max-width:1360px;margin:0 auto">
+      <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:24px;margin-bottom:48px">
+        <h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(44px,6vw,92px);line-height:.92;letter-spacing:-.02em">Nos <em style="color:#3d5a40">conseils</em></h2>
+        <span style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#3d5a40">Journal</span>
+      </div>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,300px),1fr));gap:clamp(20px,3vw,40px)">
+        <sc-for list="{{ articles }}" as="a" hint-placeholder-count="3">
+          <a href="{{ a.href }}" target="_blank" style="color:#12201a;display:flex;flex-direction:column;gap:18px" style-hover="color:#3d5a40">
+            <div style="aspect-ratio:1/1;overflow:hidden;border-radius:3px"><img src="{{ a.img }}" alt="{{ a.title }}" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+            <h3 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:32px;line-height:1.05;text-wrap:pretty">{{ a.title }}</h3>
+            <p style="margin:0;font-size:16px;line-height:1.55;color:#2a3a30">{{ a.excerpt }}</p>
+            <span style="font-size:13px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:#3d5a40">Lire plus →</span>
+          </a>
+        </sc-for>
+      </div>
+    </div>
+  </section>
+</sc-if>
+
+<sc-if value="{{ isEV }}" hint-placeholder-val="{{ false }}">
+  <section data-screen-label="Espaces verts" style="padding:clamp(120px,14vw,180px) clamp(20px,4vw,56px) clamp(56px,8vw,100px)">
+    <div style="max-width:1360px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr));gap:clamp(32px,5vw,80px);align-items:end">
+      <div>
+        <div style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#d6e26b;margin-bottom:24px">01 — Espaces verts</div>
+        <h1 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(56px,8.5vw,140px);line-height:.88;letter-spacing:-.03em">Entretien des <em style="color:#d6e26b">espaces verts</em></h1>
+        <p style="margin:32px 0 0;font-size:20px;line-height:1.5;color:rgba(241,236,225,.82);max-width:560px;text-wrap:pretty">Pour un entretien optimal, faites confiance à nos services professionnels, alliant expertise et respect de l'environnement.</p>
+      </div>
+      <div style="aspect-ratio:4/5;overflow:hidden;border-radius:4px"><img src="https://www.floraconcept.com/wp-content/uploads/2024/10/taille-de-vegetaux.jpg" alt="entretien espace vert" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+    </div>
+    <div style="max-width:1360px;margin:clamp(56px,8vw,100px) auto 0;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,280px),1fr));border-top:1px solid rgba(241,236,225,.2)">
+      <sc-for list="{{ evList }}" as="b" hint-placeholder-count="4">
+        <div style="padding:28px 28px 28px 0;display:flex;flex-direction:column;gap:12px;border-right:1px solid rgba(241,236,225,.1)">
+          <span style="font-size:12px;letter-spacing:.22em;color:#d6e26b">{{ b.num }}</span>
+          <h3 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:28px;line-height:1.05">{{ b.title }}</h3>
+          <p style="margin:0;font-size:15px;line-height:1.55;color:rgba(241,236,225,.75)">{{ b.text }}</p>
+        </div>
+      </sc-for>
+    </div>
+  </section>
+  <section style="background:#f1ece1;color:#12201a;padding:clamp(72px,10vw,140px) clamp(20px,4vw,56px)">
+    <div style="max-width:1360px;margin:0 auto;display:flex;flex-direction:column;gap:clamp(72px,10vw,140px)">
+      <sc-for list="{{ evBlocks }}" as="s" hint-placeholder-count="5">
+        <div style="display:flex;flex-wrap:wrap;flex-direction:{{ s.dir }};gap:clamp(32px,6vw,96px);align-items:center">
+          <div style="flex:1 1 380px;aspect-ratio:5/4;overflow:hidden;border-radius:4px"><img src="{{ s.img }}" alt="{{ s.title }}" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+          <div style="flex:1 1 380px;display:flex;flex-direction:column;gap:20px">
+            <div style="display:flex;gap:14px;font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#3d5a40"><span>{{ s.num }}</span><span>Entretien espaces verts</span></div>
+            <h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(40px,4.6vw,68px);line-height:.95;letter-spacing:-.02em">{{ s.title }}</h2>
+            <p style="margin:0;font-size:15px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:#3d5a40">{{ s.sub }}</p>
+            <p style="margin:0;font-size:18px;line-height:1.65;color:#2a3a30;text-wrap:pretty">{{ s.text }}</p>
+          </div>
+        </div>
+      </sc-for>
+    </div>
+  </section>
+  <section style="padding:clamp(72px,10vw,120px) clamp(20px,4vw,56px)">
+    <div style="max-width:1360px;margin:0 auto;display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:32px">
+      <div style="max-width:820px"><div style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#d6e26b;margin-bottom:20px">L'équipe Flora Concept</div><h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(36px,4.4vw,64px);line-height:1;letter-spacing:-.02em">Pour toute demande de conseil, de devis ou pour discuter de votre projet</h2></div>
+      <span onClick="{{ goContact }}" style="cursor:pointer;font-size:14px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;background:#d6e26b;color:#12201a;padding:18px 30px;border-radius:999px" style-hover="background:#f1ece1">Contactez-nous →</span>
+    </div>
+  </section>
+</sc-if>
+
+<sc-if value="{{ isPI }}" hint-placeholder-val="{{ false }}">
+  <section data-screen-label="Paysagisme d'intérieur" style="padding:clamp(120px,14vw,180px) clamp(20px,4vw,56px) clamp(56px,8vw,100px)">
+    <div style="max-width:1360px;margin:0 auto">
+      <div style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#d6e26b;margin-bottom:24px">02 — Paysagisme d'intérieur</div>
+      <h1 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(56px,10vw,170px);line-height:.86;letter-spacing:-.035em">Paysagisme <em style="color:#d6e26b">d'intérieur</em></h1>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,380px),1fr));gap:clamp(32px,5vw,80px);margin-top:clamp(40px,6vw,80px);align-items:start">
+        <div style="aspect-ratio:4/3;overflow:hidden;border-radius:4px"><img src="https://www.floraconcept.com/wp-content/uploads/2024/08/2.jpg" alt="plante d'intérieur paysagisme" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+        <div style="display:flex;flex-direction:column;gap:22px;font-size:17px;line-height:1.65;color:rgba(241,236,225,.82);text-wrap:pretty">
+          <p style="margin:0;font-family:'Instrument Serif',serif;font-size:clamp(26px,2.6vw,36px);line-height:1.15;color:#f1ece1">Boostez la croissance végétale au sein de vos locaux avec Flora Concept, votre expert en paysagisme d'intérieur.</p>
+          <p style="margin:0">Nous intégrons les bienfaits des plantes d’intérieur dans les environnements professionnels pour créer des espaces positifs et stimulants pour vos collaborateurs et vos clients.</p>
+          <p style="margin:0">Chez <strong style="color:#f1ece1">Flora Concept,</strong> nous croyons que l’ajout de plantes d’intérieur dans vos espaces de travail va bien au-delà de la simple décoration. Ces plantes jouent un rôle crucial dans l’amélioration du bien-être des individus et la qualité de vie au travail. En tant que spécialistes des ambiances végétales, nous vous proposons des concepts personnalisés, une sélection de plantes et des atmosphères sur mesure pour répondre à vos besoins spécifiques.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section style="background:#f1ece1;color:#12201a;padding:clamp(72px,10vw,140px) clamp(20px,4vw,56px)">
+    <div style="max-width:1360px;margin:0 auto;display:flex;flex-direction:column;gap:clamp(72px,10vw,140px)">
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,380px),1fr));gap:clamp(32px,6vw,96px)">
+        <div>
+          <div style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#3d5a40;margin-bottom:20px">Paysagisme d'intérieur</div>
+          <h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(48px,6vw,96px);line-height:.9;letter-spacing:-.02em">Plantes <em style="color:#3d5a40">d'intérieur</em></h2>
+        </div>
+        <div style="display:flex;flex-direction:column;gap:20px;font-size:18px;line-height:1.65;color:#2a3a30;text-wrap:pretty">
+          <p style="margin:0;font-weight:600;color:#12201a">Transformez vos espaces de travail avec une touche de verdure grâce à l’expertise de Flora Concept en paysagisme d’intérieur.</p>
+          <p style="margin:0">Nous intégrons les bienfaits des plantes dans les entreprises pour créer des environnements favorables à la productivité et au bien-être de vos équipes.</p>
+          <p style="margin:0">Chez <strong>Flora Concept</strong>, nous savons que l’ajout de plantes d’intérieur dépasse le simple aspect décoratif. Ces plantes améliorent la qualité de l’air et instaurent une ambiance apaisante, apportant ainsi une bouffée d’air frais à votre espace.</p>
+        </div>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:40px">
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,380px),1fr));gap:clamp(32px,6vw,96px)">
+          <div>
+            <div style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#3d5a40;margin-bottom:20px">Paysagisme d'intérieur</div>
+            <h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(48px,6vw,96px);line-height:.9;letter-spacing:-.02em">Cadres <em style="color:#3d5a40">végétaux</em></h2>
+          </div>
+          <div style="display:flex;flex-direction:column;gap:20px;font-size:18px;line-height:1.65;color:#2a3a30;text-wrap:pretty">
+            <p style="margin:0;font-weight:600;color:#12201a">Découvrez les cadres végétaux stabilisés de Flora Concept, où l’élégance de la nature s’allie à la commodité moderne.</p>
+            <p style="margin:0">Nous sommes fiers de vous proposer une alternative durable et sans entretien pour introduire la nature dans vos espaces de vie ou de travail. Explorez notre collection et laissez-vous charmer par la beauté intemporelle de nos cadres végétaux stabilisés</p>
+          </div>
+        </div>
+        <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:12px">
+          <div style="aspect-ratio:3/4;overflow:hidden;border-radius:3px"><img src="https://www.floraconcept.com/wp-content/uploads/2024/08/vegetaux-mur.jpg" alt="paysagisme d'intérieur" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+          <div style="aspect-ratio:3/4;overflow:hidden;border-radius:3px"><img src="https://www.floraconcept.com/wp-content/uploads/2024/08/cadre.jpg" alt="paysagisme" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+          <div style="aspect-ratio:3/4;overflow:hidden;border-radius:3px"><img src="https://www.floraconcept.com/wp-content/uploads/2024/08/cadre-vegetal.jpg" alt="paysagisme d'intérieur" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section style="padding:clamp(72px,10vw,140px) clamp(20px,4vw,56px)">
+    <div style="max-width:1360px;margin:0 auto">
+      <h2 style="margin:0 0 48px;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(40px,5vw,76px);line-height:.95;letter-spacing:-.02em;max-width:900px">Pourquoi choisir les cadres végétaux de <em style="color:#d6e26b">Flora Concept</em></h2>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:1px;background:rgba(241,236,225,.15);border:1px solid rgba(241,236,225,.15)">
+        <sc-for list="{{ why }}" as="w" hint-placeholder-count="4">
+          <div style="background:#12201a;padding:32px 28px 40px;display:flex;flex-direction:column;gap:16px">
+            <span style="font-family:'Instrument Serif',serif;font-style:italic;font-size:48px;line-height:1;color:#d6e26b">{{ w.num }}</span>
+            <h3 style="margin:0;font-size:14px;font-weight:600;letter-spacing:.18em">{{ w.title }}</h3>
+            <p style="margin:0;font-size:16px;line-height:1.6;color:rgba(241,236,225,.78)">{{ w.text }}</p>
+          </div>
+        </sc-for>
+      </div>
+      <div style="display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:32px;margin-top:clamp(72px,10vw,120px)">
+        <div style="max-width:820px"><div style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#d6e26b;margin-bottom:20px">L'équipe Flora Concept</div><h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(36px,4.4vw,64px);line-height:1;letter-spacing:-.02em">Pour toute demande de conseil, de devis ou pour discuter de votre projet</h2></div>
+        <span onClick="{{ goContact }}" style="cursor:pointer;font-size:14px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;background:#d6e26b;color:#12201a;padding:18px 30px;border-radius:999px" style-hover="background:#f1ece1">Contactez-nous →</span>
+      </div>
+    </div>
+  </section>
+</sc-if>
+
+<sc-if value="{{ isEVT }}" hint-placeholder-val="{{ false }}">
+  <section data-screen-label="Événementiel" style="position:relative;min-height:92vh;display:flex;align-items:flex-end;overflow:hidden">
+    <img src="https://www.floraconcept.com/wp-content/uploads/2024/08/sapin-de-noel.jpg" alt="sapin" style="position:absolute;inset:0;width:100%;height:100%;object-fit:cover">
+    <div style="position:absolute;inset:0;background:linear-gradient(180deg,rgba(18,32,26,.3) 0%,rgba(18,32,26,.95) 100%)"></div>
+    <div style="position:relative;max-width:1360px;width:100%;margin:0 auto;padding:0 clamp(20px,4vw,56px) clamp(48px,6vw,80px)">
+      <div style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#d6e26b;margin-bottom:24px">03 — Événementiel</div>
+      <h1 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(64px,11vw,190px);line-height:.85;letter-spacing:-.035em">Event et <em style="color:#d6e26b">décorations</em></h1>
+      <p style="margin:32px 0 0;font-size:20px;line-height:1.5;max-width:640px;text-wrap:pretty">Faites briller vos espaces pendant la saison des fêtes avec Flora Concept grâce à nos sapins de Noël et décorations festives.</p>
+    </div>
+  </section>
+  <section style="padding:clamp(72px,10vw,120px) clamp(20px,4vw,56px)">
+    <div style="max-width:1360px;margin:0 auto;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,380px),1fr));gap:clamp(32px,6vw,96px);font-size:18px;line-height:1.65;color:rgba(241,236,225,.82);text-wrap:pretty">
+      <p style="margin:0;font-family:'Instrument Serif',serif;font-size:clamp(26px,2.6vw,38px);line-height:1.15;color:#f1ece1">Que vous souhaitiez créer une atmosphère chaleureuse dans votre bureau ou embellir votre espace commercial, nous avons tout ce qu’il vous faut pour célébrer Noël avec style.</p>
+      <div style="display:flex;flex-direction:column;gap:20px">
+        <p style="margin:0"><strong style="color:#f1ece1">En plus de nos décorations de Noël, Flora Concept vous propose une vaste sélection de fleurs pour toutes les occasions.</strong> Que ce soit pour des événements professionnels, des anniversaires, des réceptions ou simplement pour embellir votre espace de travail, nous avons ce qu’il vous faut pour chaque situation.</p>
+        <p style="margin:0">Pour des fêtes de fin d’année inoubliables et des événements réussis tout au long de l’année, <strong style="color:#f1ece1">Flora Concept</strong> est là pour vous accompagner.</p>
+      </div>
+    </div>
+  </section>
+  <section style="background:#f1ece1;color:#12201a;padding:clamp(72px,10vw,140px) clamp(20px,4vw,56px)">
+    <div style="max-width:1360px;margin:0 auto;display:flex;flex-direction:column;gap:clamp(72px,10vw,140px)">
+      <div style="display:flex;flex-wrap:wrap;gap:clamp(32px,6vw,96px);align-items:center">
+        <div style="flex:1 1 380px;aspect-ratio:5/4;overflow:hidden;border-radius:4px"><img src="https://www.floraconcept.com/wp-content/uploads/2024/08/sapin-de-noel.jpg" alt="sapin" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+        <div style="flex:1 1 380px;display:flex;flex-direction:column;gap:20px;font-size:18px;line-height:1.65;color:#2a3a30;text-wrap:pretty">
+          <div style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#3d5a40">Event &amp; décorations</div>
+          <h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(44px,5vw,80px);line-height:.92;letter-spacing:-.02em;color:#12201a">Sapins de <em style="color:#3d5a40">Noël</em></h2>
+          <p style="margin:0">Transformez <strong>votre environnement</strong> en un paysage hivernal féérique. Apportez la <strong>magie de Noël</strong> avec <strong>nos sapins</strong> fraîchement coupés ou nos modèles artificiels de haute qualité. Créez ainsi <strong>une ambiance festive</strong> et élégante qui sublimera <strong>vos espaces</strong> et <strong>captiver vos visiteurs</strong>.</p>
+          <p style="margin:0">Émerveillez vos clients et collaborateurs tout au long de la saison des fêtes avec des décorations exceptionnelles et un cadre enchanteur.</p>
+        </div>
+      </div>
+      <div style="display:flex;flex-wrap:wrap;flex-direction:row-reverse;gap:clamp(32px,6vw,96px);align-items:center">
+        <div style="flex:1 1 380px;aspect-ratio:5/4;overflow:hidden;border-radius:4px"><img src="https://www.floraconcept.com/wp-content/uploads/2024/08/bouquet-de-fleur.jpg" alt="bouquets fleurs" style="width:100%;height:100%;object-fit:cover;display:block"></div>
+        <div style="flex:1 1 380px;display:flex;flex-direction:column;gap:20px;font-size:18px;line-height:1.65;color:#2a3a30;text-wrap:pretty">
+          <div style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#3d5a40">Event &amp; décorations</div>
+          <h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(44px,5vw,80px);line-height:.92;letter-spacing:-.02em;color:#12201a">Bouquets de <em style="color:#3d5a40">fleurs</em></h2>
+          <p style="margin:0">Que ce soit pour des événements spéciaux, des bureaux ou des espaces commerciaux, nos <strong>arrangements floraux</strong> apportent une touche de beauté et d’élégance. En effet, chaque composition est conçue pour enrichir votre environnement avec une allure raffinée et une touche de nature.</p>
+          <p style="margin:0">Ainsi, nos créations s’adaptent parfaitement à vos besoins esthétiques et à votre style unique.</p>
+          <a href="https://www.instagram.com/flora_concept_france/" target="_blank" style="font-size:13px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:#3d5a40" style-hover="color:#12201a">Voir nos réalisations →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section style="padding:clamp(72px,10vw,120px) clamp(20px,4vw,56px)">
+    <div style="max-width:1360px;margin:0 auto;display:flex;flex-wrap:wrap;justify-content:space-between;align-items:flex-end;gap:32px">
+      <div style="max-width:880px"><div style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#d6e26b;margin-bottom:20px">L'équipe Flora Concept</div><h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(36px,4.4vw,64px);line-height:1;letter-spacing:-.02em">Pour apporter la magie de Noël et la beauté des fleurs dans votre entreprise, contactez-nous dès aujourd’hui.</h2></div>
+      <span onClick="{{ goContact }}" style="cursor:pointer;font-size:14px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;background:#d6e26b;color:#12201a;padding:18px 30px;border-radius:999px" style-hover="background:#f1ece1">Contactez-nous →</span>
+    </div>
+  </section>
+</sc-if>
+
+<sc-if value="{{ isContact }}" hint-placeholder-val="{{ false }}">
+  <section data-screen-label="Contact" style="padding:clamp(120px,14vw,180px) clamp(20px,4vw,56px) clamp(72px,10vw,120px)">
+    <div style="max-width:1360px;margin:0 auto">
+      <div style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:#d6e26b;margin-bottom:24px">Contact</div>
+      <h1 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(56px,9vw,150px);line-height:.86;letter-spacing:-.035em">Coordonnées <em style="color:#d6e26b">Flora Concept</em></h1>
+      <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,420px),1fr));gap:clamp(32px,5vw,80px);margin-top:clamp(48px,7vw,96px)">
+        <div style="display:flex;flex-direction:column;gap:32px">
+          <div style="display:flex;flex-direction:column;border-top:1px solid rgba(241,236,225,.2)">
+            <div style="display:flex;justify-content:space-between;gap:16px;padding:20px 0;border-bottom:1px solid rgba(241,236,225,.2)"><span style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:rgba(241,236,225,.6)">Adresse</span><span style="font-size:18px;text-align:right">1118 Rte. d'Aubagne, 13420 Gémenos</span></div>
+            <div style="display:flex;justify-content:space-between;gap:16px;padding:20px 0;border-bottom:1px solid rgba(241,236,225,.2)"><span style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:rgba(241,236,225,.6)">Téléphone</span><a href="tel:+33413121380" style="font-family:'Instrument Serif',serif;font-size:32px;line-height:1">04 13 12 13 80</a></div>
+            <div style="display:flex;justify-content:space-between;gap:16px;padding:20px 0;border-bottom:1px solid rgba(241,236,225,.2)"><span style="font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:rgba(241,236,225,.6)">E-mail</span><a href="mailto:floraconcept@gmail.com" style="font-size:18px">floraconcept@gmail.com</a></div>
+          </div>
+          <div style="aspect-ratio:4/3;border-radius:4px;overflow:hidden;filter:grayscale(.6) contrast(1.05)">
+            <iframe src="https://maps.google.com/maps?q=1118%20Rte.%20d%27Aubagne%2C%2013420%20G%C3%A9menos&amp;t=m&amp;z=14&amp;output=embed&amp;iwloc=near" title="1118 Rte. d'Aubagne, 13420 Gémenos" style="width:100%;height:100%;border:0;display:block" loading="lazy"></iframe>
+          </div>
+        </div>
+        <div style="background:#f1ece1;color:#12201a;border-radius:4px;padding:clamp(28px,4vw,48px)">
+          <h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(36px,3.6vw,52px);line-height:1;letter-spacing:-.02em">Formulaire de contact</h2>
+          <p style="margin:12px 0 32px;font-size:16px;color:#2a3a30">Veuillez remplir et nous envoyer le formulaire ci-dessous.</p>
+          <sc-if value="{{ sent }}" hint-placeholder-val="{{ false }}">
+            <div style="padding:40px 0;font-family:'Instrument Serif',serif;font-size:36px;line-height:1.1;color:#3d5a40">Merci, votre demande a bien été envoyée.</div>
+          </sc-if>
+          <sc-if value="{{ notSent }}" hint-placeholder-val="{{ true }}">
+            <form onSubmit="{{ submitForm }}" style="display:flex;flex-direction:column;gap:22px">
+              <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,180px),1fr));gap:16px">
+                <label style="display:flex;flex-direction:column;gap:8px;font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#3d5a40">Prénom<input required style="font-size:17px;padding:10px 0;border:0;border-bottom:1px solid #12201a;background:transparent;color:#12201a;outline:none"></label>
+                <label style="display:flex;flex-direction:column;gap:8px;font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#3d5a40">Nom *<input required style="font-size:17px;padding:10px 0;border:0;border-bottom:1px solid #12201a;background:transparent;color:#12201a;outline:none"></label>
+              </div>
+              <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,180px),1fr));gap:16px">
+                <label style="display:flex;flex-direction:column;gap:8px;font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#3d5a40">Tél *<input type="tel" required style="font-size:17px;padding:10px 0;border:0;border-bottom:1px solid #12201a;background:transparent;color:#12201a;outline:none"></label>
+                <label style="display:flex;flex-direction:column;gap:8px;font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#3d5a40">E-mail *<input type="email" required style="font-size:17px;padding:10px 0;border:0;border-bottom:1px solid #12201a;background:transparent;color:#12201a;outline:none"></label>
+              </div>
+              <div style="display:flex;flex-direction:column;gap:12px">
+                <span style="font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#3d5a40">Votre demande concerne *</span>
+                <div style="display:flex;flex-wrap:wrap;gap:8px">
+                  <sc-for list="{{ topics }}" as="t" hint-placeholder-count="4">
+                    <span onClick="{{ t.pick }}" style="cursor:pointer;font-size:14px;padding:10px 16px;border-radius:999px;border:1px solid #12201a;background:{{ t.bg }};color:{{ t.fg }}">{{ t.label }}</span>
+                  </sc-for>
+                </div>
+              </div>
+              <label style="display:flex;flex-direction:column;gap:8px;font-size:12px;letter-spacing:.16em;text-transform:uppercase;color:#3d5a40">Veuillez apporter des précisions à votre demande *<textarea required rows="4" style="font-size:17px;padding:10px 0;border:0;border-bottom:1px solid #12201a;background:transparent;color:#12201a;outline:none;resize:vertical"></textarea></label>
+              <button type="submit" style="align-self:flex-start;cursor:pointer;font-size:14px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;background:#12201a;color:#f1ece1;border:0;padding:18px 30px;border-radius:999px" style-hover="background:#3d5a40">Envoyer →</button>
+            </form>
+          </sc-if>
+        </div>
+      </div>
+      <div style="display:flex;flex-wrap:wrap;gap:12px;margin-top:48px">
+        <span onClick="{{ goEV }}" style="cursor:pointer;font-size:13px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;border:1px solid #f1ece1;padding:14px 22px;border-radius:999px" style-hover="background:#f1ece1;color:#12201a">Voir nos services</span>
+        <a href="https://www.instagram.com/flora_concept_france/" target="_blank" style="font-size:13px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;border:1px solid #d6e26b;padding:14px 22px;border-radius:999px">Voir nos réalisations</a>
+      </div>
+    </div>
+  </section>
+</sc-if>
+
+<footer style="background:#0b140f;padding:clamp(64px,8vw,110px) clamp(20px,4vw,56px) 32px">
+  <div style="max-width:1360px;margin:0 auto">
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,380px),1fr));gap:40px;align-items:end;padding-bottom:clamp(48px,6vw,80px);border-bottom:1px solid rgba(241,236,225,.12)">
+      <h2 style="margin:0;font-family:'Instrument Serif',serif;font-weight:400;font-size:clamp(40px,5vw,72px);line-height:.95;letter-spacing:-.02em">Inscrivez-vous à la <em style="color:#d6e26b">Newsletter</em></h2>
+      <sc-if value="{{ subscribed }}" hint-placeholder-val="{{ false }}">
+        <p style="margin:0;font-size:18px;color:#d6e26b">Merci, vous êtes inscrit·e.</p>
+      </sc-if>
+      <sc-if value="{{ notSubscribed }}" hint-placeholder-val="{{ true }}">
+        <form onSubmit="{{ subscribe }}" style="display:flex;gap:12px;border-bottom:1px solid #f1ece1;padding-bottom:10px">
+          <input type="email" required placeholder="Email *" style="flex:1;min-width:0;font-size:18px;background:transparent;border:0;color:#f1ece1;outline:none;padding:10px 0">
+          <button type="submit" style="cursor:pointer;font-size:13px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;background:transparent;color:#d6e26b;border:0" style-hover="color:#f1ece1">Envoyer →</button>
+        </form>
+      </sc-if>
+    </div>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,200px),1fr));gap:40px;padding:48px 0">
+      <div style="display:flex;flex-direction:column;gap:14px">
+        <span style="font-size:12px;letter-spacing:.22em;color:rgba(241,236,225,.55)">MENU</span>
+        <span onClick="{{ goEV }}" style="cursor:pointer;font-size:16px" style-hover="color:#d6e26b">Espaces verts</span>
+        <span onClick="{{ goPI }}" style="cursor:pointer;font-size:16px" style-hover="color:#d6e26b">Paysagismes d’intérieur</span>
+        <span onClick="{{ goEVT }}" style="cursor:pointer;font-size:16px" style-hover="color:#d6e26b">Événementiel</span>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:14px">
+        <span style="font-size:12px;letter-spacing:.22em;color:rgba(241,236,225,.55)">OÙ NOUS RETROUVER</span>
+        <div><div style="font-family:'Instrument Serif',serif;font-size:26px">Marseille</div><div style="font-size:15px;color:rgba(241,236,225,.75)">1118 Rte. d'Aubagne, 13420 Gémenos</div></div>
+        <div><div style="font-family:'Instrument Serif',serif;font-size:26px">Nice</div><div style="font-size:15px;color:rgba(241,236,225,.75)">27 Boulevard de l'Ariane, 06300 Nice</div></div>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:14px">
+        <span style="font-size:12px;letter-spacing:.22em;color:rgba(241,236,225,.55)">NOUS SUIVRE</span>
+        <a href="https://www.facebook.com/FloraConceptFR" target="_blank" style="font-size:16px;color:#f1ece1" style-hover="color:#d6e26b">Facebook ↗</a>
+        <a href="https://www.instagram.com/flora_concept_france/" target="_blank" style="font-size:16px;color:#f1ece1" style-hover="color:#d6e26b">Instagram ↗</a>
+        <a href="https://www.linkedin.com/company/flora-concept" target="_blank" style="font-size:16px;color:#f1ece1" style-hover="color:#d6e26b">LinkedIn ↗</a>
+      </div>
+      <div style="display:flex;flex-direction:column;gap:14px">
+        <span style="font-size:12px;letter-spacing:.22em;color:rgba(241,236,225,.55)">MENTION LÉGALES</span>
+        <a href="https://www.floraconcept.com/conditions-generales/" target="_blank" style="font-size:16px;color:#f1ece1" style-hover="color:#d6e26b">Conditions générales</a>
+        <a href="https://www.floraconcept.com/politique-de-confidentialite/" target="_blank" style="font-size:16px;color:#f1ece1" style-hover="color:#d6e26b">Politique de confidentialité</a>
+      </div>
+    </div>
+    <div style="font-family:'Instrument Serif',serif;font-size:clamp(72px,19vw,300px);line-height:.8;letter-spacing:-.04em;color:#1b2e24;white-space:nowrap;overflow:hidden">Flora <em>concept</em></div>
+  </div>
+</footer>
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{&quot;startPage&quot;:{&quot;editor&quot;:&quot;enum&quot;,&quot;options&quot;:[&quot;home&quot;,&quot;ev&quot;,&quot;pi&quot;,&quot;evt&quot;,&quot;contact&quot;],&quot;default&quot;:&quot;home&quot;,&quot;tsType&quot;:&quot;string&quot;}}">
+class Component extends DCLogic {
+  state = { page: null, sent: false, subscribed: false, topic: 0 };
+  go(p) { return () => { this.setState({ page: p }); window.scrollTo(0, 0); }; }
+  renderVals() {
+    const U = 'https://www.floraconcept.com/wp-content/uploads/';
+    const page = this.state.page || this.props.startPage || 'home';
+    const navDefs = [['ev', 'Espaces verts'], ['pi', 'Paysagisme d’intérieur'], ['evt', 'Événementiel'], ['contact', 'Contact']];
+    const nav = navDefs.map(([k, label]) => ({ label, go: this.go(k), color: page === k ? '#f1ece1' : 'rgba(241,236,225,.72)', line: page === k ? '#d6e26b' : 'transparent' }));
+    const g = ['Cactus', 'amenagement-exterieur-2', 'amenagement-exterieur', 'plante-grasse', 'entretien-flora', 'mur-en-pierre', 'Cadre-stabilise', 'carrelage-bejmat', 'clostra', 'espace-vert-conception', 'luminaire-exterieur-2', 'luminaire-exterieur-3'];
+    const spans = { 0: ['span 2', 'span 2'], 5: ['span 2', 'span 1'], 7: ['span 1', 'span 2'], 9: ['span 2', 'span 1'] };
+    const gallery = g.map((n, i) => ({ src: U + '2024/07/' + n + '.jpg', rows: (spans[i] || ['span 1'])[0], cols: (spans[i] || [0, 'span 1'])[1] || 'span 1' }));
+    const topicLabels = ["Création et/ou Aménagement d' un Espace Vert", "Création et/ou Aménagement d'un Espace Intérieur", 'Location de Plantes', 'Event & décoration'];
+    return {
+      nav, isHome: page === 'home', isEV: page === 'ev', isPI: page === 'pi', isEVT: page === 'evt', isContact: page === 'contact',
+      goHome: this.go('home'), goEV: this.go('ev'), goPI: this.go('pi'), goEVT: this.go('evt'), goContact: this.go('contact'),
+      stats: [
+        { label: 'Expertises', big: '25+', text: "+ de 25 ans d'expériences" },
+        { label: 'Collaborations', big: '25', text: '25 collaborateurs passionnés' },
+        { label: 'Confiance', big: '1 800+', text: '+ de 1 800 clients nous font confiance' },
+        { label: 'Suivis', big: '15 000', text: '15 000 visites par an' },
+        { label: 'Agences', big: '2', text: 'Marseille, Nice' }
+      ],
+      services: [
+        { num: '01', title: 'Espaces verts', text: "Pour un entretien optimal, faites confiance à nos services professionnels, alliant expertise et respect de l'environnement.", img: U + '2024/10/taille-de-vegetaux.jpg', go: this.go('ev') },
+        { num: '02', title: 'Paysagisme d’intérieur', text: "Boostez la croissance végétale au sein de vos locaux avec Flora Concept, votre expert en paysagisme d'intérieur.", img: U + '2024/08/2.jpg', go: this.go('pi') },
+        { num: '03', title: 'Événementiel', text: 'Faites briller vos espaces pendant la saison des fêtes avec Flora Concept grâce à nos sapins de Noël et décorations festives.', img: U + '2024/08/bouquet-de-fleur.jpg', go: this.go('evt') }
+      ],
+      gallery,
+      partners: [
+        { src: U + '2024/09/Logo_eco_5.jpg', href: 'https://cooperationplanet.org/' },
+        { src: U + '2024/09/Logo_eco_4.jpg', href: 'https://www.lpo.fr/' },
+        { src: U + '2024/09/Logo_eco_3.jpg', href: '#' },
+        { src: U + '2024/09/Logo_eco_2.jpg', href: 'https://fne.asso.fr/' },
+        { src: U + '2024/09/Logo_eco_1.jpg', href: 'https://seashepherd.fr/' }
+      ],
+      articles: [
+        { title: 'Plantes vertes au bureau', excerpt: 'Plante verte au bureau : un incontournable pour les entreprises...', img: U + '2024/07/articleplante-verte-300x300.jpg', href: 'https://www.floraconcept.com/plante-verte-au-bureau-bienfaits-solutions-entreprise/' },
+        { title: 'L’alocasia, la plante d’intérieur idéale au bureau', excerpt: 'La nature s’installe partout, jusqu’au bureau. C’est un fait, s’entourer...', img: U + '2024/07/article-alocasia-300x300.jpg', href: 'https://www.floraconcept.com/la-plante-alocasia-bienfaits-bureaux/' },
+        { title: 'Gestion de l’eau : un enjeu crucial pour l’environnement', excerpt: 'Gestion de l’eau : un enjeu crucial pour l’environnement Systèmes...', img: U + '2024/09/impact-environnemental-300x300.jpg', href: 'https://www.floraconcept.com/economiser-eau-espaces-verts-solutions-ecologiques/' }
+      ],
+      evList: [
+        { num: '01', title: 'Tonte de gazon et Taille de haies', text: 'Nos experts assurent la tonte régulière du gazon et la taille précise des haies.' },
+        { num: '02', title: 'Nettoyage des allées et Débroussaillage', text: 'Gardez vos allées propres et sûres avec notre service de débroussaillage et de nettoyage.' },
+        { num: '03', title: 'Ramassage des feuilles et Traitement écologique des plantes', text: 'Nous privilégions des méthodes respectueuses de l’environnement pour le soin de vos plantes.' },
+        { num: '04', title: 'Élagage', text: 'Nos spécialistes effectuent un élagage professionnel et réglementaire, adapté à vos arbres et à votre terrain.' }
+      ],
+      evBlocks: [
+        { title: 'Taille et entretien de végétaux', sub: 'Taille, entretien, d’arbre & de végétaux', text: 'Que vous souhaitiez donner une nouvelle vie à vos plantes avec une taille esthétique et élégante, ou que vous ayez besoin d’un entretien régulier pour favoriser la croissance de vos arbustes, notre équipe de professionnels est à votre service. Faites confiance à notre expertise pour embellir votre espace extérieur tout en préservant l’équilibre de votre espace vert.', img: U + '2024/10/taille-de-vegetaux.jpg' },
+        { title: 'Arrosage automatique', sub: 'Installation et maintenance', text: 'Facilitez l’arrosage de vos espaces verts avec un système d’arrosage automatique, programmable selon vos besoins. Nous nous occupons de l’installation et de la maintenance, vous assurant un jardin toujours verdoyant sans effort.', img: U + '2024/08/arrosage-automatique.jpg' },
+        { title: 'Maçonnerie Paysagère', sub: 'Bordures, murets, pavés et terrasses', text: 'Ajoutez une touche d’élégance et de structure à votre jardin avec nos services de maçonnerie paysagère, incluant la création de bordures, de murets, et de terrasses.', img: U + '2024/08/amenagement.jpg' },
+        { title: 'Terrassement et Aménagement Extérieur', sub: 'Travaux de terrassement', text: 'Nous réalisons des travaux de déblais et remblais, apport de terre végétale et de sable, pour préparer votre terrain à tout type d’aménagement paysager.', img: U + '2024/08/terrassement.jpg' },
+        { title: 'Éclairage Solaire', sub: 'Solutions écologiques et esthétiques', text: 'Illuminez vos espaces extérieurs avec nos éclairages solaires, alliant esthétisme et respect de l’environnement. Choisissez parmi une gamme de styles pour créer une ambiance magique, jour et nuit.', img: U + '2024/08/6.jpg' }
+      ].map((b, i) => ({ ...b, num: '0' + (i + 1), dir: i % 2 ? 'row-reverse' : 'row' })),
+      why: [
+        { num: 'i.', title: 'AUTHENTICITÉ', text: "Chaque cadre est une pièce unique. Confectionné avec des plantes naturelles et des matériaux durables, il confère une touche d'authenticité à votre environnement." },
+        { num: 'ii.', title: 'BIEN-ÊTRE', text: 'Les cadres végétaux apportent une note de verdure à votre espace, améliorant ainsi votre bien-être physique et mental en y intégrant une connexion avec la nature.' },
+        { num: 'iii.', title: "FACILITÉ D'ENTRETIEN", text: 'Nos cadres sont conçus pour être faciles à entretenir. Ils nécessitent peu de soins tout en garantissant une longue durée de vie à vos plantes.' },
+        { num: 'iv.', title: 'PERSONNALISATION', text: 'Nous proposons une large gamme de tailles, de formes et de styles. Notre objectif est de répondre à vos besoins et à vos préférences esthétiques.' }
+      ],
+      topics: topicLabels.map((label, i) => ({ label, pick: () => this.setState({ topic: i }), bg: this.state.topic === i ? '#12201a' : 'transparent', fg: this.state.topic === i ? '#f1ece1' : '#12201a' })),
+      sent: this.state.sent, notSent: !this.state.sent,
+      submitForm: e => { e.preventDefault(); this.setState({ sent: true }); },
+      subscribed: this.state.subscribed, notSubscribed: !this.state.subscribed,
+      subscribe: e => { e.preventDefault(); this.setState({ subscribed: true }); }
+    };
+  }
+}
+</script>
+</body>
+</html>

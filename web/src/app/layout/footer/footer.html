@@ -1,0 +1,48 @@
+@let st = s();
+@let c = cols();
+<footer class="ft">
+  <div class="ft__inner">
+    <div class="ft__grid">
+      <div class="ft__brand">
+        <span class="logo"><img [ngSrc]="st.logo.src" width="64" height="64" [alt]="st.logo.alt" /></span>
+        <p class="ft__entity">{{ st.entitySentence }}</p>
+        <ul class="ft__social">
+          @for (so of st.socials; track so.href) {
+            <li><a [href]="so.href" target="_blank" rel="noopener noreferrer">{{ so.label }}</a></li>
+          }
+        </ul>
+      </div>
+      <ng-container *ngTemplateOutlet="col; context: { $implicit: c.services }" />
+      <div class="ft__stack">
+        <ng-container *ngTemplateOutlet="col; context: { $implicit: c.outdoor }" />
+        <ng-container *ngTemplateOutlet="col; context: { $implicit: c.cities }" />
+      </div>
+      <ng-container *ngTemplateOutlet="col; context: { $implicit: c.company }" />
+    </div>
+
+    <div class="ft__bottom">
+      <p class="ft__nap" translate="no">
+        {{ st.siteName }} · {{ st.address.locality }} ({{ st.address.postalCode?.slice(0, 2) }})
+        · <a [href]="'tel:' + st.phones.default.e164" data-zone="marseille">{{ st.phones.default.display }}</a>
+      </p>
+      <p>{{ st.footer.regionsLine }}</p>
+      <ul class="ft__legal">
+        @for (l of st.footer.legal; track l.href) { <li><a [routerLink]="l.href">{{ l.label }}</a></li> }
+        <li><button type="button" class="ft__consent" data-action="manage-cookies">Gestion des cookies</button></li>
+      </ul>
+    </div>
+
+    <!-- Decorative wordmark drawn with CSS content: not text, so no contrast requirement. -->
+    <div class="ft__word" aria-hidden="true"><span data-w="Flora"></span> <em data-w="concept"></em></div>
+  </div>
+  <fc-branch class="ft__art" />
+</footer>
+
+<ng-template #col let-col>
+  <nav class="ft__col" [attr.aria-label]="col.title">
+    <p class="ft__title">{{ col.title }}</p>
+    <ul>
+      @for (l of col.links; track l.href) { <li><a [routerLink]="l.href">{{ l.label }}</a></li> }
+    </ul>
+  </nav>
+</ng-template>

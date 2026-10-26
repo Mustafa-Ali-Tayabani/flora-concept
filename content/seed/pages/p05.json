@@ -1,0 +1,718 @@
+{
+  "_id": "page-p05",
+  "slug": "/mur-vegetal-interieur/",
+  "template": "service",
+  "name": "Murs végétaux",
+  "parent": {
+    "slug": "/paysagisme-interieur/",
+    "name": "Paysagisme d'intérieur"
+  },
+  "seo": {
+    "title": "Mur végétal intérieur pour entreprise : naturel ou stabilisé",
+    "description": "Murs végétaux intérieurs sur mesure pour bureaux, hôtels et commerces : naturels ou stabilisés sans entretien. Conception et pose. Paris, Nice, Marseille."
+  },
+  "h1": "Mur végétal intérieur sur mesure pour votre entreprise",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "7edab1f00ca6",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "367ac64a16d1",
+          "text": "Un mur végétal intérieur transforme un hall d'accueil, un open space ou une salle de restaurant en signature visuelle de votre entreprise. Flora Concept conçoit, fabrique et pose des murs végétaux sur mesure en deux familles : le mur végétal naturel, vivant, irrigué et entretenu par nos jardiniers, et le mur végétal stabilisé, composé de végétaux naturels préservés qui ne demandent ni arrosage, ni lumière, ni entretien courant. Paysagiste d'intérieur pour les entreprises depuis 1999, nous réalisons ces projets depuis notre base du sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France, de l'étude technique (support, irrigation, luminosité) à la pose, puis au suivi. Le choix entre naturel et stabilisé dépend de votre lumière, de l'accès à l'eau et du budget d'entretien : nos paysagistes vous guident après une visite sur place. Demandez un devis gratuit pour votre projet, avec ou sans intégration de votre logo.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "conception et pose de murs végétaux intérieurs",
+    "areaServed": [
+      "France",
+      "Île-de-France",
+      "Provence-Alpes-Côte d'Azur"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "f0a4acfc86df",
+      "title": "Naturel ou stabilisé : lequel choisir ?",
+      "_type": "sectionTable",
+      "intro": [],
+      "head": [
+        "Critère",
+        "Mur végétal naturel",
+        "Mur végétal stabilisé"
+      ],
+      "rows": [
+        {
+          "_key": "b70706fdb002",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "9d323717c1d5",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "6b0f4d999089",
+                    "text": "Végétaux",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "85f1002bf139",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "3717862a00f8",
+                    "text": "Vivants, en croissance",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "3a085d1bc5fa",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "05580caed314",
+                    "text": "Naturels, préservés (ni plastique, ni artificiel)",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "_key": "a02b857f2eff",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "dd500e1c0fa5",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "cc8cd1ceed58",
+                    "text": "Lumière",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "4b2e392816d9",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "eb65e208b715",
+                    "text": "Nécessaire (naturelle ou horticole)",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "787d41d9c35c",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "e26973e6ee8a",
+                    "text": "Aucune exigence",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "_key": "cd0613ba91fb",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "79816ecb0a75",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "bbcbb1e84426",
+                    "text": "Irrigation",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "72c1975b93f0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "9a3d6127374a",
+                    "text": "Système intégré, arrivée d'eau requise",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "3e0f83cc5127",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "ae5ffa6599c8",
+                    "text": "Aucune",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "_key": "ed2efc1c0534",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "cd6d91089c7e",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "af53d4aa0b91",
+                    "text": "Entretien",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "97b31c942dea",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "a93c16832314",
+                    "text": "Contrat d'entretien par nos jardiniers",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "f6b9b6ccd044",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "6e21fce62b88",
+                    "text": "Dépoussiérage ponctuel",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "_key": "81c69212880f",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "154a31bf7fa8",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "f44a286f486d",
+                    "text": "Emplacement",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "7fdec83a2662",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "a84c9aa070f9",
+                    "text": "Halls lumineux, atriums",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "81110df80ca4",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "5f6955d227a3",
+                    "text": "Zones sans lumière, couloirs, ascenseurs, salles de réunion",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "_key": "cb4dd52770e2",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "4551b2d552b0",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "914127d1002e",
+                    "text": "Durée de vie",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "076e5a3a3203",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "4296abf737c7",
+                    "text": "Pérenne avec entretien",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "a609bb8ab05a",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "5547f6312291",
+                    "text": "Plusieurs années sans intervention ",
+                    "marks": []
+                  },
+                  {
+                    "_type": "pending",
+                    "_key": "8d396f904775",
+                    "note": "durée constatée"
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ],
+      "note": [
+        {
+          "_type": "block",
+          "_key": "4728a26498a7",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "ef2afd226e33",
+              "href": "/entretien-plantes-entreprise/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "c28097ad29ab",
+              "text": "En pratique : si l'emplacement manque de lumière ou d'arrivée d'eau, le stabilisé s'impose et son rendu reste naturel. Si vous voulez un mur vivant et évolutif en zone lumineuse, le naturel est incomparable, avec un ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "43814346e214",
+              "text": "contrat d'entretien",
+              "marks": [
+                "ef2afd226e33"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "fffb8e85796e",
+              "text": " adapté.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "photos": [
+        {
+          "src": "/img/mur-vegetal",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        },
+        {
+          "src": "/img/cadre-stabilise",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      ]
+    },
+    {
+      "_key": "9c882d5c6a1a",
+      "title": "Votre logo en végétal",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "8da4dabfaeb4",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "01ec40215edd",
+              "href": "/cadres-vegetaux-plantes-stabilisees/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "0588f5901448",
+              "text": "Nous intégrons votre logo dans un mur ou un cadre stabilisé : lettrage découpé, jeu de mousses et de feuillages, contraste de textures. C'est l'un des aménagements les plus demandés pour les accueils et les espaces visiteurs. Voir aussi les ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "6c41101fe24a",
+              "text": "cadres végétaux stabilisés",
+              "marks": [
+                "01ec40215edd"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "3e6bf6c89ba8",
+              "text": " pour les formats tableau.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/plante-grasse",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "c415505dca69",
+      "title": "Comment se déroule un projet",
+      "_type": "sectionSteps",
+      "layout": "horizontal",
+      "intro": [],
+      "steps": [
+        {
+          "_key": "25a5e3012854",
+          "lead": "Visite technique",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "35139ef894b2",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "640bacfb48ae",
+                  "text": "mesures, lumière, support, arrivée d'eau éventuelle, contraintes du bâtiment.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "41f448afc826",
+          "lead": "Conception",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "cfd179966063",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "1b04f217730b",
+                  "text": "composition végétale, calepinage, visuel du projet, devis détaillé.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "3341b16b2e02",
+          "lead": "Fabrication et pose",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "efbc0848b836",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "89a1c105a472",
+                  "text": "réalisation en atelier pour le stabilisé, installation sur site par nos équipes. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "0026476a20bf",
+                  "note": "délai type de fabrication et pose"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "8ada660e06b7",
+          "lead": "Suivi",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "90af7edbfd8a",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "1a1162ec85b1",
+                  "text": "entretien contractuel pour le naturel, visite de contrôle pour le stabilisé.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "d20016547f48",
+      "title": "Réalisations",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "86970064ea53",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "abf749051d8b",
+          "question": "Quel est le prix d'un mur végétal intérieur ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "a1773d62a609",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "2a5ac580e608",
+                  "text": "Le budget dépend de la surface, de la technique (naturel irrigué ou stabilisé), de la complexité du support et de l'intégration éventuelle d'un logo. Chaque projet étant sur mesure, nous établissons un devis gratuit après une visite technique de l'emplacement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "b6e7a22c25e9",
+          "question": "Un mur végétal stabilisé est-il un mur artificiel ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "15a17abee2bf",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "8d6f9131366d",
+                  "text": "Non. Les végétaux stabilisés sont des plantes naturelles dont la sève a été remplacée par un conservateur d'origine végétale : ils gardent leur souplesse et leur aspect d'origine sans arrosage ni lumière. Rien à voir avec le plastique des murs artificiels.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "56e43ae4ca93",
+          "question": "Peut-on installer un mur végétal dans une pièce sans fenêtre ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "b00168585f7b",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "a0d04378f379",
+                  "text": "Oui, avec la technique stabilisée : elle n'a besoin ni de lumière ni d'eau, ce qui la rend idéale pour les couloirs, salles de réunion et espaces aveugles. Un mur naturel reste possible avec un éclairage horticole dédié, étudié lors de la visite technique.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "f09093216275",
+          "question": "L'entretien d'un mur végétal naturel est-il contraignant ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "5e06d22c8893",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "9aaa0b523023",
+                  "text": "Pas pour vous : l'irrigation est automatisée et nos jardiniers assurent les passages d'entretien (taille, remplacements, contrôle du système) dans le cadre d'un contrat. Vous profitez du mur, nous nous occupons du reste.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/mur-vegetal",
+    "alt": "Murs végétaux",
+    "width": 500,
+    "height": 500
+  },
+  "answerImage": {
+    "src": "/img/alocasia",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/paysagisme-interieur/",
+      "name": "Paysagisme d'intérieur"
+    },
+    "items": [
+      {
+        "_key": "97705a95fdc2",
+        "title": "Location de plantes",
+        "href": "/location-plantes-bureau/",
+        "image": {
+          "src": "/img/plante-grasse",
+          "alt": "",
+          "width": 1200,
+          "height": 800
+        }
+      },
+      {
+        "_key": "3554dce55f34",
+        "title": "Entretien de plantes",
+        "href": "/entretien-plantes-entreprise/",
+        "image": {
+          "src": "/img/entretien-plantes",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "6d93f2a0e5f0",
+        "title": "Cadres végétaux stabilisés",
+        "href": "/cadres-vegetaux-plantes-stabilisees/",
+        "image": {
+          "src": "/img/cadre-vegetal",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

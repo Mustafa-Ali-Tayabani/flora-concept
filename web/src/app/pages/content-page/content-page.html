@@ -1,0 +1,57 @@
+@let p = page();
+@switch (p.template) {
+  @case ('home') {
+    <fc-home-hero [page]="p" />
+    <fc-seasonal-banner />
+    <fc-marquee [words]="settings().marquee" />
+  }
+  @case ('notFound') {
+    <section class="nf" aria-labelledby="page-title">
+      <div class="wrap">
+        <div class="nf__inner">
+          <span class="nf__code" aria-hidden="true">404</span>
+          <h1 class="h1" id="page-title"><fc-accent [text]="p.h1" /></h1>
+          <div class="prose"><fc-rich-text [value]="p.answer" /></div>
+          <fc-cta-buttons />
+        </div>
+      </div>
+    </section>
+  }
+  @default {
+    <fc-page-hero [page]="p" />
+  }
+}
+
+@if (faqJump().length) {
+  <nav class="wrap jump" aria-label="Sur cette page">
+    @for (j of faqJump(); track j.id) {
+      <a [routerLink]="[]" [fragment]="j.id">{{ j.title }}</a>
+    }
+  </nav>
+}
+
+<fc-page-sections [page]="p" />
+
+@if (p.template === 'blog') {
+  @defer (on immediate; hydrate never) {
+    <fc-blog-list />
+  }
+}
+
+@if (p.related; as rel) {
+  @defer (on immediate; hydrate never) {
+    <section class="related" aria-labelledby="related-title">
+      <div class="wrap">
+        <div class="related__head">
+          <h2 class="h2" id="related-title">Voir <em class="accent">aussi</em></h2>
+          <a class="btn btn--outline btn--sm" [routerLink]="rel.hub.slug">{{ rel.hub.name }} <fc-leaf /></a>
+        </div>
+        <fc-card-grid [cards]="rel.items" [min]="280" />
+      </div>
+    </section>
+  }
+}
+
+@if (finalCta()) {
+  <fc-final-cta [line]="p.finalCta || 'Votre devis gratuit en une minute'" />
+}

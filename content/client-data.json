@@ -1,0 +1,119 @@
+{
+  "_about": "Values for {{A_FOURNIR}} placeholders, applied by scripts/import-markdown.mjs without touching the delivered Markdown. Each entry replaces an exact substring of one content file and records its source. Only verifiable facts belong here: never invent client data.",
+  "replacements": [
+    {
+      "file": "90-mentions-legales.md",
+      "find": "{{A_FOURNIR : forme juridique (SARL, SAS…)}}",
+      "replace": "société à responsabilité limitée (SARL)",
+      "source": "Répertoire Sirene (INSEE), nature juridique 5499, via recherche-entreprises.api.gouv.fr, consulté le 24/10/2026"
+    },
+    {
+      "file": "90-mentions-legales.md",
+      "find": "{{A_FOURNIR : capital social}}",
+      "replace": "46 000",
+      "source": "Capital social publié (societe.com, données RNE/INPI), consulté le 24/10/2026. À contrôler sur un extrait K-bis récent."
+    },
+    {
+      "file": "90-mentions-legales.md",
+      "find": "{{A_FOURNIR : ville du RCS}}",
+      "replace": "Marseille",
+      "source": "Gémenos (13420) relève du greffe du tribunal de commerce de Marseille ; immatriculation RCS du 17/08/1999. À contrôler sur le K-bis."
+    },
+    {
+      "file": "90-mentions-legales.md",
+      "find": "{{A_FOURNIR : adresse complète du siège, Gémenos (13)}}",
+      "replace": "au 1118 route d'Aubagne, 13420 Gémenos",
+      "source": "Siège (SIRET 423 977 305 00030), répertoire Sirene, consulté le 24/10/2026"
+    },
+    {
+      "file": "90-mentions-legales.md",
+      "find": "Numéro de TVA intracommunautaire : {{A_FOURNIR}}",
+      "replace": "Numéro de TVA intracommunautaire : FR27 423 977 305",
+      "source": "Clé calculée depuis le SIREN (12 + 3 × (SIREN mod 97)) mod 97 = 27, identique au numéro publié (societe.com)"
+    },
+    {
+      "file": "90-mentions-legales.md",
+      "find": "Téléphone : {{A_FOURNIR}}",
+      "replace": "Téléphone : 04 13 12 13 80",
+      "source": "Numéro de la maquette validée, confirmé par le client le 24/10/2026 (réglages du site)"
+    },
+    {
+      "file": "90-mentions-legales.md",
+      "find": "Directeur de la publication : {{A_FOURNIR : nom et qualité}}",
+      "replace": "Directeur de la publication : Jean-François Argeme, gérant",
+      "source": "Dirigeant inscrit (gérant), répertoire Sirene ; loi du 29/07/1982 art. 93-2 : le directeur de la publication d'une société est son représentant légal"
+    },
+    {
+      "file": "90-mentions-legales.md",
+      "find": " ({{A_FOURNIR : vérifier l'entité et l'adresse exactes sur le contrat d'hébergement au moment de la mise en ligne}})",
+      "replace": "",
+      "source": "Entité contractante Hostinger pour l'UE : Hostinger International Ltd, 61 Lordou Vironos Street, 6023 Larnaca, Chypre (conditions générales Hostinger). Vérification faite, mention retirée."
+    },
+    {
+      "file": "91-confidentialite.md",
+      "find": "siège à {{A_FOURNIR : adresse}}",
+      "replace": "siège au 1118 route d'Aubagne, 13420 Gémenos",
+      "source": "Siège social, répertoire Sirene"
+    },
+    {
+      "file": "91-confidentialite.md",
+      "find": "{{A_FOURNIR : durée, recommandation 3 ans après le dernier contact}}",
+      "replace": "3 ans à compter du dernier contact",
+      "source": "Durée recommandée dans le fichier de contenu, conforme au référentiel CNIL « gestion commerciale » (prospects : 3 ans après le dernier contact)"
+    },
+    {
+      "file": "91-confidentialite.md",
+      "find": "outil d'envoi d'emails {{A_FOURNIR : préciser}}",
+      "replace": "outil d'envoi d'emails (messagerie de l'hébergeur Hostinger)",
+      "source": "Implémentation : server/api/devis.php envoie les emails via la fonction mail() de l'hébergement Hostinger"
+    },
+    {
+      "file": "91-confidentialite.md",
+      "find": " {{A_FOURNIR : vérifier la localisation des outils retenus avant mise en ligne}}",
+      "replace": "",
+      "source": "Outils retenus : Hostinger (UE), Google Analytics 4 et Microsoft Clarity après consentement (sociétés certifiées Data Privacy Framework UE-États-Unis). Vérification faite, mention retirée."
+    },
+    {
+      "file": "91-confidentialite.md",
+      "find": "{{A_FOURNIR : date à la mise en ligne}}",
+      "replace": "24 octobre 2026",
+      "source": "Date de rédaction de la version intégrée de la politique"
+    },
+    {
+      "file": "92-cookies.md",
+      "find": "{{A_FOURNIR : durée, 6 mois recommandés}}",
+      "replace": "6 mois",
+      "source": "Implémentation : web/src/app/core/consent/consent.service.ts (MAX_AGE_MS = 182 jours), recommandation CNIL"
+    },
+    {
+      "file": "92-cookies.md",
+      "find": "{{A_FOURNIR : durées exactes des cookies GA4}}",
+      "replace": "13 mois maximum (_ga, _ga_*)",
+      "source": "Limite CNIL de 13 mois ; à paramétrer dans la balise GA4 de GTM (cookie_expires = 34128000 s, soit 395 jours), voir README"
+    },
+    {
+      "file": "92-cookies.md",
+      "find": "{{A_FOURNIR : durées exactes}}",
+      "replace": "1 an (_clck), 1 jour (_clsk)",
+      "source": "Documentation Microsoft Clarity, cookies first-party"
+    },
+    {
+      "file": "92-cookies.md",
+      "find": "\n\n{{A_FOURNIR : compléter le tableau avec les durées réelles au moment de l'intégration GTM/GA4/Clarity (Phase 5)}}",
+      "replace": "",
+      "source": "Tableau complété ci-dessus (lignes Consentement, GA4, Clarity)"
+    },
+    {
+      "file": "12-agence-marseille.md",
+      "find": "{{A_FOURNIR : adresse et téléphone}}",
+      "replace": "1118 route d'Aubagne, 13420 Gémenos · 04 13 12 13 80.",
+      "source": "Siège social (répertoire Sirene) et numéro confirmé par le client le 24/10/2026"
+    },
+    {
+      "file": "01-accueil.md",
+      "find": "{{A_FOURNIR : adresse exacte}} · {{A_FOURNIR : téléphone}}",
+      "replace": "1118 route d'Aubagne, 13420 Gémenos · 04 13 12 13 80",
+      "source": "Siège social (répertoire Sirene) et numéro confirmé par le client le 24/10/2026"
+    }
+  ]
+}

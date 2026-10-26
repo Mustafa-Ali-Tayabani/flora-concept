@@ -1,0 +1,478 @@
+{
+  "_id": "page-p02",
+  "slug": "/paysagisme-interieur/",
+  "template": "hub",
+  "name": "Paysagisme d'intérieur",
+  "seo": {
+    "title": "Végétalisation de bureaux : paysagiste d'intérieur B2B",
+    "description": "Végétalisation de bureaux et d'espaces professionnels par un paysagiste d'intérieur : conception, plantes, murs végétaux, entretien. Paris, Nice, Marseille."
+  },
+  "h1": "Végétalisation de bureaux : votre paysagiste d'intérieur",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "1d513c0bcbe3",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b888b29826bb",
+          "text": "Flora Concept conçoit et réalise la végétalisation de bureaux et d'espaces professionnels : choix des plantes selon la lumière et les volumes, bacs et contenants assortis à votre décoration, murs végétaux, cadres stabilisés et entretien régulier par nos jardiniers. Paysagiste d'intérieur dédié aux entreprises depuis 1999, nous intervenons depuis notre base du sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France auprès des bureaux, hôtels, restaurants, résidences et commerces. La formule la plus simple reste la location avec entretien compris : vous choisissez une ambiance, nous installons les végétaux et nous les gardons impeccables passage après passage, remplacement inclus. Pour un projet d'aménagement complet (open space, hall d'accueil, terrasse intérieure), notre équipe étudie vos plans et vous propose un projet sur mesure, du premier croquis à l'entretien. Demandez un devis gratuit : un paysagiste vous répond et se déplace dans vos locaux.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "paysagisme d'intérieur / végétalisation de bureaux",
+    "areaServed": [
+      "Île-de-France",
+      "Provence-Alpes-Côte d'Azur"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "76546f9a641e",
+      "title": "Ce que recouvre le paysagisme d'intérieur",
+      "_type": "sectionCards",
+      "tone": "dark",
+      "intro": [
+        {
+          "_type": "block",
+          "_key": "be461a0cd1fd",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "7d7116e23efe",
+              "text": "Le paysagisme d'intérieur regroupe tout ce qui met du végétal durable dans vos espaces de travail :",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "cards": [
+        {
+          "_key": "1352246e3327",
+          "title": "Plantes en bacs",
+          "href": "/location-plantes-bureau/",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "e62d7f1eb43d",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "3c26dffc8a2e",
+                  "text": "pour l'accueil, les open spaces, les bureaux de direction et les salles de réunion",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "/img/plante-grasse",
+            "alt": "",
+            "width": 1200,
+            "height": 800
+          }
+        },
+        {
+          "_key": "b37f6ddcefad",
+          "title": "Entretien professionnel",
+          "href": "/entretien-plantes-entreprise/",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "2d0c8af807ef",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "16b06bd9b738",
+                  "text": "de vos plantes existantes ou louées",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "/img/entretien-plantes",
+            "alt": "",
+            "width": 500,
+            "height": 500
+          }
+        },
+        {
+          "_key": "4cd66dfabbd9",
+          "title": "Murs végétaux",
+          "href": "/mur-vegetal-interieur/",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "08a35293e09f",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "8ee51caaa2c2",
+                  "text": "naturels ou stabilisés",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "/img/mur-vegetal",
+            "alt": "",
+            "width": 500,
+            "height": 500
+          }
+        },
+        {
+          "_key": "215bb47da8fa",
+          "title": "Cadres et tableaux végétaux stabilisés",
+          "href": "/cadres-vegetaux-plantes-stabilisees/",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "6fb84aed32fa",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "8e63fd3e7779",
+                  "text": ", y compris avec votre logo",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "/img/cadre-vegetal",
+            "alt": "",
+            "width": 500,
+            "height": 500
+          }
+        },
+        {
+          "_key": "812ed4562d32",
+          "title": "Cloisons végétales et plantes d'open space",
+          "href": null,
+          "text": [
+            {
+              "_type": "block",
+              "_key": "9a79be611e02",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "31bd9b9f5f7b",
+                  "text": "pour structurer les espaces sans travaux",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "310b86e0b62b",
+          "title": "Fleurs et décors saisonniers",
+          "href": "/abonnement-fleurs-entreprise/",
+          "links": [
+            {
+              "_key": "dbc0f0048544",
+              "label": "Abonnement fleurs",
+              "href": "/abonnement-fleurs-entreprise/"
+            },
+            {
+              "_key": "c8306ae139ac",
+              "label": "Fleurs et sapins de Noël",
+              "href": "/fleurs-sapins-noel/"
+            }
+          ],
+          "image": {
+            "src": "/img/bouquet-fleurs",
+            "alt": "",
+            "width": 500,
+            "height": 500
+          }
+        }
+      ],
+      "outro": []
+    },
+    {
+      "_key": "934385f53d1b",
+      "title": "Pourquoi végétaliser vos bureaux",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "e114c448f4ab",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "78a8efcbaaa1",
+              "text": "Un espace de travail végétalisé est plus agréable à vivre et plus accueillant pour vos visiteurs. Les plantes structurent les volumes, absorbent une partie du bruit ambiant et donnent une image soignée de votre entreprise, en cohérence avec vos engagements de qualité de vie au travail et de RSE. Pour les services généraux et les office managers, la location avec entretien supprime la charge mentale : plus de plantes jaunies ni d'arrosoirs qui traînent, nos jardiniers s'occupent de tout.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "524e05dc7723",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "pending",
+              "_key": "7224f997fc14",
+              "note": "1 cas client chiffré avec accord écrit (entreprise, surface, nombre de plantes, prestation)"
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/plante-grasse",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "17503a6b2326",
+      "title": "Notre méthode",
+      "_type": "sectionSteps",
+      "layout": "horizontal",
+      "intro": [],
+      "steps": [
+        {
+          "_key": "a1422e6a1686",
+          "lead": "Audit de vos espaces",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "6216f8a75fd5",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "5e796e48332a",
+                  "text": "lumière naturelle, climatisation, circulation, style de votre aménagement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "601ca99d55f0",
+          "lead": "Conception",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "ecb7937db58e",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "e993215bfdaa",
+                  "text": "sélection des végétaux et des contenants, implantation sur plan, ambiances par zone.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "efa6e44dfa01",
+          "lead": "Installation",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "d0e2dbb0bac1",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "683e725c03a8",
+                  "text": "livraison et mise en place par nos équipes, en dehors de vos heures de pointe si besoin.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "12f0de3dc76e",
+          "lead": "Entretien",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "775bc5c30e27",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "a2e33d344f27",
+                  "text": "passages réguliers, arrosage, taille, nutrition et remplacement des sujets fatigués.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "8bd7954c40c1",
+      "title": "Pour qui",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "40bd00156308",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "05a8ea5382b9",
+              "text": "Bureaux et sièges sociaux, hôtels et restaurants, résidences services et syndics, cliniques et établissements de santé, commerces et showrooms, espaces de coworking. Chaque lieu a ses contraintes (lumière, passage, normes) : nos paysagistes adaptent les espèces et les contenants en conséquence.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/entretien-plantes",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "f38cfe2e2fac",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "0ca9277f91e4",
+          "question": "Quelle est la différence entre un paysagiste d'intérieur et un fleuriste ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "008451a05e1e",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "114d4eefde1d",
+                  "text": "Le paysagiste d'intérieur conçoit des aménagements végétaux durables (plantes en bacs, murs végétaux) et en assure l'entretien dans la durée, alors que le fleuriste compose des bouquets et décors éphémères. Flora Concept propose les deux volets pour les entreprises, avec des contrats d'entretien réguliers.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "b4182bff4b3c",
+          "question": "Faut-il beaucoup de lumière pour végétaliser des bureaux ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "2a7541babb57",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "8b7471f4ae0b",
+                  "text": "Non. Beaucoup d'espèces utilisées en entreprise tolèrent une lumière indirecte ou modérée : kentia, dracaena, zamioculcas, aglaonema. Pour les zones sans lumière naturelle, les végétaux stabilisés (murs et cadres sans arrosage) offrent un rendu naturel durable. Nos paysagistes choisissent les espèces après une visite de vos locaux.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "e794a80eb109",
+          "question": "Proposez-vous un entretien après l'installation ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "95e815d1541b",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "91dfde1d6e00",
+                  "text": "Oui, c'est le cœur de notre métier. Nos jardiniers passent régulièrement pour arroser, tailler, nettoyer et remplacer les plantes qui faiblissent. La fréquence des passages est définie au devis selon vos espaces. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "d30f79cf7fef",
+                  "note": "fréquence standard des passages"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "40f7c01f4189",
+          "question": "Intervenez-vous en dehors de Paris, Nice et Marseille ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "e1a864f0b77f",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "9e071a3a594a",
+                  "text": "Oui. Nos équipes couvrent la Provence-Alpes-Côte d'Azur (Bouches-du-Rhône, Alpes-Maritimes, Var, Vaucluse) et l'Île-de-France, et nous accompagnons les entreprises multi-sites implantées dans ces deux régions avec un interlocuteur unique. Au-delà, chaque demande est étudiée.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/banner-paysagisme",
+    "alt": "Paysagisme d'intérieur",
+    "width": 1672,
+    "height": 941
+  },
+  "answerImage": {
+    "src": "/img/alocasia",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  }
+}

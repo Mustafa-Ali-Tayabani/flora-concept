@@ -1,0 +1,452 @@
+{
+  "_id": "page-p08",
+  "slug": "/location-plantes-evenementiel/",
+  "template": "service",
+  "name": "Événementiel",
+  "parent": {
+    "slug": "/paysagisme-interieur/",
+    "name": "Paysagisme d'intérieur"
+  },
+  "seo": {
+    "title": "Location de plantes pour événements, salons et séminaires",
+    "description": "Location de plantes pour vos événements : salons, séminaires, soirées d'entreprise, tournages. Livraison, installation et reprise comprises. Devis rapide."
+  },
+  "h1": "Location de plantes pour vos événements professionnels",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "1b0a69d74c5a",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "8f98b68c4d83",
+          "text": "La location de plantes événementiel habille un salon professionnel, un séminaire, une soirée d'entreprise, un lancement de produit ou un tournage en quelques heures : Flora Concept livre les végétaux, les installe selon votre plan, puis les reprend à la fin de l'événement. Palmiers, bambous, oliviers, plantes fleuries, compositions et cloisons végétales : le choix se fait selon votre thème, votre scénographie et la durée. Paysagiste d'intérieur des entreprises depuis 1999, nous assurons ces prestations courtes durées depuis notre base du sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France, notamment pour les salons, congrès et événements de la Côte d'Azur et de la région parisienne. ",
+          "marks": []
+        },
+        {
+          "_type": "pending",
+          "_key": "ee16ee0fa7f2",
+          "note": "zone exacte couverte en événementiel par agence"
+        },
+        {
+          "_type": "span",
+          "_key": "343ae8e26ca0",
+          "text": " Vous recevez un devis rapide avec livraison, installation et reprise comprises : indiquez les dates, le lieu et l'ambiance recherchée, nous nous occupons du reste.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "location de plantes pour événements",
+    "areaServed": [
+      "Île-de-France",
+      "Provence-Alpes-Côte d'Azur"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "014a1aa3f7a2",
+      "title": "Pour quels événements",
+      "_type": "sectionChecklist",
+      "items": [
+        {
+          "_key": "77d67ab1e3d0",
+          "lead": "Salons et congrès",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "456f2361d677",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "c56f5cb661da",
+                  "text": "stands, allées, espaces VIP, zones de repos.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "f1e75747bc4c",
+          "lead": "Séminaires et conventions",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "ccddaf626302",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "93e097e319c2",
+                  "text": "scènes, plateaux, espaces d'accueil.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "d049c44e2fd6",
+          "lead": "Soirées d'entreprise et inaugurations",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "f83a383c0fa8",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "edd6ebda641b",
+                  "text": "ambiances méditerranéennes, tropicales ou graphiques.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "2c9a62c3748f",
+          "lead": "Mariages et réceptions privées",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "300122350a32",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "2f9f705a3830",
+                  "text": "décors végétaux pour lieux de réception. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "7110e0d3f236",
+                  "note": "confirmer si le B2C mariage est accepté"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "3ead28f890ec",
+          "lead": "Tournages et shootings",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "1185401df4fc",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "e408d89ae85c",
+                  "text": "végétaux livrés à l'heure, repris après la prise.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/plante-grasse",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "07a85bd180d3",
+      "title": "Comment ça marche",
+      "_type": "sectionSteps",
+      "layout": "horizontal",
+      "intro": [],
+      "steps": [
+        {
+          "_key": "6d5db0e809f7",
+          "lead": "Brief express",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "ce09b127d48f",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "2d3fbcffe8a4",
+                  "text": "dates, lieu, surfaces, thème, contraintes d'accès. Un devis vous est envoyé rapidement. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "b7f5113f8337",
+                  "note": "délai de réponse à annoncer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "10d293a95915",
+          "lead": "Livraison et installation",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "f5b68d74621a",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "3f1522d02559",
+                  "text": "nos équipes installent les végétaux selon le plan, cache-pots et finitions compris, aux horaires du site.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "b903ea6300ff",
+          "lead": "Reprise",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "0486ffb0d9c8",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "142e9ae35ca0",
+                  "text": "démontage et enlèvement à la fin de l'événement, sans surprise.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "8a279e5c5354",
+      "title": "Quelles plantes peut-on louer ?",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "d5155d043a8e",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "8de23aaaec61",
+              "href": "/location-plantes-bureau/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "0b6a63765cf0",
+              "text": "Grands sujets (palmiers, ficus, oliviers, bambous), plantes mi-hauteur, compositions basses, végétaux fleuris de saison, cloisons et haies mobiles pour structurer les espaces. ",
+              "marks": []
+            },
+            {
+              "_type": "pending",
+              "_key": "91afc4c29170",
+              "note": "confirmer le parc événementiel réellement disponible"
+            },
+            {
+              "_type": "span",
+              "_key": "22ef9733f340",
+              "text": " Pour un décor permanent après l'événement, voir la ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "6632e7ca34bf",
+              "text": "location de plantes pour bureaux",
+              "marks": [
+                "8de23aaaec61"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "00a8a5c3f7ba",
+              "text": ".",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/entretien-plantes",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "22ab0e4326f1",
+      "title": "Réalisations",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "1d7deb7af392",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "945335a6aaa0",
+          "question": "Combien coûte la location de plantes pour un événement ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "9d94ce174298",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "5c64cc5d7cc0",
+                  "text": "Le tarif dépend du nombre et de la taille des végétaux, de la durée, du lieu et des contraintes d'accès (étage, horaires de nuit). Le devis est gratuit et inclut la livraison, l'installation et la reprise : envoyez vos dates et votre plan pour une réponse rapide.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "0313e644f8fd",
+          "question": "Peut-on louer des plantes pour une seule journée ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "ae7329c979b3",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "3a69aa1b60fe",
+                  "text": "Oui. La location événementielle se fait à la journée, au week-end ou à la semaine, selon votre besoin. L'installation et la reprise sont calées sur les horaires de montage et de démontage de votre événement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "be2793cdd2af",
+          "question": "Louez-vous des palmiers et des grands sujets ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "7ec24305aabd",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "4e86d8c0a0eb",
+                  "text": "Oui, les grands sujets (palmiers, oliviers, ficus, bambous) sont les stars de l'événementiel : ils créent le décor en quelques pièces. Nos équipes gèrent la manutention et la stabilité des bacs sur site.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "093f0b067a05",
+          "question": "Installez-vous en dehors des heures ouvrées ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "a8a2b30f8dba",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "3cc5149977a9",
+                  "text": "Oui, les installations de nuit ou tôt le matin sont courantes sur les salons et les soirées : nous nous adaptons aux créneaux de montage imposés par le lieu. Précisez les contraintes d'accès dans votre demande de devis.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/banner-evenementiel",
+    "alt": "Événementiel",
+    "width": 1672,
+    "height": 941
+  },
+  "answerImage": {
+    "src": "/img/alocasia",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/paysagisme-interieur/",
+      "name": "Paysagisme d'intérieur"
+    },
+    "items": [
+      {
+        "_key": "acf10f2c0a9d",
+        "title": "Location de plantes",
+        "href": "/location-plantes-bureau/",
+        "image": {
+          "src": "/img/plante-grasse",
+          "alt": "",
+          "width": 1200,
+          "height": 800
+        }
+      },
+      {
+        "_key": "d06b6c54863a",
+        "title": "Entretien de plantes",
+        "href": "/entretien-plantes-entreprise/",
+        "image": {
+          "src": "/img/entretien-plantes",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "f0483f255e0c",
+        "title": "Murs végétaux",
+        "href": "/mur-vegetal-interieur/",
+        "image": {
+          "src": "/img/mur-vegetal",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

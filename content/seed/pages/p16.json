@@ -1,0 +1,345 @@
+{
+  "_id": "page-p16",
+  "slug": "/qui-sommes-nous/",
+  "template": "about",
+  "name": "Qui sommes-nous",
+  "seo": {
+    "title": "Qui sommes-nous : Flora Concept, paysagiste depuis 1999",
+    "description": "Paysagiste d'intérieur pour les entreprises depuis 1999, basé à Gémenos près de Marseille : notre histoire, notre équipe de jardiniers et notre façon de travailler."
+  },
+  "h1": "Flora Concept : le végétal en entreprise, depuis 1999",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "5b0e281496c1",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "933580962257",
+          "text": "Flora Concept est un spécialiste du paysagisme d'intérieur pour les entreprises depuis 1999 : location et entretien de plantes, murs végétaux et cadres végétaux stabilisés, basé dans le sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France. ",
+          "marks": []
+        },
+        {
+          "_type": "pending",
+          "_key": "b3be0e5932b8",
+          "note": "2 à 3 phrases d'histoire à partir des éléments transmis par le client : parcours depuis la création, ancrage régional, caractère de l'entreprise"
+        },
+        {
+          "_type": "span",
+          "_key": "42220fe138b2",
+          "text": " Plus de vingt-cinq ans plus tard, la même conviction nous guide : des espaces de travail végétalisés font des entreprises plus accueillantes, et ils ne le restent que si des professionnels s'en occupent vraiment. C'est pourquoi nos jardiniers assurent eux-mêmes l'installation et l'entretien de chaque plante que nous confions à nos clients.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "AboutPage"
+  },
+  "sections": [
+    {
+      "_key": "192a0ec9b5d2",
+      "title": "Notre histoire",
+      "_type": "sectionTimeline",
+      "milestones": []
+    },
+    {
+      "_key": "cde51585f2fe",
+      "title": "L'équipe",
+      "_type": "sectionTeam",
+      "members": []
+    },
+    {
+      "_key": "bb3612a0cf3e",
+      "title": "Notre façon de travailler",
+      "_type": "sectionArguments",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "5af8ec20d4b1",
+          "lead": "Des jardiniers salariés",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "4b1a62d54f5d",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "1f37ad2bad2f",
+                  "text": "les personnes qui installent et entretiennent vos plantes font partie de l'équipe. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "89c48c47268e",
+                  "note": "confirmer la formulation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "f03ac2044498",
+          "lead": "Le bon végétal au bon endroit",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "bdf59a109a30",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "ab71032b4641",
+                  "text": "chaque espèce est choisie après une visite, selon la lumière et la vie réelle de vos espaces.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "7d5e6660e54f",
+          "lead": "Le remplacement plutôt que l'excuse",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "aa2dcf3d29d0",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "b3bf2140cfa2",
+                  "text": "une plante qui faiblit est remplacée, c'est dans le contrat.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "636fd04ebe81",
+          "lead": "De Gémenos à vos bureaux",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "8383da94fbc3",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "a4fc566c789c",
+                  "text": "notre base historique (13) ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "5a14ec71168c",
+                  "note": "description du site : serres, atelier"
+                },
+                {
+                  "_type": "span",
+                  "_key": "12b15c8db6c7",
+                  "text": " et des tournées régulières en PACA et en Île-de-France.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/plante-grasse",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "7698330419d7",
+      "title": "Chiffres clés",
+      "_type": "sectionFigures",
+      "figures": []
+    },
+    {
+      "_key": "fbdd85a95ef4",
+      "title": "Nos engagements",
+      "_type": "sectionArguments",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "46a83636b130",
+          "lead": "Transition électrique engagée",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "7dcd5ff96b80",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "acca5b51d171",
+                  "text": "tout notre matériel d'entretien est électrique.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "cb6c53bcb82b",
+          "lead": "Ruches en entreprise",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "388e77e8949d",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "1047b5688143",
+                  "href": "/ruches-entreprise/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "32f9e6523b5b",
+                  "text": "parrainage de ruches proposé aux entreprises de la région PACA, avec notre rucher du Luberon. ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "0514ab183608",
+                  "text": "En savoir plus",
+                  "marks": [
+                    "1047b5688143"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "9486dd600740",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "8abcda2dba9a",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "pending",
+                  "_key": "cfd97391bd48",
+                  "note": "autres engagements réels à valider : pratiques d'entretien raisonnées, recyclage des sapins, fournisseurs locaux… Ne rien inventer : si rien n'est confirmé, masquer la ligne."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/entretien-plantes",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "1368d271ae6a",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "2eab55ee6916",
+          "question": "Depuis quand Flora Concept existe-t-elle ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "fad3ea4094a1",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "639d67af2a68",
+                  "text": "L'entreprise travaille le végétal en entreprise depuis 1999, depuis sa base du sud de la France, près d'Aix-en-Provence. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "e9c535583dbe",
+                  "note": "enrichir avec un fait d'histoire"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "2c82513e25c5",
+          "question": "Qui s'occupe concrètement de nos plantes ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "42405d7bf8a6",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "f22fe10d168f",
+                  "text": "Des jardiniers de l'équipe Flora Concept, présentés sur cette page. Votre site est suivi par un jardinier identifié, qui connaît vos espaces et vos plantes, avec un interlocuteur commercial unique pour le contrat.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "ae7b4b79bbda",
+          "question": "Travaillez-vous avec des sous-traitants ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "f66b7dcd2169",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "pending",
+                  "_key": "4a839f86b122",
+                  "note": "réponse exacte selon l'organisation réelle (équipes propres partout ? partenaires ponctuels ?). Ne pas publier sans confirmation."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/hero-cover",
+    "alt": "Qui sommes-nous",
+    "width": 1453,
+    "height": 1082
+  },
+  "answerImage": {
+    "src": "/img/alocasia",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "finalCta": "Envie de travailler avec nous ?"
+}

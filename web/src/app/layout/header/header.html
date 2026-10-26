@@ -1,0 +1,80 @@
+@let n = nav();
+<header class="hdr">
+  <a class="hdr__logo" routerLink="/" aria-label="Flora Concept, accueil">
+    <span class="logo">
+      <img [ngSrc]="logo().src" width="48" height="48" [alt]="logo().alt" [priority]="true" />
+    </span>
+  </a>
+
+  <nav class="desk" aria-label="Menu principal">
+    <ul class="desk__list">
+      <li><a class="navlink" routerLink="/" routerLinkActive="is-active" [routerLinkActiveOptions]="{ exact: true }" ariaCurrentWhenActive="page">Accueil</a></li>
+      @for (g of n.groups; track g.key) {
+        <li class="dd" (mouseenter)="open.set(g.key)" (mouseleave)="open.set(null)" (focusout)="onFocusOut($event, g.key)">
+          <button type="button" class="navlink" [attr.aria-expanded]="open() === g.key" [attr.aria-controls]="'dd-' + g.key" (click)="toggle(g.key)">
+            {{ g.label }} <fc-chevron />
+          </button>
+          <div class="mega" [id]="'dd-' + g.key" [class.is-open]="open() === g.key">
+            <div class="mega__panel">
+              <div class="mega__main">
+                <div class="mega__head">
+                  <span class="mega__hub">
+                    @if (g.hub) { <a [routerLink]="g.hub.href">{{ g.hub.label }}</a> } @else { {{ g.label }} }
+                  </span>
+                  <span class="mega__cap">{{ g.caption }}</span>
+                </div>
+                <ul class="mega__grid" [class.mega__grid--cities]="g.key === 'villes'">
+                  @for (it of g.items; track it.href) {
+                    <li>
+                      @if (g.key === 'villes') {
+                        <a class="city" [routerLink]="it.href">
+                          <fc-photo class="city__bg" [image]="it.image" alt="" sizes="20vw" />
+                          <span class="city__shade" aria-hidden="true"></span>
+                          <span class="city__name">{{ it.label }}</span>
+                          <span class="city__sub">{{ it.sub }}</span>
+                        </a>
+                      } @else {
+                        <a class="tile" [routerLink]="it.href">
+                          <fc-photo class="tile__img" [image]="it.image" alt="" sizes="10vw" />
+                          <span class="tile__txt"><span class="tile__label">{{ it.label }}</span><span class="tile__sub">{{ it.sub }}</span></span>
+                        </a>
+                      }
+                    </li>
+                  }
+                </ul>
+              </div>
+              <a class="mega__cta" routerLink="/devis/">
+                <span class="mega__cta-eyebrow">Devis gratuit</span>
+                <span class="mega__cta-title"><fc-accent text="Votre devis gratuit en une minute" /></span>
+                <span class="mega__cta-btn">Recevoir mon devis <fc-leaf /></span>
+              </a>
+            </div>
+          </div>
+        </li>
+      }
+      @for (l of n.links; track l.href) {
+        <li><a class="navlink" [routerLink]="l.href" routerLinkActive="is-active" ariaCurrentWhenActive="page">{{ l.label }}</a></li>
+      }
+      <li><a class="btn btn--primary btn--sm hdr__cta" routerLink="/devis/"><fc-leaf />Recevoir mon devis gratuit</a></li>
+    </ul>
+  </nav>
+
+  <button #burger type="button" class="burger" [attr.aria-expanded]="menuOpen()" aria-controls="mobile-menu" (click)="toggleMenu()">Menu</button>
+</header>
+
+<div #panel id="mobile-menu" class="mpanel" [class.is-open]="menuOpen()" role="dialog" aria-modal="true" aria-label="Menu" [attr.inert]="menuOpen() ? null : ''">
+  <button type="button" class="mpanel__close" aria-label="Fermer le menu" (click)="toggleMenu()">✕</button>
+  <a class="btn btn--primary mpanel__cta" routerLink="/devis/"><fc-leaf />Recevoir mon devis gratuit</a>
+  <nav aria-label="Menu mobile" class="mpanel__nav">
+    <a class="big" routerLink="/">Accueil</a>
+    @for (g of n.groups; track g.key) {
+      <div class="mgroup">
+        <span class="big">{{ g.label }}</span>
+        <ul class="chips">
+          @for (it of g.items; track it.href) { <li><a class="chip" [routerLink]="it.href">{{ it.label }}</a></li> }
+        </ul>
+      </div>
+    }
+    @for (l of n.links; track l.href) { <a class="big" [routerLink]="l.href">{{ l.label }}</a> }
+  </nav>
+</div>

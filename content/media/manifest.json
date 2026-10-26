@@ -1,0 +1,94 @@
+{
+  "alocasia": {
+    "width": 500,
+    "height": 500
+  },
+  "amenagement": {
+    "width": 500,
+    "height": 500
+  },
+  "arrosage-automatique": {
+    "width": 500,
+    "height": 500
+  },
+  "banner-contact": {
+    "width": 1672,
+    "height": 941
+  },
+  "banner-espaces-verts": {
+    "width": 1672,
+    "height": 941
+  },
+  "banner-evenementiel": {
+    "width": 1672,
+    "height": 941
+  },
+  "banner-paysagisme": {
+    "width": 1672,
+    "height": 941
+  },
+  "bouquet-fleurs": {
+    "width": 500,
+    "height": 500
+  },
+  "cadre-stabilise": {
+    "width": 500,
+    "height": 500
+  },
+  "cadre-vegetal": {
+    "width": 500,
+    "height": 500
+  },
+  "elagage": {
+    "width": 500,
+    "height": 500
+  },
+  "entretien-exterieur": {
+    "width": 1200,
+    "height": 800
+  },
+  "entretien-plantes": {
+    "width": 500,
+    "height": 500
+  },
+  "equipe-espaces-verts": {
+    "width": 1448,
+    "height": 1086
+  },
+  "flora-logo": {
+    "width": 397,
+    "height": 392
+  },
+  "hero-cover": {
+    "width": 1453,
+    "height": 1082
+  },
+  "hero-equipe": {
+    "width": 1448,
+    "height": 1086
+  },
+  "mur-vegetal": {
+    "width": 500,
+    "height": 500
+  },
+  "nice-hotel": {
+    "width": 500,
+    "height": 500
+  },
+  "paris-bureaux": {
+    "width": 500,
+    "height": 500
+  },
+  "plante-grasse": {
+    "width": 1200,
+    "height": 800
+  },
+  "sapin-de-noel": {
+    "width": 500,
+    "height": 500
+  },
+  "terrasse": {
+    "width": 500,
+    "height": 500
+  }
+}

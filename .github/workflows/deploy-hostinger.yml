@@ -1,0 +1,61 @@
+name: Deploy to Hostinger (manual)
+
+# Alternative hosting (Apache + PHP). Production runs on Vercel: see
+# scheduled-publish.yml and vercel.json. Run this only to deploy to Hostinger.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-production
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    environment: production
+    env:
+      SANITY_PROJECT_ID: ${{ vars.SANITY_PROJECT_ID }}
+      SANITY_DATASET: ${{ vars.SANITY_DATASET || 'production' }}
+      SANITY_READ_TOKEN: ${{ secrets.SANITY_READ_TOKEN }}
+      SITE_URL: ${{ vars.SITE_URL }}
+      GTM_ID: ${{ vars.GTM_ID }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - run: npm ci
+      - run: npm test
+
+      # STRICT_CONTENT=true (repository variable) refuses to build while client
+      # data is missing. Switch it on for go-live.
+      - name: Build
+        run: |
+          if [ "${{ vars.STRICT_CONTENT }}" = "true" ]; then npm run build:strict; else npm run build; fi
+
+      - run: npm run audit:site
+
+      - name: Deploy to Hostinger (rsync over SSH)
+        env:
+          SSH_KEY: ${{ secrets.HOSTINGER_SSH_KEY }}
+          SSH_HOST: ${{ secrets.HOSTINGER_HOST }}
+          SSH_USER: ${{ secrets.HOSTINGER_USER }}
+          SSH_PORT: ${{ secrets.HOSTINGER_PORT || '65002' }}
+          REMOTE_PATH: ${{ secrets.HOSTINGER_PATH }}
+        run: |
+          install -m 700 -d ~/.ssh
+          echo "$SSH_KEY" > ~/.ssh/id_deploy && chmod 600 ~/.ssh/id_deploy
+          ssh-keyscan -p "$SSH_PORT" "$SSH_HOST" >> ~/.ssh/known_hosts
+          rsync -az --delete --exclude='.well-known/' \
+            -e "ssh -i ~/.ssh/id_deploy -p $SSH_PORT" \
+            web/dist/web/browser/ "$SSH_USER@$SSH_HOST:$REMOTE_PATH/"
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: legacy-domain-redirects
+          path: web/dist/redirects/

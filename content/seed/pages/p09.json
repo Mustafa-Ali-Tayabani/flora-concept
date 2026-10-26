@@ -1,0 +1,346 @@
+{
+  "_id": "page-p09",
+  "slug": "/fleurs-sapins-noel/",
+  "template": "service",
+  "name": "Fleurs et sapins de Noël",
+  "parent": {
+    "slug": "/paysagisme-interieur/",
+    "name": "Paysagisme d'intérieur"
+  },
+  "seo": {
+    "title": "Location de sapin de Noël et décoration pour entreprise",
+    "description": "Sapins de Noël naturels livrés, décorés et repris, décoration de Noël sur mesure pour entreprises, hôtels et commerces. Paris, Nice, Marseille. Devis rapide."
+  },
+  "h1": "Sapins et décoration de Noël pour votre entreprise, livrés et repris",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "3219b5be78da",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "b87bed129548",
+          "text": "La location de sapin de Noël pour entreprise supprime toute la logistique de décembre : Flora Concept livre un sapin naturel à la taille de votre hall, le décore selon votre thème, puis le reprend après les fêtes avec l'ensemble du décor. Nous décorons chaque année des accueils d'entreprises, des hôtels, des restaurants et des commerces depuis notre base du sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France : sapins décorés, suspensions, compositions de fêtes, guirlandes et mises en lumière. ",
+          "marks": []
+        },
+        {
+          "_type": "pending",
+          "_key": "9741f79aca77",
+          "note": "confirmer le périmètre exact du service de Noël par agence"
+        },
+        {
+          "_type": "span",
+          "_key": "461742bbd8cc",
+          "text": " Les créneaux de fin d'année partent vite : les installations se font surtout de la mi-novembre au début de décembre, et les demandes reçues avant la fin d'octobre sont prioritaires. Demandez votre devis dès maintenant avec la hauteur souhaitée, le lieu et votre thème : vous recevez une proposition détaillée, reprise de janvier comprise.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "location et décoration de sapins de Noël pour entreprises",
+    "areaServed": [
+      "Île-de-France",
+      "Provence-Alpes-Côte d'Azur"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "916f5b10fee9",
+      "title": "Nos prestations de fin d'année",
+      "_type": "sectionChecklist",
+      "items": [
+        {
+          "_key": "2ef28d314a74",
+          "lead": "Sapin naturel fraîchement coupé (nordmann ou épicéa) ou modèle artificiel réutilisable",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "c8c06cfae2f5",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "cf94db48fb7a",
+                  "text": ", livré et installé : du sapin de comptoir au ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "a4c36ded9dbf",
+                  "text": "grand sapin de 3 mètres et plus pour les halls et atriums",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "f53eac2e4221",
+                  "text": ". ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "53e56691fe7c",
+                  "note": "hauteurs réellement proposées et variétés exactes"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "cfa1150f1787",
+          "lead": "Décoration du sapin",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "859371c78674",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "170377543ef0",
+                  "text": "boules, guirlandes et lumières selon votre thème ou votre charte de couleurs.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "9d6ad3cc125c",
+          "lead": "Décor complet",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "84582c1dbe02",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "2473f01571bf",
+                  "text": "compositions de fêtes, suspensions, végétaux d'hiver, habillage des accueils et vitrines.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "77c8184f671a",
+          "lead": "Reprise en janvier",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "fe2fb474076a",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "904f2cc1c367",
+                  "text": "démontage, enlèvement du sapin et des décors, sans aiguilles abandonnées derrière vous. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "68b7933743e4",
+                  "note": "confirmer le recyclage des sapins"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/plante-grasse",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "e77a763321d6",
+      "title": "Pourquoi réserver tôt",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "664352171132",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "ceab25abfedc",
+              "text": "Les installations de Noël se concentrent sur trois semaines. Réserver avant la fin d'octobre garantit la hauteur de sapin souhaitée et un créneau d'installation compatible avec vos horaires. Les demandes tardives restent possibles selon les disponibilités, mais le choix se réduit vite en décembre.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/entretien-plantes",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "8a1beaee63fe",
+      "title": "Réalisations",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "fc8d9e6e58db",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "4260e7eabc19",
+          "question": "Comment fonctionne la location d'un sapin de Noël pour une entreprise ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "7ee08d3afb3a",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "2bfba6b3b2af",
+                  "text": "Vous choisissez la hauteur et le style, nous livrons le sapin naturel, nous le décorons sur place, puis nous reprenons l'ensemble après les fêtes. Le devis comprend la livraison, l'installation, la décoration et la reprise en janvier.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "f33f7ae89c2c",
+          "question": "Proposez-vous des sapins naturels ou artificiels ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "05a53e3696e2",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "fa1a65120bd4",
+                  "text": "Les deux. Le sapin naturel fraîchement coupé reste le plus demandé pour son parfum et son prestige ; le modèle artificiel convient aux espaces où les aiguilles ou l'entretien posent problème, et se réutilise d'année en année. Nos décorateurs vous conseillent selon votre hall et votre budget.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "0fb914ab018d",
+          "question": "Quand faut-il commander pour être livré avant début décembre ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "e77f8d53c6df",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "7c33876368ec",
+                  "text": "L'idéal est de demander votre devis avant la fin d'octobre : vous sécurisez la hauteur voulue et un créneau d'installation entre la mi-novembre et le début de décembre. Passé ce délai, nous répondons selon les disponibilités restantes.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "7a9ca14dcab2",
+          "question": "Décorez-vous aussi l'ensemble de l'accueil ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "9f682df24566",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "3db2991a3bd1",
+                  "text": "Oui. Au-delà du sapin, nous composons un décor complet : compositions de fêtes, suspensions, guirlandes, habillage du comptoir et des vitrines, en accord avec votre image. Le décor est déposé en janvier en même temps que le sapin.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/sapin-de-noel",
+    "alt": "Fleurs et sapins de Noël",
+    "width": 500,
+    "height": 500
+  },
+  "answerImage": {
+    "src": "/img/alocasia",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/paysagisme-interieur/",
+      "name": "Paysagisme d'intérieur"
+    },
+    "items": [
+      {
+        "_key": "985d6ac20b18",
+        "title": "Location de plantes",
+        "href": "/location-plantes-bureau/",
+        "image": {
+          "src": "/img/plante-grasse",
+          "alt": "",
+          "width": 1200,
+          "height": 800
+        }
+      },
+      {
+        "_key": "9c676e003b89",
+        "title": "Entretien de plantes",
+        "href": "/entretien-plantes-entreprise/",
+        "image": {
+          "src": "/img/entretien-plantes",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "c6eeaa0539ea",
+        "title": "Murs végétaux",
+        "href": "/mur-vegetal-interieur/",
+        "image": {
+          "src": "/img/mur-vegetal",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

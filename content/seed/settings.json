@@ -1,0 +1,414 @@
+{
+  "_id": "siteSettings",
+  "siteUrl": "https://www.floraconcept.fr",
+  "siteName": "Flora Concept",
+  "entitySentence": "Flora Concept est un spécialiste du paysagisme d'intérieur pour les entreprises depuis 1999 : location et entretien de plantes, murs végétaux et cadres végétaux stabilisés, basé dans le sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France.",
+  "legal": {
+    "siren": "423977305",
+    "foundingDate": "1999",
+    "legalName": "Flora Concept"
+  },
+  "address": {
+    "streetAddress": "1118 Rte. d'Aubagne",
+    "postalCode": "13420",
+    "locality": "Gémenos",
+    "region": "Provence-Alpes-Côte d'Azur",
+    "country": "FR"
+  },
+  "phones": {
+    "default": {
+      "display": "04 13 12 13 80",
+      "e164": "+33413121380"
+    }
+  },
+  "areas": [
+    "Provence-Alpes-Côte d'Azur",
+    "Île-de-France"
+  ],
+  "sameAs": [
+    "https://www.linkedin.com/company/flora-concept",
+    "https://www.facebook.com/FloraConceptFR",
+    "https://www.instagram.com/flora_concept_france/"
+  ],
+  "socials": [
+    {
+      "href": "https://www.facebook.com/FloraConceptFR",
+      "label": "Facebook"
+    },
+    {
+      "href": "https://www.instagram.com/flora_concept_france/",
+      "label": "Instagram"
+    },
+    {
+      "href": "https://www.linkedin.com/company/flora-concept",
+      "label": "LinkedIn"
+    }
+  ],
+  "logo": {
+    "src": "/img/flora-logo",
+    "alt": "Flora Concept",
+    "width": 397,
+    "height": 392
+  },
+  "nav": {
+    "groups": [
+      {
+        "key": "services",
+        "label": "Services",
+        "caption": "PACA et Île-de-France",
+        "hub": {
+          "href": "/paysagisme-interieur/",
+          "label": "Paysagisme d'intérieur"
+        },
+        "items": [
+          {
+            "href": "/location-plantes-bureau/",
+            "label": "Location de plantes",
+            "sub": "Location de plantes",
+            "image": {
+              "src": "/img/plante-grasse",
+              "alt": "",
+              "width": 1200,
+              "height": 800
+            }
+          },
+          {
+            "href": "/entretien-plantes-entreprise/",
+            "label": "Entretien",
+            "sub": "Entretien de plantes",
+            "image": {
+              "src": "/img/entretien-plantes",
+              "alt": "",
+              "width": 500,
+              "height": 500
+            }
+          },
+          {
+            "href": "/mur-vegetal-interieur/",
+            "label": "Murs végétaux",
+            "sub": "Murs végétaux",
+            "image": {
+              "src": "/img/mur-vegetal",
+              "alt": "",
+              "width": 500,
+              "height": 500
+            }
+          },
+          {
+            "href": "/cadres-vegetaux-plantes-stabilisees/",
+            "label": "Cadres stabilisés",
+            "sub": "Cadres végétaux stabilisés",
+            "image": {
+              "src": "/img/cadre-vegetal",
+              "alt": "",
+              "width": 500,
+              "height": 500
+            }
+          },
+          {
+            "href": "/abonnement-fleurs-entreprise/",
+            "label": "Fleurs",
+            "sub": "Abonnement fleurs",
+            "image": {
+              "src": "/img/bouquet-fleurs",
+              "alt": "",
+              "width": 500,
+              "height": 500
+            }
+          },
+          {
+            "href": "/location-plantes-evenementiel/",
+            "label": "Événementiel",
+            "sub": "Événementiel",
+            "image": {
+              "src": "/img/banner-evenementiel",
+              "alt": "",
+              "width": 1672,
+              "height": 941
+            }
+          },
+          {
+            "href": "/fleurs-sapins-noel/",
+            "label": "Noël",
+            "sub": "Fleurs et sapins de Noël",
+            "image": {
+              "src": "/img/sapin-de-noel",
+              "alt": "",
+              "width": 500,
+              "height": 500
+            }
+          }
+        ]
+      },
+      {
+        "key": "outdoor",
+        "label": "Extérieur PACA",
+        "caption": "Provence-Alpes-Côte d'Azur uniquement",
+        "hub": {
+          "href": "/espaces-verts-entreprise/",
+          "label": "Espaces verts d'entreprise"
+        },
+        "items": [
+          {
+            "href": "/espaces-verts-entreprise/",
+            "label": "Espaces verts",
+            "sub": "Espaces verts d'entreprise",
+            "image": {
+              "src": "/img/entretien-exterieur",
+              "alt": "",
+              "width": 1200,
+              "height": 800
+            }
+          },
+          {
+            "href": "/entretien-espaces-verts-copropriete/",
+            "label": "Copropriétés",
+            "sub": "Copropriétés et syndics",
+            "image": {
+              "src": "/img/equipe-espaces-verts",
+              "alt": "",
+              "width": 1448,
+              "height": 1086
+            }
+          },
+          {
+            "href": "/creation-amenagement-espaces-verts/",
+            "label": "Création",
+            "sub": "Création et aménagement",
+            "image": {
+              "src": "/img/amenagement",
+              "alt": "",
+              "width": 500,
+              "height": 500
+            }
+          },
+          {
+            "href": "/elagage-entreprise-marseille-aix/",
+            "label": "Élagage",
+            "sub": "Élagage et débroussaillage",
+            "image": {
+              "src": "/img/elagage",
+              "alt": "",
+              "width": 500,
+              "height": 500
+            }
+          },
+          {
+            "href": "/terrasses-vegetalisees-entreprise/",
+            "label": "Terrasses",
+            "sub": "Terrasses végétalisées",
+            "image": {
+              "src": "/img/terrasse",
+              "alt": "",
+              "width": 500,
+              "height": 500
+            }
+          },
+          {
+            "href": "/ruches-entreprise/",
+            "label": "Ruches",
+            "sub": "Ruches en entreprise",
+            "image": {
+              "src": "/img/entretien-exterieur",
+              "alt": "",
+              "width": 1200,
+              "height": 800
+            }
+          }
+        ]
+      },
+      {
+        "key": "villes",
+        "label": "Nos villes",
+        "caption": "Des équipes locales",
+        "items": [
+          {
+            "href": "/location-entretien-plantes-bureau-paris/",
+            "label": "Paris",
+            "sub": "Paris et Île-de-France",
+            "image": {
+              "src": "/img/paris-bureaux",
+              "alt": "",
+              "width": 500,
+              "height": 500
+            }
+          },
+          {
+            "href": "/entretien-location-plantes-nice/",
+            "label": "Nice",
+            "sub": "Nice et Côte d'Azur",
+            "image": {
+              "src": "/img/nice-hotel",
+              "alt": "",
+              "width": 500,
+              "height": 500
+            }
+          },
+          {
+            "href": "/entretien-location-plantes-marseille/",
+            "label": "Marseille",
+            "sub": "Marseille et Provence",
+            "image": {
+              "src": "/img/banner-espaces-verts",
+              "alt": "",
+              "width": 1672,
+              "height": 941
+            }
+          }
+        ]
+      }
+    ],
+    "links": [
+      {
+        "href": "/vegetalisation-bureaux-multisites-paris-paca/",
+        "label": "Multi-sites"
+      },
+      {
+        "href": "/blog/",
+        "label": "Blog"
+      },
+      {
+        "href": "/faq/",
+        "label": "FAQ"
+      }
+    ]
+  },
+  "footer": {
+    "columns": [
+      {
+        "title": "Services",
+        "links": [
+          {
+            "href": "/location-plantes-bureau/",
+            "label": "Location de plantes"
+          },
+          {
+            "href": "/entretien-plantes-entreprise/",
+            "label": "Entretien de plantes"
+          },
+          {
+            "href": "/mur-vegetal-interieur/",
+            "label": "Murs végétaux"
+          },
+          {
+            "href": "/cadres-vegetaux-plantes-stabilisees/",
+            "label": "Cadres végétaux stabilisés"
+          },
+          {
+            "href": "/abonnement-fleurs-entreprise/",
+            "label": "Abonnement fleurs"
+          },
+          {
+            "href": "/location-plantes-evenementiel/",
+            "label": "Événementiel"
+          },
+          {
+            "href": "/fleurs-sapins-noel/",
+            "label": "Fleurs et sapins de Noël"
+          }
+        ]
+      },
+      {
+        "title": "Extérieur PACA",
+        "links": [
+          {
+            "href": "/espaces-verts-entreprise/",
+            "label": "Espaces verts d'entreprise"
+          },
+          {
+            "href": "/entretien-espaces-verts-copropriete/",
+            "label": "Copropriétés et syndics"
+          },
+          {
+            "href": "/creation-amenagement-espaces-verts/",
+            "label": "Création et aménagement"
+          },
+          {
+            "href": "/elagage-entreprise-marseille-aix/",
+            "label": "Élagage et débroussaillage"
+          },
+          {
+            "href": "/terrasses-vegetalisees-entreprise/",
+            "label": "Terrasses végétalisées"
+          },
+          {
+            "href": "/ruches-entreprise/",
+            "label": "Ruches en entreprise"
+          }
+        ]
+      },
+      {
+        "title": "Nos villes",
+        "links": [
+          {
+            "href": "/location-entretien-plantes-bureau-paris/",
+            "label": "Paris et Île-de-France"
+          },
+          {
+            "href": "/entretien-location-plantes-nice/",
+            "label": "Nice et Côte d'Azur"
+          },
+          {
+            "href": "/entretien-location-plantes-marseille/",
+            "label": "Marseille et Provence"
+          }
+        ]
+      },
+      {
+        "title": "Flora Concept",
+        "links": [
+          {
+            "href": "/qui-sommes-nous/",
+            "label": "Qui sommes-nous"
+          },
+          {
+            "href": "/faq/",
+            "label": "FAQ"
+          },
+          {
+            "href": "/blog/",
+            "label": "Blog"
+          },
+          {
+            "href": "/devis/",
+            "label": "Devis"
+          }
+        ]
+      }
+    ],
+    "legal": [
+      {
+        "href": "/mentions-legales/",
+        "label": "Mentions légales"
+      },
+      {
+        "href": "/politique-de-confidentialite/",
+        "label": "Politique de confidentialité"
+      },
+      {
+        "href": "/cookies/",
+        "label": "Cookies"
+      }
+    ],
+    "regionsLine": "Provence-Alpes-Côte d'Azur · Île-de-France"
+  },
+  "seasonal": {
+    "enabled": true,
+    "text": "Sapins et décorations de Noël : réservez tôt",
+    "href": "/fleurs-sapins-noel/",
+    "fromMonth": 10,
+    "toMonth": 12
+  },
+  "marquee": [
+    "Espaces verts",
+    "Paysagisme d’intérieur",
+    "Événementiel",
+    "Cadres végétaux",
+    "Marseille",
+    "Nice"
+  ],
+  "analytics": {
+    "gtmId": ""
+  },
+  "quoteEndpoint": "/api/devis.php"
+}

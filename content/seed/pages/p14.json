@@ -1,0 +1,404 @@
+{
+  "_id": "page-p14",
+  "slug": "/faq/",
+  "template": "faq",
+  "name": "FAQ",
+  "seo": {
+    "title": "FAQ : location, entretien et végétalisation d'entreprise",
+    "description": "Location ou achat, contrat d'entretien, murs végétaux, zones couvertes : les réponses de Flora Concept aux questions des entreprises. Paris, Nice, Marseille."
+  },
+  "h1": "Questions fréquentes sur les plantes en entreprise",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "d5843c263457",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "301377d6f915",
+          "text": "Vous préparez un projet de végétalisation, un contrat d'entretien ou un appel d'offres ? Voici les réponses aux questions que nous posent les office managers, services généraux, directeurs d'hôtels et gestionnaires. Pour une réponse personnalisée, demandez un devis gratuit : un paysagiste de l'équipe de votre région vous rappelle.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "WebPage"
+  },
+  "sections": [
+    {
+      "_key": "5753ab09dc63",
+      "_type": "sectionFaq",
+      "title": "Choisir sa formule",
+      "anchor": "bloc-1",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "c2145e337ae6",
+          "question": "Vaut-il mieux louer ou acheter des plantes pour ses bureaux ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "81d51c78e638",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "de1592e729f8",
+                  "text": "La location avec entretien compris convient à la plupart des entreprises : aucun investissement initial, entretien et remplacement inclus, budget mensuel prévisible. L'achat garde du sens pour un aménagement ponctuel, idéalement complété d'un contrat d'entretien. Sur la durée, la location évite surtout le vrai coût caché : des plantes dépéries à remplacer et des espaces négligés.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "60ab32370019",
+          "question": "Que comprend un contrat d'entretien de plantes en entreprise ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "0b93caee71a9",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "1b75f1a8ff3b",
+                  "text": "Des passages réguliers d'un jardinier : arrosage, taille, nettoyage du feuillage, fertilisation, contrôle sanitaire et remplacement des plantes fatiguées selon les conditions du contrat. La fréquence est fixée au devis en fonction du nombre de plantes, des espèces et des conditions des locaux (lumière, climatisation).",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "7aeed2e80f47",
+          "question": "Existe-t-il des plantes de bureau sans entretien ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "edc10c00d8e6",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "c43d770fba80",
+                  "text": "Aucune plante vivante ne vit sans soin : « sans entretien » signifie en réalité « entretenue par quelqu'un d'autre ». Les deux vraies solutions sont le contrat d'entretien par un professionnel pour les plantes vivantes, et le végétal stabilisé (murs, cadres, compositions), naturel mais préservé, qui ne demande ni eau ni lumière.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "389b4f6ee5bd",
+          "question": "Combien coûte la végétalisation de bureaux ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "7d9f2b808265",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "eab06fe04deb",
+                  "text": "Le budget dépend du nombre de plantes, de leur taille, des contenants, de la technique (plantes en bacs, mur végétal, stabilisé) et de la fréquence d'entretien. Chaque projet étant dimensionné sur mesure, nous établissons un devis gratuit et détaillé après un échange ou une visite de vos locaux.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "c08d9955148b",
+      "_type": "sectionFaq",
+      "title": "Plantes et espaces difficiles",
+      "anchor": "bloc-2",
+      "tone": "dark",
+      "items": [
+        {
+          "_key": "f2edcbe30779",
+          "question": "Quelles plantes pour un bureau sans fenêtre ou sans lumière ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "02db8e85943f",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "d24b133ea364",
+                  "text": "En dessous d'un certain seuil de lumière, aucune plante vivante ne tient durablement. Pour les couloirs, salles de réunion aveugles et espaces très sombres, le végétal stabilisé (cadres, murs, compositions) offre un rendu naturel sans lumière ni arrosage. Dans les zones à lumière faible mais réelle, les espèces les plus tolérantes conviennent : zamioculcas, sansevieria, pothos, aglaonema. Nos paysagistes tranchent après une visite.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "339e2ebc99d2",
+          "question": "Quelles plantes résistent à la climatisation ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "c425c670244a",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0b5e7f0138ad",
+                  "text": "La climatisation assèche l'air et éprouve la plupart des végétaux. Nous sélectionnons des espèces qui la tolèrent bien (kentia, dracaena, zamioculcas, sansevieria), éloignons les plantes des flux d'air direct et ajustons l'arrosage à chaque passage. C'est un critère central en PACA, où la climatisation tourne en continu l'été.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "042ccdc6d60f",
+          "question": "Les plantes au bureau améliorent-elles vraiment le bien-être ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "8cc981aa1ecd",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "fa988283d77c",
+                  "text": "Les espaces végétalisés sont perçus comme plus agréables et plus accueillants, et les plantes contribuent à l'absorption du bruit et à la qualité ressentie de l'air. Au-delà des études, l'effet le plus concret est visible : un accueil végétalisé change l'image d'une entreprise pour ses visiteurs comme pour ses équipes.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "c5f2486dc8a9",
+          "question": "Que deviennent les plantes pendant les congés d'été ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "ca29faeab6a0",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "f2d28ed87a28",
+                  "text": "Avec un contrat d'entretien, nos passages continuent pendant vos fermetures si l'accès est organisé (badge, gardien, consigne). C'est le moment où les plantes souffrent le plus, surtout en PACA : arrosage adapté, surveillance de la climatisation et remplacements éventuels à la rentrée.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "eaa67f3a93d0",
+      "_type": "sectionFaq",
+      "title": "Prestations et zones",
+      "anchor": "bloc-3",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "4d7adc253fb8",
+          "question": "Dans quelles villes Flora Concept intervient-il ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "28cc2209b234",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "a0308ad7144d",
+                  "href": "/location-entretien-plantes-bureau-paris/"
+                },
+                {
+                  "_type": "link",
+                  "_key": "1ecaebc17c51",
+                  "href": "/entretien-location-plantes-nice/"
+                },
+                {
+                  "_type": "link",
+                  "_key": "0bab1dd8bdb3",
+                  "href": "/entretien-location-plantes-marseille/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "749bc367fd90",
+                  "text": "Nos équipes couvrent deux régions : l'Île-de-France (Paris, La Défense, Hauts-de-Seine) et la Provence-Alpes-Côte d'Azur (Marseille, Aix-en-Provence, Toulon et le Var, Nice, Monaco et les Alpes-Maritimes, Avignon et le Vaucluse). Pour les entreprises multi-sites dans ces régions, un contrat unique suffit ; au-delà, chaque demande est étudiée. Voir nos pages ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "162cdc2a8b56",
+                  "text": "Paris",
+                  "marks": [
+                    "a0308ad7144d"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "20b550ed9030",
+                  "text": ", ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "f1c6feb7a362",
+                  "text": "Nice",
+                  "marks": [
+                    "1ecaebc17c51"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "4ef47a459efc",
+                  "text": " et ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "6b2e24cf8d9d",
+                  "text": "Marseille",
+                  "marks": [
+                    "0bab1dd8bdb3"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "49ca49195c1b",
+                  "text": ".",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "a071f3cf900d",
+          "question": "Pouvez-vous gérer plusieurs sites avec un seul contrat ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "624ec06de690",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "437aa7b54ef6",
+                  "href": "/vegetalisation-bureaux-multisites-paris-paca/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0e2a8d2c235e",
+                  "text": "Oui : un contrat cadre, un interlocuteur unique, des jardiniers locaux dans chaque région et un reporting commun. C'est l'offre décrite sur notre page ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "6f2c73e47a4a",
+                  "text": "entreprises multi-sites",
+                  "marks": [
+                    "437aa7b54ef6"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "71ef3ed06953",
+                  "text": ", pensée pour les services généraux et les facility managers.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "bd7c809d7d47",
+          "question": "Réalisez-vous des murs végétaux avec un logo d'entreprise ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "ed665fd66158",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "2262b29b0cc3",
+                  "text": "Oui. Le logo est reproduit en végétaux stabilisés (lettrage découpé ou incrustation) dans un mur ou un cadre sur mesure, à partir de votre charte graphique. Vous validez une maquette avant fabrication, puis la pièce est fabriquée, livrée et posée par nos équipes.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "c70dfb07dc67",
+          "question": "Travaillez-vous avec les hôtels et les restaurants ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "3f989fc069ba",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "f3751173cf41",
+                  "text": "Oui : lobbies, restaurants, spas et terrasses couvertes font partie de nos interventions régulières, en particulier sur la Côte d'Azur et à Paris. Les passages d'entretien sont planifiés en dehors des heures d'affluence, et le végétal stabilisé complète les plantes vivantes dans les zones sans lumière.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "fa5b7e293127",
+          "question": "Comment se passe une demande de devis ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "95ba225d2fec",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "b70158055ed1",
+                  "text": "Vous remplissez le formulaire (une minute) ou appelez l'équipe de votre région. Un paysagiste vous recontacte, visite vos locaux si le projet le demande, puis vous envoie une proposition détaillée : végétaux, contenants, fréquence d'entretien et budget. Le devis est gratuit et sans engagement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/hero-cover",
+    "alt": "FAQ",
+    "width": 1453,
+    "height": 1082
+  }
+}

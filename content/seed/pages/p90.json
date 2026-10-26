@@ -1,0 +1,274 @@
+{
+  "_id": "page-p90",
+  "slug": "/mentions-legales/",
+  "template": "legal",
+  "name": "Mentions légales",
+  "seo": {
+    "title": "Mentions légales | Flora Concept",
+    "description": ""
+  },
+  "h1": "Mentions légales",
+  "answer": [],
+  "zone": "",
+  "structuredData": {
+    "type": "WebPage"
+  },
+  "sections": [
+    {
+      "_key": "7197aab2aa10",
+      "_type": "sectionLegal",
+      "tone": "dark",
+      "showConsentButton": false,
+      "parts": [
+        {
+          "_key": "4a7c9f93e241",
+          "heading": "Éditeur du site",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "85cfa318728d",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "6adb922fa7a3",
+                  "text": "Le présent site est édité par ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "e3ed3963c28f",
+                  "text": "FLORACONCEPT",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "632047e5b2a7",
+                  "text": ", société à responsabilité limitée (SARL) au capital de 46 000 €, immatriculée au RCS de Marseille sous le numéro SIREN 423 977 305, dont le siège social est situé au 1118 route d'Aubagne, 13420 Gémenos.",
+                  "marks": []
+                }
+              ]
+            },
+            {
+              "_type": "block",
+              "_key": "bd19c901c9ed",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "5427674f5543",
+                  "text": "Numéro de TVA intracommunautaire : FR27 423 977 305",
+                  "marks": []
+                }
+              ],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "b9add7053151",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "f94ad4f1c280",
+                  "text": "Téléphone : 04 13 12 13 80",
+                  "marks": []
+                }
+              ],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "177dd4c6c904",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "c46908d2d41f",
+                  "text": "Email : ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "8e3c07a198ef",
+                  "note": ""
+                }
+              ],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "7801beec42de",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "b72d0c4cbff9",
+                  "text": "Directeur de la publication : Jean-François Argeme, gérant",
+                  "marks": []
+                }
+              ],
+              "listItem": "bullet",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "_key": "e918c0b5ec0d",
+          "heading": "Hébergement",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "27858a0672af",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "5f5a68e72217",
+                  "text": "Le site est hébergé par ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "cebf555886ea",
+                  "text": "Hostinger International Ltd",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "d69729e97799",
+                  "text": ", 61 Lordou Vironos Street, 6023 Larnaca, Chypre.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "cf39da87bbef",
+          "heading": "Propriété intellectuelle",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "5a2119b6e178",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "b0eab7a12220",
+                  "text": "L'ensemble des contenus du site (textes, photographies, logos, éléments graphiques) est la propriété de FLORACONCEPT ou fait l'objet d'une autorisation d'utilisation. Toute reproduction, représentation ou diffusion, totale ou partielle, sans autorisation écrite préalable est interdite.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "fbce66f99c80",
+          "heading": "Données personnelles",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "39588ffe5f5b",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "6371a5630b9d",
+                  "href": "/politique-de-confidentialite/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "60a171842aba",
+                  "text": "Les données collectées via le formulaire de devis sont traitées conformément à notre ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "9449672fef19",
+                  "text": "politique de confidentialité",
+                  "marks": [
+                    "6371a5630b9d"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "5c9b7d46fd8d",
+                  "text": ". Pour toute question ou pour exercer vos droits : ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "3c5174b71d24",
+                  "note": "email de contact RGPD"
+                },
+                {
+                  "_type": "span",
+                  "_key": "21ea6bfcae8b",
+                  "text": ".",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "b54681f4b90a",
+          "heading": "Cookies",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "b4a28ddbae19",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "ee176776f84a",
+                  "href": "/cookies/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "3b8be1ddb4d4",
+                  "text": "Le site utilise des cookies et traceurs soumis à votre consentement. Voir la ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "b8509b02cc4c",
+                  "text": "politique cookies",
+                  "marks": [
+                    "ee176776f84a"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "c2760ee848bb",
+                  "text": ".",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

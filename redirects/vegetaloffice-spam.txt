@@ -1,0 +1,2 @@
+# Encoded spam slugs from crawl-vegetaloffice.csv (type_contenu = « SPAM injecté (piratage) »), one per line.
+# Numeric /NNNN-2/ slugs are already covered by a generic rule.

@@ -1,0 +1,489 @@
+{
+  "_id": "page-p13",
+  "slug": "/vegetalisation-bureaux-multisites-paris-paca/",
+  "template": "service",
+  "name": "Multi-sites",
+  "seo": {
+    "title": "Plantes de bureau multi-sites : Paris, Marseille, Nice",
+    "description": "Un seul prestataire pour les plantes de vos sites de Paris et de PACA : contrat unique, jardiniers locaux, reporting commun. La solution des services généraux."
+  },
+  "h1": "Végétalisation de bureaux multi-sites : un interlocuteur de Paris à la Méditerranée",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "43a784ccb155",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "01c0c90bf6c9",
+          "text": "Gérer les plantes de plusieurs sites avec des prestataires différents multiplie les contrats, les factures et les niveaux de qualité. Flora Concept est l'un des rares paysagistes d'intérieur à couvrir à la fois l'Île-de-France et la Provence-Alpes-Côte d'Azur avec ses propres équipes : vos bureaux de Paris, Marseille, Aix, Toulon, Nice ou Avignon sont entretenus par des jardiniers de la région, sous un contrat unique, une facturation consolidée et un interlocuteur commercial dédié. Depuis 1999, nous accompagnons des entreprises implantées sur plusieurs sites : siège parisien et agences régionales, réseaux d'hôtels, enseignes multi-établissements. ",
+          "marks": []
+        },
+        {
+          "_type": "pending",
+          "_key": "290a52e4dd62",
+          "note": "1 référence multi-sites avec accord écrit"
+        },
+        {
+          "_type": "span",
+          "_key": "549843ddfef8",
+          "text": " Le périmètre s'adapte à chaque site : location avec entretien, reprise d'un parc existant, murs et cadres stabilisés. Pour des sites situés hors de ces deux régions, chaque demande est étudiée. ",
+          "marks": []
+        },
+        {
+          "_type": "pending",
+          "_key": "acb033af0407",
+          "note": "modalités exactes hors PACA et IDF"
+        },
+        {
+          "_type": "span",
+          "_key": "9d00089c4194",
+          "text": " Demandez un devis multi-sites : nous consolidons une proposition par site et par prestation.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "végétalisation et entretien de plantes multi-sites",
+    "areaServed": [
+      "France"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "f890d752d330",
+      "title": "Ce que change un prestataire unique",
+      "_type": "sectionTable",
+      "intro": [],
+      "head": [
+        "Avant : un prestataire par site",
+        "Avec Flora Concept"
+      ],
+      "rows": [
+        {
+          "_key": "264bb3273d03",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "38afd2ec2f9d",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "425ac6a28191",
+                    "text": "Plusieurs contrats et échéances",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "a1496d4ad0a3",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "cd8b7a4b8bb9",
+                    "text": "Un contrat cadre, un renouvellement",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "_key": "6f8246002c1c",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "90b9305857ad",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "872a319ee7a2",
+                    "text": "Qualité variable selon les villes",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "d528edaa45e6",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "c9264fc806cd",
+                    "text": "Le même standard, les mêmes méthodes",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "_key": "f022da4e4056",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "37a53dc01b25",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "2e946dff15fb",
+                    "text": "Plusieurs factures par mois",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "fbbf192d8343",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "6ef2c7d1d434",
+                    "text": "Facturation consolidée ",
+                    "marks": []
+                  },
+                  {
+                    "_type": "pending",
+                    "_key": "4b68e45a7674",
+                    "note": "confirmer les modalités de facturation"
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "_key": "f4904ffc3864",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "5fbdc8ab8867",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "bf67a68ae9d0",
+                    "text": "Pas de vision d'ensemble",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "1d57ccdb172a",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "5375ef76b6dc",
+                    "text": "Un reporting commun et un interlocuteur dédié ",
+                    "marks": []
+                  },
+                  {
+                    "_type": "pending",
+                    "_key": "cdd30858be41",
+                    "note": "format du reporting"
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ],
+      "note": []
+    },
+    {
+      "_key": "0da8cbc894c3",
+      "title": "Comment nous couvrons vos sites",
+      "_type": "sectionSteps",
+      "layout": "vertical",
+      "intro": [],
+      "steps": [
+        {
+          "_key": "459b50197f19",
+          "lead": "Vos sites dans nos zones d'agences",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "3741d59112ee",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "201921914960",
+                  "text": "(Île-de-France, Alpes-Maritimes, Bouches-du-Rhône, Var, Vaucluse) : jardiniers salariés de l'agence locale, tournées régulières.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "e6c790b5c2e4",
+          "lead": "Vos sites ailleurs en France",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "bcdb6b3045cf",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "pending",
+                  "_key": "7331dfb7fe13",
+                  "note": "organisation exacte (équipes itinérantes, partenaires) ; sans cette réponse, limiter la promesse aux prestations sans entretien récurrent (stabilisé)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "d449b25b8df4",
+          "lead": "Prestations sans entretien",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "9b41f9c0d7bc",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "84c5bfbbc8e0",
+                  "text": "murs végétaux et cadres stabilisés livrés et posés en PACA, en Île-de-France et au-delà sur étude, sans passage récurrent.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/plante-grasse",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "2dc292b22ff8",
+      "title": "Pour les services généraux et les achats",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "62362fbf8822",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "706a95706215",
+              "text": "Nous répondons aux cahiers des charges et appels d'offres : périmètre par site, fréquences, remplacements, assurances, engagements de service. ",
+              "marks": []
+            },
+            {
+              "_type": "pending",
+              "_key": "c1d2fb848010",
+              "note": "certifications, assurances et chiffres à citer (effectif, ancienneté moyenne des contrats)"
+            },
+            {
+              "_type": "span",
+              "_key": "dcb63a930713",
+              "text": " Chaque site garde son contact opérationnel local, vous gardez un pilotage central.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/entretien-plantes",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "c02b74809aac",
+      "title": "Référence",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "c2fc6ebf83d1",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "292c7ebb8265",
+          "question": "Pouvez-vous gérer nos bureaux de Paris et nos sites en région ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "d18401b1bb37",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "8d163d76c569",
+                  "text": "Oui, c'est notre spécialité : nos agences de Paris, Nice et Marseille couvrent leurs régions avec des jardiniers locaux, et nous organisons la couverture des autres sites en France. Vous signez un seul contrat, avec un interlocuteur unique et un reporting commun.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "0e3808238b73",
+          "question": "Comment est organisée la facturation multi-sites ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "842066fdfe3f",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "pending",
+                  "_key": "967d1c50af49",
+                  "note": "facture unique consolidée, par site, ou au choix ; périodicité"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "b1b986990332",
+          "question": "Le niveau de service est-il le même sur tous les sites ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "43d6eec51640",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "2dcc3820e64b",
+                  "text": "Oui. Les méthodes, les fréquences et les standards de qualité sont définis dans le contrat cadre et appliqués par toutes nos équipes. Le reporting commun vous permet de le vérifier site par site.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "cbc34d5f74b1",
+          "question": "Répondez-vous aux appels d'offres ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "efe76debc08f",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "ebcab2a931b1",
+                  "text": "Oui, nous répondons aux consultations et appels d'offres des entreprises et des gestionnaires : cahier des charges, visites des sites, proposition par site et par prestation, puis déploiement planifié. Contactez-nous en amont pour cadrer le périmètre.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/banner-paysagisme",
+    "alt": "Multi-sites",
+    "width": 1672,
+    "height": 941
+  },
+  "answerImage": {
+    "src": "/img/alocasia",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/paysagisme-interieur/",
+      "name": "Paysagisme d'intérieur"
+    },
+    "items": [
+      {
+        "_key": "c44201fe5bac",
+        "title": "Location de plantes",
+        "href": "/location-plantes-bureau/",
+        "image": {
+          "src": "/img/plante-grasse",
+          "alt": "",
+          "width": 1200,
+          "height": 800
+        }
+      },
+      {
+        "_key": "fe39d97644dc",
+        "title": "Entretien de plantes",
+        "href": "/entretien-plantes-entreprise/",
+        "image": {
+          "src": "/img/entretien-plantes",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "812cd8837314",
+        "title": "Murs végétaux",
+        "href": "/mur-vegetal-interieur/",
+        "image": {
+          "src": "/img/mur-vegetal",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,689 @@
+{
+  "_id": "page-p18",
+  "slug": "/espaces-verts-entreprise/",
+  "template": "hub",
+  "name": "Espaces verts d'entreprise",
+  "seo": {
+    "title": "Entretien d'espaces verts pour entreprises en PACA",
+    "description": "Entreprise d'espaces verts en PACA : entretien, création, élagage et terrasses pour sièges, hôtels, copropriétés et syndics. Matériel électrique, devis gratuit."
+  },
+  "h1": "Entretien et aménagement d'espaces verts pour les entreprises en Provence-Alpes-Côte d'Azur",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "e3cbba8883fe",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "afc97ea131fd",
+          "text": "Flora Concept assure l'entretien des espaces verts des entreprises en Provence-Alpes-Côte d'Azur : tonte, taille des haies et des arbustes, débroussaillage, ramassage des feuilles, nettoyage des allées, élagage et arrosage automatique, en contrat annuel ou à la prestation. Nos jardiniers interviennent sur les abords de sièges et de bureaux, les jardins d'hôtels et de résidences, les parties communes de copropriétés et les terrains d'entreprise, depuis notre base près d'Aix-en-Provence, de Marseille à Toulon et jusqu'en Avignon et sur la Côte d'Azur. Entreprise d'espaces verts depuis 1999, nous intervenons avec du matériel d'entretien entièrement électrique : moins de bruit pour vos occupants et un critère environnemental réel pour vos appels d'offres. Un interlocuteur unique, des passages planifiés, un compte rendu après chaque intervention. Demandez un devis gratuit : un paysagiste visite vos extérieurs et vous propose un contrat adapté à vos surfaces et à vos usages.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "marseille",
+  "outdoor": true,
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "entretien et aménagement d'espaces verts pour entreprises",
+    "areaServed": [
+      "Provence-Alpes-Côte d'Azur",
+      "Bouches-du-Rhône",
+      "Var",
+      "Vaucluse",
+      "Alpes-Maritimes"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "dd01903921ea",
+      "title": "Nos prestations extérieur",
+      "_type": "sectionCards",
+      "tone": "dark",
+      "cards": [
+        {
+          "_key": "a5b1d7e217aa",
+          "title": "Entretien pour copropriétés et syndics",
+          "href": "/entretien-espaces-verts-copropriete/",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "70b8dcb93382",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "9f6bf828c801",
+                  "text": "contrat annuel, interlocuteur unique, compte rendu pour vos assemblées générales.",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "/img/equipe-espaces-verts",
+            "alt": "",
+            "width": 1448,
+            "height": 1086
+          }
+        },
+        {
+          "_key": "0477d720adf7",
+          "title": "Création et aménagement d'espaces verts",
+          "href": "/creation-amenagement-espaces-verts/",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "1ccacea16652",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "8554fe9ee0ed",
+                  "text": "de l'esquisse à la plantation, abords de bureaux, parkings, jardins d'accueil, arrosage automatique.",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "/img/amenagement",
+            "alt": "",
+            "width": 500,
+            "height": 500
+          }
+        },
+        {
+          "_key": "ff1eb8bd6cb1",
+          "title": "Élagage, taille et débroussaillage",
+          "href": "/elagage-entreprise-marseille-aix/",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "1966e694bad9",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "ab68fc51497d",
+                  "text": "élagage réglementaire, taille de haies, débroussaillage obligatoire, intervention à la nacelle.",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "/img/elagage",
+            "alt": "",
+            "width": 500,
+            "height": 500
+          }
+        },
+        {
+          "_key": "dd2dfa50dc8f",
+          "title": "Terrasses végétalisées",
+          "href": "/terrasses-vegetalisees-entreprise/",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "ba5bfc9d29e5",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "899a19b6bec5",
+                  "text": "terrasses de bureaux, rooftops et terrasses d'hôtels, bacs, pergolas et entretien.",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "/img/terrasse",
+            "alt": "",
+            "width": 500,
+            "height": 500
+          }
+        }
+      ],
+      "outro": [
+        {
+          "_type": "block",
+          "_key": "cea8be18f824",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "6ab9e3dd3a09",
+              "href": "/ruches-entreprise/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "54ea9be9d0b2",
+              "text": "Et notre engagement pour la biodiversité : le ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "49ae64f7fd1d",
+              "text": "parrainage de ruches en entreprise",
+              "marks": [
+                "6ab9e3dd3a09"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "4dd260501dec",
+              "text": ".",
+              "marks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "8b05af0ef2ea",
+      "title": "Ce que comprend un contrat d'entretien d'espaces verts",
+      "_type": "sectionChecklist",
+      "items": [
+        {
+          "_key": "6d1270b059e6",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "2e2f7b99fbab",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "00e263ff6806",
+                  "text": "Tonte du gazon et finition des bordures",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "138825ed8f41",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "bca210f878de",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "128351137a9c",
+                  "text": "Taille des haies, des arbustes et des massifs",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "183723726a92",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "d9935e84bd76",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "e194ee413805",
+                  "text": "Débroussaillage et nettoyage des allées, des parkings et des abords",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "685df181be80",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "45ce120feaa2",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "5410535eba45",
+                  "text": "Ramassage des feuilles et évacuation des déchets verts",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "8422051640d7",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "290448489a06",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "e0f05ed4fd4f",
+                  "text": "Traitement écologique des plantes et contrôle sanitaire, en privilégiant les méthodes respectueuses de l'environnement",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "0284938375fd",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "8fe39caeac3a",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "3d41b7fd29fc",
+                  "text": "Arrosage automatique : installation, programmation et maintenance",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "16da813bd551",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "ea10e810f96f",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "dff17a997c08",
+                  "text": "Élagage des arbres selon un planning pluriannuel",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "8a8ec485492b",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "070dafcb5588",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "8b2dd04e8757",
+                  "text": "Compte rendu après chaque passage, transmis à votre contact",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [
+        {
+          "_type": "block",
+          "_key": "ef9cb1abfdb1",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "f673929b7ae0",
+              "text": "La fréquence des passages est définie au devis selon vos surfaces, vos végétaux et la saison : plus soutenue du printemps à l'automne, allégée en hiver.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/arrosage-automatique",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "7776f8b9dd91",
+      "title": "Pour qui",
+      "_type": "sectionGroups",
+      "intro": [],
+      "groups": [
+        {
+          "_key": "fdcd8c7d50f0",
+          "title": "Sièges, bureaux et zones d'activité",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "929f9640bc82",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "ec8833706941",
+                  "text": "Abords, parkings paysagers, patios et massifs d'accueil : la première image que vos visiteurs ont de votre entreprise. Nos tournées sont planifiées en dehors de vos heures d'affluence quand c'est possible.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "8d8ebea7b076",
+          "title": "Hôtels, résidences et établissements de santé",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "2b669c929638",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "17cc4efa7bf7",
+                  "href": "/terrasses-vegetalisees-entreprise/"
+                },
+                {
+                  "_type": "link",
+                  "_key": "99d746fce4f0",
+                  "href": "/paysagisme-interieur/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "6896ddc64ef4",
+                  "text": "Jardins, piscines, terrasses et allées entretenus sans gêner vos clients : notre matériel électrique est silencieux et sans fumée, ce qui compte dans un établissement occupé toute l'année. Nous assurons aussi les ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "6c8e459f96d9",
+                  "text": "terrasses végétalisées",
+                  "marks": [
+                    "17cc4efa7bf7"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "54c1792c99a9",
+                  "text": " et le ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "9587915e3673",
+                  "text": "paysagisme d'intérieur",
+                  "marks": [
+                    "99d746fce4f0"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "6185b6dc968a",
+                  "text": " des mêmes établissements.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "23a63310b8e9",
+          "title": "Copropriétés, syndics et gestionnaires",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "76a9e39fc0fb",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "415d2e435396",
+                  "href": "/entretien-espaces-verts-copropriete/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "02f84308fab6",
+                  "text": "Un contrat annuel clair, un seul interlocuteur et des comptes rendus utilisables en assemblée générale : voir notre page ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "f69e508a40c7",
+                  "text": "entretien des espaces verts de copropriété",
+                  "marks": [
+                    "415d2e435396"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "578d9283ca50",
+                  "text": ".",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/entretien-exterieur",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "3c19eb2961d9",
+      "title": "Notre engagement électrique",
+      "_type": "sectionFeature",
+      "tone": "dark",
+      "quote": "Tout notre matériel d'entretien est électrique",
+      "pills": [
+        "tondeuses",
+        "taille-haies",
+        "souffleurs",
+        "débroussailleuses"
+      ],
+      "body": [
+        {
+          "_type": "block",
+          "_key": "cad61ca1c4fb",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "418e19155782",
+              "href": "/qui-sommes-nous/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "dc543d2abbb0",
+              "text": "Concrètement, pour vous : des interventions beaucoup moins bruyantes, sans émissions sur site, possibles aux heures de bureau et à proximité des chambres d'hôtel, et un argument vérifiable dans vos propres démarches RSE et appels d'offres. Notre transition électrique est engagée, et nous la poursuivons. En savoir plus sur ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "b77fb0e4f8c1",
+              "text": "nos engagements",
+              "marks": [
+                "418e19155782"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "2b9a620b52d2",
+              "text": ".",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/terrasse",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "2ce518699373",
+      "title": "Réalisations",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "6b4142e2e97b",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "2b348a807fba",
+          "question": "Que comprend l'entretien des espaces verts d'une entreprise ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "69981d3a5bbf",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "1c602ebc50cd",
+                  "text": "La tonte, la taille des haies et des arbustes, le débroussaillage, le ramassage des feuilles, le nettoyage des allées et des parkings, l'arrosage et l'élagage, selon un planning annuel défini au devis. Chaque passage donne lieu à un compte rendu.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "8d25b4c973c5",
+          "question": "Dans quelle zone intervenez-vous pour les espaces verts ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "09203a0b810d",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "bab750c63a16",
+                  "text": "En Provence-Alpes-Côte d'Azur uniquement : Marseille et sa métropole, Aix-en-Provence, Aubagne, Toulon et le Var, Avignon et le Vaucluse, Nice et la Côte d'Azur. Nos prestations d'intérieur couvrent aussi l'Île-de-France.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "05fa2de99c48",
+          "question": "Proposez-vous un contrat annuel ou des interventions ponctuelles ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "a874f83e95a9",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0cf950b5e4d2",
+                  "text": "Les deux. Le contrat annuel est la formule la plus courante pour les sièges, hôtels et copropriétés : passages planifiés, tarif annuel connu à l'avance, un seul interlocuteur. Les interventions ponctuelles concernent surtout l'élagage, le débroussaillage et les créations.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "662791b56c06",
+          "question": "Pourquoi du matériel électrique ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "ec99f53e14fd",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "9bda887d2407",
+                  "text": "Pour le bruit et les émissions : nos jardiniers peuvent intervenir pendant les heures de bureau ou près des chambres d'un hôtel sans gêner les occupants. C'est aussi un critère environnemental concret que vous pouvez faire valoir dans vos appels d'offres.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "97e3d7dde9cf",
+          "question": "Pouvez-vous reprendre un espace vert laissé à l'abandon ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "07f97cc68eeb",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "8d4f80df0d37",
+                  "text": "Oui. Nous commençons par une remise en état (débroussaillage, taille de rattrapage, élagage, réfection des massifs), puis nous proposons un contrat d'entretien pour maintenir le résultat.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/banner-espaces-verts",
+    "alt": "Espaces verts d'entreprise",
+    "width": 1672,
+    "height": 941
+  },
+  "answerImage": {
+    "src": "/img/amenagement",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  }
+}

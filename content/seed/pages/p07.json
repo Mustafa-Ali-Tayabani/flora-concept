@@ -1,0 +1,438 @@
+{
+  "_id": "page-p07",
+  "slug": "/abonnement-fleurs-entreprise/",
+  "template": "service",
+  "name": "Abonnement fleurs",
+  "parent": {
+    "slug": "/paysagisme-interieur/",
+    "name": "Paysagisme d'intérieur"
+  },
+  "seo": {
+    "title": "Abonnement fleurs pour entreprise : accueil toujours fleuri",
+    "description": "Abonnement floral pour entreprises et hôtels : compositions fraîches livrées et renouvelées régulièrement à l'accueil. Paris, Nice, Marseille. Devis gratuit."
+  },
+  "h1": "Abonnement floral : des fleurs fraîches à votre accueil, toute l'année",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "8949eb0b6a2e",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "6c0ac76ca9fe",
+          "text": "L'abonnement fleurs pour entreprise garantit un accueil toujours fleuri sans que personne n'ait à y penser : Flora Concept crée des compositions florales fraîches, les livre à date fixe et reprend les précédentes. Les bouquets sont composés selon votre décoration, votre image et la saison, pour un hall d'entreprise, une réception d'hôtel, un restaurant ou une salle de réunion de direction. Paysagiste et décorateur végétal des entreprises depuis 1999, nous assurons ce service depuis notre base du sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France. Vous choisissez la fréquence de renouvellement et le style (classique, contemporain, exotique), nous faisons le reste : création, livraison, mise en place, reprise des contenants. ",
+          "marks": []
+        },
+        {
+          "_type": "pending",
+          "_key": "a2092f63a2f9",
+          "note": "fréquences proposées"
+        },
+        {
+          "_type": "span",
+          "_key": "82ad38f88521",
+          "text": " L'abonnement floral complète naturellement la location de plantes vertes pour composer un accueil impeccable. Demandez un devis gratuit selon votre fréquence et vos emplacements.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "abonnement floral pour entreprises",
+    "areaServed": [
+      "Île-de-France",
+      "Provence-Alpes-Côte d'Azur"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "784ef0059227",
+      "title": "Comment fonctionne l'abonnement",
+      "_type": "sectionSteps",
+      "layout": "horizontal",
+      "intro": [],
+      "steps": [
+        {
+          "_key": "6c4c04be8f82",
+          "lead": "Brief",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "06cb3f00aa09",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "bf9e9998a83a",
+                  "text": "style, couleurs, contenants, emplacements, budget, fréquence de renouvellement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "0fdf6a63ef21",
+          "lead": "Création",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "e076fa133a86",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "6d0e1050797b",
+                  "text": "nos fleuristes composent des bouquets de saison en accord avec votre décoration. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "5dd8b53aacfc",
+                  "note": "confirmer qui compose (fleuristes internes ou partenaires)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "ac3e7b007d7a",
+          "lead": "Livraison et mise en place",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "ac9c95776042",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "9a3e61b6bcc8",
+                  "text": "à date fixe, avec reprise de la composition précédente et des contenants.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "5a9295d8fa43",
+          "lead": "Ajustements",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "f04b1d726c61",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "08d55d01921d",
+                  "text": "le style évolue selon vos retours et les saisons, sans démarche de votre part.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "5fd7e33e01c8",
+      "title": "Pour qui",
+      "_type": "sectionChecklist",
+      "items": [
+        {
+          "_key": "d96adb142a1f",
+          "lead": "Accueils d'entreprises",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "3af0af21718a",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "9d4650d4e894",
+                  "text": "la première impression de vos visiteurs et candidats.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "4ac2bbff5b52",
+          "lead": "Hôtels et restaurants",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "b02b70815b85",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "14019988a920",
+                  "text": "réception, salles, tables de prestige.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "51eac6b471a2",
+          "lead": "Directions et salles de conseil",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "06be19ff5cbf",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "d36550fc4422",
+                  "text": "compositions discrètes et soignées.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "bf0d80b16262",
+          "lead": "Événements récurrents",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "6f946e26bbbc",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "668f37d8c8de",
+                  "href": "/location-plantes-evenementiel/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "e973a64ce098",
+                  "text": "comités, assemblées, rendez-vous clients. Pour un événement ponctuel, voir la ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "5a73b747ec74",
+                  "text": "location de plantes pour événements",
+                  "marks": [
+                    "668f37d8c8de"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "07fd89a40a37",
+                  "text": ".",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/plante-grasse",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "f8b5f622dcf9",
+      "title": "Réalisations",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "cf2f328d2485",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "ec2b67d54675",
+          "question": "À quelle fréquence les fleurs sont-elles renouvelées ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "264c3f3470ca",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "3977dced04b7",
+                  "text": "La fréquence est choisie au contrat selon vos emplacements et votre budget. Chaque livraison comprend la mise en place de la nouvelle composition et la reprise de la précédente. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "e3e097dc79d8",
+                  "note": "fréquences exactes proposées"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "5e5ad0b76c76",
+          "question": "Peut-on choisir le style des compositions ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "7ed28031fea3",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "cf06ed6df6eb",
+                  "text": "Oui. Le style est défini au départ avec vous (classique, contemporain, exotique, couleurs de votre charte) et nos compositions suivent ensuite les saisons dans ce cadre. Vous pouvez le faire évoluer à tout moment.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "1625434cebb5",
+          "question": "Livrez-vous les fleurs partout en France ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "8665243ef242",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "6e75d23a0574",
+                  "text": "Le service floral est assuré en Île-de-France et en Provence-Alpes-Côte d'Azur. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "38c07d9eb6f5",
+                  "note": "confirmer la zone exacte de livraison florale par agence"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "fbea31c7083e",
+          "question": "Proposez-vous aussi des plantes vertes avec l'abonnement floral ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "9ee0df7c8a64",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "6153f0b97fb4",
+                  "href": "/location-plantes-bureau/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "eaef52968c5b",
+                  "text": "Oui, les deux services se complètent : plantes vertes en ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "2978e0c34dbe",
+                  "text": "location avec entretien",
+                  "marks": [
+                    "6153f0b97fb4"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "d051bf1ddf82",
+                  "text": " pour structurer les espaces, fleurs fraîches en abonnement pour les points d'accueil. Un seul interlocuteur et un seul contrat si vous le souhaitez.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/bouquet-fleurs",
+    "alt": "Abonnement fleurs",
+    "width": 500,
+    "height": 500
+  },
+  "answerImage": {
+    "src": "/img/alocasia",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/paysagisme-interieur/",
+      "name": "Paysagisme d'intérieur"
+    },
+    "items": [
+      {
+        "_key": "329a970dfa7f",
+        "title": "Location de plantes",
+        "href": "/location-plantes-bureau/",
+        "image": {
+          "src": "/img/plante-grasse",
+          "alt": "",
+          "width": 1200,
+          "height": 800
+        }
+      },
+      {
+        "_key": "3b69df951b3d",
+        "title": "Entretien de plantes",
+        "href": "/entretien-plantes-entreprise/",
+        "image": {
+          "src": "/img/entretien-plantes",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "6cc71d91778f",
+        "title": "Murs végétaux",
+        "href": "/mur-vegetal-interieur/",
+        "image": {
+          "src": "/img/mur-vegetal",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

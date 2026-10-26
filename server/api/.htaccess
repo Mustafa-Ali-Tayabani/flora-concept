@@ -1,0 +1,8 @@
+# Only the quote endpoint is reachable in /api/.
+Options -Indexes
+<FilesMatch ".*">
+  Require all denied
+</FilesMatch>
+<Files "devis.php">
+  Require all granted
+</Files>

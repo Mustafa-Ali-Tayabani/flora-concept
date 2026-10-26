@@ -1,0 +1,605 @@
+{
+  "_id": "page-p18a",
+  "slug": "/entretien-espaces-verts-copropriete/",
+  "template": "service",
+  "name": "Copropriétés et syndics",
+  "parent": {
+    "slug": "/espaces-verts-entreprise/",
+    "name": "Espaces verts d'entreprise"
+  },
+  "seo": {
+    "title": "Entretien des espaces verts de copropriété en PACA",
+    "description": "Contrat annuel d'entretien des espaces verts pour copropriétés et syndics à Marseille, Aix, Toulon et en PACA : passages planifiés, compte rendu, devis gratuit."
+  },
+  "h1": "Entretien des espaces verts de copropriété : un contrat annuel clair pour les syndics",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "785a7925363b",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "831376f92ed0",
+          "text": "Flora Concept assure l'entretien des espaces verts de copropriété en Provence-Alpes-Côte d'Azur avec un contrat annuel : tonte, taille des haies, débroussaillage, nettoyage des allées et des parkings, ramassage des feuilles, arrosage et élagage, selon un planning de passages fixé à l'avance. Le syndic ou le gestionnaire dispose d'un interlocuteur unique, d'un tarif annuel connu avant l'assemblée générale et d'un compte rendu après chaque intervention, utilisable pour répondre aux copropriétaires. Nous intervenons sur les résidences de Marseille, Aubagne, Aix-en-Provence, Toulon et du Var, d'Avignon et de la Côte d'Azur, avec du matériel d'entretien entièrement électrique, donc silencieux pour les résidents. Entreprise d'espaces verts depuis 1999, nous reprenons aussi les résidences dont le jardin a été laissé de côté, avec une remise en état avant le contrat. Demandez un devis gratuit : un paysagiste visite la résidence et vous remet une proposition prête à présenter en conseil syndical.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "marseille",
+  "outdoor": true,
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "entretien des espaces verts de copropriété",
+    "areaServed": [
+      "Provence-Alpes-Côte d'Azur"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "befa2b19820d",
+      "title": "Ce que couvre le contrat annuel",
+      "_type": "sectionChecklist",
+      "items": [
+        {
+          "_key": "789ef3d6e119",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "27b37cbcd1da",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "14b21325096d",
+                  "text": "Tonte des pelouses et finition des bordures",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "d3a3c101936b",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "6c201efaf928",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "1f6ae7aaf57c",
+                  "text": "Taille des haies, arbustes et massifs, selon la saison et les espèces",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "9d9859ef101e",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "0200320ae3bc",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "9ae17b153a32",
+                  "text": "Débroussaillage des talus et des zones peu accessibles",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "b124524c4b1a",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "7c9fe6831f52",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "551220deeb36",
+                  "text": "Nettoyage des allées, des parkings, des aires de jeux et des abords des locaux poubelles",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "e0837d45b42d",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "7cb3f42379df",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "a6990ed96e2c",
+                  "text": "Ramassage des feuilles et évacuation des déchets verts",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "9b42c60dfb2b",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "282c0a20f052",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "fee8346a5a40",
+                  "text": "Arrosage automatique : vérification, programmation saisonnière, réparations",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "2f70e239c7a5",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "011c945f30ce",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "533958a2148a",
+                  "text": "Élagage des arbres de la résidence sur un planning pluriannuel, en option ou en prestation séparée",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "7161a2409087",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "870f1bf229da",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "3ca192bd7558",
+                  "text": "Compte rendu après chaque passage, avec photos",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [
+        {
+          "_type": "block",
+          "_key": "259fe583ddd6",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "04b69e5006d3",
+              "text": "Le nombre de passages est adapté à la résidence : plus fréquent au printemps et en été, allégé en hiver. Le planning annuel est joint au contrat, le syndic sait à l'avance quand nous passons.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/arrosage-automatique",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "e6ba73dc9533",
+      "title": "Pour les syndics et les gestionnaires",
+      "_type": "sectionArguments",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "fbaacb960902",
+          "lead": "Un interlocuteur unique",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "1592af7e76a7",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "cedf5ccd8253",
+                  "text": "pour toutes vos résidences en PACA, joignable directement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "784e92401558",
+          "lead": "Une proposition prête pour l'assemblée générale",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "cf7579954ba3",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "00fd4b4549a1",
+                  "text": "périmètre, planning, tarif annuel, sans surprise en cours d'année.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "ff33a8f10515",
+          "lead": "Des comptes rendus par passage",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "e83f7664870c",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "5bbd5046c9b4",
+                  "text": "pour répondre aux copropriétaires et au conseil syndical sans vous déplacer.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "2e5a616a2cb3",
+          "lead": "Des interventions silencieuses",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "6a08d626bc55",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "f0a3865870d4",
+                  "text": "grâce à notre matériel électrique : pas de plainte pour le bruit du souffleur à 8 h du matin.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "54164c3db2c5",
+          "lead": "La continuité",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "081be7c370bf",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "eeb8f1dbcd3e",
+                  "text": "nos jardiniers sont salariés, la résidence est suivie par la même équipe d'une année sur l'autre.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [
+        {
+          "_type": "block",
+          "_key": "23e24d90c697",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "91d5e6728240",
+              "text": "Un syndic gère plusieurs résidences et beaucoup de prestataires. Ce que nous apportons :",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "3aec82c18ccc",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "ad5955c85036",
+              "text": "Nous répondons aux consultations et aux mises en concurrence des syndics, y compris pour plusieurs résidences à la fois, avec une visite sur place avant tout chiffrage.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/entretien-exterieur",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "4b3dd95e69e7",
+      "title": "Remise en état avant contrat",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "c6d28f73737f",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "071819749594",
+              "text": "Résidence reprise à un prestataire défaillant, jardin laissé à l'abandon depuis des mois, haies jamais taillées : nous commençons par une remise en état chiffrée à part (débroussaillage, taille de rattrapage, élagage, réfection des massifs, remise en route de l'arrosage), puis le contrat annuel prend le relais pour maintenir le résultat.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/terrasse",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "715e82fa3b62",
+      "title": "Réalisations",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "5378c3d8a941",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "619b7f2c7440",
+          "question": "Comment se passe la mise en place d'un contrat d'entretien pour une copropriété ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "4b19229e380e",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "bc4d45844d46",
+                  "text": "Un paysagiste visite la résidence, relève les surfaces et les végétaux, puis vous remet une proposition avec le périmètre, le planning annuel et le tarif. Le syndic la présente en conseil syndical ou en assemblée générale. Le contrat démarre à la date convenue, souvent au début du printemps.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "be69557045e8",
+          "question": "Combien de passages par an prévoyez-vous ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "0104cf3b4505",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "b25b748a59d8",
+                  "text": "Cela dépend de la résidence : surfaces de pelouse, longueur de haies, arbres, arrosage. Le planning est plus dense d'avril à octobre et allégé en hiver ; il est fixé au contrat après la visite de la résidence.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "3c457ce18c2e",
+          "question": "Fournissez-vous un compte rendu après chaque intervention ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "e9a20a4af61c",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0f23eb04fa3d",
+                  "text": "Oui. Chaque passage donne lieu à un compte rendu daté, avec photos, que le syndic peut transmettre au conseil syndical.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "ca59bcd3da4d",
+          "question": "L'élagage des arbres est-il compris dans le contrat ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "54f9c5db0180",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "d27c5a6872d7",
+                  "href": "/elagage-entreprise-marseille-aix/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "827ac818d422",
+                  "text": "L'élagage est planifié sur plusieurs années et chiffré séparément, car il dépend de chaque arbre. Nous l'intégrons au contrat si vous le souhaitez, ou nous le réalisons en prestation ponctuelle : voir notre page ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "93e35532e8c2",
+                  "text": "élagage et débroussaillage",
+                  "marks": [
+                    "d27c5a6872d7"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "1955bfd45234",
+                  "text": ".",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "30b601f0cbe1",
+          "question": "Intervenez-vous aussi dans les halls et les parties communes intérieures ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "4080612570be",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "0fb0a8a62cbe",
+                  "href": "/location-plantes-bureau/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "9bd7909ea32c",
+                  "text": "Oui, pour les plantes : ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "dc1e5e97b303",
+                  "text": "location et entretien de plantes",
+                  "marks": [
+                    "0fb0a8a62cbe"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "25c65868b540",
+                  "text": " dans les halls d'immeubles et les accueils de résidences, avec les mêmes équipes. Un seul prestataire pour l'intérieur et l'extérieur de la résidence.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/equipe-espaces-verts",
+    "alt": "Copropriétés et syndics",
+    "width": 1448,
+    "height": 1086
+  },
+  "answerImage": {
+    "src": "/img/amenagement",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/espaces-verts-entreprise/",
+      "name": "Espaces verts d'entreprise"
+    },
+    "items": [
+      {
+        "_key": "736cca45634b",
+        "title": "Création et aménagement",
+        "href": "/creation-amenagement-espaces-verts/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/amenagement",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "31e32558fdf2",
+        "title": "Élagage et débroussaillage",
+        "href": "/elagage-entreprise-marseille-aix/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/elagage",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "4a4ab4544802",
+        "title": "Terrasses végétalisées",
+        "href": "/terrasses-vegetalisees-entreprise/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/terrasse",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

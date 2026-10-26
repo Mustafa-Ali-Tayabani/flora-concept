@@ -1,0 +1,59 @@
+/* Design tokens from the approved design (design/build/gen-v5.js THEMES).
+   Two tones: `dark` (default, forest green) and `surface` (cream band).
+   Components only read the semantic custom properties (--fg, --mu, …), so the
+   same component renders correctly in either tone. */
+
+:root {
+  --forest: #12201a;
+  --forest-2: #1b2e24;
+  --forest-3: #0b140f;
+  --moss: #3d5a40;
+  --cream: #f1ece1;
+  --paper: #faf7f0;
+  --lime: #d6e26b;
+  --lime-brand: #c4d401;
+  --error: #b3261e;
+
+  --font-display: 'Bricolage Grotesque', 'Bricolage Fallback', system-ui, sans-serif;
+  --font-serif: 'Instrument Serif', Georgia, serif;
+  --font-body: 'Familjen Grotesk', system-ui, -apple-system, 'Segoe UI', sans-serif;
+
+  --wrap: 1360px;
+  --gutter: clamp(20px, 4vw, 56px);
+  --band-radius: clamp(28px, 3.5vw, 56px);
+  --band-margin: clamp(8px, 1vw, 16px);
+  --section-pad: clamp(48px, 6vw, 88px);
+  --ease-out: cubic-bezier(0.16, 1, 0.3, 1);
+  --header-h: 92px;
+}
+
+.tone-dark,
+:root {
+  --fg: var(--cream);
+  --mu: rgba(241, 236, 225, 0.74);
+  --ln: rgba(241, 236, 225, 0.15);
+  --sf: rgba(241, 236, 225, 0.07);
+  --card: rgba(241, 236, 225, 0.05);
+  --ac: var(--lime);
+  --bg: var(--forest);
+  --ph: rgba(241, 236, 225, 0.08);
+  /* featured (first) bento card */
+  --fb: var(--lime);
+  --ff: var(--forest);
+  --fa: var(--forest);
+}
+
+.tone-surface {
+  --fg: var(--forest);
+  --mu: #3f4f45;
+  --ln: rgba(18, 32, 26, 0.16);
+  --sf: rgba(18, 32, 26, 0.05);
+  --card: var(--paper);
+  --ac: var(--moss);
+  --bg: var(--cream);
+  --ph: #e3dccb;
+  --fb: var(--forest);
+  --ff: var(--cream);
+  --fa: var(--lime);
+  color: var(--fg);
+}

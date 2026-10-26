@@ -1,0 +1,8 @@
+/* Flora Concept: global styles (tokens, fonts, base, shared primitives).
+   Component-specific styles live next to their components. */
+
+@use 'styles/fonts';
+@use 'styles/tokens';
+@use 'styles/base';
+@use 'styles/primitives';
+@use 'styles/motion';

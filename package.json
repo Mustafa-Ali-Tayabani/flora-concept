@@ -1,0 +1,34 @@
+{
+  "name": "flora-concept",
+  "private": true,
+  "description": "Flora Concept website: Angular static site (web/), Sanity Studio (studio/), PHP quote endpoint (server/).",
+  "workspaces": [
+    "web",
+    "studio"
+  ],
+  "engines": {
+    "node": ">=24.15.0"
+  },
+  "scripts": {
+    "content:import-md": "node scripts/import-markdown.mjs",
+    "content:sync": "node --env-file-if-exists=.env scripts/sync-content.mjs",
+    "content:guard": "node scripts/content-guard.mjs",
+    "images": "node scripts/optimize-images.mjs",
+    "dev": "npm run content:sync && npm run start -w web",
+    "build": "npm run content:sync && npm run build -w web && node scripts/postbuild.mjs",
+    "build:strict": "npm run content:sync && npm run content:guard -- --strict && npm run build -w web && node scripts/postbuild.mjs",
+    "preview": "node scripts/preview-server.mjs",
+    "test": "npm run test -w web -- --watch=false",
+    "test:redirects": "node --env-file-if-exists=.env scripts/check-redirects.mjs",
+    "audit:site": "node scripts/audit-site.mjs",
+    "studio": "npm run dev -w studio",
+    "studio:seed": "node --env-file-if-exists=.env scripts/seed-sanity.mjs"
+  },
+  "devDependencies": {
+    "@fontsource-variable/bricolage-grotesque": "^5.2.10",
+    "@fontsource-variable/familjen-grotesk": "^5.2.8",
+    "@fontsource/instrument-serif": "^5.2.8",
+    "@sanity/client": "^7.12.0",
+    "sharp": "^0.34.5"
+  }
+}

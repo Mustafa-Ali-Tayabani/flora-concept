@@ -1,0 +1,508 @@
+{
+  "_id": "page-p11",
+  "slug": "/entretien-location-plantes-nice/",
+  "template": "city",
+  "name": "Nice et Côte d'Azur",
+  "seo": {
+    "title": "Location et entretien de plantes à Nice, Côte d'Azur",
+    "description": "Location de plantes, entretien et murs végétaux pour les entreprises à Nice, Cannes, Antibes, Sophia Antipolis et Monaco. Jardiniers locaux, devis gratuit."
+  },
+  "h1": "Location et entretien de plantes pour les entreprises à Nice et sur la Côte d'Azur",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "4dcee7f85df4",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "db00e4fdc8a6",
+          "text": "Les équipes niçoises de Flora Concept assurent la location de plantes à Nice et sur toute la Côte d'Azur : bureaux, hôtels, restaurants, résidences et commerces, de Monaco à Cannes en passant par Sophia Antipolis. Nos jardiniers installent les végétaux puis les entretiennent à chaque passage, remplacement compris ; nous reprenons aussi l'entretien des parcs de plantes existants après un diagnostic gratuit. Paysagiste d'intérieur depuis 1999, nous connaissons les spécificités des espaces azuréens : hôtellerie exigeante, halls de standing, terrasses et patios lumineux, climatisation continue en été. Nous réalisons également des murs végétaux naturels ou stabilisés et des cadres végétaux sur mesure, jusqu'au logo d'entreprise en végétal. Demandez un devis gratuit : un paysagiste de la région visite vos locaux et vous propose une solution adaptée à vos espaces et à votre image.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "nice",
+  "structuredData": {
+    "type": "Service",
+    "areaServed": [
+      "Alpes-Maritimes",
+      "Monaco"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "e30e49d63907",
+      "title": "Notre zone d'intervention sur la Côte d'Azur",
+      "_type": "sectionGroups",
+      "intro": [
+        {
+          "_type": "block",
+          "_key": "cd3f0c85b158",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "b66cd90e3946",
+              "href": "/entretien-location-plantes-marseille/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "6765c043a097",
+              "text": "Nice et sa métropole, Monaco, Cannes, Antibes, Sophia Antipolis, et plus largement les Alpes-Maritimes. ",
+              "marks": []
+            },
+            {
+              "_type": "pending",
+              "_key": "28903f610228",
+              "note": "communes et limites exactes de la zone, fréquence des tournées par secteur"
+            },
+            {
+              "_type": "span",
+              "_key": "091d039b02dd",
+              "text": " Pour le Var et les Bouches-du-Rhône, voir la ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "88547be11308",
+              "text": "zone Marseille et Provence",
+              "marks": [
+                "b66cd90e3946"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "af7166a5d6dd",
+              "text": ".",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "_key": "f90a34bcd66e",
+          "title": "Sophia Antipolis et les entreprises technologiques",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "9f3bdbf60524",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "74da6152f5b2",
+                  "text": "Open spaces, plateaux d'équipes et espaces détente des entreprises de la technopole : la location avec entretien compris reste la formule la plus demandée, avec des passages planifiés sans perturber les équipes. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "34c66477519b",
+                  "note": "référence réelle à Sophia Antipolis, sinon garder la section sans référence"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "f597ae7c454f",
+          "title": "Hôtels et restaurants de la Côte",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "540d3e47795c",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "1cf9ade625b5",
+                  "text": "Lobbies, terrasses couvertes, spas et restaurants : l'exigence esthétique de l'hôtellerie azuréenne demande des végétaux irréprochables et des passages discrets, souvent en dehors des heures d'affluence. Les murs et cadres stabilisés complètent les plantes vivantes dans les zones sans lumière. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "97e01b6f38ed",
+                  "note": "références hôtelières avec accord écrit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "9dbb7f83a82d",
+          "title": "Monaco",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "fcd72fa5e790",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "dca7d04102c3",
+                  "text": "Nous intervenons en Principauté pour les bureaux, hôtels et résidences. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "ee49886656ea",
+                  "note": "confirmer les modalités d'intervention à Monaco"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/plante-grasse",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "c6cf93cb5f3e",
+      "title": "Nos services à Nice",
+      "_type": "sectionChecklist",
+      "items": [
+        {
+          "_key": "e0cc7b71e9bf",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "89d79a520700",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "b2029ba5ea10",
+                  "href": "/location-plantes-bureau/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "eac6819d6e57",
+                  "text": "Location de plantes avec entretien",
+                  "marks": [
+                    "b2029ba5ea10"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "fab19abfc186",
+                  "text": " : la formule tout compris pour les bureaux et accueils",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "7fd2b74e8017",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "cea6475abf50",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "4f2706558a59",
+                  "href": "/entretien-plantes-entreprise/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "a79e9a409bde",
+                  "text": "Entretien de parcs existants",
+                  "marks": [
+                    "4f2706558a59"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "27cfac714811",
+                  "text": " : diagnostic gratuit puis contrat sur mesure",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "dbe8ddfe63ca",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "d2e19c4182d6",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "8ff059157542",
+                  "href": "/mur-vegetal-interieur/"
+                },
+                {
+                  "_type": "link",
+                  "_key": "3da7e2c21445",
+                  "href": "/cadres-vegetaux-plantes-stabilisees/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "53c53c5d2b63",
+                  "text": "Murs végétaux",
+                  "marks": [
+                    "8ff059157542"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "d9fce1720031",
+                  "text": " naturels ou stabilisés et ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "6d3eeb1a2cc4",
+                  "text": "cadres végétaux",
+                  "marks": [
+                    "3da7e2c21445"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "d69b923df614",
+                  "text": " avec ou sans logo",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "00a6915f2bd3",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "a08521661658",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "4c87e5e9fc1a",
+                  "href": "/abonnement-fleurs-entreprise/"
+                },
+                {
+                  "_type": "link",
+                  "_key": "8666e1e6084d",
+                  "href": "/fleurs-sapins-noel/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "ff5ae4a7485c",
+                  "text": "Abonnement floral",
+                  "marks": [
+                    "4c87e5e9fc1a"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "07eb1cd77ab3",
+                  "text": " pour les accueils et réceptions, ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "d8e4bbea3af2",
+                  "text": "décors de Noël",
+                  "marks": [
+                    "8666e1e6084d"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "9170981d59d0",
+                  "text": " en fin d'année",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/entretien-plantes",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "8fc1bb57c95f",
+      "title": "Références sur la Côte d'Azur",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "a093a39de68a",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "794bb3681bab",
+          "question": "Dans quelles villes intervenez-vous autour de Nice ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "b6c3f8f43516",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "de9a90c16b82",
+                  "text": "Nos équipes couvrent Nice, Monaco, Cannes, Antibes, Sophia Antipolis et les Alpes-Maritimes. Les passages d'entretien sont organisés en tournées par secteur, ce qui garantit une fréquence régulière sur toute la zone. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "2a8ae2469569",
+                  "note": "zone exacte"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "29da9bc33b14",
+          "question": "Travaillez-vous avec les hôtels de la Côte d'Azur ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "7919ae519f96",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "86e55aec99bf",
+                  "text": "Oui, l'hôtellerie est au cœur de notre activité azuréenne : plantes de lobby, terrasses couvertes, spas et restaurants, avec des passages d'entretien discrets adaptés aux heures creuses de l'établissement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "a85f2d02e23c",
+          "question": "Proposez-vous des plantes adaptées à la climatisation ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "3acc03b58fc0",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "84b0b577501b",
+                  "text": "Oui. La climatisation continue des étés azuréens assèche l'air et éprouve les végétaux : nos paysagistes sélectionnent des espèces qui la tolèrent et ajustent l'arrosage à chaque passage. C'est l'un des premiers critères de notre choix d'espèces.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "32e9d389ede4",
+          "question": "Comment obtenir un devis à Nice ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "e1c1bfebab6b",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "8df1bd5982b6",
+                  "text": "Remplissez le formulaire de devis en précisant vos espaces, ou appelez-nous directement. Un paysagiste local vous rappelle, visite vos locaux si nécessaire et vous envoie une proposition détaillée, gratuite et sans engagement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/nice-hotel",
+    "alt": "Nice et Côte d'Azur",
+    "width": 500,
+    "height": 500
+  },
+  "answerImage": {
+    "src": "/img/alocasia",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/paysagisme-interieur/",
+      "name": "Paysagisme d'intérieur"
+    },
+    "items": [
+      {
+        "_key": "395ea62457ba",
+        "title": "Location de plantes",
+        "href": "/location-plantes-bureau/",
+        "image": {
+          "src": "/img/plante-grasse",
+          "alt": "",
+          "width": 1200,
+          "height": 800
+        }
+      },
+      {
+        "_key": "83950160648e",
+        "title": "Entretien de plantes",
+        "href": "/entretien-plantes-entreprise/",
+        "image": {
+          "src": "/img/entretien-plantes",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "aeaa8a872d9d",
+        "title": "Murs végétaux",
+        "href": "/mur-vegetal-interieur/",
+        "image": {
+          "src": "/img/mur-vegetal",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

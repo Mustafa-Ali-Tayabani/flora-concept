@@ -1,0 +1,28 @@
+# Dependencies & builds
+node_modules/
+web/dist/
+web/.angular/
+studio/dist/
+studio/.sanity/
+.cache/
+
+# Generated at build time from Sanity / content/seed
+web/public/content/
+
+# Secrets
+.vercel/
+.env
+.env.*
+!.env.example
+devis.config.php
+
+# OS / editors
+.DS_Store
+*.log
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Design hand-off: the bundled preview (27 MB) and raw screenshots are not source
+design/Flora Concept.html
+design/uploads/pasted-*.png

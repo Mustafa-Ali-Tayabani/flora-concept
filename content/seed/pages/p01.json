@@ -1,0 +1,647 @@
+{
+  "_id": "page-p01",
+  "slug": "/",
+  "template": "home",
+  "name": "Accueil",
+  "seo": {
+    "title": "Flora Concept : paysagiste d'intérieur pour entreprises",
+    "description": "Location et entretien de plantes, murs végétaux et cadres stabilisés pour bureaux, hôtels et résidences, en PACA et en Île-de-France. Devis gratuit."
+  },
+  "h1": "Des espaces de travail plus verts, sans vous en occuper",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "da4b9237bacc",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "356a192b7913",
+          "text": "Flora Concept est un spécialiste du paysagisme d'intérieur pour les entreprises depuis 1999 : location et entretien de plantes, murs végétaux et cadres végétaux stabilisés, basé dans le sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "WebPage",
+    "localBusiness": true
+  },
+  "sections": [
+    {
+      "_key": "902ba3cda188",
+      "_type": "sectionProfiles",
+      "tone": "dark",
+      "items": [
+        {
+          "_key": "fe5dbbcea5ce",
+          "title": "Bureaux et sièges sociaux",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "b1d5781111d8",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0ade7c2cf97f",
+                  "text": "plantes en location avec entretien compris, pour l'accueil, les open spaces et les salles de réunion.",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "href": "/location-plantes-bureau/",
+          "tag": "Location de plantes",
+          "image": {
+            "src": "/img/plante-grasse",
+            "alt": "",
+            "width": 1200,
+            "height": 800
+          }
+        },
+        {
+          "_key": "17ba0791499d",
+          "title": "Hôtels, restaurants et résidences",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "bd307a3ec329",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "7b52009b64fd",
+                  "text": "ambiances végétales durables pour les halls, lobbies et espaces communs.",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "href": "/paysagisme-interieur/",
+          "tag": "Paysagisme d'intérieur",
+          "image": {
+            "src": "/img/alocasia",
+            "alt": "",
+            "width": 500,
+            "height": 500
+          }
+        },
+        {
+          "_key": "fa35e192121e",
+          "title": "Syndics et gestionnaires",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "1574bddb75c7",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "f1abd670358e",
+                  "text": "un prestataire unique pour végétaliser et entretenir plusieurs sites, de Paris à la Méditerranée.",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "href": "/vegetalisation-bureaux-multisites-paris-paca/",
+          "tag": "Multi-sites",
+          "image": {
+            "src": "/img/banner-paysagisme",
+            "alt": "",
+            "width": 1672,
+            "height": 941
+          }
+        }
+      ]
+    },
+    {
+      "_key": "0716d9708d32",
+      "title": "Nos services",
+      "_type": "sectionCards",
+      "tone": "dark",
+      "cards": [
+        {
+          "_key": "9e6a55b6b456",
+          "title": "Location de plantes",
+          "href": "/location-plantes-bureau/",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "91032ad7bbcb",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "b3f0c7f6bb76",
+                  "text": "des plantes adaptées à vos espaces, installées et remplacées par nos équipes, sans investissement.",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "/img/plante-grasse",
+            "alt": "",
+            "width": 1200,
+            "height": 800
+          }
+        },
+        {
+          "_key": "472b07b9fcf2",
+          "title": "Entretien de plantes",
+          "href": "/entretien-plantes-entreprise/",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "d435a6cdd786",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "12c6fc06c99a",
+                  "text": "un contrat d'entretien pour vos plantes, avec des passages réguliers de nos jardiniers.",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "/img/entretien-plantes",
+            "alt": "",
+            "width": 500,
+            "height": 500
+          }
+        },
+        {
+          "_key": "4d134bc07221",
+          "title": "Murs végétaux",
+          "href": "/mur-vegetal-interieur/",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "887309d048be",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "f6e1126cedeb",
+                  "text": "naturels ou stabilisés, sur mesure, pour vos halls et espaces d'accueil.",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "/img/mur-vegetal",
+            "alt": "",
+            "width": 500,
+            "height": 500
+          }
+        },
+        {
+          "_key": "bc33ea4e26e5",
+          "title": "Cadres végétaux stabilisés",
+          "href": "/cadres-vegetaux-plantes-stabilisees/",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "7719a1c782a1",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0a57cb53ba59",
+                  "text": "tableaux et logos végétaux sans arrosage, fabriqués sur mesure.",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "/img/cadre-vegetal",
+            "alt": "",
+            "width": 500,
+            "height": 500
+          }
+        },
+        {
+          "_key": "22d200f8670d",
+          "title": "Fleurs et événementiel",
+          "href": "/abonnement-fleurs-entreprise/",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "cb4e5208b4cd",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "632667547e7c",
+                  "text": "abonnements floraux pour vos accueils et location de plantes pour vos événements.",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "/img/bouquet-fleurs",
+            "alt": "",
+            "width": 500,
+            "height": 500
+          }
+        },
+        {
+          "_key": "b6692ea5df92",
+          "title": "Noël en entreprise",
+          "href": "/fleurs-sapins-noel/",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "972a67c48192",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "f1f836cb4ea6",
+                  "text": "sapins, décorations et compositions de fin d'année, livrés et repris.",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "image": {
+            "src": "/img/sapin-de-noel",
+            "alt": "",
+            "width": 500,
+            "height": 500
+          }
+        },
+        {
+          "_key": "fc074d501302",
+          "title": "Espaces verts d'entreprise",
+          "href": "/espaces-verts-entreprise/",
+          "badge": "PACA",
+          "image": {
+            "src": "/img/entretien-exterieur",
+            "alt": "",
+            "width": 1200,
+            "height": 800
+          }
+        },
+        {
+          "_key": "cb7a1d775e80",
+          "title": "Ruches en entreprise",
+          "href": "/ruches-entreprise/",
+          "badge": "PACA"
+        }
+      ]
+    },
+    {
+      "_key": "5b384ce32d8c",
+      "title": "Pourquoi Flora Concept",
+      "_type": "sectionArguments",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "ca3512f4dfa9",
+          "lead": "Depuis 1999",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "761f22b2c159",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "af3e133428b9",
+                  "text": "plus de 25 ans de paysagisme d'intérieur au service des entreprises.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "92cfceb39d57",
+          "lead": "Des jardiniers salariés",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "fb644351560d",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0286dd552c9b",
+                  "text": "l'installation et l'entretien sont réalisés par nos équipes, pas par des sous-traitants anonymes. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "98fbc42faedc",
+                  "note": "confirmer la formulation exacte (effectif, statut des équipes)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "fe2ef495a115",
+          "lead": "Deux régions couvertes par nos équipes",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "64e095fe763f",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "827bfc458708",
+                  "text": "la Provence-Alpes-Côte d'Azur (Marseille, Aix, Toulon, Nice, Cannes, Sophia Antipolis, Avignon) et l'Île-de-France (Paris, La Défense, Hauts-de-Seine), depuis notre base de Gémenos (13).",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "2e01e1746789",
+          "lead": "Remplacement compris",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "a9334987ece7",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "e1822db470e6",
+                  "text": "une plante qui faiblit est remplacée dans le cadre du contrat. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "b7eb6c689c03",
+                  "note": "confirmer les conditions exactes de remplacement"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/alocasia",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "c5b76da3e608",
+      "title": "Nos zones d'intervention",
+      "_type": "sectionRegions",
+      "tone": "dark",
+      "regions": [
+        {
+          "_key": "80e28a51cbc2",
+          "title": "Provence-Alpes-Côte d'Azur",
+          "tag": "Intérieur et extérieur",
+          "cities": [
+            "Marseille et Aubagne",
+            "Aix-en-Provence",
+            "Toulon et le Var",
+            "Nice",
+            "Cannes",
+            "Antibes",
+            "Sophia Antipolis",
+            "Monaco",
+            "Avignon et le Vaucluse"
+          ],
+          "links": [
+            {
+              "_key": "8effee409c62",
+              "label": "Marseille et Provence",
+              "href": "/entretien-location-plantes-marseille/"
+            },
+            {
+              "_key": "54ceb91256e8",
+              "label": "Nice et Côte d'Azur",
+              "href": "/entretien-location-plantes-nice/"
+            }
+          ],
+          "image": {
+            "src": "/img/banner-espaces-verts",
+            "alt": "",
+            "width": 1672,
+            "height": 941
+          }
+        },
+        {
+          "_key": "9109c85a45b7",
+          "title": "Île-de-France",
+          "tag": "Paysagisme d'intérieur",
+          "cities": [
+            "Paris",
+            "La Défense",
+            "Hauts-de-Seine"
+          ],
+          "links": [
+            {
+              "_key": "667be543b022",
+              "label": "Paris et Île-de-France",
+              "href": "/location-entretien-plantes-bureau-paris/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "5a5b0f9b7d3f",
+      "title": "Ils nous font confiance",
+      "_type": "sectionLogos",
+      "logos": []
+    },
+    {
+      "_key": "e6c3dd630428",
+      "title": "Comment ça se passe",
+      "_type": "sectionSteps",
+      "layout": "horizontal",
+      "intro": [],
+      "steps": [
+        {
+          "_key": "6c1e671f9af5",
+          "lead": "Visite et conseil",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "a17554a0d2b1",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "511a418e7259",
+                  "text": "un paysagiste visite vos locaux et étudie la lumière, les volumes et vos envies.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "c66c65175fec",
+          "lead": "Proposition sur mesure",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "59129aacfb6c",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "2a459380709e",
+                  "text": "vous recevez un devis détaillé avec les végétaux, les bacs et les fréquences d'entretien.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "4d89d294cd4c",
+          "lead": "Installation et suivi",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "a72b20062ec2",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "b4c96d80854d",
+                  "text": "nos équipes installent, puis entretiennent vos plantes à chaque passage.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "b7103ca278a7",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "d02560dd9d7d",
+          "question": "Dans quelles villes intervenez-vous ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "35e995c107a7",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "c097638f92de",
+                  "text": "Nos équipes couvrent deux régions : la Provence-Alpes-Côte d'Azur (Marseille, Aix-en-Provence, Toulon et le Var, Nice et les Alpes-Maritimes, Avignon et le Vaucluse) et l'Île-de-France (Paris, La Défense, Hauts-de-Seine). Pour les entreprises implantées sur plusieurs sites dans ces régions, un contrat unique suffit ; au-delà, nous étudions chaque demande.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "1f1362ea41d1",
+          "question": "Proposez-vous la location ou la vente de plantes ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "d54ad009d179",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "450ddec8dd20",
+                  "text": "Les deux. La location avec entretien compris est la formule la plus demandée par les entreprises : vous n'avancez pas d'investissement et vos plantes restent impeccables. L'achat avec contrat d'entretien est possible pour les projets d'aménagement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "d321d6f7ccf9",
+          "question": "Comment obtenir un devis ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "b74f5ee94614",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "eb4ac3033e8a",
+                  "text": "Remplissez le formulaire de devis (une minute suffit) ou appelez directement l'équipe de votre région. Un paysagiste vous recontacte, visite vos locaux si nécessaire et vous envoie une proposition détaillée. Le devis est gratuit et sans engagement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/hero-equipe",
+    "alt": "L'équipe Flora Concept",
+    "width": 1448,
+    "height": 1086
+  },
+  "microProof": [
+    {
+      "_type": "block",
+      "_key": "ac3478d69a3c",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "77de68daecd8",
+          "text": "Depuis 1999 · jardiniers salariés · plantes remplacées sans supplément ",
+          "marks": []
+        },
+        {
+          "_type": "pending",
+          "_key": "1b6453892473",
+          "note": "confirmer la formulation remplacement"
+        }
+      ]
+    }
+  ]
+}

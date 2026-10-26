@@ -1,0 +1,50 @@
+@for (r of rows(); track r.section._key) {
+  @let s = r.section;
+  @if (r.tight) {
+    <div class="wrap" aria-hidden="true">
+      <div class="band-divider">
+        <span class="band-divider__line"></span><span class="band-divider__dot"></span><fc-leaf /><span class="band-divider__dot"></span><span class="band-divider__line"></span>
+      </div>
+    </div>
+  }
+  <section
+    class="band"
+    [class.band--surface]="r.surface"
+    [class.tone-surface]="r.surface"
+    [class.band--tight]="r.tight"
+    [attr.id]="s.anchor || null"
+  >
+    <div class="wrap">
+      @if (s._type === 'sectionQuoteForm') {
+        <!-- The only interactive section: hydrated normally. -->
+        <fc-quote-form [section]="s" />
+      } @else {
+        <!--
+          Static content: rendered at build time, never hydrated (no JS cost on load).
+          On client-side navigation the block renders immediately.
+        -->
+        @defer (on immediate; hydrate never) {
+          @switch (s._type) {
+            @case ('sectionProfiles') { <fc-profiles [section]="s" /> }
+            @case ('sectionCards') { <fc-cards-section [section]="s" [num]="r.num" [outdoor]="outdoor()" /> }
+            @case ('sectionChecklist') { <fc-bento-section [section]="s" [num]="r.num" /> }
+            @case ('sectionArguments') { <fc-bento-section [section]="s" [num]="r.num" /> }
+            @case ('sectionFeature') { <fc-feature-section [section]="s" [num]="r.num" /> }
+            @case ('sectionGroups') { <fc-groups-section [section]="s" [num]="r.num" /> }
+            @case ('sectionTable') { <fc-table-section [section]="s" [num]="r.num" /> }
+            @case ('sectionSteps') { <fc-steps-section [section]="s" [num]="r.num" /> }
+            @case ('sectionText') { <fc-text-section [section]="s" [num]="r.num" /> }
+            @case ('sectionRegions') { <fc-regions-section [section]="s" [num]="r.num" /> }
+            @case ('sectionFaq') { <fc-faq-section [section]="s" [num]="r.num" [standalone]="faqPage()" /> }
+            @case ('sectionCaseStudies') { <fc-cases-section [section]="s" [num]="r.num" /> }
+            @case ('sectionLogos') { <fc-logos-section [section]="s" [num]="r.num" /> }
+            @case ('sectionTeam') { <fc-team-section [section]="s" [num]="r.num" /> }
+            @case ('sectionFigures') { <fc-figures-section [section]="s" [num]="r.num" /> }
+            @case ('sectionTimeline') { <fc-timeline-section [section]="s" [num]="r.num" /> }
+            @case ('sectionLegal') { <fc-legal-section [section]="s" /> }
+          }
+        }
+      }
+    </div>
+  </section>
+}

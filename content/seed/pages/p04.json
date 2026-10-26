@@ -1,0 +1,447 @@
+{
+  "_id": "page-p04",
+  "slug": "/entretien-plantes-entreprise/",
+  "template": "service",
+  "name": "Entretien de plantes",
+  "parent": {
+    "slug": "/paysagisme-interieur/",
+    "name": "Paysagisme d'intérieur"
+  },
+  "seo": {
+    "title": "Entretien de plantes en entreprise : contrat sur mesure",
+    "description": "Contrat d'entretien de plantes pour entreprises : passages réguliers de jardiniers, arrosage, taille, remplacement. Paris, Nice, Marseille et leurs régions."
+  },
+  "h1": "Entretien de plantes en entreprise : vos végétaux entre les mains de jardiniers",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "2815f6b98b7a",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "4c8205da3610",
+          "text": "Flora Concept assure l'entretien des plantes en entreprise avec un contrat sur mesure : un jardinier passe régulièrement dans vos locaux pour arroser, tailler, nettoyer le feuillage, fertiliser et remplacer les plantes qui faiblissent. Le service couvre aussi bien les plantes que nous louons que votre parc végétal existant, repris après un diagnostic. Entreprise d'entretien de plantes d'intérieur depuis 1999, nous intervenons auprès des bureaux, hôtels, résidences et commerces depuis notre base du sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France, sur l'Île-de-France, les Alpes-Maritimes, les Bouches-du-Rhône, le Var et le Vaucluse. La fréquence des passages est définie avec vous selon la taille du parc, les espèces et les conditions de vos locaux. Vous gardez un interlocuteur unique et des locaux impeccables toute l'année, sans mobiliser vos équipes. Demandez un devis gratuit : nous diagnostiquons votre parc et vous proposons un contrat adapté.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "entretien de plantes d'intérieur pour entreprises",
+    "areaServed": [
+      "Île-de-France",
+      "Provence-Alpes-Côte d'Azur"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "eadc1dd8fc27",
+      "title": "Ce que fait notre jardinier à chaque passage",
+      "_type": "sectionChecklist",
+      "items": [
+        {
+          "_key": "4f0f5c96ca84",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "0ec09ef9836d",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "52fdb9f68c50",
+                  "text": "Arrosage adapté à chaque espèce et à la saison",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "0b7f5ada6bdd",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "3c331613a26f",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "5d23e9656032",
+                  "text": "Taille, nettoyage du feuillage et retrait des parties sèches",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "5b7d26c4d99b",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "cae91e45aed8",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "584130e068c3",
+                  "text": "Fertilisation et surfaçage des substrats",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "9ffd1ae121c4",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "4af7f9edc0f5",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "851cd04fbcac",
+                  "text": "Contrôle sanitaire (parasites, maladies) et traitement si nécessaire",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "01592d51db5a",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "b4ef7df17d3d",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "3aed9b0313f9",
+                  "text": "Remplacement des sujets fatigués ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "3464dc11507c",
+                  "note": "conditions exactes du remplacement"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "ca3799b8ff86",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "d6e3de36b09b",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "ee44c6bcc4e0",
+                  "text": "Compte rendu à votre contact ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "ba30fd97b412",
+                  "note": "confirmer le format du reporting"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/plante-grasse",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "98fcc378d7f5",
+      "title": "Nous reprenons aussi les parcs existants",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "c439c60b7bf0",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "c9f13c161440",
+              "href": "/location-plantes-bureau/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "4c15dc21c916",
+              "text": "Vos plantes ont été achetées il y a des années et personne ne s'en occupe vraiment ? C'est le cas le plus fréquent. Nos paysagistes commencent par un diagnostic gratuit du parc : état de chaque sujet, rempotages à prévoir, sujets à remplacer. Vous recevez ensuite un contrat d'entretien clair, avec une fréquence de passage adaptée. Si certaines plantes sont trop abîmées, nous proposons leur remplacement, ou le passage à la ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "3028f51407d8",
+              "text": "location avec entretien compris",
+              "marks": [
+                "c9f13c161440"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "dd7c1a3d9d56",
+              "text": ", souvent plus simple à budget comparable.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/mur-vegetal",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "982fd8b71127",
+      "title": "Pour les services généraux et les office managers",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "065f8e41a20c",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "09d66f6e5482",
+              "href": "/vegetalisation-bureaux-multisites-paris-paca/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "5f573b82f1da",
+              "text": "Un contrat d'entretien Flora Concept, c'est un prestataire unique, des passages planifiés, un jardinier identifié et un résultat constant, sans gestion au quotidien. Nous travaillons avec les services généraux, les office managers et les facility managers, y compris sur des cahiers des charges et appels d'offres multi-sites : voir notre page ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "5d00f2c62873",
+              "text": "entreprises multi-sites",
+              "marks": [
+                "09d66f6e5482"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "1106a1dda2d6",
+              "text": ".",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/banner-paysagisme",
+        "alt": "",
+        "width": 1672,
+        "height": 941
+      }
+    },
+    {
+      "_key": "682a03f4cd9e",
+      "title": "Réalisations",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "25250e46745c",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "45cbe19f3771",
+          "question": "Que comprend un contrat d'entretien de plantes en entreprise ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "d5f0d9102728",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "81ecfd4383a1",
+                  "text": "Des passages réguliers d'un jardinier pour l'arrosage, la taille, le nettoyage, la fertilisation et le contrôle sanitaire, ainsi que le remplacement des plantes fatiguées selon les conditions du contrat. La fréquence et le périmètre sont définis au devis, après diagnostic de votre parc.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "9a61b86ecef7",
+          "question": "À quelle fréquence passez-vous ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "eb94d5c2be91",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "29350804a152",
+                  "text": "La fréquence dépend du nombre de plantes, des espèces et des conditions de vos locaux (lumière, climatisation). Elle est fixée au contrat après le diagnostic. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "ef7de0b7dedd",
+                  "note": "fréquence standard à citer en exemple"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "733b57ae9e45",
+          "question": "Pouvez-vous entretenir des plantes que nous avons achetées ailleurs ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "df518c2e0702",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "431bf3b995a9",
+                  "text": "Oui. Nous reprenons les parcs existants après un diagnostic gratuit : état des sujets, soins à prévoir, remplacements conseillés. Vous n'êtes pas obligé de louer nos plantes pour bénéficier de nos jardiniers.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "6d363479c974",
+          "question": "Utilisez-vous des produits phytosanitaires ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "68b5193fd0f5",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "pending",
+                  "_key": "f333160e6b20",
+                  "note": "politique exacte de traitement (lutte intégrée, produits utilisés, certifications éventuelles)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "1407c2b75f43",
+          "question": "Que deviennent nos plantes pendant les congés d'été ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "d8502b7d7748",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "ba613d1fc0d9",
+                  "text": "Nos passages continuent selon le planning du contrat, y compris pendant vos fermetures estivales si l'accès est organisé. C'est un point important en PACA, où chaleur et climatisation éprouvent les végétaux : nous adaptons l'arrosage en conséquence.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/entretien-plantes",
+    "alt": "Entretien de plantes",
+    "width": 500,
+    "height": 500
+  },
+  "answerImage": {
+    "src": "/img/alocasia",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/paysagisme-interieur/",
+      "name": "Paysagisme d'intérieur"
+    },
+    "items": [
+      {
+        "_key": "267b976f6f33",
+        "title": "Location de plantes",
+        "href": "/location-plantes-bureau/",
+        "image": {
+          "src": "/img/plante-grasse",
+          "alt": "",
+          "width": 1200,
+          "height": 800
+        }
+      },
+      {
+        "_key": "3032a4beba0c",
+        "title": "Murs végétaux",
+        "href": "/mur-vegetal-interieur/",
+        "image": {
+          "src": "/img/mur-vegetal",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "7f35419a058e",
+        "title": "Cadres végétaux stabilisés",
+        "href": "/cadres-vegetaux-plantes-stabilisees/",
+        "image": {
+          "src": "/img/cadre-vegetal",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

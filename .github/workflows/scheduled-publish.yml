@@ -1,0 +1,23 @@
+name: Scheduled publish (Vercel)
+
+# Blog posts are published by rebuilding the site when their pubDate has
+# arrived: Monday and Thursday 05:00 UTC, never at the weekend (brief §4).
+# The build itself runs on Vercel; this only calls the project's Deploy Hook.
+on:
+  schedule:
+    - cron: '0 5 * * 1,4'
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Trigger Vercel production build
+        env:
+          HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK_URL }}
+        run: |
+          test -n "$HOOK" || { echo "::error::Set the VERCEL_DEPLOY_HOOK_URL secret (Vercel → Settings → Git → Deploy Hooks)"; exit 1; }
+          curl -fsS -X POST "$HOOK"

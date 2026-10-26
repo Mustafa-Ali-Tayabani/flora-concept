@@ -1,0 +1,31 @@
+:host {
+  display: block;
+}
+
+/* Photo on the left for every other text section. */
+.flip {
+  > .sticky {
+    order: 2;
+  }
+
+  @media (max-width: 860px) {
+    > .sticky {
+      order: 0;
+    }
+  }
+}
+
+.wide {
+  border-radius: 28px;
+  margin-bottom: 28px;
+}
+
+.highlight {
+  padding: clamp(24px, 4vw, 48px);
+  background: var(--card);
+  border-radius: 22px;
+}
+
+.rounded {
+  border-radius: 22px;
+}

@@ -1,0 +1,463 @@
+{
+  "_id": "page-p19",
+  "slug": "/ruches-entreprise/",
+  "template": "service",
+  "name": "Ruches en entreprise",
+  "seo": {
+    "title": "Parrainer une ruche en entreprise avec un rucher en Provence",
+    "description": "Parrainage de ruches pour les entreprises en PACA : rucher dans le Luberon, miel à votre nom, suivi par notre apiculteur, ruches sur votre site. Devis gratuit."
+  },
+  "h1": "Parrainer une ruche en entreprise : un engagement concret pour la biodiversité en Provence",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "fbd5c4e21f71",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0311e1791c1f",
+          "text": "Flora Concept propose aux entreprises de Provence-Alpes-Côte d'Azur de parrainer une ruche : votre entreprise soutient une colonie d'abeilles installée dans notre rucher près de Lourmarin, dans le Luberon, suivie toute l'année par notre apiculteur, et reçoit le miel récolté sous une étiquette à son nom. Quand le site s'y prête (terrain, zone d'activité, toit-terrasse, jardin d'hôtel), les ruches peuvent être installées directement chez vous, avec des plantations de plantes mellifères pour les nourrir. C'est un engagement RSE visible et vérifiable : un geste pour la pollinisation locale, un sujet pour vos équipes et vos clients, un miel à offrir. Paysagistes depuis 1999, nous prenons en charge l'installation, le suivi, la récolte et la mise en pot. Demandez un devis gratuit : nous vous proposons la formule adaptée à votre entreprise.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "marseille",
+  "outdoor": true,
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "parrainage de ruches en entreprise",
+    "areaServed": [
+      "Provence-Alpes-Côte d'Azur"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "301f839b74b6",
+      "title": "Comment fonctionne le parrainage",
+      "_type": "sectionSteps",
+      "layout": "horizontal",
+      "intro": [],
+      "steps": [
+        {
+          "_key": "397d13d9aee3",
+          "lead": "Vous choisissez une formule",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "2b80090196fb",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "73121a89c611",
+                  "text": "une ou plusieurs ruches, au rucher ou sur votre site, pour une saison apicole complète renouvelable.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "69dd0d170854",
+          "lead": "Nous installons et suivons la colonie",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "cccfd063b99f",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "c28dc1fe18f7",
+                  "text": "visites régulières de l'apiculteur, soins, hivernage.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "87277d4685e6",
+          "lead": "Vous suivez la vie de la ruche",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "f3bb9560a253",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "2b8c5c3d26a9",
+                  "text": "nouvelles et photos de la colonie au fil de la saison, possibilité de visite au rucher pour vos équipes.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "c18557ded94f",
+          "lead": "Vous recevez le miel",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "d7c9518a46a3",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "6afb24de207d",
+                  "text": "récolte, mise en pot et étiquette au nom de votre entreprise.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "f29fa043b3ea",
+      "title": "Ce que reçoit votre entreprise",
+      "_type": "sectionChecklist",
+      "items": [
+        {
+          "_key": "4fd8bfb78d52",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "45b2afb1f1cf",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "570722b44ec7",
+                  "text": "Des pots de miel de Provence étiquetés à votre nom, à offrir à vos clients, à vos équipes ou à utiliser dans votre restaurant d'entreprise ou votre hôtel.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "c11226c53fc4",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "f506761568d2",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "fd5a768e47ca",
+                  "text": "Un certificat de parrainage et des photos de votre ruche à utiliser dans votre communication.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "c1401c9a808e",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "1a6ed0dc68e3",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "f7a682f3b85c",
+                  "text": "Des nouvelles de la ruche dans l'année et une visite du rucher pour vos équipes.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "698a530c17d1",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "56cfa95a090e",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "9185ac5453c7",
+                  "text": "Un argument RSE réel : la pollinisation locale, pas une compensation abstraite.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/arrosage-automatique",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "85fd66c7749e",
+      "title": "Le rucher du Luberon",
+      "_type": "sectionText",
+      "variant": "wide",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "feef930093fe",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "b5883dc5a6e6",
+              "text": "Nos ruches sont installées près de Lourmarin, dans le Luberon, au milieu des garrigues, des lavandes et des vergers : un terroir mellifère et peu exposé aux traitements agricoles intensifs. C'est de là que vient le miel de vos pots.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/entretien-exterieur",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "c0f00c7e9572",
+      "title": "Des ruches sur votre site",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "8caef7cfd1f2",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "58907516874a",
+              "href": "/espaces-verts-entreprise/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "95b6b92a51df",
+              "text": "Pour une entreprise disposant d'un terrain, d'une zone d'activité ou d'un toit-terrasse accessible, nous pouvons installer les ruches directement chez vous : étude de l'emplacement (ensoleillement, distance des zones de passage, réglementation locale), installation, plantation de plantes mellifères autour, et suivi par notre apiculteur. Les ruches deviennent un élément de votre espace vert, que nous pouvons entretenir dans le même ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "a7ddd391b75e",
+              "text": "contrat d'espaces verts",
+              "marks": [
+                "58907516874a"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "278bdab57253",
+              "text": ".",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/terrasse",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "55b3e95b981c",
+      "title": "Réalisations",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "0b9c57db4f74",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "1a5270e66ed4",
+          "question": "Comment parrainer une ruche pour son entreprise ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "1e768a21723e",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "749fa825d1f9",
+                  "text": "Vous choisissez une formule (une ou plusieurs ruches, au rucher du Luberon ou sur votre site), nous installons et suivons la colonie, et vous recevez le miel étiqueté à votre nom. Un devis gratuit précise la formule, la durée et ce qui est compris.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "44fda320f16c",
+          "question": "Peut-on installer des ruches sur le toit ou le terrain de l'entreprise ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "64bed117196c",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "509f6ccbc5a8",
+                  "text": "Oui, si le site s'y prête : exposition, distance par rapport aux zones de passage et aux voisins, accès pour l'apiculteur, règles locales. Nous étudions l'emplacement avant de nous engager.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "e5cb99e93e3a",
+          "question": "Combien de miel recevons-nous ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "ee02c29275e8",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "184509be0d68",
+                  "text": "La récolte dépend de la saison, de la météo et de la vigueur de la colonie : une année sèche donne moins qu'une année douce. Le miel est mis en pot et étiqueté au nom de votre entreprise.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "87b2eb969f96",
+          "question": "Les abeilles présentent-elles un risque pour nos salariés ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "e4b5a2b01ee1",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "6f34a3e0e1af",
+                  "text": "Au rucher du Luberon, aucun. Sur votre site, l'emplacement est choisi à l'écart des passages et des terrasses, avec un vol orienté loin des zones fréquentées ; les abeilles domestiques ne sont pas agressives loin de la ruche. Nous conseillons sur les règles à respecter autour de la ruche.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "929d4b9dcc22",
+          "question": "Peut-on communiquer sur le parrainage ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "b9b31b56d8b8",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "84cbb8cb3aaa",
+                  "text": "Oui, c'est l'un de ses intérêts : certificat, photos de la ruche, miel à offrir, visite pour vos équipes. Nous demandons seulement que la communication reste fidèle à la réalité : une ruche parrainée, pas une entreprise « neutre en carbone ».",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/entretien-exterieur",
+    "alt": "Ruches en entreprise",
+    "width": 1200,
+    "height": 800
+  },
+  "answerImage": {
+    "src": "/img/amenagement",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/espaces-verts-entreprise/",
+      "name": "Espaces verts d'entreprise"
+    },
+    "items": [
+      {
+        "_key": "3a85d2178d03",
+        "title": "Copropriétés et syndics",
+        "href": "/entretien-espaces-verts-copropriete/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/equipe-espaces-verts",
+          "alt": "",
+          "width": 1448,
+          "height": 1086
+        }
+      },
+      {
+        "_key": "21ff0c98f5fd",
+        "title": "Création et aménagement",
+        "href": "/creation-amenagement-espaces-verts/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/amenagement",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "9ebd73c45a1f",
+        "title": "Élagage et débroussaillage",
+        "href": "/elagage-entreprise-marseille-aix/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/elagage",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

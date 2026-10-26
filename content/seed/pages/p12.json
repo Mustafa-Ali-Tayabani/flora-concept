@@ -1,0 +1,583 @@
+{
+  "_id": "page-p12",
+  "slug": "/entretien-location-plantes-marseille/",
+  "template": "city",
+  "name": "Marseille et Provence",
+  "seo": {
+    "title": "Location et entretien de plantes à Marseille et en Provence",
+    "description": "Location de plantes, entretien et murs végétaux pour les entreprises à Marseille, Aix-en-Provence, Toulon et Avignon. Base de Gémenos, devis gratuit."
+  },
+  "h1": "Location et entretien de plantes pour les entreprises à Marseille et en Provence",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "b19dc177a07c",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "0707dcc10ec1",
+          "text": "Depuis sa base historique de Gémenos, aux portes de Marseille, Flora Concept assure la location de plantes à Marseille et dans toute la Provence : bureaux, sièges régionaux, hôtels, cliniques, résidences et commerces, de Marseille à Aix-en-Provence, d'Aubagne à Toulon et jusqu'en Avignon. Nos jardiniers installent les végétaux, puis les entretiennent en tournées régulières, remplacement compris ; nous reprenons aussi les parcs de plantes existants après un diagnostic gratuit. C'est ici que l'entreprise est née en 1999 : le site de Gémenos regroupe nos équipes, nos serres et notre atelier de fabrication des murs et cadres végétaux stabilisés. ",
+          "marks": []
+        },
+        {
+          "_type": "pending",
+          "_key": "278e89d8c2da",
+          "note": "confirmer la description exacte du site de Gémenos (serres, atelier, effectif)"
+        },
+        {
+          "_type": "span",
+          "_key": "f5354c576bb8",
+          "text": " 1118 route d'Aubagne, 13420 Gémenos · 04 13 12 13 80. Demandez un devis gratuit : un paysagiste se déplace dans vos locaux et vous propose une solution adaptée à vos espaces, votre lumière et votre budget.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "marseille",
+  "structuredData": {
+    "type": "Service",
+    "areaServed": [
+      "Bouches-du-Rhône",
+      "Var",
+      "Vaucluse"
+    ],
+    "localBusiness": true
+  },
+  "sections": [
+    {
+      "_key": "75d2a5a3c528",
+      "title": "Notre zone d'intervention en Provence",
+      "_type": "sectionGroups",
+      "intro": [
+        {
+          "_type": "block",
+          "_key": "a6b21a428122",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "9deb867b96b0",
+              "href": "/entretien-location-plantes-nice/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "baa924ce1ee3",
+              "text": "Marseille et sa métropole, Aubagne et Gémenos, Aix-en-Provence, le pays d'Aix, Toulon et le Var, Avignon et le Vaucluse. ",
+              "marks": []
+            },
+            {
+              "_type": "pending",
+              "_key": "16a9efea4885",
+              "note": "communes et limites exactes, fréquence des tournées par secteur"
+            },
+            {
+              "_type": "span",
+              "_key": "77895c1f6805",
+              "text": " Pour les Alpes-Maritimes et Monaco, voir la ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "bc3f9e234e98",
+              "text": "zone Nice et Côte d'Azur",
+              "marks": [
+                "9deb867b96b0"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "6229d3186804",
+              "text": ".",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "_key": "db667d12a403",
+          "title": "Marseille et Aubagne",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "641e2c9fb629",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "4b14fe749393",
+                  "text": "Sièges régionaux, bureaux du centre et des quartiers d'affaires, commerces et établissements de santé : la proximité de Gémenos permet des tournées fréquentes et des interventions rapides. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "4cae59930968",
+                  "note": "références marseillaises avec accord écrit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "90f98c0ea42c",
+          "title": "Aix-en-Provence",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "23b23be9da25",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "1c710b1ca4bc",
+                  "text": "Bureaux et entreprises du pays d'Aix : location avec entretien, murs végétaux et cadres stabilisés pour les accueils. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "2e0ab5b38ac3",
+                  "note": "référence aixoise, sinon garder la section sans référence"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "8e6b8a73bce7",
+          "title": "Toulon, le Var et le Vaucluse",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "193b3437a943",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "02c8be94d9fa",
+                  "text": "Nos tournées couvrent le Var et le Vaucluse pour les contrats de location et d'entretien. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "f032e5893073",
+                  "note": "fréquence réelle des tournées 83 et 84"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/plante-grasse",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "de8627f75ba1",
+      "title": "Le climat provençal, notre terrain de jeu",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "5c1dc07026ce",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "9b3aa2709c85",
+              "text": "Chaleur estivale, mistral, locaux climatisés en continu de juin à septembre : les plantes d'intérieur en Provence vivent des conditions exigeantes. Nos paysagistes choisissent des espèces qui supportent l'air sec et la climatisation, et nos jardiniers ajustent l'arrosage au fil des saisons, y compris pendant vos fermetures d'été si l'accès est organisé.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/entretien-plantes",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "6d40f903e9f0",
+      "title": "Nos services à Marseille",
+      "_type": "sectionChecklist",
+      "items": [
+        {
+          "_key": "01055fedad58",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "c32a67a05e6b",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "404c735f21d0",
+                  "href": "/location-plantes-bureau/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "758a25f7dd16",
+                  "text": "Location de plantes avec entretien",
+                  "marks": [
+                    "404c735f21d0"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "b7ecf1ca1c97",
+                  "text": " : la formule tout compris",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "b246c7491a54",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "82a50612a57a",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "52342fa440fb",
+                  "href": "/entretien-plantes-entreprise/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "8989f7bc2eb8",
+                  "text": "Entretien de parcs existants",
+                  "marks": [
+                    "52342fa440fb"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "d64ce8d6017f",
+                  "text": " : diagnostic gratuit puis contrat",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "dcdee608f073",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "81755a2845e3",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "1382ac8c6624",
+                  "href": "/mur-vegetal-interieur/"
+                },
+                {
+                  "_type": "link",
+                  "_key": "e1de5f7134a4",
+                  "href": "/cadres-vegetaux-plantes-stabilisees/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "8d1218244d96",
+                  "text": "Murs végétaux",
+                  "marks": [
+                    "1382ac8c6624"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "c99a2a26bd03",
+                  "text": " et ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "b55860999440",
+                  "text": "cadres végétaux stabilisés",
+                  "marks": [
+                    "e1de5f7134a4"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "e1f463f56b2a",
+                  "text": " fabriqués dans notre atelier de Gémenos ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "581a8ed69cf5",
+                  "note": "confirmer le lieu de fabrication"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "ad2ad593b7a4",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "fc7a734dba51",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "98079d38abe0",
+                  "href": "/abonnement-fleurs-entreprise/"
+                },
+                {
+                  "_type": "link",
+                  "_key": "d04d5003325c",
+                  "href": "/location-plantes-evenementiel/"
+                },
+                {
+                  "_type": "link",
+                  "_key": "ccd04939f252",
+                  "href": "/fleurs-sapins-noel/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "5b5b3319a315",
+                  "text": "Abonnement floral",
+                  "marks": [
+                    "98079d38abe0"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "5d0fb669fb61",
+                  "text": ", ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "190c4a70068f",
+                  "text": "événementiel",
+                  "marks": [
+                    "d04d5003325c"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "66c4d1ec6dad",
+                  "text": " et ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "0aed854dc1ed",
+                  "text": "décors de Noël",
+                  "marks": [
+                    "ccd04939f252"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/mur-vegetal",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "3aef36369241",
+      "title": "Références en Provence",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "63573d008f93",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "1dd4b9d8e432",
+          "question": "Dans quelles villes intervenez-vous autour de Marseille ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "43095da636f8",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "c7e47b848aa6",
+                  "text": "Notre base de Gémenos couvre Marseille, Aubagne, Aix-en-Provence, Toulon et le Var, Avignon et le Vaucluse. Les passages d'entretien sont organisés en tournées régulières par secteur. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "2817850c98d0",
+                  "note": "zone exacte"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "aa5076f800ef",
+          "question": "Où êtes-vous installés ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "fc1200c7a7aa",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "298f93b1b0ef",
+                  "text": "À Gémenos, aux portes de Marseille, sur le site historique de l'entreprise. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "40bc268f88e6",
+                  "note": "adresse exacte, et description du site : serres, atelier"
+                },
+                {
+                  "_type": "span",
+                  "_key": "e00988f42f7f",
+                  "text": " C'est de là que partent nos jardiniers et que sont fabriqués nos murs et cadres végétaux stabilisés. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "0fe36dcdec42",
+                  "note": "confirmer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "4912f56aec6f",
+          "question": "Pouvez-vous reprendre l'entretien de plantes déjà en place ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "96e388c0b3b7",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "7325068e8007",
+                  "text": "Oui. Nous diagnostiquons gratuitement votre parc existant, puis nous proposons un contrat d'entretien avec une fréquence adaptée. Les sujets trop abîmés peuvent être remplacés ou basculés en location.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "6fe3dfe31468",
+          "question": "Vos plantes supportent-elles la climatisation et la chaleur provençale ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "61b5df41f100",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "41990bc35411",
+                  "text": "Oui, c'est notre quotidien depuis 1999 : nous sélectionnons des espèces qui tolèrent l'air sec et la climatisation continue, et nos jardiniers ajustent l'arrosage selon la saison. Pour les zones les plus difficiles, le végétal stabilisé est une alternative sans contrainte.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/banner-espaces-verts",
+    "alt": "Marseille et Provence",
+    "width": 1672,
+    "height": 941
+  },
+  "answerImage": {
+    "src": "/img/alocasia",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/paysagisme-interieur/",
+      "name": "Paysagisme d'intérieur"
+    },
+    "items": [
+      {
+        "_key": "732c0a1fc174",
+        "title": "Location de plantes",
+        "href": "/location-plantes-bureau/",
+        "image": {
+          "src": "/img/plante-grasse",
+          "alt": "",
+          "width": 1200,
+          "height": 800
+        }
+      },
+      {
+        "_key": "176908bf2a39",
+        "title": "Entretien de plantes",
+        "href": "/entretien-plantes-entreprise/",
+        "image": {
+          "src": "/img/entretien-plantes",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "0c0266790a98",
+        "title": "Murs végétaux",
+        "href": "/mur-vegetal-interieur/",
+        "image": {
+          "src": "/img/mur-vegetal",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

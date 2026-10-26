@@ -1,0 +1,291 @@
+{
+  "_id": "page-p15",
+  "slug": "/devis/",
+  "template": "quote",
+  "name": "Devis",
+  "seo": {
+    "title": "Devis gratuit : plantes et végétalisation d'entreprise",
+    "description": "Demandez votre devis gratuit en une minute : location et entretien de plantes, murs végétaux, décoration végétale. Réponse d'un paysagiste de votre région."
+  },
+  "h1": "Votre devis gratuit en une minute",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "bd358eb39360",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "5a4b369c668f",
+          "text": "Décrivez votre besoin en trois champs : un paysagiste de l'équipe de votre région vous recontacte pour affiner, visite vos locaux si nécessaire et vous envoie une proposition détaillée. Gratuit et sans engagement. Vous préférez parler tout de suite ? Appelez directement votre agence.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "WebPage"
+  },
+  "sections": [
+    {
+      "_key": "96086e4f73c9",
+      "_type": "sectionQuoteForm",
+      "tone": "dark",
+      "placeholder": "Ex. : location et entretien de plantes pour nos bureaux de 400 m² à Marseille",
+      "reassurance": [
+        {
+          "_type": "block",
+          "_key": "4707f92226a7",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "3c155cb18334",
+              "text": "Réponse d'un paysagiste de votre région ",
+              "marks": []
+            },
+            {
+              "_type": "pending",
+              "_key": "c9a4b8932ab9",
+              "note": "délai, ex. sous 1 jour ouvré"
+            },
+            {
+              "_type": "span",
+              "_key": "502845c58c2c",
+              "text": " · Gratuit et sans engagement",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "privacy": [
+        {
+          "_type": "block",
+          "_key": "62e5be992581",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "27e7efd0c42c",
+              "href": "/politique-de-confidentialite/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "07127c678f05",
+              "text": "Les informations saisies servent uniquement à traiter votre demande de devis. Elles sont transmises à l'agence Flora Concept concernée et ne sont jamais cédées à des tiers. En savoir plus : ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "5994e39b009f",
+              "text": "politique de confidentialité",
+              "marks": [
+                "27e7efd0c42c"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "89da3d8a3c24",
+              "text": ".",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "confirmation": {
+        "title": "Merci, votre demande est bien partie.",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "a51c55ccd92d",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "3eac69f45044",
+                "text": "Un paysagiste de votre région (",
+                "marks": []
+              },
+              {
+                "_type": "variable",
+                "_key": "e29f7b5c0960",
+                "name": "zone"
+              },
+              {
+                "_type": "span",
+                "_key": "5cff99d9ee98",
+                "text": ") vous recontacte rapidement. ",
+                "marks": []
+              },
+              {
+                "_type": "pending",
+                "_key": "93acc66a6e5f",
+                "note": "délai de réponse à annoncer, ex. « sous 1 jour ouvré », à confirmer avant publication"
+              },
+              {
+                "_type": "span",
+                "_key": "a8833c7535d8",
+                "text": " Vous recevez aussi un accusé de réception par email si vous avez indiqué une adresse.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      "errors": {
+        "nom": "Indiquez votre nom pour que nous sachions à qui répondre.",
+        "contact": "Indiquez un email ou un numéro de téléphone pour que nous puissions vous répondre.",
+        "besoin": "Décrivez votre besoin en une phrase, cela suffit.",
+        "server": "L'envoi a échoué. Réessayez, ou appelez-nous directement.",
+        "rateLimit": "Vous avez déjà envoyé plusieurs demandes. Patientez quelques minutes ou appelez-nous."
+      },
+      "phoneTitle": "Appeler directement",
+      "phoneImage": {
+        "src": "/img/hero-equipe",
+        "alt": "",
+        "width": 1448,
+        "height": 1086
+      },
+      "phones": [
+        {
+          "_key": "fc4bcf654bee",
+          "label": "Provence-Alpes-Côte d'Azur (base de Gémenos)",
+          "detail": [
+            {
+              "_type": "block",
+              "_key": "89f549b2a534",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "pending",
+                  "_key": "991e279c936f",
+                  "note": "téléphone"
+                },
+                {
+                  "_type": "span",
+                  "_key": "1a16327c0d87",
+                  "text": " (",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "7884821233b4",
+                  "note": "horaires"
+                },
+                {
+                  "_type": "span",
+                  "_key": "392330c06545",
+                  "text": ")",
+                  "marks": []
+                }
+              ]
+            }
+          ],
+          "zone": "marseille"
+        },
+        {
+          "_key": "0f3c97b08484",
+          "label": "Île-de-France",
+          "detail": [
+            {
+              "_type": "block",
+              "_key": "999bda026be3",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "pending",
+                  "_key": "f8e20fddd3e4",
+                  "note": "téléphone, ou le même numéro"
+                }
+              ]
+            }
+          ],
+          "zone": "paris"
+        }
+      ]
+    },
+    {
+      "_key": "cce637a738ce",
+      "_type": "sectionSteps",
+      "tone": "surface",
+      "title": "Ce qui se passe ensuite",
+      "layout": "horizontal",
+      "steps": [
+        {
+          "_key": "5959ddf77848",
+          "lead": "Échange",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "c26ab3bbd8b1",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "929545a02782",
+                  "text": "un paysagiste vous rappelle pour préciser vos espaces et vos envies.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "e5cb675577c0",
+          "lead": "Visite si nécessaire",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "83b84c4e157e",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0a6bd727548a",
+                  "text": "pour les projets d'aménagement, nous nous déplaçons gratuitement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "b63c6a708fdb",
+          "lead": "Proposition détaillée",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "da5e0596682b",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "69fa6513b84b",
+                  "text": "végétaux, contenants, fréquence d'entretien et budget, sans engagement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/banner-contact",
+    "alt": "Devis",
+    "width": 1672,
+    "height": 941
+  }
+}

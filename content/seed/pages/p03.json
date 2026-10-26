@@ -1,0 +1,719 @@
+{
+  "_id": "page-p03",
+  "slug": "/location-plantes-bureau/",
+  "template": "service",
+  "name": "Location de plantes",
+  "parent": {
+    "slug": "/paysagisme-interieur/",
+    "name": "Paysagisme d'intérieur"
+  },
+  "seo": {
+    "title": "Location de plantes vertes pour bureaux et entreprises",
+    "description": "Location de plantes vertes pour bureaux et entreprises, entretien et remplacement compris par nos jardiniers. Agences à Paris, Nice et Marseille. Devis gratuit."
+  },
+  "h1": "Location de plantes pour vos bureaux, entretien compris",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "fa755791d050",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "56ad4d4deaec",
+          "text": "La location de plantes pour bureau est la façon la plus simple de végétaliser une entreprise : Flora Concept sélectionne les plantes et les bacs adaptés à vos espaces, les installe, puis les entretient à chaque passage, remplacement compris. Vous ne portez ni l'investissement d'achat, ni le risque de voir vos plantes dépérir : le loyer mensuel couvre le végétal, le contenant et le service. Paysagiste d'intérieur pour les entreprises depuis 1999, nous louons des plantes vertes à des bureaux, hôtels, commerces et résidences depuis notre base du sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France. La mise en place est rapide : un paysagiste visite vos locaux, vous propose une sélection selon la lumière et votre décoration, et nos équipes installent le tout. Ensuite, nos jardiniers passent régulièrement pour arroser, tailler et remplacer les sujets fatigués. Demandez un devis gratuit : vous recevez une proposition détaillée adaptée à vos espaces.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "location de plantes pour entreprises",
+    "areaServed": [
+      "Île-de-France",
+      "Provence-Alpes-Côte d'Azur"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "c28aca23f1ef",
+      "title": "Ce que comprend la location",
+      "_type": "sectionChecklist",
+      "items": [
+        {
+          "_key": "c9ca44276565",
+          "lead": "Le végétal",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "f47aea8bdcbd",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "2a2b47bf21a3",
+                  "text": "plantes vertes de qualité professionnelle, choisies pour durer en intérieur (lumière, climatisation, chauffage).",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "7320828c9153",
+          "lead": "Le contenant",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "3fcfb99ec010",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "50336bc687eb",
+                  "text": "bacs et cache-pots assortis à votre aménagement, avec réserve d'eau si pertinent.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "b3c0730cf3f5",
+          "lead": "L'installation",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "39dfc9ffd325",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "536fb6934062",
+                  "text": "livraison et mise en place par nos équipes, implantation validée avec vous.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "13682ac41860",
+          "lead": "L'entretien",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "a6f16ab483da",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "b16a457a3302",
+                  "text": "passages réguliers d'un jardinier (arrosage, taille, nettoyage, nutrition). ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "ac2646028f5b",
+                  "note": "fréquence standard"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "06349be70bd2",
+          "lead": "Le remplacement",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "097ccd4f03d9",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "9d8974baddfc",
+                  "text": "toute plante qui faiblit est remplacée dans le cadre du contrat. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "6052521b7625",
+                  "note": "conditions exactes"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/entretien-plantes",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "a3d12597f93e",
+      "title": "Location ou achat : que choisir ?",
+      "_type": "sectionTable",
+      "intro": [],
+      "head": [
+        "Critère",
+        "Location avec entretien",
+        "Achat"
+      ],
+      "rows": [
+        {
+          "_key": "6b6277afcb65",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "0159a99ed28b",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "be057d4ca44c",
+                    "text": "Investissement initial",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "fd93751649ac",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "ae1e7198bc30",
+                    "text": "Aucun",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "74cbd2c215c2",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "a929eb33e338",
+                    "text": "À prévoir (plantes + bacs)",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "_key": "69e56976fc9b",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "f76b2ea6b45e",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "708a77db476d",
+                    "text": "Entretien",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "717b2f3d8816",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "2659fc519890",
+                    "text": "Compris, par nos jardiniers",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "c1aa04bf421e",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "94940e534aed",
+                    "text": "En option (contrat d'entretien)",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "_key": "572e20738130",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "04f1241ed2b1",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "d094700e379f",
+                    "text": "Remplacement des plantes",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "26e7458dc56a",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "5c8f5ac0b7ad",
+                    "text": "Compris",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "9e44d2771c05",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "25293f2761d6",
+                    "text": "À votre charge, sauf contrat",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "_key": "ec7f1f650671",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "58f0744907ea",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "aee544ceddfe",
+                    "text": "Budget",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "bcf814ab4150",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "dc685e2c3fd7",
+                    "text": "Loyer mensuel lissé",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "87d538ef1c1d",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "cfa2ed2aac6d",
+                    "text": "Coût initial puis entretien",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          ]
+        },
+        {
+          "_key": "f67462663a51",
+          "cells": [
+            [
+              {
+                "_type": "block",
+                "_key": "e54183e2a040",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "acf1fffc01dc",
+                    "text": "Pour qui",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "2fcc820fc1d9",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "3a2dc677d8e8",
+                    "text": "Bureaux, accueils, open spaces",
+                    "marks": []
+                  }
+                ]
+              }
+            ],
+            [
+              {
+                "_type": "block",
+                "_key": "14bb99f81147",
+                "style": "normal",
+                "markDefs": [],
+                "children": [
+                  {
+                    "_type": "span",
+                    "_key": "19a448c01aa2",
+                    "text": "Projets d'aménagement ponctuels",
+                    "marks": []
+                  }
+                ]
+              }
+            ]
+          ]
+        }
+      ],
+      "note": [
+        {
+          "_type": "block",
+          "_key": "c837307a9a2a",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "752ae7bdbb96",
+              "href": "/entretien-plantes-entreprise/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "2a79f1412094",
+              "text": "La location convient à la grande majorité des entreprises : budget prévisible, zéro gestion, résultat garanti dans la durée. L'achat garde du sens pour un aménagement ponctuel ; dans ce cas, nous recommandons un ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "4dea1daedbe9",
+              "text": "contrat d'entretien",
+              "marks": [
+                "752ae7bdbb96"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "61188f243968",
+              "text": " pour protéger l'investissement.",
+              "marks": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "_key": "2952aeca0fe1",
+      "title": "Pour quels espaces",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "1cc641954099",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "7f03f3f2febc",
+              "href": "/cadres-vegetaux-plantes-stabilisees/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "9f9af029585b",
+              "text": "Accueil et hall d'entrée, open space, bureaux de direction, salles de réunion, cafétéria et espaces détente, vitrines et showrooms, terrasses intérieures. Selon la lumière de chaque zone, nos valeurs sûres : kentia et ficus lyrata pour les espaces lumineux, dracaena et spathiphyllum en lumière moyenne, zamioculcas et sansevieria pour les coins les plus sombres. Pour les zones sans lumière, voir les ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "1e7b95c56146",
+              "text": "cadres végétaux stabilisés",
+              "marks": [
+                "7f03f3f2febc"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "a165fbd61c27",
+              "text": ".",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/mur-vegetal",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "5f1cd7c3fb68",
+      "title": "Réalisations",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "4afa8f9e9075",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "3be76cc016a8",
+          "question": "Comment fonctionne la location de plantes pour un bureau ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "acfdd18ea7f4",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "baab34018148",
+                  "text": "Un paysagiste visite vos locaux, propose une sélection de plantes et de bacs adaptée à la lumière et à votre décoration, puis nos équipes installent le tout. Un loyer mensuel couvre les végétaux, les contenants, l'entretien régulier et le remplacement des plantes fatiguées.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "135debd48370",
+          "question": "Combien coûte la location de plantes pour une entreprise ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "e2154fea5da2",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "1b4a364f76e9",
+                  "text": "Le budget dépend du nombre de plantes, de leur taille, des contenants choisis et de la fréquence d'entretien. Nous établissons un devis gratuit et détaillé après un échange ou une visite de vos locaux, sans engagement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "19187dc98dce",
+          "question": "Que se passe-t-il si une plante dépérit ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "0bad865a02d8",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "9a15f42d1c52",
+                  "text": "Elle est remplacée par nos jardiniers dans le cadre du contrat de location. C'est l'avantage principal de la formule : vos espaces restent impeccables en permanence, sans aucune gestion de votre côté. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "828f720439ce",
+                  "note": "confirmer conditions"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "49e3d046636e",
+          "question": "Quelle est la durée d'engagement d'un contrat de location ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "c0ba17c23a26",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "pending",
+                  "_key": "3d5bdf107de5",
+                  "note": "durée standard des contrats et conditions de résiliation"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "f37062d9a655",
+          "question": "Peut-on louer des plantes pour une courte durée ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "cfe21c6800c8",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "1c6637a8f2e1",
+                  "href": "/location-plantes-evenementiel/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "9a70776c7433",
+                  "text": "Oui, pour un salon, un séminaire ou un événement, nous proposons une location courte durée avec livraison, installation et reprise : voir la ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "af06318c33c8",
+                  "text": "location de plantes pour événements",
+                  "marks": [
+                    "1c6637a8f2e1"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "bc15c774dca4",
+                  "text": ".",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/plante-grasse",
+    "alt": "Location de plantes",
+    "width": 1200,
+    "height": 800
+  },
+  "answerImage": {
+    "src": "/img/alocasia",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/paysagisme-interieur/",
+      "name": "Paysagisme d'intérieur"
+    },
+    "items": [
+      {
+        "_key": "c1a38b8a671f",
+        "title": "Entretien de plantes",
+        "href": "/entretien-plantes-entreprise/",
+        "image": {
+          "src": "/img/entretien-plantes",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "42d2a6ad49f9",
+        "title": "Murs végétaux",
+        "href": "/mur-vegetal-interieur/",
+        "image": {
+          "src": "/img/mur-vegetal",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "cad06f3c4901",
+        "title": "Cadres végétaux stabilisés",
+        "href": "/cadres-vegetaux-plantes-stabilisees/",
+        "image": {
+          "src": "/img/cadre-vegetal",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

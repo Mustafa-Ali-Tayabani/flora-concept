@@ -1,0 +1,454 @@
+{
+  "_id": "page-p18c",
+  "slug": "/elagage-entreprise-marseille-aix/",
+  "template": "service",
+  "name": "Élagage et débroussaillage",
+  "parent": {
+    "slug": "/espaces-verts-entreprise/",
+    "name": "Espaces verts d'entreprise"
+  },
+  "seo": {
+    "title": "Élagage et débroussaillage à Marseille et Aix-en-Provence",
+    "description": "Élagage pour sièges, hôtels et copropriétés à Marseille, Aix-en-Provence et en PACA : taille, abattage, nacelle, débroussaillage obligatoire. Devis gratuit."
+  },
+  "h1": "Élagage, taille et débroussaillage pour les entreprises à Marseille et Aix-en-Provence",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "d6a9450dc085",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "c348c1794df0",
+          "text": "Flora Concept réalise l'élagage, la taille des arbres et le débroussaillage pour les entreprises, les hôtels et les copropriétés à Marseille, Aix-en-Provence, Aubagne, Toulon et dans toute la Provence-Alpes-Côte d'Azur. Nos élagueurs interviennent à la nacelle ou en grimpe sur les platanes, pins, palmiers, oliviers et arbres d'alignement de vos parkings et de vos jardins : taille d'entretien, taille de sécurité, élagage réglementaire en limite de voirie et de propriété, abattage et dessouchage quand c'est nécessaire, évacuation des déchets verts. Nous assurons aussi la taille des haies et le débroussaillage, y compris le débroussaillement obligatoire autour des bâtiments dans les zones exposées aux incendies de forêt. Entreprise d'espaces verts depuis 1999, basée près d'Aix-en-Provence, nous travaillons avec du matériel électrique partout où c'est possible, pour des chantiers moins bruyants à proximité des bureaux et des chambres d'hôtel. Demandez un devis gratuit : un responsable visite vos arbres et vous remet un chiffrage par sujet.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "marseille",
+  "outdoor": true,
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "élagage, taille et débroussaillage pour entreprises",
+    "areaServed": [
+      "Bouches-du-Rhône",
+      "Var",
+      "Vaucluse",
+      "Alpes-Maritimes"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "416f8f6e1053",
+      "title": "Élagage, taille, abattage",
+      "_type": "sectionChecklist",
+      "items": [
+        {
+          "_key": "7110eda4d09e",
+          "lead": "Taille d'entretien et de formation",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "229be39e04f9",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "ac1ab23d6288",
+                  "text": "équilibre de la couronne, suppression du bois mort, éclaircie pour la lumière.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "757578fbf23f",
+          "lead": "Taille de sécurité",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "c60d81f35d8b",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "b5507c7ca8cf",
+                  "text": "branches menaçant une toiture, un parking, une ligne ou une voie de circulation.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "042338d46c20",
+          "lead": "Élagage réglementaire",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "beebbcfb1d05",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "435dda8afaef",
+                  "text": "respect des distances en limite de propriété et de voie publique, dégagement des façades et des enseignes.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "6fd599b68b36",
+          "lead": "Palmiers",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "f350d780ea8a",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "89ca91e6c9b2",
+                  "text": "nettoyage des stipes, taille des palmes, intervention à la nacelle.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "26ced0b5ea2b",
+          "lead": "Abattage et dessouchage",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "e114de9e4c8a",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "36dff9576bef",
+                  "text": "arbres dangereux, dépérissants ou gênant un projet, avec évacuation et rognage de souche.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "9d8682d32296",
+          "lead": "Planning pluriannuel",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "8ce2f7cdc27d",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "67de6a669490",
+                  "text": "pour un parc d'arbres de siège, de résidence ou d'hôtel, nous établissons un calendrier de tailles sur plusieurs années, avec un chiffrage par sujet.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/arrosage-automatique",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "f6d046a7eeb1",
+      "title": "Débroussaillage et obligation légale de débroussaillement",
+      "_type": "sectionText",
+      "variant": "split",
+      "tone": "surface",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "0d467c11c1f7",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "2c61422714bc",
+              "text": "Dans les Bouches-du-Rhône, le Var et une grande partie de la région, les terrains situés en zone exposée aux incendies de forêt sont soumis à une obligation légale de débroussaillement (OLD) autour des constructions, sur une distance fixée par l'arrêté préfectoral du département, en général 50 mètres. Elle s'applique aux entreprises, aux hôtels, aux résidences et aux zones d'activité comme aux particuliers, et son non-respect engage la responsabilité du propriétaire ou du gestionnaire.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "0735ec301b29",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "cc6f6ede7b27",
+              "text": "Nous réalisons ce débroussaillement réglementaire : coupe des broussailles et de la végétation basse, élagage des arbres jusqu'à la hauteur requise, mise à distance des houppiers entre eux et par rapport aux bâtiments, évacuation des rémanents, puis entretien annuel pour rester conforme. Nous vous indiquons ce qui s'applique à votre parcelle.",
+              "marks": []
+            }
+          ]
+        },
+        {
+          "_type": "block",
+          "_key": "cc7b8755a2a1",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "e6602176f26d",
+              "text": "Hors zone à risque, le débroussaillage reste la première étape de toute remise en état : talus, abords de parkings, terrains laissés à l'abandon.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/entretien-exterieur",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "8625b37cd200",
+      "title": "Taille de haies et sécurité des chantiers",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "c6944467da0c",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "98f59d0c790f",
+              "text": "Taille des haies de clôture et des brise-vue (cyprès, lauriers, photinias, pittosporums), une à deux fois par an selon les espèces, avec évacuation des déchets. Sur chantier : balisage, protection des véhicules et des façades, interventions planifiées en dehors de vos heures d'affluence quand c'est possible.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/terrasse",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "6ef79c21dd35",
+      "title": "Réalisations",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "fe8b2aaad2eb",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "74bfac88ec6b",
+          "question": "À quelle période faut-il élaguer ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "57440b8079f1",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "74b10c057ded",
+                  "text": "Pour la plupart des feuillus, en dehors de la montée de sève, de l'automne à la fin de l'hiver ; les palmiers et certains persistants se taillent plutôt au printemps et en été. La période de nidification des oiseaux, de mi-mars à fin juillet, est à éviter pour les tailles importantes. Nous planifions chaque sujet selon son espèce.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "7340ca224c5c",
+          "question": "Intervenez-vous à la nacelle ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "ad7bda08a65f",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "9304739c29a8",
+                  "text": "Oui, à la nacelle pour les grands sujets et les palmiers, ou en grimpe quand l'accès ne permet pas la nacelle. Le mode d'intervention est précisé dans le devis, arbre par arbre.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "d3eff7c2f16a",
+          "question": "Qu'est-ce que l'obligation légale de débroussaillement ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "603fe594bd04",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "6df29a0769e8",
+                  "text": "C'est l'obligation, dans les zones exposées aux incendies de forêt, de débroussailler autour des constructions sur une distance fixée par arrêté préfectoral, en général 50 mètres. Elle concerne les entreprises comme les particuliers. Nous réalisons les travaux et leur entretien annuel.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "8cc9fcd9fdbe",
+          "question": "Que deviennent les déchets de coupe ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "1b5ee1d2a2b9",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "bf5ce6bca183",
+                  "text": "Ils sont broyés et évacués par nos soins vers une filière de valorisation des déchets verts. Sur demande, le broyat peut être laissé sur place en paillage de vos massifs.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "d74a123791c3",
+          "question": "Faites-vous aussi l'entretien courant des espaces verts ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "634de0a75896",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "a1eb7ce1b313",
+                  "href": "/espaces-verts-entreprise/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "06610fa060e1",
+                  "text": "Oui. L'élagage s'intègre souvent dans un ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "9fd21ec59a17",
+                  "text": "contrat annuel d'entretien des espaces verts",
+                  "marks": [
+                    "a1eb7ce1b313"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "9a6b59da4637",
+                  "text": " : tonte, taille des haies, débroussaillage, arrosage, avec un planning d'élagage pluriannuel.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/elagage",
+    "alt": "Élagage et débroussaillage",
+    "width": 500,
+    "height": 500
+  },
+  "answerImage": {
+    "src": "/img/amenagement",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/espaces-verts-entreprise/",
+      "name": "Espaces verts d'entreprise"
+    },
+    "items": [
+      {
+        "_key": "b0203282b4e6",
+        "title": "Copropriétés et syndics",
+        "href": "/entretien-espaces-verts-copropriete/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/equipe-espaces-verts",
+          "alt": "",
+          "width": 1448,
+          "height": 1086
+        }
+      },
+      {
+        "_key": "b615fddf029f",
+        "title": "Création et aménagement",
+        "href": "/creation-amenagement-espaces-verts/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/amenagement",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "c5c15732584e",
+        "title": "Terrasses végétalisées",
+        "href": "/terrasses-vegetalisees-entreprise/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/terrasse",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

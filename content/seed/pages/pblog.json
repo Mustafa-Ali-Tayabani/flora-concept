@@ -1,0 +1,37 @@
+{
+  "_id": "page-pblog",
+  "slug": "/blog/",
+  "template": "blog",
+  "name": "Blog",
+  "seo": {
+    "title": "Blog | Flora Concept",
+    "description": ""
+  },
+  "h1": "Blog",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "62634625ada7",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "pending",
+          "_key": "0d87fbcb22b5",
+          "note": "H1 et introduction de la page Blog"
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "CollectionPage"
+  },
+  "sections": [],
+  "heroImage": {
+    "src": "/img/alocasia",
+    "alt": "Blog",
+    "width": 500,
+    "height": 500
+  }
+}

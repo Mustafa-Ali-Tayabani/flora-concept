@@ -1,0 +1,409 @@
+{
+  "_id": "page-p92",
+  "slug": "/cookies/",
+  "template": "legal",
+  "name": "Cookies",
+  "seo": {
+    "title": "Politique cookies | Flora Concept",
+    "description": "",
+    "noindex": true
+  },
+  "h1": "Cookies et traceurs",
+  "answer": [],
+  "zone": "",
+  "structuredData": {
+    "type": "WebPage"
+  },
+  "sections": [
+    {
+      "_key": "bb7e0878197e",
+      "_type": "sectionLegal",
+      "tone": "dark",
+      "showConsentButton": true,
+      "parts": [
+        {
+          "_key": "04754785b321",
+          "heading": "Principe",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "b957056dd8ad",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "81887888a933",
+                  "text": "Ce site n'active aucun cookie de mesure ou de suivi avant votre consentement. Le bandeau de consentement vous permet d'accepter, de refuser ou de personnaliser les traceurs, et de changer d'avis à tout moment via le lien « Gérer les cookies » en pied de page.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "0fa6bca242cc",
+          "heading": "Traceurs utilisés",
+          "body": [],
+          "table": {
+            "head": [
+              "Catégorie",
+              "Outils",
+              "Finalité",
+              "Durée",
+              "Consentement"
+            ],
+            "rows": [
+              {
+                "_key": "e9c340478ebb",
+                "cells": [
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "896c6bf78329",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "9bc8d5789d9a",
+                          "text": "Strictement nécessaires",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ],
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "7841fb1f92b9",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "37585335691c",
+                          "text": "Cookie de consentement",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ],
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "1044690fb739",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "0e55c1a2d589",
+                          "text": "Mémoriser vos choix",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ],
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "cf9e834770ba",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "e6cfa8e4a054",
+                          "text": "6 mois",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ],
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "9e0a916215d9",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "9492dfa1e0a8",
+                          "text": "Non requis",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                ]
+              },
+              {
+                "_key": "e9f98fd4d749",
+                "cells": [
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "ea2cc4f43528",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "22551a9973af",
+                          "text": "Mesure d'audience",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ],
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "810bd2adca81",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "9a6aa8b8b691",
+                          "text": "Google Analytics 4 (via Google Tag Manager, Consent Mode v2)",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ],
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "5e540d008531",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "443233bf9348",
+                          "text": "Statistiques de visite, mesure des demandes de devis",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ],
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "7581f9f7cb4e",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "db8dc2b7a3bb",
+                          "text": "13 mois maximum (_ga, _ga_*)",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ],
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "42e12cb71983",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "635c86e575ed",
+                          "text": "Requis",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                ]
+              },
+              {
+                "_key": "c8ec393b52a3",
+                "cells": [
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "5748e8895723",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "b43f3811ec0a",
+                          "text": "Analyse d'ergonomie",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ],
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "c718aa30a6ff",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "3ea77f23ba33",
+                          "text": "Microsoft Clarity",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ],
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "4458c79edc06",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "d077ba37b8c9",
+                          "text": "Comprendre l'usage des pages (cartes de chaleur, parcours)",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ],
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "87496e984d6e",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "77bf3f680d13",
+                          "text": "1 an (_clck), 1 jour (_clsk)",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ],
+                  [
+                    {
+                      "_type": "block",
+                      "_key": "f73ea162f0ed",
+                      "style": "normal",
+                      "markDefs": [],
+                      "children": [
+                        {
+                          "_type": "span",
+                          "_key": "301eaf56af1c",
+                          "text": "Requis",
+                          "marks": []
+                        }
+                      ]
+                    }
+                  ]
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "_key": "41db62481aeb",
+          "heading": "Gérer votre consentement",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "59c1c577a138",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "action",
+                  "_key": "0ad54e429b2b",
+                  "action": "manageCookies"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "375f9609c996",
+                  "text": "Au premier affichage, le bandeau vous propose « Tout accepter », « Tout refuser » et « Personnaliser ». Votre choix est conservé puis redemandé à expiration. Vous pouvez le modifier à tout moment : ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "a7d3048f93d8",
+                  "text": "Gérer les cookies",
+                  "marks": [
+                    "0ad54e429b2b"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "00b4a051351b",
+                  "text": " (lien rouvrant le bandeau).",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "5f89685f47c1",
+          "heading": "En savoir plus",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "0de7f57bd4db",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "ad896e3ecf46",
+                  "href": "/politique-de-confidentialite/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "1d23c8edf135",
+                  "text": "Pour toute question : ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "64738e27dc96",
+                  "note": "email RGPD"
+                },
+                {
+                  "_type": "span",
+                  "_key": "2c8041adcd90",
+                  "text": ". Voir aussi notre ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "aff60c26ab00",
+                  "text": "politique de confidentialité",
+                  "marks": [
+                    "ad896e3ecf46"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "464f9d1621f0",
+                  "text": ".",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

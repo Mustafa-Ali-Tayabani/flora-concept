@@ -1,0 +1,144 @@
+:host {
+  display: block;
+}
+
+.banner-wrap {
+  padding: var(--header-h) var(--band-margin) 0;
+}
+
+.banner {
+  position: relative;
+  min-height: min(48vh, 460px);
+  border-radius: var(--band-radius);
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+  background: radial-gradient(120% 90% at 85% 20%, #2c4a36 0%, var(--forest) 60%);
+
+  &--photo {
+    min-height: min(68vh, 620px);
+  }
+}
+
+.banner__img {
+  position: absolute;
+  inset: 0;
+}
+
+.banner__shade {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, rgba(18, 32, 26, 0.4) 0%, rgba(18, 32, 26, 0.2) 40%, rgba(18, 32, 26, 0.94) 100%);
+}
+
+.banner__art {
+  right: clamp(10px, 4vw, 60px);
+  bottom: 0;
+  height: 92%;
+  opacity: 0.5;
+}
+
+.banner__inner {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  padding: clamp(48px, 7vh, 80px) var(--gutter) clamp(28px, 3vw, 44px);
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.banner__h1 {
+  max-width: 1100px;
+  --ac: var(--lime);
+}
+
+.zone-band {
+  align-self: flex-start;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-size: 12px;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  padding: 9px 16px;
+  border-radius: 999px;
+  background: var(--lime);
+  color: var(--forest);
+
+  span {
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--forest);
+  }
+}
+
+.answer {
+  padding: var(--section-pad) 0;
+
+  &--plain {
+    padding-bottom: 0;
+    padding-top: clamp(40px, 5vw, 64px);
+  }
+}
+
+.answer__plain {
+  max-width: 900px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  font-size: 18px;
+  line-height: 1.65;
+  color: rgba(241, 236, 225, 0.85);
+}
+
+.answer__txt {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+  padding-top: 8px;
+}
+
+.answer__body {
+  display: flex;
+  flex-direction: column;
+  gap: 26px;
+}
+
+.answer__quote {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 400;
+  font-size: clamp(28px, 2.7vw, 42px);
+  line-height: 1.12;
+  letter-spacing: -0.01em;
+  color: var(--cream);
+  text-wrap: balance;
+}
+
+.answer__rule {
+  width: 56px;
+  height: 2px;
+  background: var(--lime);
+  border-radius: 2px;
+}
+
+.answer__cols {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr));
+  gap: 20px 36px;
+  font-size: 16.5px;
+  line-height: 1.7;
+  color: rgba(241, 236, 225, 0.82);
+
+  &--rich {
+    display: flex;
+    flex-direction: column;
+    gap: 14px;
+  }
+}
+
+.answer__side {
+  top: 110px;
+}

@@ -1,0 +1,91 @@
+:host {
+  display: block;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, var(--min, 260px)), 1fr));
+  gap: clamp(16px, 2vw, 24px);
+}
+
+.svc {
+  display: flex;
+  flex-direction: column;
+  background: var(--paper);
+  color: var(--forest);
+  border: 1px solid rgba(18, 32, 26, 0.08);
+  border-radius: 28px;
+  padding: 10px;
+  transition: transform 0.5s var(--ease-out), box-shadow 0.5s;
+
+  &:hover {
+    transform: translateY(-6px);
+    box-shadow: 0 24px 50px rgba(0, 0, 0, 0.25);
+  }
+}
+
+.svc__img {
+  border-radius: 20px;
+}
+
+.svc__body {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  padding: 20px 14px 14px;
+}
+
+.svc__head {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.svc__title {
+  font-size: 23px;
+
+  a {
+    color: inherit;
+  }
+}
+
+/* Whole card is clickable through its title link. */
+.svc {
+  position: relative;
+}
+
+.svc__title a::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 28px;
+}
+
+.svc__text {
+  font-size: 15px;
+  line-height: 1.55;
+  color: var(--mu);
+}
+
+.svc__links {
+  position: relative;
+  z-index: 1;
+  margin-top: auto;
+  padding-top: 16px;
+  border-top: 1px solid var(--ln);
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 18px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+
+  .link {
+    display: inline-flex;
+    align-items: center;
+    min-height: 32px;
+  }
+}

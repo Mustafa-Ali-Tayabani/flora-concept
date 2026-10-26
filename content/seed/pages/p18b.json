@@ -1,0 +1,532 @@
+{
+  "_id": "page-p18b",
+  "slug": "/creation-amenagement-espaces-verts/",
+  "template": "service",
+  "name": "Création et aménagement",
+  "parent": {
+    "slug": "/espaces-verts-entreprise/",
+    "name": "Espaces verts d'entreprise"
+  },
+  "seo": {
+    "title": "Création et aménagement d'espaces verts d'entreprise",
+    "description": "Création d'espaces verts pour entreprises en PACA : conception, terrassement, plantations, arrosage automatique, maçonnerie paysagère. Devis gratuit, PACA."
+  },
+  "h1": "Création et aménagement d'espaces verts pour les entreprises en Provence",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "f8997252c6e5",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "dc5a02ad7c6c",
+          "text": "Flora Concept conçoit et réalise la création d'espaces verts pour les entreprises en Provence-Alpes-Côte d'Azur : abords de sièges et de bureaux, parkings paysagers, jardins d'accueil, patios, terrains de zones d'activité, extérieurs d'hôtels et de résidences. Le projet va de l'esquisse à la plantation : relevé du terrain, plan d'aménagement, terrassement et apport de terre végétale, maçonnerie paysagère (bordures, murets, allées, terrasses), arrosage automatique, plantation d'espèces adaptées au climat provençal et éclairage solaire. Entreprise paysagiste depuis 1999, basée près d'Aix-en-Provence, nous choisissons des végétaux méditerranéens sobres en eau (oliviers, lavandes, myrtes, pittosporums, graminées) pour un jardin d'entreprise qui tient l'été sans arrosage excessif. Une fois la création livrée, nos jardiniers peuvent en assurer l'entretien en contrat annuel, avec du matériel entièrement électrique. Demandez un devis gratuit : un paysagiste visite votre terrain et vous remet une proposition d'aménagement.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "marseille",
+  "outdoor": true,
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "création et aménagement d'espaces verts pour entreprises",
+    "areaServed": [
+      "Provence-Alpes-Côte d'Azur"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "1ff73fddc94e",
+      "title": "De l'esquisse à la plantation",
+      "_type": "sectionSteps",
+      "layout": "vertical",
+      "intro": [
+        {
+          "_type": "block",
+          "_key": "1c90b882d4ac",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "720280228d83",
+              "text": "Le délai d'un chantier dépend de la surface et de la saison de plantation ; il est précisé dans le devis.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "steps": [
+        {
+          "_key": "aa0e9f704b12",
+          "lead": "Visite et relevé",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "a739eb585292",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "e41c8fd8d6da",
+                  "text": "usages, contraintes d'accès, exposition, nature du sol, réseaux existants, budget.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "be98fbb5fef1",
+          "lead": "Plan d'aménagement",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "a8f3809c6de2",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "566ee6d19fef",
+                  "text": "esquisse, choix des végétaux et des matériaux, estimation.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "b7553c6080f1",
+          "lead": "Préparation du terrain",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "4f2b344c5268",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "64784bedd532",
+                  "text": "terrassement, déblais et remblais, apport de terre végétale et de sable, drainage.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "5527e76c85e5",
+          "lead": "Maçonnerie paysagère",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "1eb904b6d0c2",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "3c4840cf1e3a",
+                  "text": "bordures, murets, pavés, allées, terrasses.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "599e9ef3575a",
+          "lead": "Réseaux",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "02ef6a4d5e9b",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "4f221ee9a76b",
+                  "text": "arrosage automatique programmable, éclairage solaire des allées et des massifs.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "3ac0b1284201",
+          "lead": "Plantation",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "de81d9d9c77a",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "709c7dbb3799",
+                  "text": "arbres, arbustes, massifs, gazon semé ou en plaques, paillage.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "fdc01209f90e",
+          "lead": "Suivi",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "906063f00d25",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "87a58831a3f0",
+                  "text": "contrat d'entretien si vous le souhaitez, conseillé la première année pour assurer la reprise des végétaux.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/entretien-exterieur",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "0aec17ce3bff",
+      "title": "Un jardin d'entreprise pensé pour le climat provençal",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "83ec73d69436",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "8350495d0f4c",
+              "text": "Chaleur, sécheresse estivale, mistral, restrictions d'arrosage de plus en plus fréquentes : un espace vert d'entreprise en Provence doit être conçu pour durer avec peu d'eau. Nous privilégions les végétaux méditerranéens (oliviers, lavandes, romarins, cistes, myrtes, pittosporums, graminées), le paillage des massifs, l'arrosage goutte à goutte programmé et, quand c'est pertinent, la réduction des surfaces de gazon au profit de massifs et de prairies fleuries. Résultat : moins d'arrosage, moins d'entretien, un jardin qui reste beau en août.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/terrasse",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "d79dfd7857cc",
+      "title": "Arrosage automatique",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "80658c64f144",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "316b44139a97",
+              "text": "Nous installons et entretenons les systèmes d'arrosage automatique : goutte à goutte pour les massifs et les haies, aspersion pour les pelouses, programmateurs et électrovannes, avec une programmation adaptée à chaque saison. Un arrosage bien réglé consomme moins d'eau qu'un arrosage manuel et protège vos plantations pendant les fermetures estivales. Sur un espace vert existant, nous reprenons aussi les installations en place : diagnostic, réparations, reprogrammation.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/banner-espaces-verts",
+        "alt": "",
+        "width": 1672,
+        "height": 941
+      }
+    },
+    {
+      "_key": "3b928622f847",
+      "title": "Terrains d'entreprise, abords et parkings",
+      "_type": "sectionGroups",
+      "intro": [],
+      "groups": [
+        {
+          "_key": "4b7af5bd2d10",
+          "title": "Sièges et bureaux",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "3744112af469",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "b17f4787f279",
+                  "text": "Jardin d'accueil, patio, massifs d'entrée : l'extérieur fait la première impression. Nous dessinons des aménagements lisibles, faciles à entretenir, avec un éclairage qui met le bâtiment en valeur le soir.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "73ee4958bdb5",
+          "title": "Parkings et zones d'activité",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "b74e9cad775d",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "78ae9f6e6a12",
+                  "text": "Plantation d'arbres d'ombrage, haies brise-vue, noues et massifs drainants, bandes enherbées : un parking paysager, c'est moins de chaleur en été et une conformité facilitée avec les règles d'urbanisme locales.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "88308d640f30",
+          "title": "Hôtels et résidences",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "7c7b84eeaec1",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "d0a54d25d6d7",
+                  "href": "/terrasses-vegetalisees-entreprise/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "8334918da765",
+                  "text": "Jardins de piscine, allées, terrasses plantées, réaménagement entre deux saisons : nous travaillons en dehors des périodes d'occupation quand c'est possible. Voir aussi nos ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "898d99d62e92",
+                  "text": "terrasses végétalisées",
+                  "marks": [
+                    "d0a54d25d6d7"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "b1d2e166d988",
+                  "text": ".",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/elagage",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "17e89c359872",
+      "title": "Réalisations",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "618dcdfb0cd9",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "09cad82f43c6",
+          "question": "Réalisez-vous la conception et les travaux, ou seulement les plantations ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "3f15b9957ade",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "fe025dc13e5c",
+                  "text": "Les deux. Nous concevons le plan d'aménagement, préparons le terrain (terrassement, maçonnerie paysagère), installons l'arrosage et l'éclairage, puis plantons. Vous avez un seul interlocuteur du premier croquis à la livraison.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "e816958259e3",
+          "question": "Quelles plantes recommandez-vous pour un espace vert d'entreprise en Provence ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "7f1426a678c0",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "76fbdd2b2ea2",
+                  "text": "Des végétaux méditerranéens résistants à la sécheresse : oliviers, lavandes, romarins, cistes, myrtes, pittosporums, graminées, associés à un paillage et à un arrosage goutte à goutte. Ils demandent peu d'eau et peu d'entretien, et restent beaux pendant l'été.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "15d1ee116284",
+          "question": "Pouvez-vous entretenir l'espace vert après sa création ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "4fd505f8aeed",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "22a366e578fc",
+                  "href": "/espaces-verts-entreprise/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "7173e41e4de7",
+                  "text": "Oui, c'est même conseillé la première année pour garantir la reprise des végétaux. Nous proposons un ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "5aab0703d8e5",
+                  "text": "contrat d'entretien annuel",
+                  "marks": [
+                    "22a366e578fc"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "297beb01dd21",
+                  "text": " avec des passages planifiés et un compte rendu à chaque intervention.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "1d32238496df",
+          "question": "Installez-vous l'arrosage automatique seul, sans création de jardin ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "29f4d7bd70c4",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "59e221a4758b",
+                  "text": "Oui. Nous installons, réparons et reprogrammons les systèmes d'arrosage automatique sur des espaces verts existants, pour les entreprises, les hôtels et les copropriétés.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/amenagement",
+    "alt": "Création et aménagement",
+    "width": 500,
+    "height": 500
+  },
+  "answerImage": {
+    "src": "/img/arrosage-automatique",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/espaces-verts-entreprise/",
+      "name": "Espaces verts d'entreprise"
+    },
+    "items": [
+      {
+        "_key": "2a94b50a655c",
+        "title": "Copropriétés et syndics",
+        "href": "/entretien-espaces-verts-copropriete/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/equipe-espaces-verts",
+          "alt": "",
+          "width": 1448,
+          "height": 1086
+        }
+      },
+      {
+        "_key": "430d53392925",
+        "title": "Élagage et débroussaillage",
+        "href": "/elagage-entreprise-marseille-aix/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/elagage",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "6a62415b43a0",
+        "title": "Terrasses végétalisées",
+        "href": "/terrasses-vegetalisees-entreprise/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/terrasse",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

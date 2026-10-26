@@ -1,0 +1,535 @@
+{
+  "_id": "page-p18d",
+  "slug": "/terrasses-vegetalisees-entreprise/",
+  "template": "service",
+  "name": "Terrasses végétalisées",
+  "parent": {
+    "slug": "/espaces-verts-entreprise/",
+    "name": "Espaces verts d'entreprise"
+  },
+  "seo": {
+    "title": "Terrasse végétalisée pour bureaux et hôtels en PACA",
+    "description": "Aménagement et entretien de terrasses végétalisées pour bureaux, rooftops et hôtels en PACA : bacs, pergolas, arrosage automatique. Conception, pose, entretien."
+  },
+  "h1": "Terrasses végétalisées pour les bureaux, les rooftops et les hôtels",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "91b92669ecf0",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "d4e1aca5dd0e",
+          "text": "Flora Concept aménage et entretient les terrasses végétalisées des entreprises et des hôtels en Provence-Alpes-Côte d'Azur : terrasses de bureaux, rooftops de sièges, terrasses de restaurants et d'hôtels, patios de résidences. Il s'agit de terrasses accessibles, aménagées en bacs et jardinières, et non de toitures végétalisées extensives. Nous concevons l'aménagement, fournissons les bacs, le substrat et les végétaux adaptés au vent, au soleil et au poids admissible de la dalle, installons l'arrosage automatique, les pergolas, les brise-vue et le mobilier, puis entretenons l'ensemble en contrat. Notre choix de plantes méditerranéennes (oliviers, lauriers, agrumes, graminées, lavandes, plantes grimpantes) assure une terrasse qui résiste à l'été provençal et au mistral. Pour un hôtel, c'est une surface de restauration ou de détente de plus ; pour des bureaux, un espace de pause et de réunion en extérieur que vos équipes utilisent vraiment. Demandez un devis gratuit : un paysagiste visite votre terrasse et vous remet un projet.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "marseille",
+  "outdoor": true,
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "aménagement et entretien de terrasses végétalisées pour entreprises et hôtels",
+    "areaServed": [
+      "Provence-Alpes-Côte d'Azur"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "8c12d571138f",
+      "title": "Terrasses de bureaux, rooftops et terrasses d'hôtels",
+      "_type": "sectionGroups",
+      "intro": [],
+      "groups": [
+        {
+          "_key": "a2f3223b9316",
+          "title": "Terrasses et rooftops de bureaux",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "8dad097d5f7a",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "721cea13f72d",
+                  "text": "Espace de pause, de déjeuner ou de réunion en extérieur : bacs plantés pour structurer l'espace, pergola ou voiles pour l'ombre, brise-vue végétal pour l'intimité, mobilier adapté. Un rooftop végétalisé est aussi un argument pour attirer et garder vos équipes, et un décor pour vos événements d'entreprise.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "e90e88c880e4",
+          "title": "Terrasses d'hôtels et de restaurants",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "6341e003520b",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "6077ad2b372d",
+                  "href": "/location-plantes-bureau/"
+                },
+                {
+                  "_type": "link",
+                  "_key": "9d65c4a27a60",
+                  "href": "/mur-vegetal-interieur/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "bbd10f0f88f2",
+                  "text": "Terrasse de petit-déjeuner, bar en rooftop, espace piscine : la végétalisation crée l'ambiance que vos clients photographient. Nous intervenons entre deux saisons ou tôt le matin, avec du matériel électrique silencieux, et nous assurons l'entretien toute l'année, y compris pendant la haute saison. Nous travaillons aussi l'intérieur des mêmes établissements : ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "b3ad32a36975",
+                  "text": "location et entretien de plantes",
+                  "marks": [
+                    "6077ad2b372d"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "64c84e952453",
+                  "text": ", ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "ed6938a0e411",
+                  "text": "murs végétaux",
+                  "marks": [
+                    "9d65c4a27a60"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "51da62a4d7c1",
+                  "text": ".",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "a9e76f7f478c",
+          "title": "Résidences et copropriétés",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "6dd367bb38ab",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "e59277abb912",
+                  "href": "/entretien-espaces-verts-copropriete/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "055550dad2fd",
+                  "text": "Terrasses communes, toits-terrasses accessibles, patios : aménagement en bacs et entretien intégré au ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "3fc863d5ebe3",
+                  "text": "contrat d'espaces verts de la résidence",
+                  "marks": [
+                    "e59277abb912"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "eba90709ed04",
+                  "text": ".",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/arrosage-automatique",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "f148ceee33a5",
+      "title": "Bacs, pergolas, arrosage et mobilier",
+      "_type": "sectionChecklist",
+      "items": [
+        {
+          "_key": "40b4efaaa821",
+          "lead": "Bacs et jardinières",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "c0a117eea10d",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "72a13254fd40",
+                  "text": "dimensions et matériaux adaptés à la charge admissible de la terrasse, substrat allégé, drainage ; modèles de catalogue ou fabrication sur mesure selon le projet.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "9147343d9851",
+          "lead": "Végétaux",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "6a0129d59aa4",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "604cef8bcda2",
+                  "text": "espèces méditerranéennes résistantes au vent et au soleil ; brise-vue et grimpantes sur treillis pour l'intimité.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "23b36ea4f706",
+          "lead": "Arrosage automatique",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "a3625f643c5d",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "209cbd7df482",
+                  "text": "goutte à goutte programmé, indispensable sur une terrasse exposée ; protège les plantations pendant les fermetures estivales.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "6439568bfd10",
+          "lead": "Pergolas, voiles d'ombrage, treillages",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "ff9bb9f4c635",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "487f7249133f",
+                  "text": "fourniture et pose.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "619683db9ef9",
+          "lead": "Mobilier et éclairage",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "f395e7bb4ad6",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "baf253b20f89",
+                  "text": "conseil et fourniture, éclairage solaire des bacs et des allées.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "1bf6592ecf31",
+          "lead": "Décors temporaires",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "c30635fb6137",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "f3341dbcdda6",
+                  "href": "/location-plantes-evenementiel/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "85749e85b601",
+                  "text": "pour un événement ou une saison, voir ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "7fcdb7ba6de7",
+                  "text": "location de plantes pour l'événementiel",
+                  "marks": [
+                    "f3341dbcdda6"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "ee3ef93429ab",
+                  "text": ".",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/entretien-exterieur",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "7f8ee84f4cf5",
+      "title": "Contraintes d'une terrasse : poids, vent, étanchéité",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "37d89723e7d9",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "8f723119a784",
+              "text": "Une terrasse n'est pas un jardin : la charge admissible de la dalle limite le poids des bacs une fois arrosés, le vent dessèche et renverse, l'étanchéité ne doit jamais être percée. Nous dimensionnons les bacs et le substrat en fonction de la charge admissible que vous nous communiquez (ou que votre bureau d'études confirme), nous lestons et fixons les éléments exposés au mistral, et nous posons l'arrosage sans toucher à l'étanchéité. Sur les rooftops, l'accès du matériel et des végétaux est planifié avec vous (monte-charge, grue, horaires).",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/banner-espaces-verts",
+        "alt": "",
+        "width": 1672,
+        "height": 941
+      }
+    },
+    {
+      "_key": "8322f586c69a",
+      "title": "Entretien de votre terrasse",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "aee6e7cba083",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "3e9459d66b2b",
+              "text": "Arrosage et réglage du programmateur, taille, nettoyage des bacs, remplacement des sujets fatigués, hivernage des plantes sensibles, remise en beauté avant la saison : un contrat d'entretien de terrasse avec des passages planifiés et un compte rendu, plus rapprochés en été quand l'arrosage et la taille demandent le plus d'attention.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/elagage",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "2d97d80f5af4",
+      "title": "Réalisations",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "0fe7ee75207a",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "34c643598eab",
+          "question": "Quelle différence entre une terrasse végétalisée et une toiture végétalisée ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "f881b44b0c8b",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "77ba9cd915c8",
+                  "text": "Une toiture végétalisée est une couverture technique (substrat mince et sedums) posée sur l'étanchéité d'un toit non accessible. Une terrasse végétalisée, telle que nous la réalisons, est une terrasse accessible aménagée en bacs, jardinières et pergolas, pour être utilisée par vos équipes ou vos clients.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "9521e2bcc9c0",
+          "question": "Faut-il vérifier la charge admissible de la terrasse ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "0ccc9bc1bb63",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "2ba733e086e7",
+                  "text": "Oui, avant tout projet. Un bac rempli de terre humide est lourd. Nous dimensionnons l'aménagement à partir de la charge admissible fournie par votre gestionnaire ou votre bureau d'études, avec des substrats allégés et une répartition des bacs au-dessus des porteurs.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "f3b179855165",
+          "question": "Quelles plantes tiennent sur une terrasse en plein soleil et au mistral ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "bf106f603f5a",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "ed9f6e93628b",
+                  "text": "Les méditerranéennes : oliviers, lauriers-roses et lauriers-tins, agrumes, lavandes, romarins, graminées, pittosporums, plantes grasses, grimpantes sur treillis abrité. Avec un arrosage goutte à goutte programmé et un paillage, elles passent l'été sans difficulté.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "f6219aea4998",
+          "question": "Assurez-vous l'entretien après l'aménagement ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "952b1d3c000d",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "5696e9751f4e",
+                  "text": "Oui, en contrat annuel : arrosage, taille, nettoyage, remplacement des sujets fatigués, hivernage. Une terrasse plantée sans entretien se dégrade en une saison ; avec nos passages réguliers, elle s'embellit d'année en année.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/terrasse",
+    "alt": "Terrasses végétalisées",
+    "width": 500,
+    "height": 500
+  },
+  "answerImage": {
+    "src": "/img/amenagement",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/espaces-verts-entreprise/",
+      "name": "Espaces verts d'entreprise"
+    },
+    "items": [
+      {
+        "_key": "9c320bc84999",
+        "title": "Copropriétés et syndics",
+        "href": "/entretien-espaces-verts-copropriete/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/equipe-espaces-verts",
+          "alt": "",
+          "width": 1448,
+          "height": 1086
+        }
+      },
+      {
+        "_key": "4226003e26a9",
+        "title": "Création et aménagement",
+        "href": "/creation-amenagement-espaces-verts/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/amenagement",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "b01f67adb173",
+        "title": "Élagage et débroussaillage",
+        "href": "/elagage-entreprise-marseille-aix/",
+        "badge": "PACA",
+        "image": {
+          "src": "/img/elagage",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

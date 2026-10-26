@@ -1,0 +1,468 @@
+{
+  "_id": "page-p06",
+  "slug": "/cadres-vegetaux-plantes-stabilisees/",
+  "template": "service",
+  "name": "Cadres végétaux stabilisés",
+  "parent": {
+    "slug": "/paysagisme-interieur/",
+    "name": "Paysagisme d'intérieur"
+  },
+  "seo": {
+    "title": "Cadre végétal stabilisé sur mesure : tableau, logo, XXL",
+    "description": "Cadres et tableaux végétaux stabilisés sur mesure pour entreprises : logo végétal, formats XXL, zéro arrosage. Livraison et pose en France. Devis gratuit."
+  },
+  "h1": "Cadres et tableaux végétaux stabilisés sur mesure",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "4a0e88cf529f",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a5133248b1b5",
+          "text": "Le cadre végétal stabilisé habille vos murs d'un végétal naturel qui ne demande ni arrosage, ni lumière, ni entretien courant : mousses, fougères et feuillages préservés gardent leur couleur et leur relief pendant des années. Flora Concept fabrique des cadres et tableaux végétaux stabilisés sur mesure pour les entreprises : formats standards ou XXL, compositions assorties à votre décoration, et intégration de votre logo en végétal pour les accueils et espaces visiteurs. Paysagiste d'intérieur depuis 1999, nous concevons chaque pièce selon vos dimensions et votre charte, puis nous la livrons et la posons. Contrairement aux plantes en bacs, le stabilisé convient à tous les emplacements, y compris sans fenêtre : couloirs, salles de réunion, ascenseurs, cabinets médicaux. C'est aussi une alternative durable au mur végétal complet lorsque la surface ou le budget est plus contenu. Demandez un devis gratuit avec vos dimensions.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "Service",
+    "serviceType": "cadres végétaux stabilisés sur mesure",
+    "areaServed": [
+      "France"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "348763862f0a",
+      "title": "Qu'est-ce qu'un végétal stabilisé ?",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "0d990fa9636d",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "b6e2efd8ffb9",
+              "text": "Un végétal stabilisé est une plante naturelle cueillie à maturité, dont la sève est remplacée par un conservateur, le plus souvent à base de glycérine végétale. La plante garde sa souplesse, ses couleurs et son toucher, sans eau ni lumière. Ce n'est ni une plante artificielle, ni une plante séchée cassante : c'est du végétal réel, figé au meilleur de sa forme. ",
+              "marks": []
+            },
+            {
+              "_type": "pending",
+              "_key": "be4d979ef980",
+              "note": "durée de vie constatée sur vos réalisations"
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/plante-grasse",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "c829eb96cef0",
+      "title": "Nos formats",
+      "_type": "sectionChecklist",
+      "items": [
+        {
+          "_key": "c30749cf5bc7",
+          "lead": "Tableau végétal",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "d0226f9e35da",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "00f7eea0d077",
+                  "text": "pièce décorative encadrée, du petit format au panoramique, composée de mousses plates, mousses boules et feuillages.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "8c4a0a7afbb1",
+          "lead": "Cadre XXL",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "855679730970",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "b741f2520f68",
+                  "text": "compositions murales de grande dimension pour halls et open spaces, en un ou plusieurs panneaux.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "295df4a5051a",
+          "lead": "Logo végétal",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "11307768e6d7",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "f7e19157e9c4",
+                  "text": "votre logo reproduit en végétal stabilisé, lettrage découpé ou incrusté, pour l'accueil et les fonds visio.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "1ed8625b87fe",
+          "lead": "Barrières et objets",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "4c629c4c3401",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "pending",
+                  "_key": "f369b411c5eb",
+                  "note": "confirmer les autres produits stabilisés proposés (cloisons, suspensions, objets)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/entretien-plantes",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "0715d58c7486",
+      "title": "Pourquoi choisir le stabilisé",
+      "_type": "sectionArguments",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "b0c68924acc4",
+          "lead": "Zéro contrainte",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "86cf294a07a8",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "bc62305b6cff",
+                  "text": "aucun arrosage, aucune lumière nécessaire, un simple dépoussiérage ponctuel.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "2bc4a9de2123",
+          "lead": "Tous les emplacements",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "10309cbe2800",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "20387dbb740a",
+                  "text": "zones aveugles, couloirs, salles de réunion, espaces climatisés.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "9ed4f29f8b68",
+          "lead": "Image durable",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "63b4f91cf8f3",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "ab7f7b955330",
+                  "text": "un rendu naturel constant toute l'année, sans remplacement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "5e63673cbc07",
+          "lead": "Sur mesure",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "c35a9fc52bb5",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "8980dc86c1e9",
+                  "text": "dimensions, formes, nuances et essences choisies avec vous.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [
+        {
+          "_type": "block",
+          "_key": "6e9b99384f21",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "b202977c0fc0",
+              "href": "/mur-vegetal-interieur/"
+            },
+            {
+              "_type": "link",
+              "_key": "3352d0d8278c",
+              "href": "/location-plantes-bureau/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "7ee51d9582ef",
+              "text": "Pour une surface murale complète, voir le ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "e6de89674d9f",
+              "text": "mur végétal intérieur",
+              "marks": [
+                "b202977c0fc0"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "beba4d5d3ffb",
+              "text": " ; pour des plantes vivantes en bacs, voir la ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "329dc1daf9fb",
+              "text": "location de plantes",
+              "marks": [
+                "3352d0d8278c"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "83fdc3407ccf",
+              "text": ".",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/mur-vegetal",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "5715aa02de07",
+      "title": "Réalisations",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "4396c2d023b9",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "8749f5bad075",
+          "question": "Quelle est la durée de vie d'un cadre végétal stabilisé ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "93ac1946cb91",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "279e901e056c",
+                  "text": "Plusieurs années en intérieur, à l'abri du soleil direct et de l'humidité. Les mousses et feuillages stabilisés conservent leurs couleurs sans aucun soin, hormis un dépoussiérage léger. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "4dc77829a695",
+                  "note": "durée précise constatée à citer"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "1f0037c5e924",
+          "question": "Un cadre végétal stabilisé demande-t-il de l'entretien ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "1c76c42db69f",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "7a95563490d8",
+                  "text": "Non. Ni arrosage, ni taille, ni lumière : un dépoussiérage doux de temps en temps suffit. C'est la solution végétale la plus simple pour une entreprise, notamment dans les espaces sans fenêtre ou très climatisés.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "020c48773625",
+          "question": "Pouvez-vous reproduire notre logo en végétal ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "77873674e5df",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "a785bdbf3c99",
+                  "text": "Oui, c'est l'une de nos spécialités. Nous reproduisons votre logo en végétaux stabilisés à partir de votre charte graphique : lettrage découpé, incrustation dans une composition, jeux de textures et de verts. Vous validez une maquette avant fabrication.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "7a698699a922",
+          "question": "Livrez-vous partout en France ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "fba7b60b15f0",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "62866ab41533",
+                  "text": "Oui. Les pièces stabilisées sont fabriquées sur mesure puis livrées et posées lors d'un déplacement de nos équipes, y compris à Paris et en Île-de-France. Aucun entretien récurrent n'étant nécessaire, la distance n'est pas un obstacle.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/cadre-vegetal",
+    "alt": "Cadres végétaux stabilisés",
+    "width": 500,
+    "height": 500
+  },
+  "answerImage": {
+    "src": "/img/alocasia",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/paysagisme-interieur/",
+      "name": "Paysagisme d'intérieur"
+    },
+    "items": [
+      {
+        "_key": "2aed8cef33a6",
+        "title": "Location de plantes",
+        "href": "/location-plantes-bureau/",
+        "image": {
+          "src": "/img/plante-grasse",
+          "alt": "",
+          "width": 1200,
+          "height": 800
+        }
+      },
+      {
+        "_key": "75988f5ac057",
+        "title": "Entretien de plantes",
+        "href": "/entretien-plantes-entreprise/",
+        "image": {
+          "src": "/img/entretien-plantes",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "f8c024c4ad95",
+        "title": "Murs végétaux",
+        "href": "/mur-vegetal-interieur/",
+        "image": {
+          "src": "/img/mur-vegetal",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

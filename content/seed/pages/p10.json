@@ -1,0 +1,540 @@
+{
+  "_id": "page-p10",
+  "slug": "/location-entretien-plantes-bureau-paris/",
+  "template": "city",
+  "name": "Paris et Île-de-France",
+  "seo": {
+    "title": "Location et entretien de plantes de bureau à Paris",
+    "description": "Location de plantes pour bureaux à Paris, La Défense et dans les Hauts-de-Seine : installation, entretien régulier et remplacement compris. Devis gratuit."
+  },
+  "h1": "Location et entretien de plantes pour vos bureaux à Paris et en Île-de-France",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "55da3f56239d",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "a32c5cfee764",
+          "text": "Flora Concept assure la location de plantes pour les bureaux à Paris et en Île-de-France : sélection des végétaux et des bacs, installation par nos équipes, puis entretien régulier avec remplacement des plantes fatiguées. Paysagiste d'intérieur pour les entreprises depuis 1999, nous intervenons à Paris avec nos propres équipes auprès des sièges sociaux, bureaux, hôtels et commerces. ",
+          "marks": []
+        },
+        {
+          "_type": "pending",
+          "_key": "4088f87e6ece",
+          "note": "bloc obligatoire avant publication : qui intervient exactement à Paris (équipe, organisation, depuis quand)"
+        },
+        {
+          "_type": "span",
+          "_key": "e4dd8a3f00e9",
+          "text": " Nous accompagnons notamment les entreprises parisiennes qui ont aussi des sites en PACA : un seul contrat, un seul interlocuteur, de Paris à la Méditerranée. Les murs végétaux et cadres stabilisés, fabriqués sur mesure et sans entretien, sont livrés et posés dans toute l'Île-de-France. Demandez un devis gratuit : un paysagiste étudie vos espaces et vous répond avec une proposition détaillée.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "paris",
+  "structuredData": {
+    "type": "Service",
+    "areaServed": [
+      "Paris",
+      "Hauts-de-Seine"
+    ]
+  },
+  "sections": [
+    {
+      "_key": "867cd58f3fe3",
+      "title": "Qui intervient à Paris",
+      "_type": "sectionText",
+      "variant": "highlight",
+      "tone": "surface",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "213483417380",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "pending",
+              "_key": "efa260adfcac",
+              "note": "équipe parisienne (nombre de jardiniers, organisation des tournées), depuis quand Flora Concept intervient à Paris, exemples de quartiers ou secteurs couverts"
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/paris-bureaux",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "ed29c0d8b335",
+      "title": "Nos services pour les bureaux parisiens",
+      "_type": "sectionChecklist",
+      "items": [
+        {
+          "_key": "620807a1bbd6",
+          "lead": "Location de plantes avec entretien compris",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "8b4753ed1cb2",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "edd6bb418106",
+                  "href": "/location-plantes-bureau/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "c2548064eaf0",
+                  "text": "la formule standard pour les accueils et open spaces → détail sur la ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "ad1bf290f3ae",
+                  "text": "location de plantes",
+                  "marks": [
+                    "edd6bb418106"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "91eb375e8e71",
+          "lead": "Entretien de votre parc existant",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "73fb9760f330",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "15aa0c7e8fbd",
+                  "href": "/entretien-plantes-entreprise/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "13b724905530",
+                  "text": "reprise après diagnostic → ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "3bb18d9ab531",
+                  "text": "entretien de plantes",
+                  "marks": [
+                    "15aa0c7e8fbd"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "8d255e1e608e",
+          "lead": "Murs végétaux et cadres stabilisés",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "dad39ce1a0f5",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "8290abc6c261",
+                  "href": "/mur-vegetal-interieur/"
+                },
+                {
+                  "_type": "link",
+                  "_key": "72ab8108eff0",
+                  "href": "/cadres-vegetaux-plantes-stabilisees/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "f8d0f85975e4",
+                  "text": "sans arrosage ni lumière, posés lors d'un déplacement → ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "a29e971b5176",
+                  "text": "mur végétal",
+                  "marks": [
+                    "8290abc6c261"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "aa62ffff4761",
+                  "text": " et ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "80cc9feae575",
+                  "text": "cadres stabilisés",
+                  "marks": [
+                    "72ab8108eff0"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "63843e04b0f7",
+          "lead": "Fleurs et décors de fin d'année",
+          "text": [
+            {
+              "_type": "block",
+              "_key": "1bdf1a2fc923",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "aa4b27d555e4",
+                  "text": "selon disponibilité de l'équipe parisienne ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "ae694b0755cd",
+                  "note": "confirmer le périmètre floral et Noël à Paris"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "note": [],
+      "image": {
+        "src": "/img/plante-grasse",
+        "alt": "",
+        "width": 1200,
+        "height": 800
+      }
+    },
+    {
+      "_key": "2456caf15123",
+      "title": "Les contraintes parisiennes, on connaît",
+      "_type": "sectionGroups",
+      "intro": [
+        {
+          "_type": "block",
+          "_key": "ec91fc2dc062",
+          "style": "normal",
+          "markDefs": [],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "ff6d1d2c3324",
+              "text": "Les bureaux parisiens ont leurs particularités : immeubles haussmanniens aux pièces profondes et peu lumineuses, plateaux climatisés des tours, accès réglementés, livraisons en étage, créneaux imposés par les immeubles. Nos paysagistes choisissent les espèces en fonction de la lumière réelle de chaque zone et planifient les livraisons selon les contraintes de votre immeuble. Pour les espaces sans lumière du tout, le végétal stabilisé remplace avantageusement les plantes vivantes.",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "groups": [
+        {
+          "_key": "8746b7e5d534",
+          "title": "La Défense",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "8157eff8389a",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "cf3240611190",
+                  "text": "Tours et immeubles de grande hauteur demandent une organisation spécifique : accès et badges, livraison par les quais et monte-charges, horaires imposés, végétaux adaptés aux plateaux très climatisés. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "dc51d239fbce",
+                  "note": "référence ou exemple réel à La Défense, sinon garder la section factuelle sans référence"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "30222b26c6fe",
+          "title": "Hauts-de-Seine : Boulogne, Issy, Levallois, Neuilly",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "44b2920d7e9c",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "01eebb18768d",
+                  "text": "Les sièges installés dans l'ouest parisien bénéficient des mêmes services que Paris intra-muros : location avec entretien, reprise de parc existant, stabilisé sur mesure. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "5dca477752fc",
+                  "note": "zone exacte couverte dans le 92 et au-delà"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/entretien-plantes",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "9a84e151813e",
+      "title": "Un siège à Paris, des sites en PACA ?",
+      "_type": "sectionText",
+      "variant": "split",
+      "body": [
+        {
+          "_type": "block",
+          "_key": "6e9aaa5a8a5e",
+          "style": "normal",
+          "markDefs": [
+            {
+              "_type": "link",
+              "_key": "3f4ed2f1010b",
+              "href": "/vegetalisation-bureaux-multisites-paris-paca/"
+            }
+          ],
+          "children": [
+            {
+              "_type": "span",
+              "_key": "47d5c9c207cc",
+              "text": "C'est la situation où Flora Concept est le plus utile : nos équipes de PACA entretiennent vos sites méditerranéens avec des jardiniers salariés, pendant que l'équipe parisienne s'occupe du siège. Un contrat unique, un reporting commun. Voir la page ",
+              "marks": []
+            },
+            {
+              "_type": "span",
+              "_key": "bdab02b52685",
+              "text": "entreprises multi-sites",
+              "marks": [
+                "3f4ed2f1010b"
+              ]
+            },
+            {
+              "_type": "span",
+              "_key": "2c9baea38488",
+              "text": ".",
+              "marks": []
+            }
+          ]
+        }
+      ],
+      "image": {
+        "src": "/img/mur-vegetal",
+        "alt": "",
+        "width": 500,
+        "height": 500
+      }
+    },
+    {
+      "_key": "e7ee3efaf774",
+      "title": "Références parisiennes",
+      "_type": "sectionCaseStudies",
+      "cases": []
+    },
+    {
+      "_key": "43b4d1d46562",
+      "title": "Questions fréquentes",
+      "_type": "sectionFaq",
+      "tone": "surface",
+      "items": [
+        {
+          "_key": "08ec2efcf014",
+          "question": "Proposez-vous la location de plantes avec entretien à Paris ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "bc60205da255",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "83a002e8ffbe",
+                  "text": "Oui. Nos équipes installent les plantes dans vos bureaux parisiens puis assurent les passages d'entretien : arrosage, taille, nettoyage et remplacement des sujets fatigués, dans le cadre d'un contrat de location tout compris.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "88a9d5a83b2b",
+          "question": "Quel est le prix de la location de plantes de bureau à Paris ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "40e0ce8abc66",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "afc3bf9d346f",
+                  "text": "Le budget dépend du nombre de plantes, des tailles, des contenants et de la fréquence d'entretien. Nous établissons un devis gratuit et détaillé après un échange sur vos espaces, sans engagement.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "a52b27e78576",
+          "question": "Intervenez-vous à La Défense et dans les Hauts-de-Seine ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "dcd7d0e3f3c0",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "d2578a848888",
+                  "text": "Oui, Paris intra-muros, La Défense et les communes des Hauts-de-Seine font partie de notre zone d'intervention francilienne. Les contraintes d'accès des tours (badges, monte-charges, créneaux) sont prises en compte dès le devis. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "99316daea530",
+                  "note": "zone exacte"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "4c8596c838c9",
+          "question": "Pouvez-vous gérer nos bureaux de Paris et nos agences de Marseille ou Nice ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "961cc96ada94",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "f7b41d20b699",
+                  "text": "Oui, c'est notre force : un contrat unique couvrant votre siège parisien et vos sites en PACA, avec nos jardiniers salariés en PACA et un interlocuteur commercial unique.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "17820ac1fd68",
+          "question": "Installez-vous des murs végétaux à Paris ?",
+          "answer": [
+            {
+              "_type": "block",
+              "_key": "70ac2ffcf11f",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "4de62d12209f",
+                  "text": "Oui. Les murs végétaux stabilisés et les cadres végétaux, sans arrosage ni entretien courant, sont fabriqués sur mesure puis posés par nos équipes partout en Île-de-France. Les murs naturels irrigués sont étudiés selon votre site. ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "491173598037",
+                  "note": "confirmer l'offre naturelle irriguée à Paris"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "heroImage": {
+    "src": "/img/paris-bureaux",
+    "alt": "Paris et Île-de-France",
+    "width": 500,
+    "height": 500
+  },
+  "answerImage": {
+    "src": "/img/alocasia",
+    "alt": "",
+    "width": 500,
+    "height": 500
+  },
+  "related": {
+    "hub": {
+      "slug": "/paysagisme-interieur/",
+      "name": "Paysagisme d'intérieur"
+    },
+    "items": [
+      {
+        "_key": "93f271ad5efd",
+        "title": "Location de plantes",
+        "href": "/location-plantes-bureau/",
+        "image": {
+          "src": "/img/plante-grasse",
+          "alt": "",
+          "width": 1200,
+          "height": 800
+        }
+      },
+      {
+        "_key": "918fc64d3247",
+        "title": "Entretien de plantes",
+        "href": "/entretien-plantes-entreprise/",
+        "image": {
+          "src": "/img/entretien-plantes",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      },
+      {
+        "_key": "e1c03d2c445f",
+        "title": "Murs végétaux",
+        "href": "/mur-vegetal-interieur/",
+        "image": {
+          "src": "/img/mur-vegetal",
+          "alt": "",
+          "width": 500,
+          "height": 500
+        }
+      }
+    ]
+  }
+}

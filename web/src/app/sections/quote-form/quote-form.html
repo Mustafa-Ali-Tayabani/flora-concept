@@ -1,0 +1,96 @@
+@let s = section();
+@let err = errors();
+<div class="layout">
+  <div class="card tone-surface">
+    @if (!sent()) {
+      <form novalidate (submit)="submit($event)" (focusin)="start()" aria-describedby="devis-privacy">
+        <div class="card__head">
+          <h2 class="title">Demande de <em class="accent">devis</em></h2>
+          <span class="chip"><fc-leaf /> 3 champs</span>
+        </div>
+
+        <div class="field">
+          <span class="field__n" aria-hidden="true">01</span>
+          <div class="field__body">
+            <label for="f-nom">Nom</label>
+            <input id="f-nom" name="nom" autocomplete="name" maxlength="120" required
+              [attr.aria-invalid]="!!err.nom" [attr.aria-describedby]="err.nom ? 'e-nom' : null" />
+            @if (err.nom) { <p class="field__err" id="e-nom">{{ err.nom }}</p> }
+          </div>
+        </div>
+
+        <div class="field">
+          <span class="field__n" aria-hidden="true">02</span>
+          <div class="field__body">
+            <label for="f-contact">Email ou téléphone</label>
+            <input id="f-contact" name="contact" autocomplete="email" inputmode="email" maxlength="160" required
+              [attr.aria-invalid]="!!err.contact" [attr.aria-describedby]="err.contact ? 'e-contact' : null" />
+            @if (err.contact) { <p class="field__err" id="e-contact">{{ err.contact }}</p> }
+          </div>
+        </div>
+
+        <div class="field">
+          <span class="field__n" aria-hidden="true">03</span>
+          <div class="field__body">
+            <label for="f-besoin">Votre besoin</label>
+            <textarea id="f-besoin" name="besoin" rows="3" maxlength="3000" required [placeholder]="s.placeholder"
+              [attr.aria-invalid]="!!err.besoin" [attr.aria-describedby]="err.besoin ? 'e-besoin' : null"></textarea>
+            @if (err.besoin) { <p class="field__err" id="e-besoin">{{ err.besoin }}</p> }
+          </div>
+        </div>
+
+        <div class="field">
+          <span class="field__n" aria-hidden="true">04</span>
+          <fieldset class="field__body">
+            <legend>Équipe qui vous répond</legend>
+            <div class="zones">
+              @for (z of zones; track z.value) {
+                <button type="button" class="zone" [class.is-on]="zone() === z.value" [attr.aria-pressed]="zone() === z.value" (click)="zone.set(z.value)">{{ z.label }}</button>
+              }
+            </div>
+          </fieldset>
+        </div>
+
+        <!-- Honeypot: invisible to people, filled by bots. -->
+        <div class="hp" aria-hidden="true">
+          <label for="f-website">Site web</label>
+          <input id="f-website" type="text" name="website" tabindex="-1" autocomplete="off" />
+        </div>
+
+        @if (err.server) { <p class="server-err" role="alert">{{ err.server }}</p> }
+
+        <div class="submit">
+          <button type="submit" class="btn btn--ink" [disabled]="sending()">
+            {{ sending() ? 'Envoi en cours…' : 'Recevoir mon devis gratuit' }} <fc-leaf />
+          </button>
+          <p class="submit__note"><fc-rich-text [value]="s.reassurance" [inline]="true" /></p>
+        </div>
+        <p class="privacy" id="devis-privacy"><fc-rich-text [value]="s.privacy" [inline]="true" /></p>
+      </form>
+    } @else {
+      <div class="done" role="status" tabindex="-1">
+        <span class="done__icon" aria-hidden="true"><fc-leaf [size]="22" /></span>
+        <p class="done__title">{{ s.confirmation.title }}</p>
+        <div class="done__body"><fc-rich-text [value]="s.confirmation.body" [zone]="zone()" /></div>
+      </div>
+    }
+  </div>
+
+  <aside class="call sticky" aria-labelledby="call-title">
+    <div class="call__hero">
+      <fc-photo class="call__bg" [image]="s.phoneImage" alt="" sizes="(max-width: 860px) 100vw, 40vw" />
+      <span class="call__shade" aria-hidden="true"></span>
+      <h2 class="call__title" id="call-title"><fc-accent [text]="s.phoneTitle" /></h2>
+    </div>
+    @for (p of s.phones; track p._key) {
+      <a class="call__line" [href]="'tel:' + phone().e164" [attr.data-zone]="p.zone">
+        <span class="leaf-dot call__icon" aria-hidden="true"><fc-phone-icon /></span>
+        <span class="call__txt">
+          <span class="call__label">{{ p.label }}</span>
+          <span class="call__num">{{ phone().display }}</span>
+          @if (p.detail?.length) { <span class="small"><fc-rich-text [value]="p.detail" [inline]="true" /></span> }
+        </span>
+      </a>
+    }
+  </aside>
+</div>

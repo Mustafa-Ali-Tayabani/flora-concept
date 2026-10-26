@@ -1,0 +1,294 @@
+{
+  "_id": "page-p91",
+  "slug": "/politique-de-confidentialite/",
+  "template": "legal",
+  "name": "Politique de confidentialité",
+  "seo": {
+    "title": "Politique de confidentialité | Flora Concept",
+    "description": ""
+  },
+  "h1": "Politique de confidentialité",
+  "answer": [],
+  "zone": "",
+  "structuredData": {
+    "type": "WebPage"
+  },
+  "sections": [
+    {
+      "_key": "ff3d3275e74d",
+      "_type": "sectionLegal",
+      "tone": "dark",
+      "showConsentButton": false,
+      "parts": [
+        {
+          "_key": "0ae5e6b6663e",
+          "heading": "Qui sommes-nous",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "8babd6f75e60",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "3cd969896e49",
+                  "text": "FLORACONCEPT (SIREN 423 977 305, siège au 1118 route d'Aubagne, 13420 Gémenos) est responsable du traitement des données collectées sur ce site. Contact pour toute question relative aux données personnelles : ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "3e997b2dba11",
+                  "note": "email RGPD"
+                },
+                {
+                  "_type": "span",
+                  "_key": "06b43948ef43",
+                  "text": ".",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "49820f6fd5c3",
+          "heading": "Quelles données nous collectons",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "4e09628da925",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "6e0312072ad7",
+                  "text": "Formulaire de devis",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "8b4078f9f760",
+                  "text": " : nom, email ou téléphone, description du besoin, agence concernée. Base légale : mesures précontractuelles à votre demande (article 6.1.b du RGPD).",
+                  "marks": []
+                }
+              ],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "4240b033f5f2",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "fae120307794",
+                  "text": "Appels téléphoniques",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "655030540aed",
+                  "text": " : si vous nous appelez, nous traitons les informations que vous nous communiquez pour répondre à votre demande.",
+                  "marks": []
+                }
+              ],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "a4a925826902",
+              "style": "normal",
+              "markDefs": [
+                {
+                  "_type": "link",
+                  "_key": "742f0a1ef06d",
+                  "href": "/cookies/"
+                }
+              ],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "6124feb79623",
+                  "text": "Mesure d'audience et traceurs",
+                  "marks": [
+                    "strong"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "dd68e246ab85",
+                  "text": " : uniquement après votre consentement (voir la ",
+                  "marks": []
+                },
+                {
+                  "_type": "span",
+                  "_key": "38165af29ab1",
+                  "text": "politique cookies",
+                  "marks": [
+                    "742f0a1ef06d"
+                  ]
+                },
+                {
+                  "_type": "span",
+                  "_key": "2e8d241fa2ca",
+                  "text": ").",
+                  "marks": []
+                }
+              ],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "442bdc9a0e80",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "9d3e25533e33",
+                  "text": "Nous ne collectons aucune donnée sensible et nous ne cédons ni ne vendons vos données à des tiers.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "6f75179a226f",
+          "heading": "Combien de temps nous les conservons",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "e74f0f1f0934",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "fcd8b5b9ecb8",
+                  "text": "Demandes de devis sans suite : 3 ans à compter du dernier contact",
+                  "marks": []
+                }
+              ],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "7c8d848f32fa",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "0a8fd3e9944c",
+                  "text": "Clients : durée de la relation contractuelle puis durées légales de conservation (comptabilité, garantie).",
+                  "marks": []
+                }
+              ],
+              "listItem": "bullet",
+              "level": 1
+            },
+            {
+              "_type": "block",
+              "_key": "c1183f16ab61",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "6bb0e3b82a69",
+                  "text": "Données de mesure d'audience : selon les durées indiquées dans la politique cookies.",
+                  "marks": []
+                }
+              ],
+              "listItem": "bullet",
+              "level": 1
+            }
+          ]
+        },
+        {
+          "_key": "fe5fe4af3281",
+          "heading": "Qui y a accès",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "7bf016f5b104",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "818307e00b8d",
+                  "text": "Les équipes commerciales et administratives de FLORACONCEPT (agence concernée par votre demande), ainsi que nos sous-traitants techniques strictement nécessaires : hébergeur (Hostinger), outil d'envoi d'emails (messagerie de l'hébergeur Hostinger), outils de mesure (après consentement). Aucun transfert hors Union européenne sans garanties adéquates.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "19ec4dad2e6c",
+          "heading": "Vos droits",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "537337c8d465",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "4a8785cc9f1b",
+                  "text": "Vous disposez des droits d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité sur vos données. Pour les exercer : ",
+                  "marks": []
+                },
+                {
+                  "_type": "pending",
+                  "_key": "b35c0cd294cd",
+                  "note": "email RGPD"
+                },
+                {
+                  "_type": "span",
+                  "_key": "158a66682da6",
+                  "text": ". Vous pouvez également saisir la CNIL (cnil.fr) si vous estimez que vos droits ne sont pas respectés.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "_key": "2613c67184db",
+          "heading": "Mise à jour",
+          "body": [
+            {
+              "_type": "block",
+              "_key": "a7e22a900323",
+              "style": "normal",
+              "markDefs": [],
+              "children": [
+                {
+                  "_type": "span",
+                  "_key": "89606b3e6179",
+                  "text": "La présente politique peut évoluer. Dernière mise à jour : 24 octobre 2026.",
+                  "marks": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
