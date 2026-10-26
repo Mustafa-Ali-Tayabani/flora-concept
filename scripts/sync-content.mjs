@@ -31,8 +31,10 @@ export const fileForSlug = (slug) => (slug === '/' ? 'index' : slug.replace(/^\/
 async function fromSeed() {
   const dir = join(ROOT, 'content/seed');
   const read = async (f) => JSON.parse(await readFile(f, 'utf8'));
-  const pages = await Promise.all((await readdir(join(dir, 'pages'))).filter((f) => f.endsWith('.json')).map((f) => read(join(dir, 'pages', f))));
-  const posts = await Promise.all((await readdir(join(dir, 'posts'))).filter((f) => f.endsWith('.json')).map((f) => read(join(dir, 'posts', f))));
+  // Folders may be absent (git does not keep empty ones, e.g. posts before the first batch).
+  const list = async (d) => (await readdir(join(dir, d)).catch(() => [])).filter((f) => f.endsWith('.json'));
+  const pages = await Promise.all((await list('pages')).map((f) => read(join(dir, 'pages', f))));
+  const posts = await Promise.all((await list('posts')).map((f) => read(join(dir, 'posts', f))));
   return { settings: await read(join(dir, 'settings.json')), pages, posts };
 }
 
