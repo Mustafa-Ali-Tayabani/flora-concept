@@ -1,6 +1,7 @@
 import { ChangeDetectionStrategy, Component, inject, signal } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { ConsentService } from '../core/consent/consent.service';
+import { SiteStore } from '../core/site/site.store';
 
 /**
  * G7 · consent banner: three buttons of equal visual weight, no dark pattern.
@@ -14,24 +15,24 @@ import { ConsentService } from '../core/consent/consent.service';
     @if (consent.bannerOpen()) {
       <div class="ck" role="dialog" aria-labelledby="ck-text" aria-modal="false">
         <p id="ck-text">
-          Nous mesurons l'audience du site uniquement avec votre accord.
-          <a routerLink="/cookies/">Politique cookies</a>
+          {{ t().cookies.text }}
+          <a [routerLink]="t().routes.cookies">{{ t().cookies.policy }}</a>
         </p>
         @if (consent.customizing()) {
           <fieldset class="ck__opts">
-            <legend class="visually-hidden">Choix des traceurs</legend>
-            <label><input type="checkbox" checked disabled /> Strictement nécessaires</label>
-            <label><input type="checkbox" [checked]="analytics()" (change)="analytics.set(!analytics())" /> Mesure d'audience</label>
-            <label><input type="checkbox" [checked]="ergonomics()" (change)="ergonomics.set(!ergonomics())" /> Analyse d'ergonomie</label>
+            <legend class="visually-hidden">{{ t().cookies.choices }}</legend>
+            <label><input type="checkbox" checked disabled /> {{ t().cookies.necessary }}</label>
+            <label><input type="checkbox" [checked]="analytics()" (change)="analytics.set(!analytics())" /> {{ t().cookies.analytics }}</label>
+            <label><input type="checkbox" [checked]="ergonomics()" (change)="ergonomics.set(!ergonomics())" /> {{ t().cookies.ergonomics }}</label>
           </fieldset>
         }
         <div class="ck__btns">
-          <button type="button" (click)="consent.acceptAll()">Tout accepter</button>
-          <button type="button" (click)="consent.refuseAll()">Tout refuser</button>
+          <button type="button" (click)="consent.acceptAll()">{{ t().cookies.acceptAll }}</button>
+          <button type="button" (click)="consent.refuseAll()">{{ t().cookies.refuseAll }}</button>
           @if (consent.customizing()) {
-            <button type="button" (click)="consent.save({ analytics: analytics(), ergonomics: ergonomics() })">Enregistrer</button>
+            <button type="button" (click)="consent.save({ analytics: analytics(), ergonomics: ergonomics() })">{{ t().cookies.save }}</button>
           } @else {
-            <button type="button" (click)="customize()">Personnaliser</button>
+            <button type="button" (click)="customize()">{{ t().cookies.customize }}</button>
           }
         </div>
       </div>
@@ -62,6 +63,7 @@ import { ConsentService } from '../core/consent/consent.service';
 })
 export class CookieBanner {
   protected readonly consent = inject(ConsentService);
+  protected readonly t = inject(SiteStore).t;
   protected readonly analytics = signal(false);
   protected readonly ergonomics = signal(false);
 

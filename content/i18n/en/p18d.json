@@ -1,0 +1,198 @@
+{
+  "name": {
+    "fr": "Terrasses végétalisées",
+    "en": "Planted terraces"
+  },
+  "seo.title": {
+    "fr": "Terrasse végétalisée pour bureaux et hôtels en PACA",
+    "en": "Planted terraces for offices and hotels in PACA"
+  },
+  "seo.description": {
+    "fr": "Aménagement et entretien de terrasses végétalisées pour bureaux, rooftops et hôtels en PACA : bacs, pergolas, arrosage automatique. Conception, pose, entretien.",
+    "en": "Design and maintenance of planted terraces for offices, rooftops and hotels in PACA: planters, pergolas, automatic irrigation. Design, installation, upkeep."
+  },
+  "h1": {
+    "fr": "Terrasses végétalisées pour les bureaux, les rooftops et les hôtels",
+    "en": "Planted terraces for offices, rooftops and hotels"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Flora Concept aménage et entretient les terrasses végétalisées des entreprises et des hôtels en Provence-Alpes-Côte d'Azur : terrasses de bureaux, rooftops de sièges, terrasses de restaurants et d'hôtels, patios de résidences. Il s'agit de terrasses accessibles, aménagées en bacs et jardinières, et non de toitures végétalisées extensives. Nous concevons l'aménagement, fournissons les bacs, le substrat et les végétaux adaptés au vent, au soleil et au poids admissible de la dalle, installons l'arrosage automatique, les pergolas, les brise-vue et le mobilier, puis entretenons l'ensemble en contrat. Notre choix de plantes méditerranéennes (oliviers, lauriers, agrumes, graminées, lavandes, plantes grimpantes) assure une terrasse qui résiste à l'été provençal et au mistral. Pour un hôtel, c'est une surface de restauration ou de détente de plus ; pour des bureaux, un espace de pause et de réunion en extérieur que vos équipes utilisent vraiment. Demandez un devis gratuit : un paysagiste visite votre terrasse et vous remet un projet.",
+    "en": "Flora Concept designs and maintains planted terraces for businesses and hotels in Provence-Alpes-Côte d'Azur: office terraces, head office rooftops, restaurant and hotel terraces, residence patios. These are accessible terraces laid out with planters and window boxes, not extensive green roofs. We design the layout, supply the planters, the growing medium and plants suited to the wind, the sun and the permissible load of the slab, install the automatic irrigation, pergolas, privacy screens and furniture, then maintain everything under contract. Our choice of Mediterranean plants (olive trees, laurels, citrus trees, ornamental grasses, lavender, climbing plants) ensures a terrace that withstands the Provençal summer and the mistral. For a hotel, it is an extra dining or relaxation area; for offices, an outdoor break and meeting space your teams actually use. Request a free quote: a landscaper visits your terrace and gives you a design proposal."
+  },
+  "structuredData.serviceType": {
+    "fr": "aménagement et entretien de terrasses végétalisées pour entreprises et hôtels",
+    "en": "design and maintenance of planted terraces for businesses and hotels"
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "sections[0].title": {
+    "fr": "Terrasses de bureaux, rooftops et terrasses d'hôtels",
+    "en": "Office terraces, rooftops and hotel terraces"
+  },
+  "sections[0].groups[0].title": {
+    "fr": "Terrasses et rooftops de bureaux",
+    "en": "Office terraces and rooftops"
+  },
+  "sections[0].groups[0].body[0].children[0].text": {
+    "fr": "Espace de pause, de déjeuner ou de réunion en extérieur : bacs plantés pour structurer l'espace, pergola ou voiles pour l'ombre, brise-vue végétal pour l'intimité, mobilier adapté. Un rooftop végétalisé est aussi un argument pour attirer et garder vos équipes, et un décor pour vos événements d'entreprise.",
+    "en": "An outdoor space for breaks, lunch or meetings: planted containers to structure the space, a pergola or shade sails, a green privacy screen, suitable furniture. A planted rooftop is also an argument for attracting and retaining your staff, and a setting for your corporate events."
+  },
+  "sections[0].groups[1].title": {
+    "fr": "Terrasses d'hôtels et de restaurants",
+    "en": "Hotel and restaurant terraces"
+  },
+  "sections[0].groups[1].body[0].children[0].text": {
+    "fr": "Terrasse de petit-déjeuner, bar en rooftop, espace piscine : la végétalisation crée l'ambiance que vos clients photographient. Nous intervenons entre deux saisons ou tôt le matin, avec du matériel électrique silencieux, et nous assurons l'entretien toute l'année, y compris pendant la haute saison. Nous travaillons aussi l'intérieur des mêmes établissements : ",
+    "en": "Breakfast terrace, rooftop bar, pool area: planting creates the atmosphere your guests photograph. We work between seasons or early in the morning, with quiet electric equipment, and we provide maintenance all year round, including during the high season. We also work inside the same establishments: "
+  },
+  "sections[0].groups[1].body[0].children[1].text": {
+    "fr": "location et entretien de plantes",
+    "en": "plant rental and maintenance"
+  },
+  "sections[0].groups[1].body[0].children[3].text": {
+    "fr": "murs végétaux",
+    "en": "green walls"
+  },
+  "sections[0].groups[2].title": {
+    "fr": "Résidences et copropriétés",
+    "en": "Residences and residential buildings"
+  },
+  "sections[0].groups[2].body[0].children[0].text": {
+    "fr": "Terrasses communes, toits-terrasses accessibles, patios : aménagement en bacs et entretien intégré au ",
+    "en": "Shared terraces, accessible roof terraces, patios: planter layouts, with maintenance included in the "
+  },
+  "sections[0].groups[2].body[0].children[1].text": {
+    "fr": "contrat d'espaces verts de la résidence",
+    "en": "residence's grounds maintenance contract"
+  },
+  "sections[1].title": {
+    "fr": "Bacs, pergolas, arrosage et mobilier",
+    "en": "Planters, pergolas, irrigation and furniture"
+  },
+  "sections[1].items[0].lead": {
+    "fr": "Bacs et jardinières",
+    "en": "Planters and window boxes"
+  },
+  "sections[1].items[0].text[0].children[0].text": {
+    "fr": "dimensions et matériaux adaptés à la charge admissible de la terrasse, substrat allégé, drainage ; modèles de catalogue ou fabrication sur mesure selon le projet.",
+    "en": "sizes and materials suited to the terrace's permissible load, lightweight growing medium, drainage; catalogue models or made to measure depending on the project."
+  },
+  "sections[1].items[1].lead": {
+    "fr": "Végétaux",
+    "en": "Plants"
+  },
+  "sections[1].items[1].text[0].children[0].text": {
+    "fr": "espèces méditerranéennes résistantes au vent et au soleil ; brise-vue et grimpantes sur treillis pour l'intimité.",
+    "en": "Mediterranean species that withstand wind and sun; screening plants and climbers on trellises for privacy."
+  },
+  "sections[1].items[2].lead": {
+    "fr": "Arrosage automatique",
+    "en": "Automatic irrigation"
+  },
+  "sections[1].items[2].text[0].children[0].text": {
+    "fr": "goutte à goutte programmé, indispensable sur une terrasse exposée ; protège les plantations pendant les fermetures estivales.",
+    "en": "programmed drip irrigation, essential on an exposed terrace; protects the plants during summer closures."
+  },
+  "sections[1].items[3].lead": {
+    "fr": "Pergolas, voiles d'ombrage, treillages",
+    "en": "Pergolas, shade sails, trellises"
+  },
+  "sections[1].items[3].text[0].children[0].text": {
+    "fr": "fourniture et pose.",
+    "en": "supply and installation."
+  },
+  "sections[1].items[4].lead": {
+    "fr": "Mobilier et éclairage",
+    "en": "Furniture and lighting"
+  },
+  "sections[1].items[4].text[0].children[0].text": {
+    "fr": "conseil et fourniture, éclairage solaire des bacs et des allées.",
+    "en": "advice and supply, solar lighting for planters and paths."
+  },
+  "sections[1].items[5].lead": {
+    "fr": "Décors temporaires",
+    "en": "Temporary displays"
+  },
+  "sections[1].items[5].text[0].children[0].text": {
+    "fr": "pour un événement ou une saison, voir ",
+    "en": "for an event or a season, see "
+  },
+  "sections[1].items[5].text[0].children[1].text": {
+    "fr": "location de plantes pour l'événementiel",
+    "en": "plant rental for events"
+  },
+  "sections[2].title": {
+    "fr": "Contraintes d'une terrasse : poids, vent, étanchéité",
+    "en": "Terrace constraints: weight, wind, waterproofing"
+  },
+  "sections[2].body[0].children[0].text": {
+    "fr": "Une terrasse n'est pas un jardin : la charge admissible de la dalle limite le poids des bacs une fois arrosés, le vent dessèche et renverse, l'étanchéité ne doit jamais être percée. Nous dimensionnons les bacs et le substrat en fonction de la charge admissible que vous nous communiquez (ou que votre bureau d'études confirme), nous lestons et fixons les éléments exposés au mistral, et nous posons l'arrosage sans toucher à l'étanchéité. Sur les rooftops, l'accès du matériel et des végétaux est planifié avec vous (monte-charge, grue, horaires).",
+    "en": "A terrace is not a garden: the permissible load of the slab limits the weight of the planters once watered, the wind dries plants out and knocks things over, and the waterproofing must never be pierced. We size the planters and growing medium according to the permissible load you give us (or that your engineering consultants confirm), we weigh down and secure items exposed to the mistral, and we install the irrigation without touching the waterproofing. On rooftops, access for equipment and plants is planned with you (goods lift, crane, timings)."
+  },
+  "sections[3].title": {
+    "fr": "Entretien de votre terrasse",
+    "en": "Maintaining your terrace"
+  },
+  "sections[3].body[0].children[0].text": {
+    "fr": "Arrosage et réglage du programmateur, taille, nettoyage des bacs, remplacement des sujets fatigués, hivernage des plantes sensibles, remise en beauté avant la saison : un contrat d'entretien de terrasse avec des passages planifiés et un compte rendu, plus rapprochés en été quand l'arrosage et la taille demandent le plus d'attention.",
+    "en": "Watering and controller adjustment, pruning, cleaning of planters, replacement of tired plants, overwintering of sensitive plants, a refresh before the season: a terrace maintenance contract with scheduled visits and a report, more frequent in summer when watering and pruning need the most attention."
+  },
+  "sections[4].title": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "sections[5].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[5].items[0].question": {
+    "fr": "Quelle différence entre une terrasse végétalisée et une toiture végétalisée ?",
+    "en": "What is the difference between a planted terrace and a green roof?"
+  },
+  "sections[5].items[0].answer[0].children[0].text": {
+    "fr": "Une toiture végétalisée est une couverture technique (substrat mince et sedums) posée sur l'étanchéité d'un toit non accessible. Une terrasse végétalisée, telle que nous la réalisons, est une terrasse accessible aménagée en bacs, jardinières et pergolas, pour être utilisée par vos équipes ou vos clients.",
+    "en": "A green roof is a technical covering (thin growing medium and sedums) laid on the waterproofing of a non-accessible roof. A planted terrace, as we create it, is an accessible terrace laid out with planters, window boxes and pergolas, to be used by your staff or your guests."
+  },
+  "sections[5].items[1].question": {
+    "fr": "Faut-il vérifier la charge admissible de la terrasse ?",
+    "en": "Does the terrace's permissible load need to be checked?"
+  },
+  "sections[5].items[1].answer[0].children[0].text": {
+    "fr": "Oui, avant tout projet. Un bac rempli de terre humide est lourd. Nous dimensionnons l'aménagement à partir de la charge admissible fournie par votre gestionnaire ou votre bureau d'études, avec des substrats allégés et une répartition des bacs au-dessus des porteurs.",
+    "en": "Yes, before any project. A planter filled with moist soil is heavy. We size the layout based on the permissible load provided by your building manager or engineering consultants, with lightweight growing media and planters positioned above load-bearing structures."
+  },
+  "sections[5].items[2].question": {
+    "fr": "Quelles plantes tiennent sur une terrasse en plein soleil et au mistral ?",
+    "en": "Which plants cope with a terrace in full sun and the mistral?"
+  },
+  "sections[5].items[2].answer[0].children[0].text": {
+    "fr": "Les méditerranéennes : oliviers, lauriers-roses et lauriers-tins, agrumes, lavandes, romarins, graminées, pittosporums, plantes grasses, grimpantes sur treillis abrité. Avec un arrosage goutte à goutte programmé et un paillage, elles passent l'été sans difficulté.",
+    "en": "Mediterranean plants: olive trees, oleanders and laurustinus, citrus trees, lavender, rosemary, ornamental grasses, pittosporums, succulents, and climbers on sheltered trellises. With programmed drip irrigation and mulching, they get through the summer without difficulty."
+  },
+  "sections[5].items[3].question": {
+    "fr": "Assurez-vous l'entretien après l'aménagement ?",
+    "en": "Do you provide maintenance after installation?"
+  },
+  "sections[5].items[3].answer[0].children[0].text": {
+    "fr": "Oui, en contrat annuel : arrosage, taille, nettoyage, remplacement des sujets fatigués, hivernage. Une terrasse plantée sans entretien se dégrade en une saison ; avec nos passages réguliers, elle s'embellit d'année en année.",
+    "en": "Yes, under an annual contract: watering, pruning, cleaning, replacement of tired plants, overwintering. A planted terrace without maintenance deteriorates within a season; with our regular visits, it looks better year after year."
+  },
+  "heroImage.alt": {
+    "fr": "Terrasses végétalisées",
+    "en": "Planted terraces"
+  },
+  "related.items[0].title": {
+    "fr": "Copropriétés et syndics",
+    "en": "Residential buildings and property managers"
+  },
+  "related.items[1].title": {
+    "fr": "Création et aménagement",
+    "en": "Landscape design and installation"
+  },
+  "related.items[2].title": {
+    "fr": "Élagage et débroussaillage",
+    "en": "Tree pruning and brush clearing"
+  }
+}

@@ -35,11 +35,8 @@ export class QuoteForm {
 
   readonly section = input.required<QuoteFormSection>();
 
-  protected readonly zones: { value: Exclude<Zone, ''>; label: string }[] = [
-    { value: 'marseille', label: 'Marseille et Provence' },
-    { value: 'nice', label: "Nice et Côte d'Azur" },
-    { value: 'paris', label: 'Paris et Île-de-France' },
-  ];
+  protected readonly zones: Exclude<Zone, ''>[] = ['marseille', 'nice', 'paris'];
+  protected readonly t = this.site.t;
 
   protected readonly zone = signal<Zone>('');
   protected readonly errors = signal<Partial<Record<Field | 'server', string>>>({});
@@ -94,6 +91,7 @@ export class QuoteForm {
           besoin: value('besoin'),
           zone: this.zone(),
           source: this.source,
+          lang: this.site.lang(),
           website: value('website'),
           elapsed: Date.now() - this.openedAt,
         }),

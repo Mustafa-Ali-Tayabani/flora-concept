@@ -17,6 +17,7 @@ import { BranchArt } from '../../shared/icons';
 })
 export class Footer {
   protected readonly s = inject(SiteStore).settings;
+  protected readonly t = inject(SiteStore).t;
   protected readonly cols = computed(() => {
     const [services, outdoor, cities, company] = this.s().footer.columns;
     return { services, outdoor, cities, company };

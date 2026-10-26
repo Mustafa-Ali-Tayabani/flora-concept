@@ -1,0 +1,178 @@
+{
+  "name": {
+    "fr": "Abonnement fleurs",
+    "en": "Flower subscription"
+  },
+  "seo.title": {
+    "fr": "Abonnement fleurs pour entreprise : accueil toujours fleuri",
+    "en": "Corporate flower subscription: a reception always in bloom"
+  },
+  "seo.description": {
+    "fr": "Abonnement floral pour entreprises et hôtels : compositions fraîches livrées et renouvelées régulièrement à l'accueil. Paris, Nice, Marseille. Devis gratuit.",
+    "en": "Flower subscription for businesses and hotels: fresh arrangements delivered and regularly renewed at your reception. Paris, Nice, Marseille. Free quote."
+  },
+  "h1": {
+    "fr": "Abonnement floral : des fleurs fraîches à votre accueil, toute l'année",
+    "en": "Flower subscription: fresh flowers at your reception, all year round"
+  },
+  "answer[0].children[0].text": {
+    "fr": "L'abonnement fleurs pour entreprise garantit un accueil toujours fleuri sans que personne n'ait à y penser : Flora Concept crée des compositions florales fraîches, les livre à date fixe et reprend les précédentes. Les bouquets sont composés selon votre décoration, votre image et la saison, pour un hall d'entreprise, une réception d'hôtel, un restaurant ou une salle de réunion de direction. Paysagiste et décorateur végétal des entreprises depuis 1999, nous assurons ce service depuis notre base du sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France. Vous choisissez la fréquence de renouvellement et le style (classique, contemporain, exotique), nous faisons le reste : création, livraison, mise en place, reprise des contenants. ",
+    "en": "A corporate flower subscription keeps your reception in bloom without anyone having to think about it: Flora Concept creates fresh floral arrangements, delivers them on fixed dates and takes back the previous ones. Bouquets are designed to suit your decor, your image and the season, for a company lobby, a hotel reception, a restaurant or an executive meeting room. Landscaper and plant decorator for businesses since 1999, we provide this service from our base in the south of France near Aix-en-Provence, with teams in Provence-Alpes-Côte d'Azur and Île-de-France. You choose the renewal frequency and the style (classic, contemporary, exotic), and we do the rest: design, delivery, set-up and collection of containers. "
+  },
+  "answer[0].children[2].text": {
+    "fr": " L'abonnement floral complète naturellement la location de plantes vertes pour composer un accueil impeccable. Demandez un devis gratuit selon votre fréquence et vos emplacements.",
+    "en": " A flower subscription naturally complements green plant rental for an impeccable reception area. Request a free quote based on your frequency and locations."
+  },
+  "structuredData.serviceType": {
+    "fr": "abonnement floral pour entreprises",
+    "en": "corporate flower subscription"
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Île-de-France",
+    "en": "Île-de-France"
+  },
+  "structuredData.areaServed[1]": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "sections[0].title": {
+    "fr": "Comment fonctionne l'abonnement",
+    "en": "How the subscription works"
+  },
+  "sections[0].steps[0].lead": {
+    "fr": "Brief",
+    "en": "Brief"
+  },
+  "sections[0].steps[0].text[0].children[0].text": {
+    "fr": "style, couleurs, contenants, emplacements, budget, fréquence de renouvellement.",
+    "en": "style, colours, containers, locations, budget, renewal frequency."
+  },
+  "sections[0].steps[1].lead": {
+    "fr": "Création",
+    "en": "Design"
+  },
+  "sections[0].steps[1].text[0].children[0].text": {
+    "fr": "nos fleuristes composent des bouquets de saison en accord avec votre décoration. ",
+    "en": "our florists create seasonal bouquets in keeping with your decor. "
+  },
+  "sections[0].steps[2].lead": {
+    "fr": "Livraison et mise en place",
+    "en": "Delivery and set-up"
+  },
+  "sections[0].steps[2].text[0].children[0].text": {
+    "fr": "à date fixe, avec reprise de la composition précédente et des contenants.",
+    "en": "on fixed dates, with collection of the previous arrangement and containers."
+  },
+  "sections[0].steps[3].lead": {
+    "fr": "Ajustements",
+    "en": "Adjustments"
+  },
+  "sections[0].steps[3].text[0].children[0].text": {
+    "fr": "le style évolue selon vos retours et les saisons, sans démarche de votre part.",
+    "en": "the style evolves with your feedback and the seasons, with no action needed on your part."
+  },
+  "sections[1].title": {
+    "fr": "Pour qui",
+    "en": "Who it is for"
+  },
+  "sections[1].items[0].lead": {
+    "fr": "Accueils d'entreprises",
+    "en": "Company receptions"
+  },
+  "sections[1].items[0].text[0].children[0].text": {
+    "fr": "la première impression de vos visiteurs et candidats.",
+    "en": "the first impression for your visitors and candidates."
+  },
+  "sections[1].items[1].lead": {
+    "fr": "Hôtels et restaurants",
+    "en": "Hotels and restaurants"
+  },
+  "sections[1].items[1].text[0].children[0].text": {
+    "fr": "réception, salles, tables de prestige.",
+    "en": "reception, dining rooms, prestige tables."
+  },
+  "sections[1].items[2].lead": {
+    "fr": "Directions et salles de conseil",
+    "en": "Executive offices and boardrooms"
+  },
+  "sections[1].items[2].text[0].children[0].text": {
+    "fr": "compositions discrètes et soignées.",
+    "en": "discreet, carefully crafted arrangements."
+  },
+  "sections[1].items[3].lead": {
+    "fr": "Événements récurrents",
+    "en": "Recurring events"
+  },
+  "sections[1].items[3].text[0].children[0].text": {
+    "fr": "comités, assemblées, rendez-vous clients. Pour un événement ponctuel, voir la ",
+    "en": "committees, general meetings, client meetings. For a one-off event, see "
+  },
+  "sections[1].items[3].text[0].children[1].text": {
+    "fr": "location de plantes pour événements",
+    "en": "plant rental for events"
+  },
+  "sections[2].title": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "sections[3].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[3].items[0].question": {
+    "fr": "À quelle fréquence les fleurs sont-elles renouvelées ?",
+    "en": "How often are the flowers renewed?"
+  },
+  "sections[3].items[0].answer[0].children[0].text": {
+    "fr": "La fréquence est choisie au contrat selon vos emplacements et votre budget. Chaque livraison comprend la mise en place de la nouvelle composition et la reprise de la précédente. ",
+    "en": "The frequency is set in the contract according to your locations and budget. Each delivery includes setting up the new arrangement and collecting the previous one. "
+  },
+  "sections[3].items[1].question": {
+    "fr": "Peut-on choisir le style des compositions ?",
+    "en": "Can we choose the style of the arrangements?"
+  },
+  "sections[3].items[1].answer[0].children[0].text": {
+    "fr": "Oui. Le style est défini au départ avec vous (classique, contemporain, exotique, couleurs de votre charte) et nos compositions suivent ensuite les saisons dans ce cadre. Vous pouvez le faire évoluer à tout moment.",
+    "en": "Yes. The style is defined with you at the outset (classic, contemporary, exotic, your brand colours), and our arrangements then follow the seasons within that framework. You can change it at any time."
+  },
+  "sections[3].items[2].question": {
+    "fr": "Livrez-vous les fleurs partout en France ?",
+    "en": "Do you deliver flowers throughout France?"
+  },
+  "sections[3].items[2].answer[0].children[0].text": {
+    "fr": "Le service floral est assuré en Île-de-France et en Provence-Alpes-Côte d'Azur. ",
+    "en": "The flower service is provided in Île-de-France and Provence-Alpes-Côte d'Azur. "
+  },
+  "sections[3].items[3].question": {
+    "fr": "Proposez-vous aussi des plantes vertes avec l'abonnement floral ?",
+    "en": "Do you also offer green plants with the flower subscription?"
+  },
+  "sections[3].items[3].answer[0].children[0].text": {
+    "fr": "Oui, les deux services se complètent : plantes vertes en ",
+    "en": "Yes, the two services complement each other: green plants on "
+  },
+  "sections[3].items[3].answer[0].children[1].text": {
+    "fr": "location avec entretien",
+    "en": "rental with maintenance"
+  },
+  "sections[3].items[3].answer[0].children[2].text": {
+    "fr": " pour structurer les espaces, fleurs fraîches en abonnement pour les points d'accueil. Un seul interlocuteur et un seul contrat si vous le souhaitez.",
+    "en": " to structure your spaces, and fresh flowers on subscription for reception points. One point of contact and a single contract if you wish."
+  },
+  "heroImage.alt": {
+    "fr": "Abonnement fleurs",
+    "en": "Flower subscription"
+  },
+  "related.items[0].title": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "related.items[1].title": {
+    "fr": "Entretien de plantes",
+    "en": "Plant maintenance"
+  },
+  "related.items[2].title": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  }
+}

@@ -5,14 +5,14 @@
     @if (!sent()) {
       <form novalidate (submit)="submit($event)" (focusin)="start()" aria-describedby="devis-privacy">
         <div class="card__head">
-          <h2 class="title">Demande de <em class="accent">devis</em></h2>
-          <span class="chip"><fc-leaf /> 3 champs</span>
+          <h2 class="title">{{ t().quote.title[0] }} <em class="accent">{{ t().quote.title[1] }}</em></h2>
+          <span class="chip"><fc-leaf /> {{ t().quote.fields }}</span>
         </div>
 
         <div class="field">
           <span class="field__n" aria-hidden="true">01</span>
           <div class="field__body">
-            <label for="f-nom">Nom</label>
+            <label for="f-nom">{{ t().quote.name }}</label>
             <input id="f-nom" name="nom" autocomplete="name" maxlength="120" required
               [attr.aria-invalid]="!!err.nom" [attr.aria-describedby]="err.nom ? 'e-nom' : null" />
             @if (err.nom) { <p class="field__err" id="e-nom">{{ err.nom }}</p> }
@@ -22,7 +22,7 @@
         <div class="field">
           <span class="field__n" aria-hidden="true">02</span>
           <div class="field__body">
-            <label for="f-contact">Email ou téléphone</label>
+            <label for="f-contact">{{ t().quote.contact }}</label>
             <input id="f-contact" name="contact" autocomplete="email" inputmode="email" maxlength="160" required
               [attr.aria-invalid]="!!err.contact" [attr.aria-describedby]="err.contact ? 'e-contact' : null" />
             @if (err.contact) { <p class="field__err" id="e-contact">{{ err.contact }}</p> }
@@ -32,7 +32,7 @@
         <div class="field">
           <span class="field__n" aria-hidden="true">03</span>
           <div class="field__body">
-            <label for="f-besoin">Votre besoin</label>
+            <label for="f-besoin">{{ t().quote.need }}</label>
             <textarea id="f-besoin" name="besoin" rows="3" maxlength="3000" required [placeholder]="s.placeholder"
               [attr.aria-invalid]="!!err.besoin" [attr.aria-describedby]="err.besoin ? 'e-besoin' : null"></textarea>
             @if (err.besoin) { <p class="field__err" id="e-besoin">{{ err.besoin }}</p> }
@@ -42,10 +42,10 @@
         <div class="field">
           <span class="field__n" aria-hidden="true">04</span>
           <fieldset class="field__body">
-            <legend>Équipe qui vous répond</legend>
+            <legend>{{ t().quote.team }}</legend>
             <div class="zones">
-              @for (z of zones; track z.value) {
-                <button type="button" class="zone" [class.is-on]="zone() === z.value" [attr.aria-pressed]="zone() === z.value" (click)="zone.set(z.value)">{{ z.label }}</button>
+              @for (z of zones; track z) {
+                <button type="button" class="zone" [class.is-on]="zone() === z" [attr.aria-pressed]="zone() === z" (click)="zone.set(z)">{{ site.zoneLabel(z) }}</button>
               }
             </div>
           </fieldset>
@@ -53,7 +53,7 @@
 
         <!-- Honeypot: invisible to people, filled by bots. -->
         <div class="hp" aria-hidden="true">
-          <label for="f-website">Site web</label>
+          <label for="f-website">{{ t().quote.honeypot }}</label>
           <input id="f-website" type="text" name="website" tabindex="-1" autocomplete="off" />
         </div>
 
@@ -61,7 +61,7 @@
 
         <div class="submit">
           <button type="submit" class="btn btn--ink" [disabled]="sending()">
-            {{ sending() ? 'Envoi en cours…' : 'Recevoir mon devis gratuit' }} <fc-leaf />
+            {{ sending() ? t().quote.sending : t().cta.quote }} <fc-leaf />
           </button>
           <p class="submit__note"><fc-rich-text [value]="s.reassurance" [inline]="true" /></p>
         </div>

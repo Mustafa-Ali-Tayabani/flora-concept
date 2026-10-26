@@ -20,8 +20,8 @@ export class ContentService {
   private readonly state = inject(TransferState);
   private readonly server = isPlatformServer(inject(PLATFORM_ID));
 
-  settings(): Observable<SiteSettings> {
-    return this.get<SiteSettings>('/content/settings.json');
+  settings(lang: 'fr' | 'en' = 'fr'): Observable<SiteSettings> {
+    return this.get<SiteSettings>(lang === 'en' ? '/content/settings.en.json' : '/content/settings.json');
   }
 
   index(): Observable<SiteIndex> {

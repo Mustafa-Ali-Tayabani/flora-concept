@@ -14,6 +14,16 @@ async function siteIndex(): Promise<SiteIndex> {
  */
 export const serverRoutes: ServerRoute[] = [
   { path: '', renderMode: RenderMode.Prerender },
+  { path: 'en', renderMode: RenderMode.Prerender },
+  {
+    path: 'en/:slug',
+    renderMode: RenderMode.Prerender,
+    async getPrerenderParams() {
+      return (await siteIndex()).pages
+        .filter((p) => p.lang === 'en' && p.slug !== '/en/')
+        .map((p) => ({ slug: p.slug.replace(/^\/en\/|\/$/g, '') }));
+    },
+  },
   {
     path: 'blog/:post',
     renderMode: RenderMode.Prerender,
@@ -26,7 +36,7 @@ export const serverRoutes: ServerRoute[] = [
     renderMode: RenderMode.Prerender,
     async getPrerenderParams() {
       return (await siteIndex()).pages
-        .filter((p) => p.slug !== '/')
+        .filter((p) => p.lang !== 'en' && p.slug !== '/')
         .map((p) => ({ slug: p.slug.replace(/^\/|\/$/g, '') }));
     },
   },

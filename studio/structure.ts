@@ -7,11 +7,22 @@ export const structure: StructureResolver = (S) =>
     .title('Contenu')
     .items([
       S.listItem()
-        .title('Réglages du site')
+        .title('Réglages du site (FR)')
         .id('siteSettings')
         .child(S.document().schemaType('siteSettings').documentId('siteSettings')),
+      S.listItem()
+        .title('Site settings (EN)')
+        .id('siteSettingsEn')
+        .child(S.document().schemaType('siteSettings').documentId('siteSettingsEn')),
       S.divider(),
-      S.documentTypeListItem('page').title('Pages'),
+      S.listItem()
+        .title('Pages (FR)')
+        .schemaType('page')
+        .child(S.documentList().title('Pages (FR)').filter('_type == "page" && (language == "fr" || !defined(language))')),
+      S.listItem()
+        .title('Pages (EN)')
+        .schemaType('page')
+        .child(S.documentList().title('Pages (EN)').filter('_type == "page" && language == "en"')),
       S.listItem()
         .title('Articles du blog')
         .schemaType('post')

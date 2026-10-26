@@ -44,6 +44,25 @@
   }
 }
 
+/* min-width: 0 lets the list overflow measurably; Header switches to the burger
+   (.is-compact) whenever the desktop menu does not fit (translation, zoom, large fonts). */
+.desk {
+  flex: 1 1 auto;
+  min-width: 0;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.hdr.is-compact {
+  .desk {
+    display: none;
+  }
+
+  .burger {
+    display: flex;
+  }
+}
+
 .desk__list {
   list-style: none;
   margin: 0;
@@ -51,6 +70,7 @@
   display: flex;
   align-items: center;
   gap: clamp(8px, 1.4vw, 22px);
+  min-width: 0;
 }
 
 .navlink {
@@ -76,6 +96,7 @@
 
 .hdr__cta {
   letter-spacing: 0.06em;
+  white-space: nowrap;
 
   &:hover {
     background: var(--cream);
@@ -90,6 +111,21 @@
 }
 
 /* ---------- Mega dropdown ---------- */
+/* Invisible bridge over the header padding between a menu label and its panel. */
+.dd {
+  position: static;
+}
+
+/* Only as tall as the gap (header padding + border), so it never covers the neighbouring labels. */
+.mega::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: -14px;
+  height: 14px;
+}
+
 /* display:none while closed, so its lazy thumbnails are not downloaded on load. */
 .mega {
   position: absolute;
@@ -386,8 +422,12 @@
   font-size: 18px;
 }
 
-.mpanel__cta {
-  align-self: flex-start;
+.mpanel__top {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
 }
 
 .mpanel__nav {

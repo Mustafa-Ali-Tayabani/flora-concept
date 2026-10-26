@@ -84,6 +84,7 @@ export default async function handler(req, res) {
   const zone = Object.hasOwn(ZONES, body.zone) ? body.zone : '';
   const source = typeof body.source === 'string' && /^\/[a-z0-9\-/]*$/.test(body.source) ? body.source : '';
   const elapsed = Number.isFinite(body.elapsed) ? body.elapsed : 0;
+  const lang = body.lang === 'en' ? 'English' : 'Français';
 
   // Bots: honeypot filled or inhumanly fast submission → fake success.
   if (clean(body.website, 200) || elapsed < MIN_FILL_MS) return json(res, 200, { ok: true });
@@ -109,7 +110,7 @@ export default async function handler(req, res) {
       to: to || process.env.DEVIS_TO_DEFAULT,
       subject: `Demande de devis : ${nom}`,
       replyTo: isEmail ? contact : undefined,
-      text: `Nouvelle demande de devis\n\nNom : ${nom}\nContact : ${contact}\nÉquipe : ${ZONES[zone] || 'Non précisée'}\nPage d’origine : ${source || '—'}\nDate : ${date}\n\nBesoin :\n${besoin}\n`,
+      text: `Nouvelle demande de devis\n\nNom : ${nom}\nContact : ${contact}\nÉquipe : ${ZONES[zone] || 'Non précisée'}\nPage d’origine : ${source || '—'}\nLangue du visiteur : ${lang}\nDate : ${date}\n\nBesoin :\n${besoin}\n`,
     });
     if (isEmail && process.env.DEVIS_ACK_BODY) {
       await sendMail({ to: contact, subject: process.env.DEVIS_ACK_SUBJECT || 'Flora Concept', text: process.env.DEVIS_ACK_BODY.replaceAll('{nom}', nom) }).catch((e) =>

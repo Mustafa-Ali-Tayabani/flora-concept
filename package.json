@@ -11,7 +11,7 @@
   },
   "scripts": {
     "content:import-md": "node scripts/import-markdown.mjs",
-    "content:sync": "node --env-file-if-exists=.env scripts/sync-content.mjs",
+    "content:sync": "node scripts/i18n/build-en.mjs && node --env-file-if-exists=.env scripts/sync-content.mjs",
     "content:guard": "node scripts/content-guard.mjs",
     "images": "node scripts/optimize-images.mjs",
     "dev": "npm run content:sync && npm run start -w web",
@@ -22,7 +22,8 @@
     "test:redirects": "node --env-file-if-exists=.env scripts/check-redirects.mjs",
     "audit:site": "node scripts/audit-site.mjs",
     "studio": "npm run dev -w studio",
-    "studio:seed": "node --env-file-if-exists=.env scripts/seed-sanity.mjs"
+    "studio:seed": "node --env-file-if-exists=.env scripts/seed-sanity.mjs",
+    "i18n:extract": "node scripts/i18n/extract.mjs"
   },
   "devDependencies": {
     "@fontsource-variable/bricolage-grotesque": "^5.2.10",

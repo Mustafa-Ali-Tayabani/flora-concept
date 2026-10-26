@@ -4,6 +4,7 @@ import { filter } from 'rxjs';
 import { AnalyticsService } from './core/analytics/analytics.service';
 import { ConsentService } from './core/consent/consent.service';
 import { FxService } from './core/fx/fx.service';
+import { SiteStore } from './core/site/site.store';
 import { CookieBanner } from './layout/cookie-banner';
 import { Footer } from './layout/footer/footer';
 import { Header } from './layout/header/header';
@@ -13,7 +14,7 @@ import { MobileBar } from './layout/mobile-bar';
   selector: 'fc-root',
   imports: [RouterOutlet, Header, Footer, MobileBar, CookieBanner],
   template: `
-    <a class="skip-link" href="#main">Aller au contenu</a>
+    <a class="skip-link" href="#main">{{ t().skipLink }}</a>
     <div class="scroll-progress" aria-hidden="true"></div>
     <fc-header />
     <main id="main" tabindex="-1">
@@ -27,6 +28,8 @@ import { MobileBar } from './layout/mobile-bar';
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class App {
+  protected readonly t = inject(SiteStore).t;
+
   constructor() {
     const consent = inject(ConsentService);
     const analytics = inject(AnalyticsService);

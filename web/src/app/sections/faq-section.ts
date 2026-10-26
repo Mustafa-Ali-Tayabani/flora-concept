@@ -1,5 +1,6 @@
 import { NgTemplateOutlet } from '@angular/common';
-import { ChangeDetectionStrategy, Component, input } from '@angular/core';
+import { ChangeDetectionStrategy, Component, inject, input } from '@angular/core';
+import { SiteStore } from '../core/site/site.store';
 import { RouterLink } from '@angular/router';
 import { FaqSection } from '../core/content/content.models';
 import { AccentTitle } from '../shared/accent-title';
@@ -32,8 +33,8 @@ import { SectionHead } from '../shared/section-head';
           <div class="promo">
             <fc-branch class="promo__art" color="#3d5a40" />
             <div class="promo__bar" aria-hidden="true"><span data-faqbar></span><span class="promo__count" data-faqcount>01 / {{ s.items.length.toString().padStart(2, '0') }}</span></div>
-            <p class="promo__title">Votre devis gratuit en une <em class="accent">minute</em></p>
-            <a class="btn btn--primary btn--sm" routerLink="/devis/">Recevoir mon devis <fc-leaf /></a>
+            <p class="promo__title"><fc-accent [text]="t().cta.finalLine" /></p>
+            <a class="btn btn--primary btn--sm" [routerLink]="t().routes.quote">{{ t().header.megaCta }} <fc-leaf /></a>
           </div>
         </div>
         <ng-container *ngTemplateOutlet="list" />
@@ -59,6 +60,7 @@ import { SectionHead } from '../shared/section-head';
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class FaqSectionComponent {
+  protected readonly t = inject(SiteStore).t;
   readonly section = input.required<FaqSection>();
   readonly num = input(0);
   /** FAQ page layout (big number, no side promo card). */

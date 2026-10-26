@@ -34,8 +34,12 @@ async function* htmlFiles(dir) {
 }
 
 // --- 404 + cleanup -------------------------------------------------------------
-await cp(join(OUT, '404/index.html'), join(OUT, '404.html'));
+// Idempotent: re-running on an already processed build is harmless.
+await cp(join(OUT, '404/index.html'), join(OUT, '404.html')).catch(() => {});
 await rm(join(OUT, '404'), { recursive: true, force: true });
+// English 404 (served for /en/… on Apache; Vercel only supports the root 404.html).
+await cp(join(OUT, 'en/404/index.html'), join(OUT, 'en/404.html')).catch(() => {});
+await rm(join(OUT, 'en/404'), { recursive: true, force: true });
 await rm(join(OUT, 'index.csr.html'), { force: true });
 
 // --- Defer hydration until after `load` ------------------------------------------
@@ -110,6 +114,9 @@ DirectoryIndex index.html
 Options -Indexes -MultiViews
 ErrorDocument 404 /404.html
 ErrorDocument 410 /404.html
+<If "%{REQUEST_URI} =~ m#^/en/#">
+  ErrorDocument 404 /en/404.html
+</If>
 
 <IfModule mod_rewrite.c>
   RewriteEngine On
@@ -171,12 +178,22 @@ await writeFile(join(OUT, '.htaccess'), htaccess);
 // --- Sitemap + robots ------------------------------------------------------------
 const today = index.generatedAt.slice(0, 10);
 const urls = [
-  ...index.pages.filter((p) => !p.noindex && p.template !== 'notFound').map((p) => ({ loc: SITE + p.slug, lastmod: (p.updatedAt ?? index.generatedAt).slice(0, 10) })),
+  ...index.pages
+    .filter((p) => !p.noindex && p.template !== 'notFound')
+    .map((p) => ({ loc: SITE + p.slug, lastmod: (p.updatedAt ?? index.generatedAt).slice(0, 10), alternates: p.alternates?.fr && p.alternates?.en ? p.alternates : null })),
   ...index.posts.map((p) => ({ loc: `${SITE}/blog/${p.slug}/`, lastmod: (p.updatedAt ?? p.pubDate).slice(0, 10) })),
 ];
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${urls.map((u) => `  <url><loc>${u.loc}</loc><lastmod>${u.lastmod || today}</lastmod></url>`).join('\n')}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+${urls
+  .map((u) => {
+    const alt = u.alternates
+      ? ['fr', 'en'].map((l) => `<xhtml:link rel="alternate" hreflang="${l}" href="${SITE}${u.alternates[l]}"/>`).join('') +
+        `<xhtml:link rel="alternate" hreflang="x-default" href="${SITE}${u.alternates.fr}"/>`
+      : '';
+    return `  <url><loc>${u.loc}</loc><lastmod>${u.lastmod || today}</lastmod>${alt}</url>`;
+  })
+  .join('\n')}
 </urlset>
 `;
 await writeFile(join(OUT, 'sitemap.xml'), sitemap);

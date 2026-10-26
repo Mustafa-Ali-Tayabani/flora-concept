@@ -1,0 +1,170 @@
+{
+  "name": {
+    "fr": "Multi-sites",
+    "en": "Multi-site"
+  },
+  "seo.title": {
+    "fr": "Plantes de bureau multi-sites : Paris, Marseille, Nice",
+    "en": "Multi-site office plants: Paris, Marseille, Nice"
+  },
+  "seo.description": {
+    "fr": "Un seul prestataire pour les plantes de vos sites de Paris et de PACA : contrat unique, jardiniers locaux, reporting commun. La solution des services généraux.",
+    "en": "One provider for the plants at your Paris and PACA sites: a single contract, local gardeners, shared reporting. The solution for facilities departments."
+  },
+  "h1": {
+    "fr": "Végétalisation de bureaux multi-sites : un interlocuteur de Paris à la Méditerranée",
+    "en": "Multi-site office greening: one contact from Paris to the Mediterranean"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Gérer les plantes de plusieurs sites avec des prestataires différents multiplie les contrats, les factures et les niveaux de qualité. Flora Concept est l'un des rares paysagistes d'intérieur à couvrir à la fois l'Île-de-France et la Provence-Alpes-Côte d'Azur avec ses propres équipes : vos bureaux de Paris, Marseille, Aix, Toulon, Nice ou Avignon sont entretenus par des jardiniers de la région, sous un contrat unique, une facturation consolidée et un interlocuteur commercial dédié. Depuis 1999, nous accompagnons des entreprises implantées sur plusieurs sites : siège parisien et agences régionales, réseaux d'hôtels, enseignes multi-établissements. ",
+    "en": "Managing plants across several sites with different providers multiplies contracts, invoices and quality levels. Flora Concept is one of the few interior landscapers to cover both Île-de-France and Provence-Alpes-Côte d'Azur with its own teams: your offices in Paris, Marseille, Aix, Toulon, Nice or Avignon are maintained by gardeners from the region, under a single contract, with consolidated invoicing and a dedicated account manager. Since 1999, we have supported companies operating across several sites: Paris headquarters and regional branches, hotel networks, multi-site retail and hospitality brands. "
+  },
+  "answer[0].children[2].text": {
+    "fr": " Le périmètre s'adapte à chaque site : location avec entretien, reprise d'un parc existant, murs et cadres stabilisés. Pour des sites situés hors de ces deux régions, chaque demande est étudiée. ",
+    "en": " The scope is adapted to each site: rental with maintenance, takeover of an existing plant collection, preserved green walls and plant frames. For sites outside these two regions, each request is considered individually. "
+  },
+  "answer[0].children[4].text": {
+    "fr": " Demandez un devis multi-sites : nous consolidons une proposition par site et par prestation.",
+    "en": " Request a multi-site quote: we consolidate one proposal per site and per service."
+  },
+  "structuredData.serviceType": {
+    "fr": "végétalisation et entretien de plantes multi-sites",
+    "en": "multi-site plant installation and maintenance"
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "France",
+    "en": "France"
+  },
+  "sections[0].title": {
+    "fr": "Ce que change un prestataire unique",
+    "en": "What a single provider changes"
+  },
+  "sections[0].head[0]": {
+    "fr": "Avant : un prestataire par site",
+    "en": "Before: one provider per site"
+  },
+  "sections[0].head[1]": {
+    "fr": "Avec Flora Concept",
+    "en": "With Flora Concept"
+  },
+  "sections[0].rows[0].cells[0][0].children[0].text": {
+    "fr": "Plusieurs contrats et échéances",
+    "en": "Several contracts and renewal dates"
+  },
+  "sections[0].rows[0].cells[1][0].children[0].text": {
+    "fr": "Un contrat cadre, un renouvellement",
+    "en": "One framework contract, one renewal"
+  },
+  "sections[0].rows[1].cells[0][0].children[0].text": {
+    "fr": "Qualité variable selon les villes",
+    "en": "Quality varies from city to city"
+  },
+  "sections[0].rows[1].cells[1][0].children[0].text": {
+    "fr": "Le même standard, les mêmes méthodes",
+    "en": "The same standard, the same methods"
+  },
+  "sections[0].rows[2].cells[0][0].children[0].text": {
+    "fr": "Plusieurs factures par mois",
+    "en": "Several invoices every month"
+  },
+  "sections[0].rows[2].cells[1][0].children[0].text": {
+    "fr": "Facturation consolidée ",
+    "en": "Consolidated invoicing "
+  },
+  "sections[0].rows[3].cells[0][0].children[0].text": {
+    "fr": "Pas de vision d'ensemble",
+    "en": "No overall view"
+  },
+  "sections[0].rows[3].cells[1][0].children[0].text": {
+    "fr": "Un reporting commun et un interlocuteur dédié ",
+    "en": "Shared reporting and a dedicated contact "
+  },
+  "sections[1].title": {
+    "fr": "Comment nous couvrons vos sites",
+    "en": "How we cover your sites"
+  },
+  "sections[1].steps[0].lead": {
+    "fr": "Vos sites dans nos zones d'agences",
+    "en": "Your sites within our branch areas"
+  },
+  "sections[1].steps[0].text[0].children[0].text": {
+    "fr": "(Île-de-France, Alpes-Maritimes, Bouches-du-Rhône, Var, Vaucluse) : jardiniers salariés de l'agence locale, tournées régulières.",
+    "en": "(Île-de-France, Alpes-Maritimes, Bouches-du-Rhône, Var, Vaucluse): our own employed gardeners from the local branch, on regular rounds."
+  },
+  "sections[1].steps[1].lead": {
+    "fr": "Vos sites ailleurs en France",
+    "en": "Your sites elsewhere in France"
+  },
+  "sections[1].steps[2].lead": {
+    "fr": "Prestations sans entretien",
+    "en": "Services without maintenance"
+  },
+  "sections[1].steps[2].text[0].children[0].text": {
+    "fr": "murs végétaux et cadres stabilisés livrés et posés en PACA, en Île-de-France et au-delà sur étude, sans passage récurrent.",
+    "en": "preserved green walls and plant frames delivered and installed in PACA, in Île-de-France and further afield on request, with no recurring visits."
+  },
+  "sections[2].title": {
+    "fr": "Pour les services généraux et les achats",
+    "en": "For facilities and procurement departments"
+  },
+  "sections[2].body[0].children[0].text": {
+    "fr": "Nous répondons aux cahiers des charges et appels d'offres : périmètre par site, fréquences, remplacements, assurances, engagements de service. ",
+    "en": "We respond to specifications and tenders: scope per site, frequencies, replacements, insurance, service commitments. "
+  },
+  "sections[2].body[0].children[2].text": {
+    "fr": " Chaque site garde son contact opérationnel local, vous gardez un pilotage central.",
+    "en": " Each site keeps its local operational contact, while you keep central oversight."
+  },
+  "sections[3].title": {
+    "fr": "Référence",
+    "en": "Reference"
+  },
+  "sections[4].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[4].items[0].question": {
+    "fr": "Pouvez-vous gérer nos bureaux de Paris et nos sites en région ?",
+    "en": "Can you manage our Paris offices and our regional sites?"
+  },
+  "sections[4].items[0].answer[0].children[0].text": {
+    "fr": "Oui, c'est notre spécialité : nos agences de Paris, Nice et Marseille couvrent leurs régions avec des jardiniers locaux, et nous organisons la couverture des autres sites en France. Vous signez un seul contrat, avec un interlocuteur unique et un reporting commun.",
+    "en": "Yes, it is our speciality: our Paris, Nice and Marseille branches cover their regions with local gardeners, and we organise coverage of your other sites in France. You sign a single contract, with a single point of contact and shared reporting."
+  },
+  "sections[4].items[1].question": {
+    "fr": "Comment est organisée la facturation multi-sites ?",
+    "en": "How is multi-site invoicing organised?"
+  },
+  "sections[4].items[2].question": {
+    "fr": "Le niveau de service est-il le même sur tous les sites ?",
+    "en": "Is the level of service the same at every site?"
+  },
+  "sections[4].items[2].answer[0].children[0].text": {
+    "fr": "Oui. Les méthodes, les fréquences et les standards de qualité sont définis dans le contrat cadre et appliqués par toutes nos équipes. Le reporting commun vous permet de le vérifier site par site.",
+    "en": "Yes. Methods, frequencies and quality standards are defined in the framework contract and applied by all our teams. Shared reporting lets you check this site by site."
+  },
+  "sections[4].items[3].question": {
+    "fr": "Répondez-vous aux appels d'offres ?",
+    "en": "Do you respond to tenders?"
+  },
+  "sections[4].items[3].answer[0].children[0].text": {
+    "fr": "Oui, nous répondons aux consultations et appels d'offres des entreprises et des gestionnaires : cahier des charges, visites des sites, proposition par site et par prestation, puis déploiement planifié. Contactez-nous en amont pour cadrer le périmètre.",
+    "en": "Yes, we respond to consultations and tenders from companies and building managers: specifications, site visits, a proposal per site and per service, then a planned roll-out. Contact us early on to define the scope."
+  },
+  "heroImage.alt": {
+    "fr": "Multi-sites",
+    "en": "Multi-site"
+  },
+  "related.items[0].title": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "related.items[1].title": {
+    "fr": "Entretien de plantes",
+    "en": "Plant maintenance"
+  },
+  "related.items[2].title": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  }
+}

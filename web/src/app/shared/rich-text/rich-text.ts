@@ -51,7 +51,7 @@ import { InlineRun, toNodes } from './portable-text';
             <span class="pending">{{ r.text }}</span>
           }
           @case ('zone') {
-            {{ zoneLabel() }}
+            <ng-container>{{ zoneLabel() }}</ng-container>
           }
           @default {
             @if (r.path) {

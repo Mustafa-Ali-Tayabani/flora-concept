@@ -1,5 +1,6 @@
 import { LocationStrategy, TrailingSlashPathLocationStrategy, registerLocaleData } from '@angular/common';
 import localeFr from '@angular/common/locales/fr';
+import localeEnGb from '@angular/common/locales/en-GB';
 import { provideHttpClient, withFetch } from '@angular/common/http';
 import {
   ApplicationConfig,
@@ -16,6 +17,7 @@ import { provideFloraImages } from './core/media/image-loader';
 import { SiteStore } from './core/site/site.store';
 
 registerLocaleData(localeFr);
+registerLocaleData(localeEnGb);
 
 export const appConfig: ApplicationConfig = {
   providers: [

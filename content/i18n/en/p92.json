@@ -1,0 +1,138 @@
+{
+  "name": {
+    "fr": "Cookies",
+    "en": "Cookies"
+  },
+  "seo.title": {
+    "fr": "Politique cookies | Flora Concept",
+    "en": "Cookie policy | Flora Concept"
+  },
+  "h1": {
+    "fr": "Cookies et traceurs",
+    "en": "Cookies and trackers"
+  },
+  "sections[0].parts[0].heading": {
+    "fr": "Principe",
+    "en": "Principle"
+  },
+  "sections[0].parts[0].body[0].children[0].text": {
+    "fr": "Ce site n'active aucun cookie de mesure ou de suivi avant votre consentement. Le bandeau de consentement vous permet d'accepter, de refuser ou de personnaliser les traceurs, et de changer d'avis à tout moment via le lien « Gérer les cookies » en pied de page.",
+    "en": "This site does not activate any audience measurement or tracking cookies before you give your consent. The consent banner allows you to accept, refuse or customise trackers, and to change your mind at any time via the “Manage cookies” link in the footer."
+  },
+  "sections[0].parts[1].heading": {
+    "fr": "Traceurs utilisés",
+    "en": "Trackers used"
+  },
+  "sections[0].parts[1].table.head[0]": {
+    "fr": "Catégorie",
+    "en": "Category"
+  },
+  "sections[0].parts[1].table.head[1]": {
+    "fr": "Outils",
+    "en": "Tools"
+  },
+  "sections[0].parts[1].table.head[2]": {
+    "fr": "Finalité",
+    "en": "Purpose"
+  },
+  "sections[0].parts[1].table.head[3]": {
+    "fr": "Durée",
+    "en": "Duration"
+  },
+  "sections[0].parts[1].table.head[4]": {
+    "fr": "Consentement",
+    "en": "Consent"
+  },
+  "sections[0].parts[1].table.rows[0].cells[0][0].children[0].text": {
+    "fr": "Strictement nécessaires",
+    "en": "Strictly necessary"
+  },
+  "sections[0].parts[1].table.rows[0].cells[1][0].children[0].text": {
+    "fr": "Cookie de consentement",
+    "en": "Consent cookie"
+  },
+  "sections[0].parts[1].table.rows[0].cells[2][0].children[0].text": {
+    "fr": "Mémoriser vos choix",
+    "en": "Remembering your choices"
+  },
+  "sections[0].parts[1].table.rows[0].cells[3][0].children[0].text": {
+    "fr": "6 mois",
+    "en": "6 months"
+  },
+  "sections[0].parts[1].table.rows[0].cells[4][0].children[0].text": {
+    "fr": "Non requis",
+    "en": "Not required"
+  },
+  "sections[0].parts[1].table.rows[1].cells[0][0].children[0].text": {
+    "fr": "Mesure d'audience",
+    "en": "Audience measurement"
+  },
+  "sections[0].parts[1].table.rows[1].cells[1][0].children[0].text": {
+    "fr": "Google Analytics 4 (via Google Tag Manager, Consent Mode v2)",
+    "en": "Google Analytics 4 (via Google Tag Manager, Consent Mode v2)"
+  },
+  "sections[0].parts[1].table.rows[1].cells[2][0].children[0].text": {
+    "fr": "Statistiques de visite, mesure des demandes de devis",
+    "en": "Visit statistics, measurement of quote requests"
+  },
+  "sections[0].parts[1].table.rows[1].cells[3][0].children[0].text": {
+    "fr": "13 mois maximum (_ga, _ga_*)",
+    "en": "13 months maximum (_ga, _ga_*)"
+  },
+  "sections[0].parts[1].table.rows[1].cells[4][0].children[0].text": {
+    "fr": "Requis",
+    "en": "Required"
+  },
+  "sections[0].parts[1].table.rows[2].cells[0][0].children[0].text": {
+    "fr": "Analyse d'ergonomie",
+    "en": "Usability analysis"
+  },
+  "sections[0].parts[1].table.rows[2].cells[1][0].children[0].text": {
+    "fr": "Microsoft Clarity",
+    "en": "Microsoft Clarity"
+  },
+  "sections[0].parts[1].table.rows[2].cells[2][0].children[0].text": {
+    "fr": "Comprendre l'usage des pages (cartes de chaleur, parcours)",
+    "en": "Understanding how pages are used (heatmaps, user journeys)"
+  },
+  "sections[0].parts[1].table.rows[2].cells[3][0].children[0].text": {
+    "fr": "1 an (_clck), 1 jour (_clsk)",
+    "en": "1 year (_clck), 1 day (_clsk)"
+  },
+  "sections[0].parts[1].table.rows[2].cells[4][0].children[0].text": {
+    "fr": "Requis",
+    "en": "Required"
+  },
+  "sections[0].parts[2].heading": {
+    "fr": "Gérer votre consentement",
+    "en": "Managing your consent"
+  },
+  "sections[0].parts[2].body[0].children[0].text": {
+    "fr": "Au premier affichage, le bandeau vous propose « Tout accepter », « Tout refuser » et « Personnaliser ». Votre choix est conservé puis redemandé à expiration. Vous pouvez le modifier à tout moment : ",
+    "en": "On your first visit, the banner offers you “Accept all”, “Refuse all” and “Customise”. Your choice is stored and requested again when it expires. You can change it at any time: "
+  },
+  "sections[0].parts[2].body[0].children[1].text": {
+    "fr": "Gérer les cookies",
+    "en": "Manage cookies"
+  },
+  "sections[0].parts[2].body[0].children[2].text": {
+    "fr": " (lien rouvrant le bandeau).",
+    "en": " (link that reopens the banner)."
+  },
+  "sections[0].parts[3].heading": {
+    "fr": "En savoir plus",
+    "en": "Find out more"
+  },
+  "sections[0].parts[3].body[0].children[0].text": {
+    "fr": "Pour toute question : ",
+    "en": "For any questions: "
+  },
+  "sections[0].parts[3].body[0].children[2].text": {
+    "fr": ". Voir aussi notre ",
+    "en": ". See also our "
+  },
+  "sections[0].parts[3].body[0].children[3].text": {
+    "fr": "politique de confidentialité",
+    "en": "privacy policy"
+  }
+}

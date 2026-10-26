@@ -54,6 +54,15 @@ Requires **Node ≥ 24.15** (see `.nvmrc`; Angular 22 refuses older versions). O
 - **`{{A_FOURNIR}}`** still missing is a `pending` node. Production builds remove it, along with any sentence, list item or section left empty, and `content:guard` reports it. Sections that depend on client approvals (Réalisations, logos, team, key figures, timeline) appear automatically once their data exists. `CONTENT_PREVIEW=1 npm run build` shows the placeholders as « À fournir » chips for client review.
 - **Blog**: a post with a future `pubDate` does not exist anywhere (no page, listing or sitemap entry). The deploy workflow rebuilds on **Mondays and Thursdays at 05:00 UTC**, and on every Sanity publish if the webhook is configured.
 
+## Languages (French default, English)
+
+- French is the default, at the root, with the brief's final slugs. English lives under `/en/` with English slugs (`content/i18n/slugs.json`). There is no automatic redirect based on the browser language.
+- Every page has `hreflang` alternates (fr, en, x-default → fr) in `<head>` and in the sitemap, plus its own `<html lang>`, canonical, `og:locale` and JSON-LD `inLanguage`. The FR | EN switch in the header goes to the same page in the other language.
+- Interface strings (buttons, form, cookie banner, menus, aria labels) are in `web/src/app/core/i18n/i18n.ts`.
+- **Content (seed)**: the English copy is in `content/i18n/en/*.json`, one entry per French string (`{ fr, en }`). `scripts/i18n/build-en.mjs` (run by every build) turns French seed + translations into English pages. It fails if a translation is missing, or stale because the French changed. After changing French content, run `npm run i18n:extract` and translate the emptied entries. Conventions are in `content/i18n/GLOSSARY.md`.
+- **Content (Sanity)**: pages have a `language` field and a `translation` reference to their counterpart. English site settings are the `siteSettingsEn` document.
+- The English is a professional translation, but not keyword-researched like the French. Have the client review it before launch.
+
 ## Setting up Sanity
 
 1. Create a project at sanity.io, then put its ID in `.env` (`SANITY_PROJECT_ID`, `SANITY_STUDIO_PROJECT_ID`). See `.env.example`.

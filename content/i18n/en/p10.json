@@ -1,0 +1,194 @@
+{
+  "name": {
+    "fr": "Paris et Île-de-France",
+    "en": "Paris and Île-de-France"
+  },
+  "seo.title": {
+    "fr": "Location et entretien de plantes de bureau à Paris",
+    "en": "Office plant rental and maintenance in Paris"
+  },
+  "seo.description": {
+    "fr": "Location de plantes pour bureaux à Paris, La Défense et dans les Hauts-de-Seine : installation, entretien régulier et remplacement compris. Devis gratuit.",
+    "en": "Office plant rental in Paris, La Défense and the Hauts-de-Seine: installation, regular maintenance and replacements included. Free quote."
+  },
+  "h1": {
+    "fr": "Location et entretien de plantes pour vos bureaux à Paris et en Île-de-France",
+    "en": "Plant rental and maintenance for your offices in Paris and Île-de-France"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Flora Concept assure la location de plantes pour les bureaux à Paris et en Île-de-France : sélection des végétaux et des bacs, installation par nos équipes, puis entretien régulier avec remplacement des plantes fatiguées. Paysagiste d'intérieur pour les entreprises depuis 1999, nous intervenons à Paris avec nos propres équipes auprès des sièges sociaux, bureaux, hôtels et commerces. ",
+    "en": "Flora Concept provides office plant rental in Paris and Île-de-France: selection of plants and planters, installation by our teams, then regular maintenance including replacement of tired plants. An interior landscaper for businesses since 1999, we work in Paris with our own teams for head offices, offices, hotels and shops. "
+  },
+  "answer[0].children[2].text": {
+    "fr": " Nous accompagnons notamment les entreprises parisiennes qui ont aussi des sites en PACA : un seul contrat, un seul interlocuteur, de Paris à la Méditerranée. Les murs végétaux et cadres stabilisés, fabriqués sur mesure et sans entretien, sont livrés et posés dans toute l'Île-de-France. Demandez un devis gratuit : un paysagiste étudie vos espaces et vous répond avec une proposition détaillée.",
+    "en": " In particular, we support Paris-based companies that also have sites in PACA: one contract, one point of contact, from Paris to the Mediterranean. Green walls and preserved frames, made to measure and maintenance-free, are delivered and installed throughout Île-de-France. Request a free quote: an interior landscaper will study your spaces and reply with a detailed proposal."
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Paris",
+    "en": "Paris"
+  },
+  "structuredData.areaServed[1]": {
+    "fr": "Hauts-de-Seine",
+    "en": "Hauts-de-Seine"
+  },
+  "sections[0].title": {
+    "fr": "Qui intervient à Paris",
+    "en": "Who works in Paris"
+  },
+  "sections[1].title": {
+    "fr": "Nos services pour les bureaux parisiens",
+    "en": "Our services for Paris offices"
+  },
+  "sections[1].items[0].lead": {
+    "fr": "Location de plantes avec entretien compris",
+    "en": "Plant rental with maintenance included"
+  },
+  "sections[1].items[0].text[0].children[0].text": {
+    "fr": "la formule standard pour les accueils et open spaces → détail sur la ",
+    "en": "the standard option for receptions and open-plan offices → details on the "
+  },
+  "sections[1].items[0].text[0].children[1].text": {
+    "fr": "location de plantes",
+    "en": "plant rental page"
+  },
+  "sections[1].items[1].lead": {
+    "fr": "Entretien de votre parc existant",
+    "en": "Maintenance of your existing plants"
+  },
+  "sections[1].items[1].text[0].children[0].text": {
+    "fr": "reprise après diagnostic → ",
+    "en": "takeover after an assessment → "
+  },
+  "sections[1].items[1].text[0].children[1].text": {
+    "fr": "entretien de plantes",
+    "en": "plant maintenance"
+  },
+  "sections[1].items[2].lead": {
+    "fr": "Murs végétaux et cadres stabilisés",
+    "en": "Green walls and preserved frames"
+  },
+  "sections[1].items[2].text[0].children[0].text": {
+    "fr": "sans arrosage ni lumière, posés lors d'un déplacement → ",
+    "en": "no watering or light needed, installed in a single visit → "
+  },
+  "sections[1].items[2].text[0].children[1].text": {
+    "fr": "mur végétal",
+    "en": "green wall"
+  },
+  "sections[1].items[2].text[0].children[2].text": {
+    "fr": " et ",
+    "en": " and "
+  },
+  "sections[1].items[2].text[0].children[3].text": {
+    "fr": "cadres stabilisés",
+    "en": "preserved frames"
+  },
+  "sections[1].items[3].lead": {
+    "fr": "Fleurs et décors de fin d'année",
+    "en": "Flowers and end-of-year decorations"
+  },
+  "sections[1].items[3].text[0].children[0].text": {
+    "fr": "selon disponibilité de l'équipe parisienne ",
+    "en": "subject to the Paris team's availability "
+  },
+  "sections[2].title": {
+    "fr": "Les contraintes parisiennes, on connaît",
+    "en": "We know the Paris constraints"
+  },
+  "sections[2].intro[0].children[0].text": {
+    "fr": "Les bureaux parisiens ont leurs particularités : immeubles haussmanniens aux pièces profondes et peu lumineuses, plateaux climatisés des tours, accès réglementés, livraisons en étage, créneaux imposés par les immeubles. Nos paysagistes choisissent les espèces en fonction de la lumière réelle de chaque zone et planifient les livraisons selon les contraintes de votre immeuble. Pour les espaces sans lumière du tout, le végétal stabilisé remplace avantageusement les plantes vivantes.",
+    "en": "Paris offices have their own particularities: Haussmann-era buildings with deep, poorly lit rooms, air-conditioned floors in towers, restricted access, deliveries to upper floors, time slots imposed by buildings. Our landscapers choose species according to the actual light in each area and schedule deliveries around your building's constraints. For spaces with no light at all, preserved plants are an excellent alternative to living plants."
+  },
+  "sections[2].groups[0].title": {
+    "fr": "La Défense",
+    "en": "La Défense"
+  },
+  "sections[2].groups[0].body[0].children[0].text": {
+    "fr": "Tours et immeubles de grande hauteur demandent une organisation spécifique : accès et badges, livraison par les quais et monte-charges, horaires imposés, végétaux adaptés aux plateaux très climatisés. ",
+    "en": "Towers and high-rise buildings call for specific organisation: access and badges, delivery via loading bays and goods lifts, set hours, plants suited to heavily air-conditioned floors. "
+  },
+  "sections[2].groups[1].title": {
+    "fr": "Hauts-de-Seine : Boulogne, Issy, Levallois, Neuilly",
+    "en": "Hauts-de-Seine: Boulogne, Issy, Levallois, Neuilly"
+  },
+  "sections[2].groups[1].body[0].children[0].text": {
+    "fr": "Les sièges installés dans l'ouest parisien bénéficient des mêmes services que Paris intra-muros : location avec entretien, reprise de parc existant, stabilisé sur mesure. ",
+    "en": "Head offices in west Paris benefit from the same services as central Paris: rental with maintenance, takeover of existing plants, made-to-measure preserved plants. "
+  },
+  "sections[3].title": {
+    "fr": "Un siège à Paris, des sites en PACA ?",
+    "en": "Head office in Paris, sites in PACA?"
+  },
+  "sections[3].body[0].children[0].text": {
+    "fr": "C'est la situation où Flora Concept est le plus utile : nos équipes de PACA entretiennent vos sites méditerranéens avec des jardiniers salariés, pendant que l'équipe parisienne s'occupe du siège. Un contrat unique, un reporting commun. Voir la page ",
+    "en": "This is where Flora Concept is most useful: our PACA teams maintain your Mediterranean sites with our own employed gardeners, while the Paris team looks after the head office. One single contract, shared reporting. See the "
+  },
+  "sections[3].body[0].children[1].text": {
+    "fr": "entreprises multi-sites",
+    "en": "multi-site businesses page"
+  },
+  "sections[4].title": {
+    "fr": "Références parisiennes",
+    "en": "Paris references"
+  },
+  "sections[5].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[5].items[0].question": {
+    "fr": "Proposez-vous la location de plantes avec entretien à Paris ?",
+    "en": "Do you offer plant rental with maintenance in Paris?"
+  },
+  "sections[5].items[0].answer[0].children[0].text": {
+    "fr": "Oui. Nos équipes installent les plantes dans vos bureaux parisiens puis assurent les passages d'entretien : arrosage, taille, nettoyage et remplacement des sujets fatigués, dans le cadre d'un contrat de location tout compris.",
+    "en": "Yes. Our teams install the plants in your Paris offices and then carry out the maintenance visits: watering, pruning, cleaning and replacement of tired plants, as part of an all-inclusive rental contract."
+  },
+  "sections[5].items[1].question": {
+    "fr": "Quel est le prix de la location de plantes de bureau à Paris ?",
+    "en": "How much does office plant rental cost in Paris?"
+  },
+  "sections[5].items[1].answer[0].children[0].text": {
+    "fr": "Le budget dépend du nombre de plantes, des tailles, des contenants et de la fréquence d'entretien. Nous établissons un devis gratuit et détaillé après un échange sur vos espaces, sans engagement.",
+    "en": "The budget depends on the number of plants, their sizes, the containers and the maintenance frequency. We draw up a free, detailed quote after discussing your spaces, with no obligation."
+  },
+  "sections[5].items[2].question": {
+    "fr": "Intervenez-vous à La Défense et dans les Hauts-de-Seine ?",
+    "en": "Do you work in La Défense and the Hauts-de-Seine?"
+  },
+  "sections[5].items[2].answer[0].children[0].text": {
+    "fr": "Oui, Paris intra-muros, La Défense et les communes des Hauts-de-Seine font partie de notre zone d'intervention francilienne. Les contraintes d'accès des tours (badges, monte-charges, créneaux) sont prises en compte dès le devis. ",
+    "en": "Yes, central Paris, La Défense and the towns of the Hauts-de-Seine are all part of our Île-de-France service area. Tower access constraints (badges, goods lifts, time slots) are taken into account from the quote stage. "
+  },
+  "sections[5].items[3].question": {
+    "fr": "Pouvez-vous gérer nos bureaux de Paris et nos agences de Marseille ou Nice ?",
+    "en": "Can you manage our Paris offices and our branches in Marseille or Nice?"
+  },
+  "sections[5].items[3].answer[0].children[0].text": {
+    "fr": "Oui, c'est notre force : un contrat unique couvrant votre siège parisien et vos sites en PACA, avec nos jardiniers salariés en PACA et un interlocuteur commercial unique.",
+    "en": "Yes, that is our strength: a single contract covering your Paris head office and your sites in PACA, with our own employed gardeners in PACA and a single sales contact."
+  },
+  "sections[5].items[4].question": {
+    "fr": "Installez-vous des murs végétaux à Paris ?",
+    "en": "Do you install green walls in Paris?"
+  },
+  "sections[5].items[4].answer[0].children[0].text": {
+    "fr": "Oui. Les murs végétaux stabilisés et les cadres végétaux, sans arrosage ni entretien courant, sont fabriqués sur mesure puis posés par nos équipes partout en Île-de-France. Les murs naturels irrigués sont étudiés selon votre site. ",
+    "en": "Yes. Preserved green walls and plant frames, which need no watering or routine maintenance, are made to measure and then installed by our teams anywhere in Île-de-France. Irrigated living walls are assessed according to your site. "
+  },
+  "heroImage.alt": {
+    "fr": "Paris et Île-de-France",
+    "en": "Paris and Île-de-France"
+  },
+  "related.items[0].title": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "related.items[1].title": {
+    "fr": "Entretien de plantes",
+    "en": "Plant maintenance"
+  },
+  "related.items[2].title": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  }
+}

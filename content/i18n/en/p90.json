@@ -1,0 +1,98 @@
+{
+  "name": {
+    "fr": "Mentions légales",
+    "en": "Legal notice"
+  },
+  "seo.title": {
+    "fr": "Mentions légales | Flora Concept",
+    "en": "Legal notice | Flora Concept"
+  },
+  "h1": {
+    "fr": "Mentions légales",
+    "en": "Legal notice"
+  },
+  "sections[0].parts[0].heading": {
+    "fr": "Éditeur du site",
+    "en": "Website publisher"
+  },
+  "sections[0].parts[0].body[0].children[0].text": {
+    "fr": "Le présent site est édité par ",
+    "en": "This website is published by "
+  },
+  "sections[0].parts[0].body[0].children[1].text": {
+    "fr": "FLORACONCEPT",
+    "en": "FLORACONCEPT"
+  },
+  "sections[0].parts[0].body[0].children[2].text": {
+    "fr": ", société à responsabilité limitée (SARL) au capital de 46 000 €, immatriculée au RCS de Marseille sous le numéro SIREN 423 977 305, dont le siège social est situé au 1118 route d'Aubagne, 13420 Gémenos.",
+    "en": ", a limited liability company (SARL) with share capital of 46 000 €, registered with the Marseille RCS under SIREN number 423 977 305, whose registered office is located at 1118 route d'Aubagne, 13420 Gémenos."
+  },
+  "sections[0].parts[0].body[1].children[0].text": {
+    "fr": "Numéro de TVA intracommunautaire : FR27 423 977 305",
+    "en": "Intra-Community VAT number: FR27 423 977 305"
+  },
+  "sections[0].parts[0].body[2].children[0].text": {
+    "fr": "Téléphone : 04 13 12 13 80",
+    "en": "Telephone: 04 13 12 13 80"
+  },
+  "sections[0].parts[0].body[3].children[0].text": {
+    "fr": "Email : ",
+    "en": "Email: "
+  },
+  "sections[0].parts[0].body[4].children[0].text": {
+    "fr": "Directeur de la publication : Jean-François Argeme, gérant",
+    "en": "Publication director: Jean-François Argeme, managing director"
+  },
+  "sections[0].parts[1].heading": {
+    "fr": "Hébergement",
+    "en": "Hosting"
+  },
+  "sections[0].parts[1].body[0].children[0].text": {
+    "fr": "Le site est hébergé par ",
+    "en": "The website is hosted by "
+  },
+  "sections[0].parts[1].body[0].children[1].text": {
+    "fr": "Hostinger International Ltd",
+    "en": "Hostinger International Ltd"
+  },
+  "sections[0].parts[1].body[0].children[2].text": {
+    "fr": ", 61 Lordou Vironos Street, 6023 Larnaca, Chypre.",
+    "en": ", 61 Lordou Vironos Street, 6023 Larnaca, Cyprus."
+  },
+  "sections[0].parts[2].heading": {
+    "fr": "Propriété intellectuelle",
+    "en": "Intellectual property"
+  },
+  "sections[0].parts[2].body[0].children[0].text": {
+    "fr": "L'ensemble des contenus du site (textes, photographies, logos, éléments graphiques) est la propriété de FLORACONCEPT ou fait l'objet d'une autorisation d'utilisation. Toute reproduction, représentation ou diffusion, totale ou partielle, sans autorisation écrite préalable est interdite.",
+    "en": "All content on the website (texts, photographs, logos, graphic elements) is the property of FLORACONCEPT or is used with permission. Any reproduction, representation or distribution, in whole or in part, without prior written permission is prohibited."
+  },
+  "sections[0].parts[3].heading": {
+    "fr": "Données personnelles",
+    "en": "Personal data"
+  },
+  "sections[0].parts[3].body[0].children[0].text": {
+    "fr": "Les données collectées via le formulaire de devis sont traitées conformément à notre ",
+    "en": "Data collected via the quote form is processed in accordance with our "
+  },
+  "sections[0].parts[3].body[0].children[1].text": {
+    "fr": "politique de confidentialité",
+    "en": "privacy policy"
+  },
+  "sections[0].parts[3].body[0].children[2].text": {
+    "fr": ". Pour toute question ou pour exercer vos droits : ",
+    "en": ". For any question or to exercise your rights: "
+  },
+  "sections[0].parts[4].heading": {
+    "fr": "Cookies",
+    "en": "Cookies"
+  },
+  "sections[0].parts[4].body[0].children[0].text": {
+    "fr": "Le site utilise des cookies et traceurs soumis à votre consentement. Voir la ",
+    "en": "The website uses cookies and trackers subject to your consent. See the "
+  },
+  "sections[0].parts[4].body[0].children[1].text": {
+    "fr": "politique cookies",
+    "en": "cookie policy"
+  }
+}

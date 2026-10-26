@@ -66,18 +66,28 @@ async function toSanity(node, field = '', parent = '') {
 }
 
 const seed = join(ROOT, 'content/seed');
-const pages = await Promise.all((await readdir(join(seed, 'pages'))).map(async (f) => JSON.parse(await readFile(join(seed, 'pages', f), 'utf8'))));
+const readPages = async (dir) => Promise.all((await readdir(join(seed, dir)).catch(() => [])).map(async (f) => JSON.parse(await readFile(join(seed, dir, f), 'utf8'))));
+// French pages + English pages (run `node scripts/i18n/build-en.mjs` first).
+const pages = [...(await readPages('pages')).map((p) => ({ lang: 'fr', ...p })), ...(await readPages('en/pages'))];
 const idBySlug = new Map(pages.map((p) => [p.slug, p._id]));
+const SLUGS = JSON.parse(await readFile(join(ROOT, 'content/i18n/slugs.json'), 'utf8'));
+const otherSlug = (p) => (p.lang === 'en' ? Object.keys(SLUGS).find((k) => SLUGS[k] === p.slug) : SLUGS[p.slug]);
 
 const tx = client.transaction();
 const settings = await toSanity(JSON.parse(await readFile(join(seed, 'settings.json'), 'utf8')));
 tx.createOrReplace({ ...settings, _id: 'siteSettings', _type: 'siteSettings' });
+const settingsEn = await readFile(join(seed, 'en/settings.json'), 'utf8').catch(() => null);
+if (settingsEn) tx.createOrReplace({ ...(await toSanity(JSON.parse(settingsEn))), _id: 'siteSettingsEn', _type: 'siteSettings' });
 for (const p of pages) {
   const doc = await toSanity(p);
   delete doc.related?.hub;
+  delete doc.lang;
+  const translationId = idBySlug.get(otherSlug(p));
   tx.createOrReplace({
     ...doc,
     _type: 'page',
+    language: p.lang,
+    ...(translationId ? { translation: { _type: 'reference', _ref: translationId, _weak: true } } : {}),
     slug: { _type: 'slug', current: p.slug },
     parent: p.parent ? { _type: 'reference', _ref: idBySlug.get(p.parent.slug) } : undefined,
     related: p.related ? { ...doc.related, hub: { _type: 'reference', _ref: idBySlug.get(p.related.hub.slug) } } : undefined,

@@ -1,0 +1,302 @@
+{
+  "name": {
+    "fr": "Accueil",
+    "en": "Home"
+  },
+  "seo.title": {
+    "fr": "Flora Concept : paysagiste d'intérieur pour entreprises",
+    "en": "Flora Concept: interior landscaping for businesses"
+  },
+  "seo.description": {
+    "fr": "Location et entretien de plantes, murs végétaux et cadres stabilisés pour bureaux, hôtels et résidences, en PACA et en Île-de-France. Devis gratuit.",
+    "en": "Plant rental and maintenance, green walls and preserved plant frames for offices, hotels and residences in PACA and Île-de-France. Free quote."
+  },
+  "h1": {
+    "fr": "Des espaces de travail plus verts, sans vous en occuper",
+    "en": "Greener workspaces, without the hassle"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Flora Concept est un spécialiste du paysagisme d'intérieur pour les entreprises depuis 1999 : location et entretien de plantes, murs végétaux et cadres végétaux stabilisés, basé dans le sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France.",
+    "en": "Flora Concept has specialised in interior landscaping for businesses since 1999: plant rental and maintenance, green walls and preserved plant frames. We are based in the south of France near Aix-en-Provence, with teams in Provence-Alpes-Côte d'Azur and Île-de-France."
+  },
+  "sections[0].items[0].title": {
+    "fr": "Bureaux et sièges sociaux",
+    "en": "Offices and head offices"
+  },
+  "sections[0].items[0].text[0].children[0].text": {
+    "fr": "plantes en location avec entretien compris, pour l'accueil, les open spaces et les salles de réunion.",
+    "en": "rented plants with maintenance included, for reception areas, open-plan offices and meeting rooms."
+  },
+  "sections[0].items[0].tag": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "sections[0].items[1].title": {
+    "fr": "Hôtels, restaurants et résidences",
+    "en": "Hotels, restaurants and residences"
+  },
+  "sections[0].items[1].text[0].children[0].text": {
+    "fr": "ambiances végétales durables pour les halls, lobbies et espaces communs.",
+    "en": "long-lasting plant settings for halls, lobbies and communal areas."
+  },
+  "sections[0].items[1].tag": {
+    "fr": "Paysagisme d'intérieur",
+    "en": "Interior landscaping"
+  },
+  "sections[0].items[2].title": {
+    "fr": "Syndics et gestionnaires",
+    "en": "Property and building managers"
+  },
+  "sections[0].items[2].text[0].children[0].text": {
+    "fr": "un prestataire unique pour végétaliser et entretenir plusieurs sites, de Paris à la Méditerranée.",
+    "en": "a single provider to green and maintain several sites, from Paris to the Mediterranean."
+  },
+  "sections[0].items[2].tag": {
+    "fr": "Multi-sites",
+    "en": "Multi-site"
+  },
+  "sections[1].title": {
+    "fr": "Nos services",
+    "en": "Our services"
+  },
+  "sections[1].cards[0].title": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "sections[1].cards[0].text[0].children[0].text": {
+    "fr": "des plantes adaptées à vos espaces, installées et remplacées par nos équipes, sans investissement.",
+    "en": "plants suited to your spaces, installed and replaced by our teams, with no upfront investment."
+  },
+  "sections[1].cards[1].title": {
+    "fr": "Entretien de plantes",
+    "en": "Plant maintenance"
+  },
+  "sections[1].cards[1].text[0].children[0].text": {
+    "fr": "un contrat d'entretien pour vos plantes, avec des passages réguliers de nos jardiniers.",
+    "en": "a maintenance contract for your plants, with regular visits from our gardeners."
+  },
+  "sections[1].cards[2].title": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  },
+  "sections[1].cards[2].text[0].children[0].text": {
+    "fr": "naturels ou stabilisés, sur mesure, pour vos halls et espaces d'accueil.",
+    "en": "living or preserved, made to measure, for your halls and reception areas."
+  },
+  "sections[1].cards[3].title": {
+    "fr": "Cadres végétaux stabilisés",
+    "en": "Preserved plant frames"
+  },
+  "sections[1].cards[3].text[0].children[0].text": {
+    "fr": "tableaux et logos végétaux sans arrosage, fabriqués sur mesure.",
+    "en": "plant artworks and logos that need no watering, made to measure."
+  },
+  "sections[1].cards[4].title": {
+    "fr": "Fleurs et événementiel",
+    "en": "Flowers and events"
+  },
+  "sections[1].cards[4].text[0].children[0].text": {
+    "fr": "abonnements floraux pour vos accueils et location de plantes pour vos événements.",
+    "en": "flower subscriptions for your reception areas and plant rental for your events."
+  },
+  "sections[1].cards[5].title": {
+    "fr": "Noël en entreprise",
+    "en": "Christmas at work"
+  },
+  "sections[1].cards[5].text[0].children[0].text": {
+    "fr": "sapins, décorations et compositions de fin d'année, livrés et repris.",
+    "en": "Christmas trees, decorations and festive arrangements, delivered and collected."
+  },
+  "sections[1].cards[6].title": {
+    "fr": "Espaces verts d'entreprise",
+    "en": "Corporate grounds"
+  },
+  "sections[1].cards[7].title": {
+    "fr": "Ruches en entreprise",
+    "en": "Corporate beehives"
+  },
+  "sections[2].title": {
+    "fr": "Pourquoi Flora Concept",
+    "en": "Why Flora Concept"
+  },
+  "sections[2].items[0].lead": {
+    "fr": "Depuis 1999",
+    "en": "Since 1999"
+  },
+  "sections[2].items[0].text[0].children[0].text": {
+    "fr": "plus de 25 ans de paysagisme d'intérieur au service des entreprises.",
+    "en": "more than 25 years of interior landscaping for businesses."
+  },
+  "sections[2].items[1].lead": {
+    "fr": "Des jardiniers salariés",
+    "en": "Our own employed gardeners"
+  },
+  "sections[2].items[1].text[0].children[0].text": {
+    "fr": "l'installation et l'entretien sont réalisés par nos équipes, pas par des sous-traitants anonymes. ",
+    "en": "installation and maintenance are carried out by our teams, not by anonymous subcontractors. "
+  },
+  "sections[2].items[2].lead": {
+    "fr": "Deux régions couvertes par nos équipes",
+    "en": "Two regions covered by our teams"
+  },
+  "sections[2].items[2].text[0].children[0].text": {
+    "fr": "la Provence-Alpes-Côte d'Azur (Marseille, Aix, Toulon, Nice, Cannes, Sophia Antipolis, Avignon) et l'Île-de-France (Paris, La Défense, Hauts-de-Seine), depuis notre base de Gémenos (13).",
+    "en": "Provence-Alpes-Côte d'Azur (Marseille, Aix, Toulon, Nice, Cannes, Sophia Antipolis, Avignon) and Île-de-France (Paris, La Défense, Hauts-de-Seine), from our base in Gémenos (13)."
+  },
+  "sections[2].items[3].lead": {
+    "fr": "Remplacement compris",
+    "en": "Replacement included"
+  },
+  "sections[2].items[3].text[0].children[0].text": {
+    "fr": "une plante qui faiblit est remplacée dans le cadre du contrat. ",
+    "en": "a plant that starts to decline is replaced under the contract. "
+  },
+  "sections[3].title": {
+    "fr": "Nos zones d'intervention",
+    "en": "Where we work"
+  },
+  "sections[3].regions[0].title": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "sections[3].regions[0].tag": {
+    "fr": "Intérieur et extérieur",
+    "en": "Indoor and outdoor"
+  },
+  "sections[3].regions[0].cities[0]": {
+    "fr": "Marseille et Aubagne",
+    "en": "Marseille and Aubagne"
+  },
+  "sections[3].regions[0].cities[1]": {
+    "fr": "Aix-en-Provence",
+    "en": "Aix-en-Provence"
+  },
+  "sections[3].regions[0].cities[2]": {
+    "fr": "Toulon et le Var",
+    "en": "Toulon and the Var"
+  },
+  "sections[3].regions[0].cities[3]": {
+    "fr": "Nice",
+    "en": "Nice"
+  },
+  "sections[3].regions[0].cities[4]": {
+    "fr": "Cannes",
+    "en": "Cannes"
+  },
+  "sections[3].regions[0].cities[5]": {
+    "fr": "Antibes",
+    "en": "Antibes"
+  },
+  "sections[3].regions[0].cities[6]": {
+    "fr": "Sophia Antipolis",
+    "en": "Sophia Antipolis"
+  },
+  "sections[3].regions[0].cities[7]": {
+    "fr": "Monaco",
+    "en": "Monaco"
+  },
+  "sections[3].regions[0].cities[8]": {
+    "fr": "Avignon et le Vaucluse",
+    "en": "Avignon and the Vaucluse"
+  },
+  "sections[3].regions[0].links[0].label": {
+    "fr": "Marseille et Provence",
+    "en": "Marseille and Provence"
+  },
+  "sections[3].regions[0].links[1].label": {
+    "fr": "Nice et Côte d'Azur",
+    "en": "Nice and the Côte d'Azur"
+  },
+  "sections[3].regions[1].title": {
+    "fr": "Île-de-France",
+    "en": "Île-de-France"
+  },
+  "sections[3].regions[1].tag": {
+    "fr": "Paysagisme d'intérieur",
+    "en": "Interior landscaping"
+  },
+  "sections[3].regions[1].cities[0]": {
+    "fr": "Paris",
+    "en": "Paris"
+  },
+  "sections[3].regions[1].cities[1]": {
+    "fr": "La Défense",
+    "en": "La Défense"
+  },
+  "sections[3].regions[1].cities[2]": {
+    "fr": "Hauts-de-Seine",
+    "en": "Hauts-de-Seine"
+  },
+  "sections[3].regions[1].links[0].label": {
+    "fr": "Paris et Île-de-France",
+    "en": "Paris and Île-de-France"
+  },
+  "sections[4].title": {
+    "fr": "Ils nous font confiance",
+    "en": "They trust us"
+  },
+  "sections[5].title": {
+    "fr": "Comment ça se passe",
+    "en": "How it works"
+  },
+  "sections[5].steps[0].lead": {
+    "fr": "Visite et conseil",
+    "en": "Visit and advice"
+  },
+  "sections[5].steps[0].text[0].children[0].text": {
+    "fr": "un paysagiste visite vos locaux et étudie la lumière, les volumes et vos envies.",
+    "en": "a landscaper visits your premises and assesses the light, the volumes and what you would like."
+  },
+  "sections[5].steps[1].lead": {
+    "fr": "Proposition sur mesure",
+    "en": "Tailored proposal"
+  },
+  "sections[5].steps[1].text[0].children[0].text": {
+    "fr": "vous recevez un devis détaillé avec les végétaux, les bacs et les fréquences d'entretien.",
+    "en": "you receive a detailed quote covering the plants, the planters and the maintenance frequency."
+  },
+  "sections[5].steps[2].lead": {
+    "fr": "Installation et suivi",
+    "en": "Installation and follow-up"
+  },
+  "sections[5].steps[2].text[0].children[0].text": {
+    "fr": "nos équipes installent, puis entretiennent vos plantes à chaque passage.",
+    "en": "our teams install your plants, then look after them at every visit."
+  },
+  "sections[6].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[6].items[0].question": {
+    "fr": "Dans quelles villes intervenez-vous ?",
+    "en": "Which cities do you work in?"
+  },
+  "sections[6].items[0].answer[0].children[0].text": {
+    "fr": "Nos équipes couvrent deux régions : la Provence-Alpes-Côte d'Azur (Marseille, Aix-en-Provence, Toulon et le Var, Nice et les Alpes-Maritimes, Avignon et le Vaucluse) et l'Île-de-France (Paris, La Défense, Hauts-de-Seine). Pour les entreprises implantées sur plusieurs sites dans ces régions, un contrat unique suffit ; au-delà, nous étudions chaque demande.",
+    "en": "Our teams cover two regions: Provence-Alpes-Côte d'Azur (Marseille, Aix-en-Provence, Toulon and the Var, Nice and the Alpes-Maritimes, Avignon and the Vaucluse) and Île-de-France (Paris, La Défense, Hauts-de-Seine). For companies with several sites in these regions, a single contract is enough; beyond them, we consider each request individually."
+  },
+  "sections[6].items[1].question": {
+    "fr": "Proposez-vous la location ou la vente de plantes ?",
+    "en": "Do you rent or sell plants?"
+  },
+  "sections[6].items[1].answer[0].children[0].text": {
+    "fr": "Les deux. La location avec entretien compris est la formule la plus demandée par les entreprises : vous n'avancez pas d'investissement et vos plantes restent impeccables. L'achat avec contrat d'entretien est possible pour les projets d'aménagement.",
+    "en": "Both. Rental with maintenance included is the option businesses ask for most: you make no upfront investment and your plants stay impeccable. Purchase with a maintenance contract is available for fit-out projects."
+  },
+  "sections[6].items[2].question": {
+    "fr": "Comment obtenir un devis ?",
+    "en": "How do I get a quote?"
+  },
+  "sections[6].items[2].answer[0].children[0].text": {
+    "fr": "Remplissez le formulaire de devis (une minute suffit) ou appelez directement l'équipe de votre région. Un paysagiste vous recontacte, visite vos locaux si nécessaire et vous envoie une proposition détaillée. Le devis est gratuit et sans engagement.",
+    "en": "Fill in the quote form (it takes one minute) or call your regional team directly. A landscaper gets back to you, visits your premises if needed and sends you a detailed proposal. The quote is free and with no obligation."
+  },
+  "heroImage.alt": {
+    "fr": "L'équipe Flora Concept",
+    "en": "The Flora Concept team"
+  },
+  "microProof[0].children[0].text": {
+    "fr": "Depuis 1999 · jardiniers salariés · plantes remplacées sans supplément ",
+    "en": "Since 1999 · our own employed gardeners · plants replaced at no extra cost "
+  }
+}

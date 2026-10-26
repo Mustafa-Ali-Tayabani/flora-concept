@@ -11,7 +11,7 @@
       <fc-breadcrumb [page]="p" />
       <h1 class="h1 banner__h1" id="page-title"><fc-accent [text]="p.h1" /></h1>
       @if (p.outdoor) {
-        <p class="zone-band"><span aria-hidden="true"></span>Interventions en Provence-Alpes-Côte d'Azur</p>
+        <p class="zone-band"><span aria-hidden="true"></span>{{ t().hero.zoneBand }}</p>
       }
       @if (withButtons()) { <fc-cta-buttons /> }
     </div>
@@ -28,7 +28,7 @@
       <div class="wrap">
         <div class="split" style="--l: 7fr; --r: 5fr">
           <div class="answer__txt">
-            <span class="eyebrow">En bref</span>
+            <span class="eyebrow">{{ t().hero.inShort }}</span>
             <!-- Direct answer: plain text at the top of the page, never collapsed. -->
             @if (split(); as s) {
               <div class="answer__body">

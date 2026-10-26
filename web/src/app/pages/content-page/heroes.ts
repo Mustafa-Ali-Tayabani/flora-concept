@@ -1,4 +1,5 @@
-import { ChangeDetectionStrategy, Component, computed, input } from '@angular/core';
+import { ChangeDetectionStrategy, Component, computed, inject, input } from '@angular/core';
+import { SiteStore } from '../../core/site/site.store';
 import { RouterLink } from '@angular/router';
 import { Page } from '../../core/content/content.models';
 import { pageTrail } from '../../core/seo/json-ld';
@@ -16,10 +17,12 @@ import { RichTextComponent } from '../../shared/rich-text/rich-text';
 export function splitAnswer(all: string): { quote: string; columns: string[] } {
   let quote = '';
   let rest = all;
-  const ci = all.indexOf(' : ');
-  if (ci > 30 && ci < 150) {
-    quote = all.slice(0, ci + 2);
-    rest = all.slice(ci + 3);
+  // French « mot : suite », English "word: rest".
+  const colon = /\s?:\s/.exec(all);
+  const ci = colon?.index ?? -1;
+  if (colon && ci > 30 && ci < 150) {
+    quote = all.slice(0, ci + colon[0].trimEnd().length);
+    rest = all.slice(ci + colon[0].length);
   } else {
     const fs = all.match(/^.{30,170}?[.!?](?=\s)/);
     if (fs) {
@@ -46,7 +49,7 @@ export function splitAnswer(all: string): { quote: string; columns: string[] } {
   selector: 'fc-breadcrumb',
   imports: [RouterLink],
   template: `
-    <nav aria-label="Fil d'Ariane">
+    <nav [attr.aria-label]="t().breadcrumb.label">
       <ol>
         @for (t of trail(); track t.path; let last = $last) {
           <li>
@@ -70,6 +73,7 @@ export function splitAnswer(all: string): { quote: string; columns: string[] } {
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class Breadcrumb {
+  protected readonly t = inject(SiteStore).t;
   readonly page = input.required<Page>();
   protected readonly trail = computed(() => pageTrail(this.page()));
 }
@@ -83,6 +87,7 @@ export class Breadcrumb {
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class PageHero {
+  protected readonly t = inject(SiteStore).t;
   readonly page = input.required<Page>();
   protected readonly withButtons = computed(() => !['quote', 'legal', 'blog'].includes(this.page().template));
   /** FAQ and quote pages show their intro as plain paragraphs. */
@@ -109,7 +114,7 @@ export class PageHero {
       <div class="home-hero__inner">
         <div class="home-hero__grid">
           <div class="home-hero__left">
-            <span class="pill">PACA · Île-de-France</span>
+            <span class="pill">{{ t().hero.regions }}</span>
             <h1 class="h1 home-hero__h1" id="page-title"><fc-accent [text]="p.h1" /></h1>
           </div>
           <div class="glass">
@@ -127,5 +132,6 @@ export class PageHero {
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class HomeHero {
+  protected readonly t = inject(SiteStore).t;
   readonly page = input.required<Page>();
 }

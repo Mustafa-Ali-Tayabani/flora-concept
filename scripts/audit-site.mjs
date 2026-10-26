@@ -29,12 +29,12 @@ const decode = (s) => s.replace(/&#39;|&apos;/g, "'").replace(/&quot;/g, '"').re
 const text = (html) => decode(html.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>/g, ' ').replace(/<[^>]+>/g, ' '));
 
 const OUTDOOR = ['/espaces-verts-entreprise/', '/entretien-espaces-verts-copropriete/', '/creation-amenagement-espaces-verts/', '/elagage-entreprise-marseille-aix/', '/terrasses-vegetalisees-entreprise/', '/ruches-entreprise/'];
-const LOCAL_BUSINESS_OK = ['/', '/entretien-location-plantes-marseille/'];
+const LOCAL_BUSINESS_OK = ['/', '/entretien-location-plantes-marseille/', '/en/', '/en/office-plants-marseille/'];
 const titles = new Map();
 const descriptions = new Map();
 
 for (const p of index.pages) {
-  const file = p.slug === '/404/' ? join(OUT, '404.html') : join(OUT, p.slug, 'index.html');
+  const file = p.slug === '/404/' ? join(OUT, '404.html') : p.slug === '/en/404/' ? join(OUT, 'en/404.html') : join(OUT, p.slug, 'index.html');
   let html;
   try {
     html = await readFile(file, 'utf8');
@@ -48,7 +48,11 @@ for (const p of index.pages) {
   const canonical = (html.match(/<link rel="canonical" href="([^"]+)"/) || [])[1];
   const main = (html.match(/<main[\s\S]*<\/main>/) || [''])[0];
 
-  if (!/<html lang="fr"/.test(html)) fail(p.slug, 'missing lang="fr"');
+  const lang = p.lang ?? 'fr';
+  if (!new RegExp(`<html lang="${lang}"`).test(html)) fail(p.slug, `missing lang="${lang}"`);
+  if (p.alternates?.fr && p.alternates?.en && !p.noindex && p.template !== 'notFound') {
+    for (const l of ['fr', 'en']) if (!html.includes(`hreflang="${l}" href="${SITE}${p.alternates[l]}"`)) fail(p.slug, `missing hreflang ${l}`);
+  }
   if (!/<meta charset="utf-8">/i.test(html)) fail(p.slug, 'missing UTF-8 charset');
   if ((html.match(/<h1[\s>]/g) || []).length !== 1) fail(p.slug, `expected exactly one <h1>, found ${(html.match(/<h1[\s>]/g) || []).length}`);
   if (title !== content.seo.title) fail(p.slug, `title differs from content: « ${title} »`);
@@ -59,6 +63,8 @@ for (const p of index.pages) {
     if (descriptions.has(desc)) fail(p.slug, `duplicate description with ${descriptions.get(desc)}`);
     descriptions.set(desc, p.slug);
   }
+  // French copy must not leak into English pages (and vice versa for the interface).
+  if (lang === 'en' && /Recevoir mon devis|Appeler<|En bref|Questions fréquentes/.test(html.replace(/<script[\s\S]*?<\/script>/g, ''))) fail(p.slug, 'French interface text on an English page');
   if (p.noindex || p.template === 'notFound') {
     if (!/name="robots" content="noindex/.test(html)) fail(p.slug, 'noindex page without robots noindex');
   } else if (canonical !== SITE + p.slug) fail(p.slug, `canonical ${canonical} ≠ ${SITE + p.slug}`);
@@ -76,16 +82,17 @@ for (const p of index.pages) {
     }
   } else if (p.template !== 'notFound') fail(p.slug, 'JSON-LD missing');
 
-  if (!/href="\/devis\/"/.test(html)) fail(p.slug, 'no « devis » link');
+  if (!html.includes(`href="${lang === 'en' ? '/en/quote/' : '/devis/'}"`)) fail(p.slug, 'no « devis » link');
   if (!/href="tel:\+\d+"/.test(html)) fail(p.slug, 'no « Appeler » tel: link');
 
   const t = text(html);
   if (/A_FOURNIR|\{\{/.test(html.replace(/<script id="ng-state"[\s\S]*?<\/script>/, ''))) fail(p.slug, 'placeholder left in HTML');
   if (/v[ée]g[ée]tal\s*office/i.test(t)) fail(p.slug, 'mentions « Végétal Office »');
   // The share capital in the legal notice is a legal requirement, not a price.
-  if (/\d\s?(€|euros?\b)|€\s?\d/i.test(t.replace(/capital de [\d\s\u00a0\u202f.,]+€/g, ''))) fail(p.slug, 'price displayed');
+  if (/\d\s?(€|euros?\b)|€\s?\d/i.test(t.replace(/capital (de|of) [\d\s\u00a0\u202f.,]+€/g, ''))) fail(p.slug, 'price displayed');
   if (/Ã©|Ã¨|Ã |â€|�/.test(html)) fail(p.slug, 'encoding artefact');
-  if (p.slug === '/location-entretien-plantes-bureau-paris/' && OUTDOOR.some((o) => main.includes(`href="${o}"`))) fail(p.slug, 'Paris page links to an outdoor page');
+  const OUTDOOR_EN = ['/en/corporate-grounds-maintenance/', '/en/residential-grounds-maintenance/', '/en/landscape-design/', '/en/tree-pruning-marseille-aix/', '/en/planted-terraces/', '/en/corporate-beehives/'];
+  if (['/location-entretien-plantes-bureau-paris/', '/en/office-plants-paris/'].includes(p.slug) && [...OUTDOOR, ...OUTDOOR_EN].some((o) => main.includes(`href="${o}"`))) fail(p.slug, 'Paris page links to an outdoor page');
 }
 
 const sitemap = await readFile(join(OUT, 'sitemap.xml'), 'utf8');

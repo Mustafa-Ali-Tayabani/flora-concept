@@ -1,0 +1,362 @@
+{
+  "siteName": {
+    "fr": "Flora Concept",
+    "en": "Flora Concept"
+  },
+  "entitySentence": {
+    "fr": "Flora Concept est un spécialiste du paysagisme d'intérieur pour les entreprises depuis 1999 : location et entretien de plantes, murs végétaux et cadres végétaux stabilisés, basé dans le sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France.",
+    "en": "Flora Concept has specialised in interior landscaping for businesses since 1999: plant rental and maintenance, green walls and preserved plant frames, based in the south of France near Aix-en-Provence, with teams in Provence-Alpes-Côte d'Azur and Île-de-France."
+  },
+  "legal.legalName": {
+    "fr": "Flora Concept",
+    "en": "Flora Concept"
+  },
+  "address.streetAddress": {
+    "fr": "1118 Rte. d'Aubagne",
+    "en": "1118 Rte. d'Aubagne"
+  },
+  "address.locality": {
+    "fr": "Gémenos",
+    "en": "Gémenos"
+  },
+  "address.region": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "areas[0]": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "areas[1]": {
+    "fr": "Île-de-France",
+    "en": "Île-de-France"
+  },
+  "socials[0].label": {
+    "fr": "Facebook",
+    "en": "Facebook"
+  },
+  "socials[1].label": {
+    "fr": "Instagram",
+    "en": "Instagram"
+  },
+  "socials[2].label": {
+    "fr": "LinkedIn",
+    "en": "LinkedIn"
+  },
+  "logo.alt": {
+    "fr": "Flora Concept",
+    "en": "Flora Concept"
+  },
+  "nav.groups[0].label": {
+    "fr": "Services",
+    "en": "Services"
+  },
+  "nav.groups[0].caption": {
+    "fr": "PACA et Île-de-France",
+    "en": "PACA and Île-de-France"
+  },
+  "nav.groups[0].hub.label": {
+    "fr": "Paysagisme d'intérieur",
+    "en": "Interior landscaping"
+  },
+  "nav.groups[0].items[0].label": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "nav.groups[0].items[0].sub": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "nav.groups[0].items[1].label": {
+    "fr": "Entretien",
+    "en": "Maintenance"
+  },
+  "nav.groups[0].items[1].sub": {
+    "fr": "Entretien de plantes",
+    "en": "Plant maintenance"
+  },
+  "nav.groups[0].items[2].label": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  },
+  "nav.groups[0].items[2].sub": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  },
+  "nav.groups[0].items[3].label": {
+    "fr": "Cadres stabilisés",
+    "en": "Preserved frames"
+  },
+  "nav.groups[0].items[3].sub": {
+    "fr": "Cadres végétaux stabilisés",
+    "en": "Preserved plant frames"
+  },
+  "nav.groups[0].items[4].label": {
+    "fr": "Fleurs",
+    "en": "Flowers"
+  },
+  "nav.groups[0].items[4].sub": {
+    "fr": "Abonnement fleurs",
+    "en": "Flower subscription"
+  },
+  "nav.groups[0].items[5].label": {
+    "fr": "Événementiel",
+    "en": "Events"
+  },
+  "nav.groups[0].items[5].sub": {
+    "fr": "Événementiel",
+    "en": "Events"
+  },
+  "nav.groups[0].items[6].label": {
+    "fr": "Noël",
+    "en": "Christmas"
+  },
+  "nav.groups[0].items[6].sub": {
+    "fr": "Fleurs et sapins de Noël",
+    "en": "Christmas flowers and trees"
+  },
+  "nav.groups[1].label": {
+    "fr": "Extérieur PACA",
+    "en": "Outdoor (PACA)"
+  },
+  "nav.groups[1].caption": {
+    "fr": "Provence-Alpes-Côte d'Azur uniquement",
+    "en": "Provence-Alpes-Côte d'Azur only"
+  },
+  "nav.groups[1].hub.label": {
+    "fr": "Espaces verts d'entreprise",
+    "en": "Corporate green spaces"
+  },
+  "nav.groups[1].items[0].label": {
+    "fr": "Espaces verts",
+    "en": "Green spaces"
+  },
+  "nav.groups[1].items[0].sub": {
+    "fr": "Espaces verts d'entreprise",
+    "en": "Corporate green spaces"
+  },
+  "nav.groups[1].items[1].label": {
+    "fr": "Copropriétés",
+    "en": "Residential buildings"
+  },
+  "nav.groups[1].items[1].sub": {
+    "fr": "Copropriétés et syndics",
+    "en": "Residential buildings and property managers"
+  },
+  "nav.groups[1].items[2].label": {
+    "fr": "Création",
+    "en": "Design"
+  },
+  "nav.groups[1].items[2].sub": {
+    "fr": "Création et aménagement",
+    "en": "Landscape design and installation"
+  },
+  "nav.groups[1].items[3].label": {
+    "fr": "Élagage",
+    "en": "Tree pruning"
+  },
+  "nav.groups[1].items[3].sub": {
+    "fr": "Élagage et débroussaillage",
+    "en": "Tree pruning and brush clearing"
+  },
+  "nav.groups[1].items[4].label": {
+    "fr": "Terrasses",
+    "en": "Terraces"
+  },
+  "nav.groups[1].items[4].sub": {
+    "fr": "Terrasses végétalisées",
+    "en": "Planted terraces"
+  },
+  "nav.groups[1].items[5].label": {
+    "fr": "Ruches",
+    "en": "Beehives"
+  },
+  "nav.groups[1].items[5].sub": {
+    "fr": "Ruches en entreprise",
+    "en": "Corporate beehives"
+  },
+  "nav.groups[2].label": {
+    "fr": "Nos villes",
+    "en": "Our cities"
+  },
+  "nav.groups[2].caption": {
+    "fr": "Des équipes locales",
+    "en": "Local teams"
+  },
+  "nav.groups[2].items[0].label": {
+    "fr": "Paris",
+    "en": "Paris"
+  },
+  "nav.groups[2].items[0].sub": {
+    "fr": "Paris et Île-de-France",
+    "en": "Paris and Île-de-France"
+  },
+  "nav.groups[2].items[1].label": {
+    "fr": "Nice",
+    "en": "Nice"
+  },
+  "nav.groups[2].items[1].sub": {
+    "fr": "Nice et Côte d'Azur",
+    "en": "Nice and the Côte d'Azur"
+  },
+  "nav.groups[2].items[2].label": {
+    "fr": "Marseille",
+    "en": "Marseille"
+  },
+  "nav.groups[2].items[2].sub": {
+    "fr": "Marseille et Provence",
+    "en": "Marseille and Provence"
+  },
+  "nav.links[0].label": {
+    "fr": "Multi-sites",
+    "en": "Multi-site"
+  },
+  "nav.links[1].label": {
+    "fr": "Blog",
+    "en": "Blog"
+  },
+  "nav.links[2].label": {
+    "fr": "FAQ",
+    "en": "FAQ"
+  },
+  "footer.columns[0].title": {
+    "fr": "Services",
+    "en": "Services"
+  },
+  "footer.columns[0].links[0].label": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "footer.columns[0].links[1].label": {
+    "fr": "Entretien de plantes",
+    "en": "Plant maintenance"
+  },
+  "footer.columns[0].links[2].label": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  },
+  "footer.columns[0].links[3].label": {
+    "fr": "Cadres végétaux stabilisés",
+    "en": "Preserved plant frames"
+  },
+  "footer.columns[0].links[4].label": {
+    "fr": "Abonnement fleurs",
+    "en": "Flower subscription"
+  },
+  "footer.columns[0].links[5].label": {
+    "fr": "Événementiel",
+    "en": "Events"
+  },
+  "footer.columns[0].links[6].label": {
+    "fr": "Fleurs et sapins de Noël",
+    "en": "Christmas flowers and trees"
+  },
+  "footer.columns[1].title": {
+    "fr": "Extérieur PACA",
+    "en": "Outdoor (PACA)"
+  },
+  "footer.columns[1].links[0].label": {
+    "fr": "Espaces verts d'entreprise",
+    "en": "Corporate green spaces"
+  },
+  "footer.columns[1].links[1].label": {
+    "fr": "Copropriétés et syndics",
+    "en": "Residential buildings and property managers"
+  },
+  "footer.columns[1].links[2].label": {
+    "fr": "Création et aménagement",
+    "en": "Landscape design and installation"
+  },
+  "footer.columns[1].links[3].label": {
+    "fr": "Élagage et débroussaillage",
+    "en": "Tree pruning and brush clearing"
+  },
+  "footer.columns[1].links[4].label": {
+    "fr": "Terrasses végétalisées",
+    "en": "Planted terraces"
+  },
+  "footer.columns[1].links[5].label": {
+    "fr": "Ruches en entreprise",
+    "en": "Corporate beehives"
+  },
+  "footer.columns[2].title": {
+    "fr": "Nos villes",
+    "en": "Our cities"
+  },
+  "footer.columns[2].links[0].label": {
+    "fr": "Paris et Île-de-France",
+    "en": "Paris and Île-de-France"
+  },
+  "footer.columns[2].links[1].label": {
+    "fr": "Nice et Côte d'Azur",
+    "en": "Nice and the Côte d'Azur"
+  },
+  "footer.columns[2].links[2].label": {
+    "fr": "Marseille et Provence",
+    "en": "Marseille and Provence"
+  },
+  "footer.columns[3].title": {
+    "fr": "Flora Concept",
+    "en": "Flora Concept"
+  },
+  "footer.columns[3].links[0].label": {
+    "fr": "Qui sommes-nous",
+    "en": "About us"
+  },
+  "footer.columns[3].links[1].label": {
+    "fr": "FAQ",
+    "en": "FAQ"
+  },
+  "footer.columns[3].links[2].label": {
+    "fr": "Blog",
+    "en": "Blog"
+  },
+  "footer.columns[3].links[3].label": {
+    "fr": "Devis",
+    "en": "Quote"
+  },
+  "footer.legal[0].label": {
+    "fr": "Mentions légales",
+    "en": "Legal notice"
+  },
+  "footer.legal[1].label": {
+    "fr": "Politique de confidentialité",
+    "en": "Privacy policy"
+  },
+  "footer.legal[2].label": {
+    "fr": "Cookies",
+    "en": "Cookies"
+  },
+  "footer.regionsLine": {
+    "fr": "Provence-Alpes-Côte d'Azur · Île-de-France",
+    "en": "Provence-Alpes-Côte d'Azur · Île-de-France"
+  },
+  "seasonal.text": {
+    "fr": "Sapins et décorations de Noël : réservez tôt",
+    "en": "Christmas trees and decorations: book early"
+  },
+  "marquee[0]": {
+    "fr": "Espaces verts",
+    "en": "Green spaces"
+  },
+  "marquee[1]": {
+    "fr": "Paysagisme d’intérieur",
+    "en": "Interior landscaping"
+  },
+  "marquee[2]": {
+    "fr": "Événementiel",
+    "en": "Events"
+  },
+  "marquee[3]": {
+    "fr": "Cadres végétaux",
+    "en": "Plant frames"
+  },
+  "marquee[4]": {
+    "fr": "Marseille",
+    "en": "Marseille"
+  },
+  "marquee[5]": {
+    "fr": "Nice",
+    "en": "Nice"
+  }
+}

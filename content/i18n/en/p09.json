@@ -1,0 +1,142 @@
+{
+  "name": {
+    "fr": "Fleurs et sapins de Noël",
+    "en": "Flowers and Christmas trees"
+  },
+  "seo.title": {
+    "fr": "Location de sapin de Noël et décoration pour entreprise",
+    "en": "Christmas tree rental and decoration for businesses"
+  },
+  "seo.description": {
+    "fr": "Sapins de Noël naturels livrés, décorés et repris, décoration de Noël sur mesure pour entreprises, hôtels et commerces. Paris, Nice, Marseille. Devis rapide.",
+    "en": "Real Christmas trees delivered, decorated and collected, plus bespoke Christmas decoration for businesses, hotels and shops. Paris, Nice, Marseille. Fast quote."
+  },
+  "h1": {
+    "fr": "Sapins et décoration de Noël pour votre entreprise, livrés et repris",
+    "en": "Christmas trees and decoration for your business, delivered and collected"
+  },
+  "answer[0].children[0].text": {
+    "fr": "La location de sapin de Noël pour entreprise supprime toute la logistique de décembre : Flora Concept livre un sapin naturel à la taille de votre hall, le décore selon votre thème, puis le reprend après les fêtes avec l'ensemble du décor. Nous décorons chaque année des accueils d'entreprises, des hôtels, des restaurants et des commerces depuis notre base du sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France : sapins décorés, suspensions, compositions de fêtes, guirlandes et mises en lumière. ",
+    "en": "Renting a Christmas tree for your business takes care of all the December logistics: Flora Concept delivers a real tree sized to your lobby, decorates it to your theme, then collects it after the holidays along with all the decorations. Every year we decorate company receptions, hotels, restaurants and shops from our base in the south of France near Aix-en-Provence, with teams in Provence-Alpes-Côte d'Azur and Île-de-France: decorated trees, hanging displays, festive arrangements, garlands and lighting. "
+  },
+  "answer[0].children[2].text": {
+    "fr": " Les créneaux de fin d'année partent vite : les installations se font surtout de la mi-novembre au début de décembre, et les demandes reçues avant la fin d'octobre sont prioritaires. Demandez votre devis dès maintenant avec la hauteur souhaitée, le lieu et votre thème : vous recevez une proposition détaillée, reprise de janvier comprise.",
+    "en": " Year-end slots go quickly: installations mainly take place from mid-November to early December, and requests received before the end of October are given priority. Request your quote now with the height you want, the location and your theme: you will receive a detailed proposal, including collection in January."
+  },
+  "structuredData.serviceType": {
+    "fr": "location et décoration de sapins de Noël pour entreprises",
+    "en": "Christmas tree rental and decoration for businesses"
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Île-de-France",
+    "en": "Île-de-France"
+  },
+  "structuredData.areaServed[1]": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "sections[0].title": {
+    "fr": "Nos prestations de fin d'année",
+    "en": "Our year-end services"
+  },
+  "sections[0].items[0].lead": {
+    "fr": "Sapin naturel fraîchement coupé (nordmann ou épicéa) ou modèle artificiel réutilisable",
+    "en": "Freshly cut real tree (Nordmann fir or spruce) or reusable artificial tree"
+  },
+  "sections[0].items[0].text[0].children[0].text": {
+    "fr": ", livré et installé : du sapin de comptoir au ",
+    "en": ", delivered and installed: from a countertop tree to a "
+  },
+  "sections[0].items[0].text[0].children[1].text": {
+    "fr": "grand sapin de 3 mètres et plus pour les halls et atriums",
+    "en": "large tree of 3 metres or more for lobbies and atriums"
+  },
+  "sections[0].items[1].lead": {
+    "fr": "Décoration du sapin",
+    "en": "Tree decoration"
+  },
+  "sections[0].items[1].text[0].children[0].text": {
+    "fr": "boules, guirlandes et lumières selon votre thème ou votre charte de couleurs.",
+    "en": "baubles, garlands and lights to match your theme or brand colours."
+  },
+  "sections[0].items[2].lead": {
+    "fr": "Décor complet",
+    "en": "Complete decor"
+  },
+  "sections[0].items[2].text[0].children[0].text": {
+    "fr": "compositions de fêtes, suspensions, végétaux d'hiver, habillage des accueils et vitrines.",
+    "en": "festive arrangements, hanging displays, winter greenery, dressing of reception areas and shop windows."
+  },
+  "sections[0].items[3].lead": {
+    "fr": "Reprise en janvier",
+    "en": "Collection in January"
+  },
+  "sections[0].items[3].text[0].children[0].text": {
+    "fr": "démontage, enlèvement du sapin et des décors, sans aiguilles abandonnées derrière vous. ",
+    "en": "dismantling and removal of the tree and decorations, with no needles left behind. "
+  },
+  "sections[1].title": {
+    "fr": "Pourquoi réserver tôt",
+    "en": "Why book early"
+  },
+  "sections[1].body[0].children[0].text": {
+    "fr": "Les installations de Noël se concentrent sur trois semaines. Réserver avant la fin d'octobre garantit la hauteur de sapin souhaitée et un créneau d'installation compatible avec vos horaires. Les demandes tardives restent possibles selon les disponibilités, mais le choix se réduit vite en décembre.",
+    "en": "Christmas installations are concentrated over three weeks. Booking before the end of October guarantees the tree height you want and an installation slot that fits your opening hours. Late requests remain possible subject to availability, but the choice narrows quickly in December."
+  },
+  "sections[2].title": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "sections[3].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[3].items[0].question": {
+    "fr": "Comment fonctionne la location d'un sapin de Noël pour une entreprise ?",
+    "en": "How does Christmas tree rental work for a business?"
+  },
+  "sections[3].items[0].answer[0].children[0].text": {
+    "fr": "Vous choisissez la hauteur et le style, nous livrons le sapin naturel, nous le décorons sur place, puis nous reprenons l'ensemble après les fêtes. Le devis comprend la livraison, l'installation, la décoration et la reprise en janvier.",
+    "en": "You choose the height and style, we deliver the real tree, decorate it on site, then collect everything after the holidays. The quote includes delivery, installation, decoration and collection in January."
+  },
+  "sections[3].items[1].question": {
+    "fr": "Proposez-vous des sapins naturels ou artificiels ?",
+    "en": "Do you offer real or artificial trees?"
+  },
+  "sections[3].items[1].answer[0].children[0].text": {
+    "fr": "Les deux. Le sapin naturel fraîchement coupé reste le plus demandé pour son parfum et son prestige ; le modèle artificiel convient aux espaces où les aiguilles ou l'entretien posent problème, et se réutilise d'année en année. Nos décorateurs vous conseillent selon votre hall et votre budget.",
+    "en": "Both. A freshly cut real tree remains the most popular choice for its scent and prestige; an artificial tree suits spaces where needles or upkeep are a problem, and can be reused year after year. Our decorators advise you based on your lobby and your budget."
+  },
+  "sections[3].items[2].question": {
+    "fr": "Quand faut-il commander pour être livré avant début décembre ?",
+    "en": "When should we order to have it delivered before early December?"
+  },
+  "sections[3].items[2].answer[0].children[0].text": {
+    "fr": "L'idéal est de demander votre devis avant la fin d'octobre : vous sécurisez la hauteur voulue et un créneau d'installation entre la mi-novembre et le début de décembre. Passé ce délai, nous répondons selon les disponibilités restantes.",
+    "en": "Ideally, request your quote before the end of October: you secure the height you want and an installation slot between mid-November and early December. After that, we respond according to remaining availability."
+  },
+  "sections[3].items[3].question": {
+    "fr": "Décorez-vous aussi l'ensemble de l'accueil ?",
+    "en": "Do you also decorate the whole reception area?"
+  },
+  "sections[3].items[3].answer[0].children[0].text": {
+    "fr": "Oui. Au-delà du sapin, nous composons un décor complet : compositions de fêtes, suspensions, guirlandes, habillage du comptoir et des vitrines, en accord avec votre image. Le décor est déposé en janvier en même temps que le sapin.",
+    "en": "Yes. Beyond the tree, we create a complete decor: festive arrangements, hanging displays, garlands, dressing of the reception desk and shop windows, in keeping with your image. The decor is removed in January at the same time as the tree."
+  },
+  "heroImage.alt": {
+    "fr": "Fleurs et sapins de Noël",
+    "en": "Flowers and Christmas trees"
+  },
+  "related.items[0].title": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "related.items[1].title": {
+    "fr": "Entretien de plantes",
+    "en": "Plant maintenance"
+  },
+  "related.items[2].title": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  }
+}

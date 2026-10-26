@@ -307,7 +307,11 @@ export interface StructuredData {
 
 export interface Page {
   _id: string;
+  /** Content language: French at the root, English under /en/. */
+  lang: 'fr' | 'en';
   slug: string;
+  /** Slugs of this page in each language (hreflang, language switcher). */
+  alternates?: { fr?: string; en?: string };
   template: Template;
   /** Short label used in breadcrumbs, menus and cards. */
   name: string;
@@ -411,6 +415,6 @@ export interface SiteSettings {
 
 export interface SiteIndex {
   generatedAt: string;
-  pages: { slug: string; file: string; template: Template; noindex?: boolean; updatedAt?: string }[];
+  pages: { slug: string; file: string; lang: 'fr' | 'en'; alternates?: { fr?: string; en?: string }; template: Template; noindex?: boolean; updatedAt?: string }[];
   posts: PostSummary[];
 }

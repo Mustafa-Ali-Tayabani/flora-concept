@@ -33,9 +33,16 @@ async function fromSeed() {
   const read = async (f) => JSON.parse(await readFile(f, 'utf8'));
   // Folders may be absent (git does not keep empty ones, e.g. posts before the first batch).
   const list = async (d) => (await readdir(join(dir, d)).catch(() => [])).filter((f) => f.endsWith('.json'));
-  const pages = await Promise.all((await list('pages')).map((f) => read(join(dir, 'pages', f))));
+  const pages = [
+    ...(await Promise.all((await list('pages')).map((f) => read(join(dir, 'pages', f))))).map((p) => ({ lang: 'fr', ...p })),
+    // English pages: built by scripts/i18n/build-en.mjs from the French seed + translations.
+    ...(await Promise.all((await list('en/pages')).map((f) => read(join(dir, 'en/pages', f))))),
+  ];
   const posts = await Promise.all((await list('posts')).map((f) => read(join(dir, 'posts', f))));
-  return { settings: await read(join(dir, 'settings.json')), pages, posts };
+  const settings = { fr: await read(join(dir, 'settings.json')) };
+  const en = await read(join(dir, 'en/settings.json')).catch(() => null);
+  if (en) settings.en = en;
+  return { settings, pages, posts };
 }
 
 async function fromSanity() {
@@ -81,10 +88,11 @@ async function fromSanity() {
     return out;
   };
 
-  const settings = resolve(byId.get('siteSettings') ?? docs.find((d) => d._type === 'siteSettings'));
-  if (!settings) throw new Error('Sanity: siteSettings document missing (run npm run studio:seed).');
+  const settings = { fr: resolve(byId.get('siteSettings') ?? docs.find((d) => d._type === 'siteSettings')) };
+  if (!settings.fr) throw new Error('Sanity: siteSettings document missing (run npm run studio:seed).');
+  if (byId.get('siteSettingsEn')) settings.en = resolve(byId.get('siteSettingsEn'));
   const pages = docs.filter((d) => d._type === 'page').map((d) => {
-    const p = resolve(d);
+    const p = { ...resolve(d), lang: d.language === 'en' ? 'en' : 'fr' };
     return { ...p, updatedAt: d._updatedAt, sections: (p.sections ?? []).map((s) => (s._type === 'sectionCaseStudies' ? { ...s, cases: (s.cases ?? []).filter(Boolean) } : s)) };
   });
   const posts = docs.filter((d) => d._type === 'post').map((d) => ({ ...resolve(d), updatedAt: d._updatedAt }));
@@ -165,9 +173,23 @@ const source = process.env.SANITY_PROJECT_ID ? 'sanity' : 'seed';
 const { settings, pages, posts } = source === 'sanity' ? await fromSanity() : await fromSeed();
 
 // Environment overrides (deployment-specific values never live in content).
-if (process.env.SITE_URL) settings.siteUrl = process.env.SITE_URL.replace(/\/$/, '');
-if (process.env.VERCEL) settings.quoteEndpoint = '/api/devis';
-if (process.env.GTM_ID !== undefined) settings.analytics = { ...settings.analytics, gtmId: process.env.GTM_ID };
+for (const s of Object.values(settings)) {
+  if (process.env.SITE_URL) s.siteUrl = process.env.SITE_URL.replace(/\/$/, '');
+  if (process.env.VERCEL) s.quoteEndpoint = '/api/devis';
+  if (process.env.GTM_ID !== undefined) s.analytics = { ...s.analytics, gtmId: process.env.GTM_ID };
+}
+
+// Language alternates (hreflang + language switcher): French slug ↔ English slug.
+const SLUGS = JSON.parse(await readFile(join(ROOT, 'content/i18n/slugs.json'), 'utf8'));
+const existing = new Set(pages.map((p) => p.slug));
+for (const p of pages) {
+  // Sanity: the « translation » reference wins; seed: the slug map.
+  const other = p.translation?.slug;
+  const fr = p.lang === 'en' ? (other ?? Object.keys(SLUGS).find((k) => SLUGS[k] === p.slug)) : p.slug;
+  const en = p.lang === 'en' ? p.slug : (other ?? SLUGS[p.slug]);
+  p.alternates = Object.fromEntries([['fr', fr], ['en', en]].filter(([, v]) => v && existing.has(v)));
+  delete p.translation;
+}
 
 const publishedPosts = posts
   .filter((p) => p.pubDate && new Date(p.pubDate) <= NOW)
@@ -186,14 +208,15 @@ for (const raw of pages) {
   const page = prune(clean(raw, raw.slug));
   const file = fileForSlug(page.slug);
   await writeFile(join(OUT, 'pages', `${file}.json`), JSON.stringify(page));
-  index.pages.push({ slug: page.slug, file, template: page.template, ...(page.seo?.noindex ? { noindex: true } : {}), ...(page.updatedAt ? { updatedAt: page.updatedAt } : {}) });
+  index.pages.push({ slug: page.slug, file, lang: page.lang, alternates: page.alternates, template: page.template, ...(page.seo?.noindex ? { noindex: true } : {}), ...(page.updatedAt ? { updatedAt: page.updatedAt } : {}) });
 }
 for (const raw of publishedPosts) {
   const post = clean(raw, `/blog/${raw.slug}/`);
   await writeFile(join(OUT, 'posts', `${post.slug}.json`), JSON.stringify(post));
   index.posts.push({ slug: post.slug, title: post.title, excerpt: post.excerpt ?? '', pubDate: post.pubDate, ...(post.image ? { image: post.image } : {}), ...(post.updatedAt ? { updatedAt: post.updatedAt } : {}) });
 }
-await writeFile(join(OUT, 'settings.json'), JSON.stringify(clean(settings, 'settings')));
+await writeFile(join(OUT, 'settings.json'), JSON.stringify(clean(settings.fr, 'settings')));
+if (settings.en) await writeFile(join(OUT, 'settings.en.json'), JSON.stringify(clean(settings.en, 'settings.en')));
 await writeFile(join(OUT, 'index.json'), JSON.stringify(index));
 
 await mkdir(join(ROOT, '.cache'), { recursive: true });

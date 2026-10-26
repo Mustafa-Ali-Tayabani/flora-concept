@@ -1,0 +1,170 @@
+{
+  "name": {
+    "fr": "Ruches en entreprise",
+    "en": "Corporate beehives"
+  },
+  "seo.title": {
+    "fr": "Parrainer une ruche en entreprise avec un rucher en Provence",
+    "en": "Corporate beehive sponsorship with an apiary in Provence"
+  },
+  "seo.description": {
+    "fr": "Parrainage de ruches pour les entreprises en PACA : rucher dans le Luberon, miel à votre nom, suivi par notre apiculteur, ruches sur votre site. Devis gratuit.",
+    "en": "Beehive sponsorship for businesses in PACA: apiary in the Luberon, honey labelled with your name, care by our beekeeper, hives on your site. Free quote."
+  },
+  "h1": {
+    "fr": "Parrainer une ruche en entreprise : un engagement concret pour la biodiversité en Provence",
+    "en": "Sponsor a beehive for your company: a concrete commitment to biodiversity in Provence"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Flora Concept propose aux entreprises de Provence-Alpes-Côte d'Azur de parrainer une ruche : votre entreprise soutient une colonie d'abeilles installée dans notre rucher près de Lourmarin, dans le Luberon, suivie toute l'année par notre apiculteur, et reçoit le miel récolté sous une étiquette à son nom. Quand le site s'y prête (terrain, zone d'activité, toit-terrasse, jardin d'hôtel), les ruches peuvent être installées directement chez vous, avec des plantations de plantes mellifères pour les nourrir. C'est un engagement RSE visible et vérifiable : un geste pour la pollinisation locale, un sujet pour vos équipes et vos clients, un miel à offrir. Paysagistes depuis 1999, nous prenons en charge l'installation, le suivi, la récolte et la mise en pot. Demandez un devis gratuit : nous vous proposons la formule adaptée à votre entreprise.",
+    "en": "Flora Concept offers businesses in Provence-Alpes-Côte d'Azur the chance to sponsor a beehive: your company supports a bee colony kept in our apiary near Lourmarin, in the Luberon, looked after all year round by our beekeeper, and receives the harvested honey with a label bearing its name. Where the site allows (grounds, business park, roof terrace, hotel garden), the hives can be installed directly on your premises, with nectar-rich plantings to feed them. It is a visible, verifiable CSR commitment: a contribution to local pollination, a talking point for your teams and clients, and honey to give away. Landscapers since 1999, we take care of installation, monitoring, harvesting and jarring. Request a free quote: we will suggest the option best suited to your company."
+  },
+  "structuredData.serviceType": {
+    "fr": "parrainage de ruches en entreprise",
+    "en": "corporate beehive sponsorship"
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "sections[0].title": {
+    "fr": "Comment fonctionne le parrainage",
+    "en": "How sponsorship works"
+  },
+  "sections[0].steps[0].lead": {
+    "fr": "Vous choisissez une formule",
+    "en": "You choose an option"
+  },
+  "sections[0].steps[0].text[0].children[0].text": {
+    "fr": "une ou plusieurs ruches, au rucher ou sur votre site, pour une saison apicole complète renouvelable.",
+    "en": "one or more hives, at the apiary or on your site, for a full, renewable beekeeping season."
+  },
+  "sections[0].steps[1].lead": {
+    "fr": "Nous installons et suivons la colonie",
+    "en": "We install and look after the colony"
+  },
+  "sections[0].steps[1].text[0].children[0].text": {
+    "fr": "visites régulières de l'apiculteur, soins, hivernage.",
+    "en": "regular visits by the beekeeper, care, overwintering."
+  },
+  "sections[0].steps[2].lead": {
+    "fr": "Vous suivez la vie de la ruche",
+    "en": "You follow the life of the hive"
+  },
+  "sections[0].steps[2].text[0].children[0].text": {
+    "fr": "nouvelles et photos de la colonie au fil de la saison, possibilité de visite au rucher pour vos équipes.",
+    "en": "news and photos of the colony throughout the season, with the option of a visit to the apiary for your teams."
+  },
+  "sections[0].steps[3].lead": {
+    "fr": "Vous recevez le miel",
+    "en": "You receive the honey"
+  },
+  "sections[0].steps[3].text[0].children[0].text": {
+    "fr": "récolte, mise en pot et étiquette au nom de votre entreprise.",
+    "en": "harvesting, jarring and a label in your company's name."
+  },
+  "sections[1].title": {
+    "fr": "Ce que reçoit votre entreprise",
+    "en": "What your company receives"
+  },
+  "sections[1].items[0].text[0].children[0].text": {
+    "fr": "Des pots de miel de Provence étiquetés à votre nom, à offrir à vos clients, à vos équipes ou à utiliser dans votre restaurant d'entreprise ou votre hôtel.",
+    "en": "Jars of Provence honey labelled with your name, to give to your clients or your teams, or to use in your staff restaurant or your hotel."
+  },
+  "sections[1].items[1].text[0].children[0].text": {
+    "fr": "Un certificat de parrainage et des photos de votre ruche à utiliser dans votre communication.",
+    "en": "A sponsorship certificate and photos of your hive to use in your communications."
+  },
+  "sections[1].items[2].text[0].children[0].text": {
+    "fr": "Des nouvelles de la ruche dans l'année et une visite du rucher pour vos équipes.",
+    "en": "News from the hive during the year and a visit to the apiary for your teams."
+  },
+  "sections[1].items[3].text[0].children[0].text": {
+    "fr": "Un argument RSE réel : la pollinisation locale, pas une compensation abstraite.",
+    "en": "A genuine CSR argument: local pollination, not abstract offsetting."
+  },
+  "sections[2].title": {
+    "fr": "Le rucher du Luberon",
+    "en": "The Luberon apiary"
+  },
+  "sections[2].body[0].children[0].text": {
+    "fr": "Nos ruches sont installées près de Lourmarin, dans le Luberon, au milieu des garrigues, des lavandes et des vergers : un terroir mellifère et peu exposé aux traitements agricoles intensifs. C'est de là que vient le miel de vos pots.",
+    "en": "Our hives are located near Lourmarin, in the Luberon, among garrigue, lavender and orchards: a nectar-rich land with little exposure to intensive agricultural treatments. That is where the honey in your jars comes from."
+  },
+  "sections[3].title": {
+    "fr": "Des ruches sur votre site",
+    "en": "Beehives on your site"
+  },
+  "sections[3].body[0].children[0].text": {
+    "fr": "Pour une entreprise disposant d'un terrain, d'une zone d'activité ou d'un toit-terrasse accessible, nous pouvons installer les ruches directement chez vous : étude de l'emplacement (ensoleillement, distance des zones de passage, réglementation locale), installation, plantation de plantes mellifères autour, et suivi par notre apiculteur. Les ruches deviennent un élément de votre espace vert, que nous pouvons entretenir dans le même ",
+    "en": "For a company with grounds, a business park or an accessible roof terrace, we can install the hives directly on your premises: site assessment (sunlight, distance from areas of foot traffic, local regulations), installation, nectar-rich planting around them, and monitoring by our beekeeper. The hives become part of your green space, which we can maintain under the same "
+  },
+  "sections[3].body[0].children[1].text": {
+    "fr": "contrat d'espaces verts",
+    "en": "grounds maintenance contract"
+  },
+  "sections[4].title": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "sections[5].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[5].items[0].question": {
+    "fr": "Comment parrainer une ruche pour son entreprise ?",
+    "en": "How can a company sponsor a beehive?"
+  },
+  "sections[5].items[0].answer[0].children[0].text": {
+    "fr": "Vous choisissez une formule (une ou plusieurs ruches, au rucher du Luberon ou sur votre site), nous installons et suivons la colonie, et vous recevez le miel étiqueté à votre nom. Un devis gratuit précise la formule, la durée et ce qui est compris.",
+    "en": "You choose an option (one or more hives, at the Luberon apiary or on your site), we install and look after the colony, and you receive the honey labelled with your name. A free quote sets out the option, the duration and what is included."
+  },
+  "sections[5].items[1].question": {
+    "fr": "Peut-on installer des ruches sur le toit ou le terrain de l'entreprise ?",
+    "en": "Can beehives be installed on the company's roof or grounds?"
+  },
+  "sections[5].items[1].answer[0].children[0].text": {
+    "fr": "Oui, si le site s'y prête : exposition, distance par rapport aux zones de passage et aux voisins, accès pour l'apiculteur, règles locales. Nous étudions l'emplacement avant de nous engager.",
+    "en": "Yes, if the site is suitable: exposure, distance from areas of foot traffic and from neighbours, access for the beekeeper, local rules. We assess the location before making any commitment."
+  },
+  "sections[5].items[2].question": {
+    "fr": "Combien de miel recevons-nous ?",
+    "en": "How much honey do we receive?"
+  },
+  "sections[5].items[2].answer[0].children[0].text": {
+    "fr": "La récolte dépend de la saison, de la météo et de la vigueur de la colonie : une année sèche donne moins qu'une année douce. Le miel est mis en pot et étiqueté au nom de votre entreprise.",
+    "en": "The harvest depends on the season, the weather and the strength of the colony: a dry year yields less than a mild one. The honey is jarred and labelled with your company's name."
+  },
+  "sections[5].items[3].question": {
+    "fr": "Les abeilles présentent-elles un risque pour nos salariés ?",
+    "en": "Do the bees pose a risk to our employees?"
+  },
+  "sections[5].items[3].answer[0].children[0].text": {
+    "fr": "Au rucher du Luberon, aucun. Sur votre site, l'emplacement est choisi à l'écart des passages et des terrasses, avec un vol orienté loin des zones fréquentées ; les abeilles domestiques ne sont pas agressives loin de la ruche. Nous conseillons sur les règles à respecter autour de la ruche.",
+    "en": "At the Luberon apiary, none. On your site, the location is chosen away from walkways and terraces, with the flight path directed away from busy areas; honeybees are not aggressive away from the hive. We advise on the rules to follow around the hive."
+  },
+  "sections[5].items[4].question": {
+    "fr": "Peut-on communiquer sur le parrainage ?",
+    "en": "Can we communicate about the sponsorship?"
+  },
+  "sections[5].items[4].answer[0].children[0].text": {
+    "fr": "Oui, c'est l'un de ses intérêts : certificat, photos de la ruche, miel à offrir, visite pour vos équipes. Nous demandons seulement que la communication reste fidèle à la réalité : une ruche parrainée, pas une entreprise « neutre en carbone ».",
+    "en": "Yes, that is one of its benefits: certificate, photos of the hive, honey to give away, a visit for your teams. We only ask that your communication remains true to reality: a sponsored beehive, not a “carbon-neutral” company."
+  },
+  "heroImage.alt": {
+    "fr": "Ruches en entreprise",
+    "en": "Corporate beehives"
+  },
+  "related.items[0].title": {
+    "fr": "Copropriétés et syndics",
+    "en": "Residential buildings and property managers"
+  },
+  "related.items[1].title": {
+    "fr": "Création et aménagement",
+    "en": "Landscape design and installation"
+  },
+  "related.items[2].title": {
+    "fr": "Élagage et débroussaillage",
+    "en": "Tree pruning and brush clearing"
+  }
+}

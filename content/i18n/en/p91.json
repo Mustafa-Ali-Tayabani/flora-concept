@@ -1,0 +1,102 @@
+{
+  "name": {
+    "fr": "Politique de confidentialité",
+    "en": "Privacy policy"
+  },
+  "seo.title": {
+    "fr": "Politique de confidentialité | Flora Concept",
+    "en": "Privacy policy | Flora Concept"
+  },
+  "h1": {
+    "fr": "Politique de confidentialité",
+    "en": "Privacy policy"
+  },
+  "sections[0].parts[0].heading": {
+    "fr": "Qui sommes-nous",
+    "en": "Who we are"
+  },
+  "sections[0].parts[0].body[0].children[0].text": {
+    "fr": "FLORACONCEPT (SIREN 423 977 305, siège au 1118 route d'Aubagne, 13420 Gémenos) est responsable du traitement des données collectées sur ce site. Contact pour toute question relative aux données personnelles : ",
+    "en": "FLORACONCEPT (SIREN 423 977 305, registered office at 1118 route d'Aubagne, 13420 Gémenos) is the controller of the data collected on this website. Contact for any question relating to personal data: "
+  },
+  "sections[0].parts[1].heading": {
+    "fr": "Quelles données nous collectons",
+    "en": "What data we collect"
+  },
+  "sections[0].parts[1].body[0].children[0].text": {
+    "fr": "Formulaire de devis",
+    "en": "Quote form"
+  },
+  "sections[0].parts[1].body[0].children[1].text": {
+    "fr": " : nom, email ou téléphone, description du besoin, agence concernée. Base légale : mesures précontractuelles à votre demande (article 6.1.b du RGPD).",
+    "en": ": name, email or telephone number, description of your requirements, branch concerned. Legal basis: pre-contractual measures taken at your request (Article 6(1)(b) GDPR)."
+  },
+  "sections[0].parts[1].body[1].children[0].text": {
+    "fr": "Appels téléphoniques",
+    "en": "Telephone calls"
+  },
+  "sections[0].parts[1].body[1].children[1].text": {
+    "fr": " : si vous nous appelez, nous traitons les informations que vous nous communiquez pour répondre à votre demande.",
+    "en": ": if you call us, we process the information you provide in order to respond to your request."
+  },
+  "sections[0].parts[1].body[2].children[0].text": {
+    "fr": "Mesure d'audience et traceurs",
+    "en": "Audience measurement and trackers"
+  },
+  "sections[0].parts[1].body[2].children[1].text": {
+    "fr": " : uniquement après votre consentement (voir la ",
+    "en": ": only with your consent (see the "
+  },
+  "sections[0].parts[1].body[2].children[2].text": {
+    "fr": "politique cookies",
+    "en": "cookie policy"
+  },
+  "sections[0].parts[1].body[3].children[0].text": {
+    "fr": "Nous ne collectons aucune donnée sensible et nous ne cédons ni ne vendons vos données à des tiers.",
+    "en": "We do not collect any sensitive data and we do not transfer or sell your data to third parties."
+  },
+  "sections[0].parts[2].heading": {
+    "fr": "Combien de temps nous les conservons",
+    "en": "How long we keep it"
+  },
+  "sections[0].parts[2].body[0].children[0].text": {
+    "fr": "Demandes de devis sans suite : 3 ans à compter du dernier contact",
+    "en": "Quote requests not followed up: 3 years from the last contact"
+  },
+  "sections[0].parts[2].body[1].children[0].text": {
+    "fr": "Clients : durée de la relation contractuelle puis durées légales de conservation (comptabilité, garantie).",
+    "en": "Customers: duration of the contractual relationship, then the statutory retention periods (accounting, warranty)."
+  },
+  "sections[0].parts[2].body[2].children[0].text": {
+    "fr": "Données de mesure d'audience : selon les durées indiquées dans la politique cookies.",
+    "en": "Audience measurement data: according to the periods stated in the cookie policy."
+  },
+  "sections[0].parts[3].heading": {
+    "fr": "Qui y a accès",
+    "en": "Who has access to it"
+  },
+  "sections[0].parts[3].body[0].children[0].text": {
+    "fr": "Les équipes commerciales et administratives de FLORACONCEPT (agence concernée par votre demande), ainsi que nos sous-traitants techniques strictement nécessaires : hébergeur (Hostinger), outil d'envoi d'emails (messagerie de l'hébergeur Hostinger), outils de mesure (après consentement). Aucun transfert hors Union européenne sans garanties adéquates.",
+    "en": "The sales and administrative teams of FLORACONCEPT (the branch concerned by your request), as well as our strictly necessary technical processors: hosting provider (Hostinger), email sending tool (Hostinger’s hosted email service), measurement tools (subject to consent). No transfer outside the European Union without appropriate safeguards."
+  },
+  "sections[0].parts[4].heading": {
+    "fr": "Vos droits",
+    "en": "Your rights"
+  },
+  "sections[0].parts[4].body[0].children[0].text": {
+    "fr": "Vous disposez des droits d'accès, de rectification, d'effacement, de limitation, d'opposition et de portabilité sur vos données. Pour les exercer : ",
+    "en": "You have the rights of access, rectification, erasure, restriction, objection and portability with regard to your data. To exercise them: "
+  },
+  "sections[0].parts[4].body[0].children[2].text": {
+    "fr": ". Vous pouvez également saisir la CNIL (cnil.fr) si vous estimez que vos droits ne sont pas respectés.",
+    "en": ". You may also lodge a complaint with the CNIL (cnil.fr) if you consider that your rights have not been respected."
+  },
+  "sections[0].parts[5].heading": {
+    "fr": "Mise à jour",
+    "en": "Updates"
+  },
+  "sections[0].parts[5].body[0].children[0].text": {
+    "fr": "La présente politique peut évoluer. Dernière mise à jour : 24 octobre 2026.",
+    "en": "This policy may change. Last updated: 24 October 2026."
+  }
+}

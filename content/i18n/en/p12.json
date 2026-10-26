@@ -1,0 +1,198 @@
+{
+  "name": {
+    "fr": "Marseille et Provence",
+    "en": "Marseille and Provence"
+  },
+  "seo.title": {
+    "fr": "Location et entretien de plantes à Marseille et en Provence",
+    "en": "Plant rental and maintenance in Marseille and Provence"
+  },
+  "seo.description": {
+    "fr": "Location de plantes, entretien et murs végétaux pour les entreprises à Marseille, Aix-en-Provence, Toulon et Avignon. Base de Gémenos, devis gratuit.",
+    "en": "Plant rental, maintenance and green walls for businesses in Marseille, Aix-en-Provence, Toulon and Avignon. Based in Gémenos, free quote."
+  },
+  "h1": {
+    "fr": "Location et entretien de plantes pour les entreprises à Marseille et en Provence",
+    "en": "Plant rental and maintenance for businesses in Marseille and Provence"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Depuis sa base historique de Gémenos, aux portes de Marseille, Flora Concept assure la location de plantes à Marseille et dans toute la Provence : bureaux, sièges régionaux, hôtels, cliniques, résidences et commerces, de Marseille à Aix-en-Provence, d'Aubagne à Toulon et jusqu'en Avignon. Nos jardiniers installent les végétaux, puis les entretiennent en tournées régulières, remplacement compris ; nous reprenons aussi les parcs de plantes existants après un diagnostic gratuit. C'est ici que l'entreprise est née en 1999 : le site de Gémenos regroupe nos équipes, nos serres et notre atelier de fabrication des murs et cadres végétaux stabilisés. ",
+    "en": "From its long-standing base in Gémenos, on the outskirts of Marseille, Flora Concept provides plant rental in Marseille and throughout Provence: offices, regional head offices, hotels, clinics, residences and shops, from Marseille to Aix-en-Provence, from Aubagne to Toulon and as far as Avignon. Our gardeners install the plants, then maintain them on regular rounds, replacements included; we also take over existing plant collections after a free assessment. This is where the company was founded in 1999: the Gémenos site houses our teams, our greenhouses and our workshop where we make preserved green walls and plant frames. "
+  },
+  "answer[0].children[2].text": {
+    "fr": " 1118 route d'Aubagne, 13420 Gémenos · 04 13 12 13 80. Demandez un devis gratuit : un paysagiste se déplace dans vos locaux et vous propose une solution adaptée à vos espaces, votre lumière et votre budget.",
+    "en": " 1118 route d'Aubagne, 13420 Gémenos · 04 13 12 13 80. Request a free quote: an interior landscaper will visit your premises and suggest a solution suited to your spaces, your light and your budget."
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Bouches-du-Rhône",
+    "en": "Bouches-du-Rhône"
+  },
+  "structuredData.areaServed[1]": {
+    "fr": "Var",
+    "en": "Var"
+  },
+  "structuredData.areaServed[2]": {
+    "fr": "Vaucluse",
+    "en": "Vaucluse"
+  },
+  "sections[0].title": {
+    "fr": "Notre zone d'intervention en Provence",
+    "en": "Our service area in Provence"
+  },
+  "sections[0].intro[0].children[0].text": {
+    "fr": "Marseille et sa métropole, Aubagne et Gémenos, Aix-en-Provence, le pays d'Aix, Toulon et le Var, Avignon et le Vaucluse. ",
+    "en": "Marseille and its metropolitan area, Aubagne and Gémenos, Aix-en-Provence, the Pays d'Aix, Toulon and the Var, Avignon and the Vaucluse. "
+  },
+  "sections[0].intro[0].children[2].text": {
+    "fr": " Pour les Alpes-Maritimes et Monaco, voir la ",
+    "en": " For the Alpes-Maritimes and Monaco, see the "
+  },
+  "sections[0].intro[0].children[3].text": {
+    "fr": "zone Nice et Côte d'Azur",
+    "en": "Nice and Côte d'Azur area"
+  },
+  "sections[0].groups[0].title": {
+    "fr": "Marseille et Aubagne",
+    "en": "Marseille and Aubagne"
+  },
+  "sections[0].groups[0].body[0].children[0].text": {
+    "fr": "Sièges régionaux, bureaux du centre et des quartiers d'affaires, commerces et établissements de santé : la proximité de Gémenos permet des tournées fréquentes et des interventions rapides. ",
+    "en": "Regional head offices, offices in the city centre and business districts, shops and healthcare facilities: being close to Gémenos allows frequent rounds and fast call-outs. "
+  },
+  "sections[0].groups[1].title": {
+    "fr": "Aix-en-Provence",
+    "en": "Aix-en-Provence"
+  },
+  "sections[0].groups[1].body[0].children[0].text": {
+    "fr": "Bureaux et entreprises du pays d'Aix : location avec entretien, murs végétaux et cadres stabilisés pour les accueils. ",
+    "en": "Offices and businesses in the Pays d'Aix: rental with maintenance, green walls and preserved frames for reception areas. "
+  },
+  "sections[0].groups[2].title": {
+    "fr": "Toulon, le Var et le Vaucluse",
+    "en": "Toulon, the Var and the Vaucluse"
+  },
+  "sections[0].groups[2].body[0].children[0].text": {
+    "fr": "Nos tournées couvrent le Var et le Vaucluse pour les contrats de location et d'entretien. ",
+    "en": "Our rounds cover the Var and the Vaucluse for rental and maintenance contracts. "
+  },
+  "sections[1].title": {
+    "fr": "Le climat provençal, notre terrain de jeu",
+    "en": "The Provençal climate is our playing field"
+  },
+  "sections[1].body[0].children[0].text": {
+    "fr": "Chaleur estivale, mistral, locaux climatisés en continu de juin à septembre : les plantes d'intérieur en Provence vivent des conditions exigeantes. Nos paysagistes choisissent des espèces qui supportent l'air sec et la climatisation, et nos jardiniers ajustent l'arrosage au fil des saisons, y compris pendant vos fermetures d'été si l'accès est organisé.",
+    "en": "Summer heat, the mistral, premises air-conditioned non-stop from June to September: indoor plants in Provence live in demanding conditions. Our landscapers choose species that tolerate dry air and air conditioning, and our gardeners adjust watering through the seasons, including during your summer closures if access is arranged."
+  },
+  "sections[2].title": {
+    "fr": "Nos services à Marseille",
+    "en": "Our services in Marseille"
+  },
+  "sections[2].items[0].text[0].children[0].text": {
+    "fr": "Location de plantes avec entretien",
+    "en": "Plant rental with maintenance"
+  },
+  "sections[2].items[0].text[0].children[1].text": {
+    "fr": " : la formule tout compris",
+    "en": ": the all-inclusive option"
+  },
+  "sections[2].items[1].text[0].children[0].text": {
+    "fr": "Entretien de parcs existants",
+    "en": "Maintenance of existing plants"
+  },
+  "sections[2].items[1].text[0].children[1].text": {
+    "fr": " : diagnostic gratuit puis contrat",
+    "en": ": free assessment, then a contract"
+  },
+  "sections[2].items[2].text[0].children[0].text": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  },
+  "sections[2].items[2].text[0].children[1].text": {
+    "fr": " et ",
+    "en": " and "
+  },
+  "sections[2].items[2].text[0].children[2].text": {
+    "fr": "cadres végétaux stabilisés",
+    "en": "preserved plant frames"
+  },
+  "sections[2].items[2].text[0].children[3].text": {
+    "fr": " fabriqués dans notre atelier de Gémenos ",
+    "en": " made in our Gémenos workshop "
+  },
+  "sections[2].items[3].text[0].children[0].text": {
+    "fr": "Abonnement floral",
+    "en": "Flower subscription"
+  },
+  "sections[2].items[3].text[0].children[2].text": {
+    "fr": "événementiel",
+    "en": "events"
+  },
+  "sections[2].items[3].text[0].children[3].text": {
+    "fr": " et ",
+    "en": " and "
+  },
+  "sections[2].items[3].text[0].children[4].text": {
+    "fr": "décors de Noël",
+    "en": "Christmas decorations"
+  },
+  "sections[3].title": {
+    "fr": "Références en Provence",
+    "en": "References in Provence"
+  },
+  "sections[4].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[4].items[0].question": {
+    "fr": "Dans quelles villes intervenez-vous autour de Marseille ?",
+    "en": "Which towns do you cover around Marseille?"
+  },
+  "sections[4].items[0].answer[0].children[0].text": {
+    "fr": "Notre base de Gémenos couvre Marseille, Aubagne, Aix-en-Provence, Toulon et le Var, Avignon et le Vaucluse. Les passages d'entretien sont organisés en tournées régulières par secteur. ",
+    "en": "Our Gémenos base covers Marseille, Aubagne, Aix-en-Provence, Toulon and the Var, Avignon and the Vaucluse. Maintenance visits are organised in regular rounds by area. "
+  },
+  "sections[4].items[1].question": {
+    "fr": "Où êtes-vous installés ?",
+    "en": "Where are you based?"
+  },
+  "sections[4].items[1].answer[0].children[0].text": {
+    "fr": "À Gémenos, aux portes de Marseille, sur le site historique de l'entreprise. ",
+    "en": "In Gémenos, on the outskirts of Marseille, at the company's original site. "
+  },
+  "sections[4].items[1].answer[0].children[2].text": {
+    "fr": " C'est de là que partent nos jardiniers et que sont fabriqués nos murs et cadres végétaux stabilisés. ",
+    "en": " This is where our gardeners set out from and where our preserved green walls and plant frames are made. "
+  },
+  "sections[4].items[2].question": {
+    "fr": "Pouvez-vous reprendre l'entretien de plantes déjà en place ?",
+    "en": "Can you take over the maintenance of plants already in place?"
+  },
+  "sections[4].items[2].answer[0].children[0].text": {
+    "fr": "Oui. Nous diagnostiquons gratuitement votre parc existant, puis nous proposons un contrat d'entretien avec une fréquence adaptée. Les sujets trop abîmés peuvent être remplacés ou basculés en location.",
+    "en": "Yes. We assess your existing plants free of charge, then propose a maintenance contract with a suitable frequency. Plants that are too damaged can be replaced or switched to rental."
+  },
+  "sections[4].items[3].question": {
+    "fr": "Vos plantes supportent-elles la climatisation et la chaleur provençale ?",
+    "en": "Can your plants cope with air conditioning and the Provençal heat?"
+  },
+  "sections[4].items[3].answer[0].children[0].text": {
+    "fr": "Oui, c'est notre quotidien depuis 1999 : nous sélectionnons des espèces qui tolèrent l'air sec et la climatisation continue, et nos jardiniers ajustent l'arrosage selon la saison. Pour les zones les plus difficiles, le végétal stabilisé est une alternative sans contrainte.",
+    "en": "Yes, it has been our daily work since 1999: we select species that tolerate dry air and continuous air conditioning, and our gardeners adjust watering according to the season. For the most difficult areas, preserved plants are a hassle-free alternative."
+  },
+  "heroImage.alt": {
+    "fr": "Marseille et Provence",
+    "en": "Marseille and Provence"
+  },
+  "related.items[0].title": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "related.items[1].title": {
+    "fr": "Entretien de plantes",
+    "en": "Plant maintenance"
+  },
+  "related.items[2].title": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  }
+}

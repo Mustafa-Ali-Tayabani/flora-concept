@@ -1,16 +1,16 @@
 @let n = nav();
-<header class="hdr">
-  <a class="hdr__logo" routerLink="/" aria-label="Flora Concept, accueil">
+<header class="hdr" #hdr>
+  <a class="hdr__logo" [routerLink]="t().routes.home" [attr.aria-label]="t().header.logo">
     <span class="logo">
       <img [ngSrc]="logo().src" width="48" height="48" [alt]="logo().alt" [priority]="true" />
     </span>
   </a>
 
-  <nav class="desk" aria-label="Menu principal">
-    <ul class="desk__list">
-      <li><a class="navlink" routerLink="/" routerLinkActive="is-active" [routerLinkActiveOptions]="{ exact: true }" ariaCurrentWhenActive="page">Accueil</a></li>
+  <nav class="desk" [attr.aria-label]="t().header.mainNav" #desk>
+    <ul class="desk__list" #deskList>
+      <li><a class="navlink" [routerLink]="t().routes.home" routerLinkActive="is-active" [routerLinkActiveOptions]="{ exact: true }" ariaCurrentWhenActive="page">{{ t().header.home }}</a></li>
       @for (g of n.groups; track g.key) {
-        <li class="dd" (mouseenter)="open.set(g.key)" (mouseleave)="open.set(null)" (focusout)="onFocusOut($event, g.key)">
+        <li class="dd" (mouseenter)="hoverOpen(g.key)" (mouseleave)="hoverClose(g.key)" (focusout)="onFocusOut($event, g.key)">
           <button type="button" class="navlink" [attr.aria-expanded]="open() === g.key" [attr.aria-controls]="'dd-' + g.key" (click)="toggle(g.key)">
             {{ g.label }} <fc-chevron />
           </button>
@@ -43,10 +43,10 @@
                   }
                 </ul>
               </div>
-              <a class="mega__cta" routerLink="/devis/">
-                <span class="mega__cta-eyebrow">Devis gratuit</span>
-                <span class="mega__cta-title"><fc-accent text="Votre devis gratuit en une minute" /></span>
-                <span class="mega__cta-btn">Recevoir mon devis <fc-leaf /></span>
+              <a class="mega__cta" [routerLink]="t().routes.quote">
+                <span class="mega__cta-eyebrow">{{ t().header.megaEyebrow }}</span>
+                <span class="mega__cta-title"><fc-accent [text]="t().cta.finalLine" /></span>
+                <span class="mega__cta-btn">{{ t().header.megaCta }} <fc-leaf /></span>
               </a>
             </div>
           </div>
@@ -55,18 +55,19 @@
       @for (l of n.links; track l.href) {
         <li><a class="navlink" [routerLink]="l.href" routerLinkActive="is-active" ariaCurrentWhenActive="page">{{ l.label }}</a></li>
       }
-      <li><a class="btn btn--primary btn--sm hdr__cta" routerLink="/devis/"><fc-leaf />Recevoir mon devis gratuit</a></li>
+      <li><fc-lang-switch /></li>
+      <li><a class="btn btn--primary btn--sm hdr__cta" [routerLink]="t().routes.quote"><fc-leaf />{{ t().cta.quote }}</a></li>
     </ul>
   </nav>
 
-  <button #burger type="button" class="burger" [attr.aria-expanded]="menuOpen()" aria-controls="mobile-menu" (click)="toggleMenu()">Menu</button>
+  <button #burger type="button" class="burger" [attr.aria-expanded]="menuOpen()" aria-controls="mobile-menu" (click)="toggleMenu()">{{ t().header.menu }}</button>
 </header>
 
-<div #panel id="mobile-menu" class="mpanel" [class.is-open]="menuOpen()" role="dialog" aria-modal="true" aria-label="Menu" [attr.inert]="menuOpen() ? null : ''">
-  <button type="button" class="mpanel__close" aria-label="Fermer le menu" (click)="toggleMenu()">✕</button>
-  <a class="btn btn--primary mpanel__cta" routerLink="/devis/"><fc-leaf />Recevoir mon devis gratuit</a>
-  <nav aria-label="Menu mobile" class="mpanel__nav">
-    <a class="big" routerLink="/">Accueil</a>
+<div #panel id="mobile-menu" class="mpanel" [class.is-open]="menuOpen()" role="dialog" aria-modal="true" [attr.aria-label]="t().header.menu" [attr.inert]="menuOpen() ? null : ''">
+  <button type="button" class="mpanel__close" [attr.aria-label]="t().header.closeMenu" (click)="toggleMenu()">✕</button>
+  <div class="mpanel__top"><a class="btn btn--primary mpanel__cta" [routerLink]="t().routes.quote"><fc-leaf />{{ t().cta.quote }}</a><fc-lang-switch /></div>
+  <nav [attr.aria-label]="t().header.mobileNav" class="mpanel__nav">
+    <a class="big" [routerLink]="t().routes.home">{{ t().header.home }}</a>
     @for (g of n.groups; track g.key) {
       <div class="mgroup">
         <span class="big">{{ g.label }}</span>

@@ -225,7 +225,10 @@
   text-decoration: none;
   cursor: pointer;
   transition: background 0.3s, color 0.3s, transform 0.3s, border-color 0.3s;
-  white-space: nowrap;
+  /* Labels may wrap (narrow phones, translated pages) rather than overflow. */
+  text-align: center;
+  text-wrap: balance;
+  max-width: 100%;
 
   &--primary {
     background: var(--lime);
@@ -275,6 +278,13 @@
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
+
+  /* Phones: always stacked, so the layout never depends on label length or on
+     the web font having loaded (no shift when it swaps in, same in FR and EN). */
+  @media (max-width: 520px) {
+    flex-direction: column;
+    align-items: flex-start;
+  }
 }
 
 .leaf-dot {

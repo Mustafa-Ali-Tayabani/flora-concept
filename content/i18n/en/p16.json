@@ -1,0 +1,134 @@
+{
+  "name": {
+    "fr": "Qui sommes-nous",
+    "en": "About us"
+  },
+  "seo.title": {
+    "fr": "Qui sommes-nous : Flora Concept, paysagiste depuis 1999",
+    "en": "About us: Flora Concept, landscaper since 1999"
+  },
+  "seo.description": {
+    "fr": "Paysagiste d'intérieur pour les entreprises depuis 1999, basé à Gémenos près de Marseille : notre histoire, notre équipe de jardiniers et notre façon de travailler.",
+    "en": "Interior landscaper for businesses since 1999, based in Gémenos near Marseille: our story, our team of gardeners and the way we work."
+  },
+  "h1": {
+    "fr": "Flora Concept : le végétal en entreprise, depuis 1999",
+    "en": "Flora Concept: plants for businesses since 1999"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Flora Concept est un spécialiste du paysagisme d'intérieur pour les entreprises depuis 1999 : location et entretien de plantes, murs végétaux et cadres végétaux stabilisés, basé dans le sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France. ",
+    "en": "Flora Concept has specialised in interior landscaping for businesses since 1999: plant rental and maintenance, green walls and preserved plant frames, based in the south of France near Aix-en-Provence, with teams in Provence-Alpes-Côte d'Azur and Île-de-France. "
+  },
+  "answer[0].children[2].text": {
+    "fr": " Plus de vingt-cinq ans plus tard, la même conviction nous guide : des espaces de travail végétalisés font des entreprises plus accueillantes, et ils ne le restent que si des professionnels s'en occupent vraiment. C'est pourquoi nos jardiniers assurent eux-mêmes l'installation et l'entretien de chaque plante que nous confions à nos clients.",
+    "en": " More than twenty-five years later, the same conviction guides us: green workspaces make businesses more welcoming, and they only stay that way if professionals genuinely look after them. That is why our gardeners personally handle the installation and maintenance of every plant we entrust to our clients."
+  },
+  "sections[0].title": {
+    "fr": "Notre histoire",
+    "en": "Our story"
+  },
+  "sections[1].title": {
+    "fr": "L'équipe",
+    "en": "The team"
+  },
+  "sections[2].title": {
+    "fr": "Notre façon de travailler",
+    "en": "How we work"
+  },
+  "sections[2].items[0].lead": {
+    "fr": "Des jardiniers salariés",
+    "en": "Our own employed gardeners"
+  },
+  "sections[2].items[0].text[0].children[0].text": {
+    "fr": "les personnes qui installent et entretiennent vos plantes font partie de l'équipe. ",
+    "en": "the people who install and maintain your plants are part of the team. "
+  },
+  "sections[2].items[1].lead": {
+    "fr": "Le bon végétal au bon endroit",
+    "en": "The right plant in the right place"
+  },
+  "sections[2].items[1].text[0].children[0].text": {
+    "fr": "chaque espèce est choisie après une visite, selon la lumière et la vie réelle de vos espaces.",
+    "en": "each species is chosen after a visit, based on the light and the real life of your spaces."
+  },
+  "sections[2].items[2].lead": {
+    "fr": "Le remplacement plutôt que l'excuse",
+    "en": "Replacement, not excuses"
+  },
+  "sections[2].items[2].text[0].children[0].text": {
+    "fr": "une plante qui faiblit est remplacée, c'est dans le contrat.",
+    "en": "a plant that weakens is replaced: it is in the contract."
+  },
+  "sections[2].items[3].lead": {
+    "fr": "De Gémenos à vos bureaux",
+    "en": "From Gémenos to your offices"
+  },
+  "sections[2].items[3].text[0].children[0].text": {
+    "fr": "notre base historique (13) ",
+    "en": "our historic base (13) "
+  },
+  "sections[2].items[3].text[0].children[2].text": {
+    "fr": " et des tournées régulières en PACA et en Île-de-France.",
+    "en": " and regular rounds in PACA and Île-de-France."
+  },
+  "sections[3].title": {
+    "fr": "Chiffres clés",
+    "en": "Key figures"
+  },
+  "sections[4].title": {
+    "fr": "Nos engagements",
+    "en": "Our commitments"
+  },
+  "sections[4].items[0].lead": {
+    "fr": "Transition électrique engagée",
+    "en": "Committed to going electric"
+  },
+  "sections[4].items[0].text[0].children[0].text": {
+    "fr": "tout notre matériel d'entretien est électrique.",
+    "en": "all our maintenance equipment is electric."
+  },
+  "sections[4].items[1].lead": {
+    "fr": "Ruches en entreprise",
+    "en": "Corporate beehives"
+  },
+  "sections[4].items[1].text[0].children[0].text": {
+    "fr": "parrainage de ruches proposé aux entreprises de la région PACA, avec notre rucher du Luberon. ",
+    "en": "beehive sponsorship offered to businesses in the PACA region, with our apiary in the Luberon. "
+  },
+  "sections[4].items[1].text[0].children[1].text": {
+    "fr": "En savoir plus",
+    "en": "Find out more"
+  },
+  "sections[5].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[5].items[0].question": {
+    "fr": "Depuis quand Flora Concept existe-t-elle ?",
+    "en": "How long has Flora Concept been in business?"
+  },
+  "sections[5].items[0].answer[0].children[0].text": {
+    "fr": "L'entreprise travaille le végétal en entreprise depuis 1999, depuis sa base du sud de la France, près d'Aix-en-Provence. ",
+    "en": "The company has been providing plants for businesses since 1999, from its base in the south of France, near Aix-en-Provence. "
+  },
+  "sections[5].items[1].question": {
+    "fr": "Qui s'occupe concrètement de nos plantes ?",
+    "en": "Who actually looks after our plants?"
+  },
+  "sections[5].items[1].answer[0].children[0].text": {
+    "fr": "Des jardiniers de l'équipe Flora Concept, présentés sur cette page. Votre site est suivi par un jardinier identifié, qui connaît vos espaces et vos plantes, avec un interlocuteur commercial unique pour le contrat.",
+    "en": "Gardeners from the Flora Concept team, introduced on this page. Your site is looked after by a named gardener who knows your spaces and your plants, with a single account manager for the contract."
+  },
+  "sections[5].items[2].question": {
+    "fr": "Travaillez-vous avec des sous-traitants ?",
+    "en": "Do you work with subcontractors?"
+  },
+  "heroImage.alt": {
+    "fr": "Qui sommes-nous",
+    "en": "About us"
+  },
+  "finalCta": {
+    "fr": "Envie de travailler avec nous ?",
+    "en": "Want to work with us?"
+  }
+}

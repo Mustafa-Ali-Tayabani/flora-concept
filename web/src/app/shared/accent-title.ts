@@ -30,7 +30,7 @@ export function splitAccent(text: string): { pre: string; last: string; punct: s
     } @else {
       {{ text() }}
     }`,
-  styles: `:host { display: contents; } em { white-space: nowrap; }`,
+  styles: `:host { display: contents; }`,
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class AccentTitle {

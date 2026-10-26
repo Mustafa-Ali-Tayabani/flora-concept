@@ -5,6 +5,7 @@ import { RouterLink } from '@angular/router';
 import { map } from 'rxjs';
 import { ContentService } from '../../core/content/content.service';
 import { Photo } from '../../shared/photo';
+import { SiteStore } from '../../core/site/site.store';
 
 /**
  * T8 · reverse-chronological list. The index only ever contains posts whose
@@ -23,10 +24,10 @@ import { Photo } from '../../shared/photo';
                 <li class="post tone-surface" data-reveal>
                   <fc-photo class="post__img" ratio="4/3" [image]="p.image" alt="" sizes="(max-width: 640px) 100vw, 33vw" />
                   <div class="post__body">
-                    <time class="small" [attr.datetime]="p.pubDate">{{ p.pubDate | date: 'd MMMM y' : undefined : 'fr' }}</time>
+                    <time class="small" [attr.datetime]="p.pubDate">{{ p.pubDate | date: 'd MMMM y' : undefined : t().locale }}</time>
                     <h2 class="h3 post__title"><a [routerLink]="['/blog', p.slug]">{{ p.title }}</a></h2>
                     <p class="post__excerpt">{{ p.excerpt }}</p>
-                    <span class="link post__more" aria-hidden="true">Lire</span>
+                    <span class="link post__more" aria-hidden="true">{{ t().blog.read }}</span>
                   </div>
                 </li>
               }
@@ -48,5 +49,6 @@ import { Photo } from '../../shared/photo';
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class BlogList {
+  protected readonly t = inject(SiteStore).t;
   protected readonly posts = toSignal(inject(ContentService).index().pipe(map((i) => i.posts)));
 }

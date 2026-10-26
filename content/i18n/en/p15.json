@@ -1,0 +1,122 @@
+{
+  "name": {
+    "fr": "Devis",
+    "en": "Quote"
+  },
+  "seo.title": {
+    "fr": "Devis gratuit : plantes et végétalisation d'entreprise",
+    "en": "Free quote: plants and greening for businesses"
+  },
+  "seo.description": {
+    "fr": "Demandez votre devis gratuit en une minute : location et entretien de plantes, murs végétaux, décoration végétale. Réponse d'un paysagiste de votre région.",
+    "en": "Request your free quote in one minute: plant rental and maintenance, green walls, plant decoration. You will hear back from a landscaper in your region."
+  },
+  "h1": {
+    "fr": "Votre devis gratuit en une minute",
+    "en": "Your free quote in one minute"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Décrivez votre besoin en trois champs : un paysagiste de l'équipe de votre région vous recontacte pour affiner, visite vos locaux si nécessaire et vous envoie une proposition détaillée. Gratuit et sans engagement. Vous préférez parler tout de suite ? Appelez directement votre agence.",
+    "en": "Describe what you need in three fields: a landscaper from your regional team gets back to you to refine it, visits your premises if needed and sends you a detailed proposal. Free and with no obligation. Prefer to talk straight away? Call your branch directly."
+  },
+  "sections[0].placeholder": {
+    "fr": "Ex. : location et entretien de plantes pour nos bureaux de 400 m² à Marseille",
+    "en": "E.g. plant rental and maintenance for our 400 m² offices in Marseille"
+  },
+  "sections[0].reassurance[0].children[0].text": {
+    "fr": "Réponse d'un paysagiste de votre région ",
+    "en": "Reply from a landscaper in your region "
+  },
+  "sections[0].reassurance[0].children[2].text": {
+    "fr": " · Gratuit et sans engagement",
+    "en": " · Free and with no obligation"
+  },
+  "sections[0].privacy[0].children[0].text": {
+    "fr": "Les informations saisies servent uniquement à traiter votre demande de devis. Elles sont transmises à l'agence Flora Concept concernée et ne sont jamais cédées à des tiers. En savoir plus : ",
+    "en": "The information you enter is used solely to process your quote request. It is passed on to the relevant Flora Concept branch and is never transferred to third parties. Find out more: "
+  },
+  "sections[0].privacy[0].children[1].text": {
+    "fr": "politique de confidentialité",
+    "en": "privacy policy"
+  },
+  "sections[0].confirmation.title": {
+    "fr": "Merci, votre demande est bien partie.",
+    "en": "Thank you, your request has been sent."
+  },
+  "sections[0].confirmation.body[0].children[0].text": {
+    "fr": "Un paysagiste de votre région (",
+    "en": "A landscaper in your region ("
+  },
+  "sections[0].confirmation.body[0].children[2].text": {
+    "fr": ") vous recontacte rapidement. ",
+    "en": ") will get back to you shortly. "
+  },
+  "sections[0].confirmation.body[0].children[4].text": {
+    "fr": " Vous recevez aussi un accusé de réception par email si vous avez indiqué une adresse.",
+    "en": " You will also receive an acknowledgement by email if you provided an address."
+  },
+  "sections[0].errors.nom": {
+    "fr": "Indiquez votre nom pour que nous sachions à qui répondre.",
+    "en": "Enter your name so we know who to reply to."
+  },
+  "sections[0].errors.contact": {
+    "fr": "Indiquez un email ou un numéro de téléphone pour que nous puissions vous répondre.",
+    "en": "Enter an email address or phone number so we can reply to you."
+  },
+  "sections[0].errors.besoin": {
+    "fr": "Décrivez votre besoin en une phrase, cela suffit.",
+    "en": "Describe what you need in one sentence, that is enough."
+  },
+  "sections[0].errors.server": {
+    "fr": "L'envoi a échoué. Réessayez, ou appelez-nous directement.",
+    "en": "Sending failed. Try again, or call us directly."
+  },
+  "sections[0].errors.rateLimit": {
+    "fr": "Vous avez déjà envoyé plusieurs demandes. Patientez quelques minutes ou appelez-nous.",
+    "en": "You have already sent several requests. Please wait a few minutes or call us."
+  },
+  "sections[0].phoneTitle": {
+    "fr": "Appeler directement",
+    "en": "Call us directly"
+  },
+  "sections[0].phones[0].label": {
+    "fr": "Provence-Alpes-Côte d'Azur (base de Gémenos)",
+    "en": "Provence-Alpes-Côte d'Azur (Gémenos base)"
+  },
+  "sections[0].phones[1].label": {
+    "fr": "Île-de-France",
+    "en": "Île-de-France"
+  },
+  "sections[1].title": {
+    "fr": "Ce qui se passe ensuite",
+    "en": "What happens next"
+  },
+  "sections[1].steps[0].lead": {
+    "fr": "Échange",
+    "en": "Discussion"
+  },
+  "sections[1].steps[0].text[0].children[0].text": {
+    "fr": "un paysagiste vous rappelle pour préciser vos espaces et vos envies.",
+    "en": "a landscaper calls you back to clarify your spaces and what you would like."
+  },
+  "sections[1].steps[1].lead": {
+    "fr": "Visite si nécessaire",
+    "en": "Visit if needed"
+  },
+  "sections[1].steps[1].text[0].children[0].text": {
+    "fr": "pour les projets d'aménagement, nous nous déplaçons gratuitement.",
+    "en": "for fit-out projects, we visit free of charge."
+  },
+  "sections[1].steps[2].lead": {
+    "fr": "Proposition détaillée",
+    "en": "Detailed proposal"
+  },
+  "sections[1].steps[2].text[0].children[0].text": {
+    "fr": "végétaux, contenants, fréquence d'entretien et budget, sans engagement.",
+    "en": "plants, containers, maintenance frequency and budget, with no obligation."
+  },
+  "heroImage.alt": {
+    "fr": "Devis",
+    "en": "Quote"
+  }
+}

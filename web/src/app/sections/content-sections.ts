@@ -1,4 +1,5 @@
-import { ChangeDetectionStrategy, Component, computed, input } from '@angular/core';
+import { ChangeDetectionStrategy, Component, computed, inject, input } from '@angular/core';
+import { SiteStore } from '../core/site/site.store';
 import { RouterLink } from '@angular/router';
 import {
   BentoSection,
@@ -75,7 +76,7 @@ export class ProfilesSectionComponent {
                 @if (c.links?.length) {
                   @for (l of c.links; track l._key) { <a class="link" [routerLink]="l.href">{{ l.label }}</a> }
                 } @else {
-                  <a class="link" [routerLink]="c.href" [attr.aria-label]="'Découvrir : ' + c.title">Découvrir</a>
+                  <a class="link" [routerLink]="c.href" [attr.aria-label]="t().sections.discoverLabel + c.title">{{ t().sections.discover }}</a>
                 }
               </div>
             }
@@ -88,6 +89,7 @@ export class ProfilesSectionComponent {
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class CardGrid {
+  protected readonly t = inject(SiteStore).t;
   readonly cards = input.required<CardItem[]>();
   readonly min = input(260);
 }

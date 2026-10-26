@@ -1,0 +1,258 @@
+{
+  "name": {
+    "fr": "Espaces verts d'entreprise",
+    "en": "Corporate grounds"
+  },
+  "seo.title": {
+    "fr": "Entretien d'espaces verts pour entreprises en PACA",
+    "en": "Grounds maintenance for businesses in PACA"
+  },
+  "seo.description": {
+    "fr": "Entreprise d'espaces verts en PACA : entretien, création, élagage et terrasses pour sièges, hôtels, copropriétés et syndics. Matériel électrique, devis gratuit.",
+    "en": "Grounds maintenance company in PACA: upkeep, landscaping, tree pruning and terraces for head offices, hotels and residential buildings. Electric tools, free quote."
+  },
+  "h1": {
+    "fr": "Entretien et aménagement d'espaces verts pour les entreprises en Provence-Alpes-Côte d'Azur",
+    "en": "Grounds maintenance and landscape design for businesses in Provence-Alpes-Côte d'Azur"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Flora Concept assure l'entretien des espaces verts des entreprises en Provence-Alpes-Côte d'Azur : tonte, taille des haies et des arbustes, débroussaillage, ramassage des feuilles, nettoyage des allées, élagage et arrosage automatique, en contrat annuel ou à la prestation. Nos jardiniers interviennent sur les abords de sièges et de bureaux, les jardins d'hôtels et de résidences, les parties communes de copropriétés et les terrains d'entreprise, depuis notre base près d'Aix-en-Provence, de Marseille à Toulon et jusqu'en Avignon et sur la Côte d'Azur. Entreprise d'espaces verts depuis 1999, nous intervenons avec du matériel d'entretien entièrement électrique : moins de bruit pour vos occupants et un critère environnemental réel pour vos appels d'offres. Un interlocuteur unique, des passages planifiés, un compte rendu après chaque intervention. Demandez un devis gratuit : un paysagiste visite vos extérieurs et vous propose un contrat adapté à vos surfaces et à vos usages.",
+    "en": "Flora Concept maintains company grounds in Provence-Alpes-Côte d'Azur: mowing, hedge and shrub trimming, brush clearing, leaf collection, path cleaning, tree pruning and automatic irrigation, under an annual contract or on a one-off basis. Our gardeners work around head offices and office buildings, in hotel and residence gardens, in the common areas of residential buildings and on business premises, from our base near Aix-en-Provence, from Marseille to Toulon and as far as Avignon and the Côte d'Azur. A grounds maintenance company since 1999, we work with fully electric maintenance equipment: less noise for your occupants and a real environmental criterion for your tenders. A single point of contact, scheduled visits and a report after every visit. Request a free quote: a landscaper visits your outdoor areas and proposes a contract suited to your surface areas and how you use them."
+  },
+  "structuredData.serviceType": {
+    "fr": "entretien et aménagement d'espaces verts pour entreprises",
+    "en": "grounds maintenance and landscape design for businesses"
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "structuredData.areaServed[1]": {
+    "fr": "Bouches-du-Rhône",
+    "en": "Bouches-du-Rhône"
+  },
+  "structuredData.areaServed[2]": {
+    "fr": "Var",
+    "en": "Var"
+  },
+  "structuredData.areaServed[3]": {
+    "fr": "Vaucluse",
+    "en": "Vaucluse"
+  },
+  "structuredData.areaServed[4]": {
+    "fr": "Alpes-Maritimes",
+    "en": "Alpes-Maritimes"
+  },
+  "sections[0].title": {
+    "fr": "Nos prestations extérieur",
+    "en": "Our outdoor services"
+  },
+  "sections[0].cards[0].title": {
+    "fr": "Entretien pour copropriétés et syndics",
+    "en": "Maintenance for residential buildings and property managers"
+  },
+  "sections[0].cards[0].text[0].children[0].text": {
+    "fr": "contrat annuel, interlocuteur unique, compte rendu pour vos assemblées générales.",
+    "en": "annual contract, single point of contact, reports for your general meetings."
+  },
+  "sections[0].cards[1].title": {
+    "fr": "Création et aménagement d'espaces verts",
+    "en": "Landscape design and installation"
+  },
+  "sections[0].cards[1].text[0].children[0].text": {
+    "fr": "de l'esquisse à la plantation, abords de bureaux, parkings, jardins d'accueil, arrosage automatique.",
+    "en": "from sketch to planting: office surroundings, car parks, entrance gardens, automatic irrigation."
+  },
+  "sections[0].cards[2].title": {
+    "fr": "Élagage, taille et débroussaillage",
+    "en": "Tree pruning, trimming and brush clearing"
+  },
+  "sections[0].cards[2].text[0].children[0].text": {
+    "fr": "élagage réglementaire, taille de haies, débroussaillage obligatoire, intervention à la nacelle.",
+    "en": "regulatory tree pruning, hedge trimming, mandatory brush clearing, work from an aerial platform."
+  },
+  "sections[0].cards[3].title": {
+    "fr": "Terrasses végétalisées",
+    "en": "Planted terraces"
+  },
+  "sections[0].cards[3].text[0].children[0].text": {
+    "fr": "terrasses de bureaux, rooftops et terrasses d'hôtels, bacs, pergolas et entretien.",
+    "en": "office terraces, rooftops and hotel terraces, planters, pergolas and maintenance."
+  },
+  "sections[0].outro[0].children[0].text": {
+    "fr": "Et notre engagement pour la biodiversité : le ",
+    "en": "And our commitment to biodiversity: "
+  },
+  "sections[0].outro[0].children[1].text": {
+    "fr": "parrainage de ruches en entreprise",
+    "en": "corporate beehive sponsorship"
+  },
+  "sections[1].title": {
+    "fr": "Ce que comprend un contrat d'entretien d'espaces verts",
+    "en": "What a grounds maintenance contract includes"
+  },
+  "sections[1].items[0].text[0].children[0].text": {
+    "fr": "Tonte du gazon et finition des bordures",
+    "en": "Lawn mowing and edge finishing"
+  },
+  "sections[1].items[1].text[0].children[0].text": {
+    "fr": "Taille des haies, des arbustes et des massifs",
+    "en": "Trimming of hedges, shrubs and flower beds"
+  },
+  "sections[1].items[2].text[0].children[0].text": {
+    "fr": "Débroussaillage et nettoyage des allées, des parkings et des abords",
+    "en": "Brush clearing and cleaning of paths, car parks and surroundings"
+  },
+  "sections[1].items[3].text[0].children[0].text": {
+    "fr": "Ramassage des feuilles et évacuation des déchets verts",
+    "en": "Leaf collection and green waste removal"
+  },
+  "sections[1].items[4].text[0].children[0].text": {
+    "fr": "Traitement écologique des plantes et contrôle sanitaire, en privilégiant les méthodes respectueuses de l'environnement",
+    "en": "Ecological plant treatment and health checks, favouring environmentally friendly methods"
+  },
+  "sections[1].items[5].text[0].children[0].text": {
+    "fr": "Arrosage automatique : installation, programmation et maintenance",
+    "en": "Automatic irrigation: installation, programming and maintenance"
+  },
+  "sections[1].items[6].text[0].children[0].text": {
+    "fr": "Élagage des arbres selon un planning pluriannuel",
+    "en": "Tree pruning according to a multi-year schedule"
+  },
+  "sections[1].items[7].text[0].children[0].text": {
+    "fr": "Compte rendu après chaque passage, transmis à votre contact",
+    "en": "A report after every visit, sent to your contact"
+  },
+  "sections[2].title": {
+    "fr": "Pour qui",
+    "en": "Who it is for"
+  },
+  "sections[2].groups[0].title": {
+    "fr": "Sièges, bureaux et zones d'activité",
+    "en": "Head offices, offices and business parks"
+  },
+  "sections[2].groups[0].body[0].children[0].text": {
+    "fr": "Abords, parkings paysagers, patios et massifs d'accueil : la première image que vos visiteurs ont de votre entreprise. Nos tournées sont planifiées en dehors de vos heures d'affluence quand c'est possible.",
+    "en": "Surroundings, landscaped car parks, patios and entrance flower beds: the first impression your visitors have of your company. Our rounds are scheduled outside your peak hours whenever possible."
+  },
+  "sections[2].groups[1].title": {
+    "fr": "Hôtels, résidences et établissements de santé",
+    "en": "Hotels, residences and healthcare facilities"
+  },
+  "sections[2].groups[1].body[0].children[0].text": {
+    "fr": "Jardins, piscines, terrasses et allées entretenus sans gêner vos clients : notre matériel électrique est silencieux et sans fumée, ce qui compte dans un établissement occupé toute l'année. Nous assurons aussi les ",
+    "en": "Gardens, pools, terraces and paths maintained without disturbing your guests: our electric equipment is quiet and fume-free, which matters in an establishment occupied all year round. We also take care of "
+  },
+  "sections[2].groups[1].body[0].children[1].text": {
+    "fr": "terrasses végétalisées",
+    "en": "planted terraces"
+  },
+  "sections[2].groups[1].body[0].children[2].text": {
+    "fr": " et le ",
+    "en": " and "
+  },
+  "sections[2].groups[1].body[0].children[3].text": {
+    "fr": "paysagisme d'intérieur",
+    "en": "interior landscaping"
+  },
+  "sections[2].groups[1].body[0].children[4].text": {
+    "fr": " des mêmes établissements.",
+    "en": " for the same establishments."
+  },
+  "sections[2].groups[2].title": {
+    "fr": "Copropriétés, syndics et gestionnaires",
+    "en": "Residential buildings, property managers and building managers"
+  },
+  "sections[2].groups[2].body[0].children[0].text": {
+    "fr": "Un contrat annuel clair, un seul interlocuteur et des comptes rendus utilisables en assemblée générale : voir notre page ",
+    "en": "A clear annual contract, a single point of contact and reports you can use at general meetings: see our page on "
+  },
+  "sections[2].groups[2].body[0].children[1].text": {
+    "fr": "entretien des espaces verts de copropriété",
+    "en": "grounds maintenance for residential buildings"
+  },
+  "sections[3].title": {
+    "fr": "Notre engagement électrique",
+    "en": "Our electric commitment"
+  },
+  "sections[3].quote": {
+    "fr": "Tout notre matériel d'entretien est électrique",
+    "en": "All our maintenance equipment is electric"
+  },
+  "sections[3].pills[0]": {
+    "fr": "tondeuses",
+    "en": "mowers"
+  },
+  "sections[3].pills[1]": {
+    "fr": "taille-haies",
+    "en": "hedge trimmers"
+  },
+  "sections[3].pills[2]": {
+    "fr": "souffleurs",
+    "en": "leaf blowers"
+  },
+  "sections[3].pills[3]": {
+    "fr": "débroussailleuses",
+    "en": "brush cutters"
+  },
+  "sections[3].body[0].children[0].text": {
+    "fr": "Concrètement, pour vous : des interventions beaucoup moins bruyantes, sans émissions sur site, possibles aux heures de bureau et à proximité des chambres d'hôtel, et un argument vérifiable dans vos propres démarches RSE et appels d'offres. Notre transition électrique est engagée, et nous la poursuivons. En savoir plus sur ",
+    "en": "In practical terms, for you: much quieter work, no on-site emissions, possible during office hours and close to hotel rooms, and a verifiable argument in your own CSR initiatives and tenders. Our electric transition is under way, and we are continuing it. Find out more about "
+  },
+  "sections[3].body[0].children[1].text": {
+    "fr": "nos engagements",
+    "en": "our commitments"
+  },
+  "sections[4].title": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "sections[5].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[5].items[0].question": {
+    "fr": "Que comprend l'entretien des espaces verts d'une entreprise ?",
+    "en": "What does grounds maintenance for a business include?"
+  },
+  "sections[5].items[0].answer[0].children[0].text": {
+    "fr": "La tonte, la taille des haies et des arbustes, le débroussaillage, le ramassage des feuilles, le nettoyage des allées et des parkings, l'arrosage et l'élagage, selon un planning annuel défini au devis. Chaque passage donne lieu à un compte rendu.",
+    "en": "Mowing, hedge and shrub trimming, brush clearing, leaf collection, cleaning of paths and car parks, watering and tree pruning, according to an annual schedule set out in the quote. Each visit is followed by a report."
+  },
+  "sections[5].items[1].question": {
+    "fr": "Dans quelle zone intervenez-vous pour les espaces verts ?",
+    "en": "Which area do you cover for grounds maintenance?"
+  },
+  "sections[5].items[1].answer[0].children[0].text": {
+    "fr": "En Provence-Alpes-Côte d'Azur uniquement : Marseille et sa métropole, Aix-en-Provence, Aubagne, Toulon et le Var, Avignon et le Vaucluse, Nice et la Côte d'Azur. Nos prestations d'intérieur couvrent aussi l'Île-de-France.",
+    "en": "Provence-Alpes-Côte d'Azur only: Marseille and its metropolitan area, Aix-en-Provence, Aubagne, Toulon and the Var, Avignon and the Vaucluse, Nice and the Côte d'Azur. Our indoor services also cover Île-de-France."
+  },
+  "sections[5].items[2].question": {
+    "fr": "Proposez-vous un contrat annuel ou des interventions ponctuelles ?",
+    "en": "Do you offer an annual contract or one-off work?"
+  },
+  "sections[5].items[2].answer[0].children[0].text": {
+    "fr": "Les deux. Le contrat annuel est la formule la plus courante pour les sièges, hôtels et copropriétés : passages planifiés, tarif annuel connu à l'avance, un seul interlocuteur. Les interventions ponctuelles concernent surtout l'élagage, le débroussaillage et les créations.",
+    "en": "Both. The annual contract is the most common option for head offices, hotels and residential buildings: scheduled visits, an annual rate known in advance and a single point of contact. One-off work mainly concerns tree pruning, brush clearing and new landscaping projects."
+  },
+  "sections[5].items[3].question": {
+    "fr": "Pourquoi du matériel électrique ?",
+    "en": "Why electric equipment?"
+  },
+  "sections[5].items[3].answer[0].children[0].text": {
+    "fr": "Pour le bruit et les émissions : nos jardiniers peuvent intervenir pendant les heures de bureau ou près des chambres d'un hôtel sans gêner les occupants. C'est aussi un critère environnemental concret que vous pouvez faire valoir dans vos appels d'offres.",
+    "en": "Because of noise and emissions: our gardeners can work during office hours or near hotel rooms without disturbing occupants. It is also a tangible environmental criterion you can put forward in your tenders."
+  },
+  "sections[5].items[4].question": {
+    "fr": "Pouvez-vous reprendre un espace vert laissé à l'abandon ?",
+    "en": "Can you take over neglected grounds?"
+  },
+  "sections[5].items[4].answer[0].children[0].text": {
+    "fr": "Oui. Nous commençons par une remise en état (débroussaillage, taille de rattrapage, élagage, réfection des massifs), puis nous proposons un contrat d'entretien pour maintenir le résultat.",
+    "en": "Yes. We start with a restoration (brush clearing, catch-up trimming, tree pruning, replanting of flower beds), then propose a maintenance contract to keep the result."
+  },
+  "heroImage.alt": {
+    "fr": "Espaces verts d'entreprise",
+    "en": "Corporate grounds"
+  }
+}

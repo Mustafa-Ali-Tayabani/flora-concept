@@ -1,0 +1,182 @@
+{
+  "name": {
+    "fr": "Événementiel",
+    "en": "Events"
+  },
+  "seo.title": {
+    "fr": "Location de plantes pour événements, salons et séminaires",
+    "en": "Plant rental for events, trade shows and seminars"
+  },
+  "seo.description": {
+    "fr": "Location de plantes pour vos événements : salons, séminaires, soirées d'entreprise, tournages. Livraison, installation et reprise comprises. Devis rapide.",
+    "en": "Plant rental for your events: trade shows, seminars, corporate evenings, film shoots. Delivery, installation and collection included. Fast quote."
+  },
+  "h1": {
+    "fr": "Location de plantes pour vos événements professionnels",
+    "en": "Plant rental for your corporate events"
+  },
+  "answer[0].children[0].text": {
+    "fr": "La location de plantes événementiel habille un salon professionnel, un séminaire, une soirée d'entreprise, un lancement de produit ou un tournage en quelques heures : Flora Concept livre les végétaux, les installe selon votre plan, puis les reprend à la fin de l'événement. Palmiers, bambous, oliviers, plantes fleuries, compositions et cloisons végétales : le choix se fait selon votre thème, votre scénographie et la durée. Paysagiste d'intérieur des entreprises depuis 1999, nous assurons ces prestations courtes durées depuis notre base du sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France, notamment pour les salons, congrès et événements de la Côte d'Azur et de la région parisienne. ",
+    "en": "Event plant rental dresses a trade show, a seminar, a corporate evening, a product launch or a film shoot in just a few hours: Flora Concept delivers the plants, installs them according to your layout, then collects them at the end of the event. Palm trees, bamboo, olive trees, flowering plants, arrangements and plant partitions: the selection is made according to your theme, your staging and the duration. As interior landscapers for businesses since 1999, we provide these short-term services from our base in the south of France near Aix-en-Provence, with teams in Provence-Alpes-Côte d'Azur and Île-de-France, particularly for trade shows, conferences and events on the Côte d'Azur and in the Paris region. "
+  },
+  "answer[0].children[2].text": {
+    "fr": " Vous recevez un devis rapide avec livraison, installation et reprise comprises : indiquez les dates, le lieu et l'ambiance recherchée, nous nous occupons du reste.",
+    "en": " You receive a fast quote with delivery, installation and collection included: tell us the dates, the venue and the atmosphere you are looking for, and we take care of the rest."
+  },
+  "structuredData.serviceType": {
+    "fr": "location de plantes pour événements",
+    "en": "plant rental for events"
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Île-de-France",
+    "en": "Île-de-France"
+  },
+  "structuredData.areaServed[1]": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "sections[0].title": {
+    "fr": "Pour quels événements",
+    "en": "For which events"
+  },
+  "sections[0].items[0].lead": {
+    "fr": "Salons et congrès",
+    "en": "Trade shows and conferences"
+  },
+  "sections[0].items[0].text[0].children[0].text": {
+    "fr": "stands, allées, espaces VIP, zones de repos.",
+    "en": "stands, aisles, VIP areas, rest areas."
+  },
+  "sections[0].items[1].lead": {
+    "fr": "Séminaires et conventions",
+    "en": "Seminars and conventions"
+  },
+  "sections[0].items[1].text[0].children[0].text": {
+    "fr": "scènes, plateaux, espaces d'accueil.",
+    "en": "stages, sets, reception areas."
+  },
+  "sections[0].items[2].lead": {
+    "fr": "Soirées d'entreprise et inaugurations",
+    "en": "Corporate evenings and openings"
+  },
+  "sections[0].items[2].text[0].children[0].text": {
+    "fr": "ambiances méditerranéennes, tropicales ou graphiques.",
+    "en": "Mediterranean, tropical or graphic atmospheres."
+  },
+  "sections[0].items[3].lead": {
+    "fr": "Mariages et réceptions privées",
+    "en": "Weddings and private receptions"
+  },
+  "sections[0].items[3].text[0].children[0].text": {
+    "fr": "décors végétaux pour lieux de réception. ",
+    "en": "plant décor for reception venues. "
+  },
+  "sections[0].items[4].lead": {
+    "fr": "Tournages et shootings",
+    "en": "Film and photo shoots"
+  },
+  "sections[0].items[4].text[0].children[0].text": {
+    "fr": "végétaux livrés à l'heure, repris après la prise.",
+    "en": "plants delivered on time, collected after the shoot."
+  },
+  "sections[1].title": {
+    "fr": "Comment ça marche",
+    "en": "How it works"
+  },
+  "sections[1].steps[0].lead": {
+    "fr": "Brief express",
+    "en": "Quick brief"
+  },
+  "sections[1].steps[0].text[0].children[0].text": {
+    "fr": "dates, lieu, surfaces, thème, contraintes d'accès. Un devis vous est envoyé rapidement. ",
+    "en": "dates, venue, floor areas, theme, access constraints. A quote is sent to you promptly. "
+  },
+  "sections[1].steps[1].lead": {
+    "fr": "Livraison et installation",
+    "en": "Delivery and installation"
+  },
+  "sections[1].steps[1].text[0].children[0].text": {
+    "fr": "nos équipes installent les végétaux selon le plan, cache-pots et finitions compris, aux horaires du site.",
+    "en": "our teams install the plants according to the layout, planters and finishing touches included, within the venue's hours."
+  },
+  "sections[1].steps[2].lead": {
+    "fr": "Reprise",
+    "en": "Collection"
+  },
+  "sections[1].steps[2].text[0].children[0].text": {
+    "fr": "démontage et enlèvement à la fin de l'événement, sans surprise.",
+    "en": "dismantling and removal at the end of the event, with no surprises."
+  },
+  "sections[2].title": {
+    "fr": "Quelles plantes peut-on louer ?",
+    "en": "Which plants can you rent?"
+  },
+  "sections[2].body[0].children[0].text": {
+    "fr": "Grands sujets (palmiers, ficus, oliviers, bambous), plantes mi-hauteur, compositions basses, végétaux fleuris de saison, cloisons et haies mobiles pour structurer les espaces. ",
+    "en": "Large specimens (palm trees, ficus, olive trees, bamboo), medium-height plants, low arrangements, seasonal flowering plants, mobile partitions and hedges to structure spaces. "
+  },
+  "sections[2].body[0].children[2].text": {
+    "fr": " Pour un décor permanent après l'événement, voir la ",
+    "en": " For permanent décor after the event, see "
+  },
+  "sections[2].body[0].children[3].text": {
+    "fr": "location de plantes pour bureaux",
+    "en": "office plant rental"
+  },
+  "sections[3].title": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "sections[4].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[4].items[0].question": {
+    "fr": "Combien coûte la location de plantes pour un événement ?",
+    "en": "How much does plant rental for an event cost?"
+  },
+  "sections[4].items[0].answer[0].children[0].text": {
+    "fr": "Le tarif dépend du nombre et de la taille des végétaux, de la durée, du lieu et des contraintes d'accès (étage, horaires de nuit). Le devis est gratuit et inclut la livraison, l'installation et la reprise : envoyez vos dates et votre plan pour une réponse rapide.",
+    "en": "The price depends on the number and size of the plants, the duration, the venue and access constraints (floor level, night-time hours). The quote is free and includes delivery, installation and collection: send us your dates and your layout for a fast response."
+  },
+  "sections[4].items[1].question": {
+    "fr": "Peut-on louer des plantes pour une seule journée ?",
+    "en": "Can you rent plants for just one day?"
+  },
+  "sections[4].items[1].answer[0].children[0].text": {
+    "fr": "Oui. La location événementielle se fait à la journée, au week-end ou à la semaine, selon votre besoin. L'installation et la reprise sont calées sur les horaires de montage et de démontage de votre événement.",
+    "en": "Yes. Event rental is available by the day, the weekend or the week, depending on your needs. Installation and collection are timed to match your event's set-up and dismantling hours."
+  },
+  "sections[4].items[2].question": {
+    "fr": "Louez-vous des palmiers et des grands sujets ?",
+    "en": "Do you rent palm trees and large specimens?"
+  },
+  "sections[4].items[2].answer[0].children[0].text": {
+    "fr": "Oui, les grands sujets (palmiers, oliviers, ficus, bambous) sont les stars de l'événementiel : ils créent le décor en quelques pièces. Nos équipes gèrent la manutention et la stabilité des bacs sur site.",
+    "en": "Yes, large specimens (palm trees, olive trees, ficus, bamboo) are the stars of events: they create the décor with just a few pieces. Our teams handle the moving and the stability of the planters on site."
+  },
+  "sections[4].items[3].question": {
+    "fr": "Installez-vous en dehors des heures ouvrées ?",
+    "en": "Do you install outside working hours?"
+  },
+  "sections[4].items[3].answer[0].children[0].text": {
+    "fr": "Oui, les installations de nuit ou tôt le matin sont courantes sur les salons et les soirées : nous nous adaptons aux créneaux de montage imposés par le lieu. Précisez les contraintes d'accès dans votre demande de devis.",
+    "en": "Yes, night-time or early-morning installations are common for trade shows and evening events: we adapt to the set-up slots imposed by the venue. Specify any access constraints in your quote request."
+  },
+  "heroImage.alt": {
+    "fr": "Événementiel",
+    "en": "Events"
+  },
+  "related.items[0].title": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "related.items[1].title": {
+    "fr": "Entretien de plantes",
+    "en": "Plant maintenance"
+  },
+  "related.items[2].title": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  }
+}

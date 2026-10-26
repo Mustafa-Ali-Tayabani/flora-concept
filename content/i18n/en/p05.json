@@ -1,0 +1,234 @@
+{
+  "name": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  },
+  "seo.title": {
+    "fr": "Mur végétal intérieur pour entreprise : naturel ou stabilisé",
+    "en": "Indoor green wall for businesses: living or preserved"
+  },
+  "seo.description": {
+    "fr": "Murs végétaux intérieurs sur mesure pour bureaux, hôtels et commerces : naturels ou stabilisés sans entretien. Conception et pose. Paris, Nice, Marseille.",
+    "en": "Bespoke indoor green walls for offices, hotels and shops: living, or preserved and maintenance-free. Design and installation. Paris, Nice, Marseille."
+  },
+  "h1": {
+    "fr": "Mur végétal intérieur sur mesure pour votre entreprise",
+    "en": "Bespoke indoor green wall for your business"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Un mur végétal intérieur transforme un hall d'accueil, un open space ou une salle de restaurant en signature visuelle de votre entreprise. Flora Concept conçoit, fabrique et pose des murs végétaux sur mesure en deux familles : le mur végétal naturel, vivant, irrigué et entretenu par nos jardiniers, et le mur végétal stabilisé, composé de végétaux naturels préservés qui ne demandent ni arrosage, ni lumière, ni entretien courant. Paysagiste d'intérieur pour les entreprises depuis 1999, nous réalisons ces projets depuis notre base du sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France, de l'étude technique (support, irrigation, luminosité) à la pose, puis au suivi. Le choix entre naturel et stabilisé dépend de votre lumière, de l'accès à l'eau et du budget d'entretien : nos paysagistes vous guident après une visite sur place. Demandez un devis gratuit pour votre projet, avec ou sans intégration de votre logo.",
+    "en": "An indoor green wall turns a reception hall, an open-plan office or a restaurant dining room into a visual signature for your business. Flora Concept designs, builds and installs bespoke green walls in two families: the natural, living green wall, irrigated and maintained by our gardeners, and the preserved green wall, made of preserved natural plants that need no watering, no light and no routine maintenance. An interior landscaper for businesses since 1999, we carry out these projects from our base in the south of France near Aix-en-Provence, with teams in Provence-Alpes-Côte d'Azur and Île-de-France, from the technical study (support structure, irrigation, light levels) to installation and follow-up. The choice between living and preserved depends on your light, access to water and maintenance budget: our landscapers advise you after a site visit. Request a free quote for your project, with or without your logo built in."
+  },
+  "structuredData.serviceType": {
+    "fr": "conception et pose de murs végétaux intérieurs",
+    "en": "design and installation of indoor green walls"
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "France",
+    "en": "France"
+  },
+  "structuredData.areaServed[1]": {
+    "fr": "Île-de-France",
+    "en": "Île-de-France"
+  },
+  "structuredData.areaServed[2]": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "sections[0].title": {
+    "fr": "Naturel ou stabilisé : lequel choisir ?",
+    "en": "Living or preserved: which to choose?"
+  },
+  "sections[0].head[0]": {
+    "fr": "Critère",
+    "en": "Criterion"
+  },
+  "sections[0].head[1]": {
+    "fr": "Mur végétal naturel",
+    "en": "Living green wall"
+  },
+  "sections[0].head[2]": {
+    "fr": "Mur végétal stabilisé",
+    "en": "Preserved green wall"
+  },
+  "sections[0].rows[0].cells[0][0].children[0].text": {
+    "fr": "Végétaux",
+    "en": "Plants"
+  },
+  "sections[0].rows[0].cells[1][0].children[0].text": {
+    "fr": "Vivants, en croissance",
+    "en": "Living, growing"
+  },
+  "sections[0].rows[0].cells[2][0].children[0].text": {
+    "fr": "Naturels, préservés (ni plastique, ni artificiel)",
+    "en": "Natural, preserved (neither plastic nor artificial)"
+  },
+  "sections[0].rows[1].cells[0][0].children[0].text": {
+    "fr": "Lumière",
+    "en": "Light"
+  },
+  "sections[0].rows[1].cells[1][0].children[0].text": {
+    "fr": "Nécessaire (naturelle ou horticole)",
+    "en": "Required (natural or grow lights)"
+  },
+  "sections[0].rows[1].cells[2][0].children[0].text": {
+    "fr": "Aucune exigence",
+    "en": "No requirement"
+  },
+  "sections[0].rows[2].cells[0][0].children[0].text": {
+    "fr": "Irrigation",
+    "en": "Irrigation"
+  },
+  "sections[0].rows[2].cells[1][0].children[0].text": {
+    "fr": "Système intégré, arrivée d'eau requise",
+    "en": "Built-in system, water supply required"
+  },
+  "sections[0].rows[2].cells[2][0].children[0].text": {
+    "fr": "Aucune",
+    "en": "None"
+  },
+  "sections[0].rows[3].cells[0][0].children[0].text": {
+    "fr": "Entretien",
+    "en": "Maintenance"
+  },
+  "sections[0].rows[3].cells[1][0].children[0].text": {
+    "fr": "Contrat d'entretien par nos jardiniers",
+    "en": "Maintenance contract with our gardeners"
+  },
+  "sections[0].rows[3].cells[2][0].children[0].text": {
+    "fr": "Dépoussiérage ponctuel",
+    "en": "Occasional dusting"
+  },
+  "sections[0].rows[4].cells[0][0].children[0].text": {
+    "fr": "Emplacement",
+    "en": "Location"
+  },
+  "sections[0].rows[4].cells[1][0].children[0].text": {
+    "fr": "Halls lumineux, atriums",
+    "en": "Bright halls, atriums"
+  },
+  "sections[0].rows[4].cells[2][0].children[0].text": {
+    "fr": "Zones sans lumière, couloirs, ascenseurs, salles de réunion",
+    "en": "Areas without light, corridors, lifts, meeting rooms"
+  },
+  "sections[0].rows[5].cells[0][0].children[0].text": {
+    "fr": "Durée de vie",
+    "en": "Lifespan"
+  },
+  "sections[0].rows[5].cells[1][0].children[0].text": {
+    "fr": "Pérenne avec entretien",
+    "en": "Long-lasting with maintenance"
+  },
+  "sections[0].rows[5].cells[2][0].children[0].text": {
+    "fr": "Plusieurs années sans intervention ",
+    "en": "Several years without intervention "
+  },
+  "sections[1].title": {
+    "fr": "Votre logo en végétal",
+    "en": "Your logo in plants"
+  },
+  "sections[1].body[0].children[0].text": {
+    "fr": "Nous intégrons votre logo dans un mur ou un cadre stabilisé : lettrage découpé, jeu de mousses et de feuillages, contraste de textures. C'est l'un des aménagements les plus demandés pour les accueils et les espaces visiteurs. Voir aussi les ",
+    "en": "We integrate your logo into a preserved wall or frame: cut-out lettering, interplay of mosses and foliage, contrasting textures. It is one of the most requested features for reception areas and visitor spaces. See also the "
+  },
+  "sections[1].body[0].children[1].text": {
+    "fr": "cadres végétaux stabilisés",
+    "en": "preserved plant frames"
+  },
+  "sections[1].body[0].children[2].text": {
+    "fr": " pour les formats tableau.",
+    "en": " for artwork formats."
+  },
+  "sections[2].title": {
+    "fr": "Comment se déroule un projet",
+    "en": "How a project works"
+  },
+  "sections[2].steps[0].lead": {
+    "fr": "Visite technique",
+    "en": "Technical visit"
+  },
+  "sections[2].steps[0].text[0].children[0].text": {
+    "fr": "mesures, lumière, support, arrivée d'eau éventuelle, contraintes du bâtiment.",
+    "en": "measurements, light, support structure, any water supply, building constraints."
+  },
+  "sections[2].steps[1].lead": {
+    "fr": "Conception",
+    "en": "Design"
+  },
+  "sections[2].steps[1].text[0].children[0].text": {
+    "fr": "composition végétale, calepinage, visuel du projet, devis détaillé.",
+    "en": "plant composition, layout plan, project visual, detailed quote."
+  },
+  "sections[2].steps[2].lead": {
+    "fr": "Fabrication et pose",
+    "en": "Manufacture and installation"
+  },
+  "sections[2].steps[2].text[0].children[0].text": {
+    "fr": "réalisation en atelier pour le stabilisé, installation sur site par nos équipes. ",
+    "en": "made in our workshop for preserved walls, installed on site by our teams. "
+  },
+  "sections[2].steps[3].lead": {
+    "fr": "Suivi",
+    "en": "Follow-up"
+  },
+  "sections[2].steps[3].text[0].children[0].text": {
+    "fr": "entretien contractuel pour le naturel, visite de contrôle pour le stabilisé.",
+    "en": "contract maintenance for living walls, inspection visit for preserved walls."
+  },
+  "sections[3].title": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "sections[4].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[4].items[0].question": {
+    "fr": "Quel est le prix d'un mur végétal intérieur ?",
+    "en": "How much does an indoor green wall cost?"
+  },
+  "sections[4].items[0].answer[0].children[0].text": {
+    "fr": "Le budget dépend de la surface, de la technique (naturel irrigué ou stabilisé), de la complexité du support et de l'intégration éventuelle d'un logo. Chaque projet étant sur mesure, nous établissons un devis gratuit après une visite technique de l'emplacement.",
+    "en": "The budget depends on the surface area, the technique (irrigated living or preserved), the complexity of the support structure and whether a logo is included. As every project is bespoke, we provide a free quote after a technical visit to the location."
+  },
+  "sections[4].items[1].question": {
+    "fr": "Un mur végétal stabilisé est-il un mur artificiel ?",
+    "en": "Is a preserved green wall an artificial wall?"
+  },
+  "sections[4].items[1].answer[0].children[0].text": {
+    "fr": "Non. Les végétaux stabilisés sont des plantes naturelles dont la sève a été remplacée par un conservateur d'origine végétale : ils gardent leur souplesse et leur aspect d'origine sans arrosage ni lumière. Rien à voir avec le plastique des murs artificiels.",
+    "en": "No. Preserved plants are natural plants whose sap has been replaced with a plant-based preservative: they keep their original suppleness and appearance without watering or light. Nothing like the plastic of artificial walls."
+  },
+  "sections[4].items[2].question": {
+    "fr": "Peut-on installer un mur végétal dans une pièce sans fenêtre ?",
+    "en": "Can a green wall be installed in a room without windows?"
+  },
+  "sections[4].items[2].answer[0].children[0].text": {
+    "fr": "Oui, avec la technique stabilisée : elle n'a besoin ni de lumière ni d'eau, ce qui la rend idéale pour les couloirs, salles de réunion et espaces aveugles. Un mur naturel reste possible avec un éclairage horticole dédié, étudié lors de la visite technique.",
+    "en": "Yes, with the preserved technique: it needs neither light nor water, which makes it ideal for corridors, meeting rooms and windowless spaces. A living wall is still possible with dedicated grow lighting, assessed during the technical visit."
+  },
+  "sections[4].items[3].question": {
+    "fr": "L'entretien d'un mur végétal naturel est-il contraignant ?",
+    "en": "Is maintaining a living green wall demanding?"
+  },
+  "sections[4].items[3].answer[0].children[0].text": {
+    "fr": "Pas pour vous : l'irrigation est automatisée et nos jardiniers assurent les passages d'entretien (taille, remplacements, contrôle du système) dans le cadre d'un contrat. Vous profitez du mur, nous nous occupons du reste.",
+    "en": "Not for you: irrigation is automated and our gardeners carry out the maintenance visits (trimming, replacements, system checks) under a contract. You enjoy the wall, we take care of the rest."
+  },
+  "heroImage.alt": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  },
+  "related.items[0].title": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "related.items[1].title": {
+    "fr": "Entretien de plantes",
+    "en": "Plant maintenance"
+  },
+  "related.items[2].title": {
+    "fr": "Cadres végétaux stabilisés",
+    "en": "Preserved plant frames"
+  }
+}

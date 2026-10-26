@@ -1,0 +1,194 @@
+{
+  "name": {
+    "fr": "Copropriétés et syndics",
+    "en": "Residential buildings and property managers"
+  },
+  "seo.title": {
+    "fr": "Entretien des espaces verts de copropriété en PACA",
+    "en": "Grounds maintenance for residential buildings in PACA"
+  },
+  "seo.description": {
+    "fr": "Contrat annuel d'entretien des espaces verts pour copropriétés et syndics à Marseille, Aix, Toulon et en PACA : passages planifiés, compte rendu, devis gratuit.",
+    "en": "Annual grounds maintenance contract for residential buildings and property managers in Marseille, Aix, Toulon and PACA: scheduled visits, reports, free quote."
+  },
+  "h1": {
+    "fr": "Entretien des espaces verts de copropriété : un contrat annuel clair pour les syndics",
+    "en": "Grounds maintenance for residential buildings: a clear annual contract for property managers"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Flora Concept assure l'entretien des espaces verts de copropriété en Provence-Alpes-Côte d'Azur avec un contrat annuel : tonte, taille des haies, débroussaillage, nettoyage des allées et des parkings, ramassage des feuilles, arrosage et élagage, selon un planning de passages fixé à l'avance. Le syndic ou le gestionnaire dispose d'un interlocuteur unique, d'un tarif annuel connu avant l'assemblée générale et d'un compte rendu après chaque intervention, utilisable pour répondre aux copropriétaires. Nous intervenons sur les résidences de Marseille, Aubagne, Aix-en-Provence, Toulon et du Var, d'Avignon et de la Côte d'Azur, avec du matériel d'entretien entièrement électrique, donc silencieux pour les résidents. Entreprise d'espaces verts depuis 1999, nous reprenons aussi les résidences dont le jardin a été laissé de côté, avec une remise en état avant le contrat. Demandez un devis gratuit : un paysagiste visite la résidence et vous remet une proposition prête à présenter en conseil syndical.",
+    "en": "Flora Concept maintains the grounds of residential buildings in Provence-Alpes-Côte d'Azur under an annual contract: mowing, hedge trimming, brush clearing, cleaning of paths and car parks, leaf collection, watering and tree pruning, following a schedule of visits set in advance. The property manager or building manager has a single point of contact, an annual rate known before the general meeting and a report after each visit, which can be used to answer co-owners. We work on residential properties in Marseille, Aubagne, Aix-en-Provence, Toulon and the Var, Avignon and the Côte d'Azur, with fully electric maintenance equipment, which is quiet for residents. A grounds maintenance company since 1999, we also take on residences whose gardens have been neglected, with a restoration before the contract. Request a free quote: a landscaper visits the residence and gives you a proposal ready to present to the owners' council."
+  },
+  "structuredData.serviceType": {
+    "fr": "entretien des espaces verts de copropriété",
+    "en": "grounds maintenance for residential buildings"
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "sections[0].title": {
+    "fr": "Ce que couvre le contrat annuel",
+    "en": "What the annual contract covers"
+  },
+  "sections[0].items[0].text[0].children[0].text": {
+    "fr": "Tonte des pelouses et finition des bordures",
+    "en": "Lawn mowing and edge finishing"
+  },
+  "sections[0].items[1].text[0].children[0].text": {
+    "fr": "Taille des haies, arbustes et massifs, selon la saison et les espèces",
+    "en": "Trimming of hedges, shrubs and flower beds, according to the season and species"
+  },
+  "sections[0].items[2].text[0].children[0].text": {
+    "fr": "Débroussaillage des talus et des zones peu accessibles",
+    "en": "Brush clearing on banks and hard-to-reach areas"
+  },
+  "sections[0].items[3].text[0].children[0].text": {
+    "fr": "Nettoyage des allées, des parkings, des aires de jeux et des abords des locaux poubelles",
+    "en": "Cleaning of paths, car parks, play areas and the areas around bin stores"
+  },
+  "sections[0].items[4].text[0].children[0].text": {
+    "fr": "Ramassage des feuilles et évacuation des déchets verts",
+    "en": "Leaf collection and green waste removal"
+  },
+  "sections[0].items[5].text[0].children[0].text": {
+    "fr": "Arrosage automatique : vérification, programmation saisonnière, réparations",
+    "en": "Automatic irrigation: checks, seasonal programming, repairs"
+  },
+  "sections[0].items[6].text[0].children[0].text": {
+    "fr": "Élagage des arbres de la résidence sur un planning pluriannuel, en option ou en prestation séparée",
+    "en": "Pruning of the residence's trees on a multi-year schedule, as an option or as a separate service"
+  },
+  "sections[0].items[7].text[0].children[0].text": {
+    "fr": "Compte rendu après chaque passage, avec photos",
+    "en": "Report after each visit, with photos"
+  },
+  "sections[1].title": {
+    "fr": "Pour les syndics et les gestionnaires",
+    "en": "For property managers and building managers"
+  },
+  "sections[1].items[0].lead": {
+    "fr": "Un interlocuteur unique",
+    "en": "A single point of contact"
+  },
+  "sections[1].items[0].text[0].children[0].text": {
+    "fr": "pour toutes vos résidences en PACA, joignable directement.",
+    "en": "for all your residences in PACA, directly reachable."
+  },
+  "sections[1].items[1].lead": {
+    "fr": "Une proposition prête pour l'assemblée générale",
+    "en": "A proposal ready for the general meeting"
+  },
+  "sections[1].items[1].text[0].children[0].text": {
+    "fr": "périmètre, planning, tarif annuel, sans surprise en cours d'année.",
+    "en": "scope, schedule, annual rate, no surprises during the year."
+  },
+  "sections[1].items[2].lead": {
+    "fr": "Des comptes rendus par passage",
+    "en": "Reports for every visit"
+  },
+  "sections[1].items[2].text[0].children[0].text": {
+    "fr": "pour répondre aux copropriétaires et au conseil syndical sans vous déplacer.",
+    "en": "to answer co-owners and the owners' council without having to travel."
+  },
+  "sections[1].items[3].lead": {
+    "fr": "Des interventions silencieuses",
+    "en": "Quiet work"
+  },
+  "sections[1].items[3].text[0].children[0].text": {
+    "fr": "grâce à notre matériel électrique : pas de plainte pour le bruit du souffleur à 8 h du matin.",
+    "en": "thanks to our electric equipment: no complaints about the noise of a leaf blower at 8 am."
+  },
+  "sections[1].items[4].lead": {
+    "fr": "La continuité",
+    "en": "Continuity"
+  },
+  "sections[1].items[4].text[0].children[0].text": {
+    "fr": "nos jardiniers sont salariés, la résidence est suivie par la même équipe d'une année sur l'autre.",
+    "en": "our gardeners are our own employees, and the residence is looked after by the same team from one year to the next."
+  },
+  "sections[2].title": {
+    "fr": "Remise en état avant contrat",
+    "en": "Restoration before the contract"
+  },
+  "sections[2].body[0].children[0].text": {
+    "fr": "Résidence reprise à un prestataire défaillant, jardin laissé à l'abandon depuis des mois, haies jamais taillées : nous commençons par une remise en état chiffrée à part (débroussaillage, taille de rattrapage, élagage, réfection des massifs, remise en route de l'arrosage), puis le contrat annuel prend le relais pour maintenir le résultat.",
+    "en": "A residence taken over from a failing contractor, a garden left neglected for months, hedges never trimmed: we start with a separately priced restoration (brush clearing, catch-up trimming, tree pruning, renovation of flower beds, restarting the irrigation), then the annual contract takes over to maintain the result."
+  },
+  "sections[3].title": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "sections[4].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[4].items[0].question": {
+    "fr": "Comment se passe la mise en place d'un contrat d'entretien pour une copropriété ?",
+    "en": "How is a maintenance contract set up for a residential building?"
+  },
+  "sections[4].items[0].answer[0].children[0].text": {
+    "fr": "Un paysagiste visite la résidence, relève les surfaces et les végétaux, puis vous remet une proposition avec le périmètre, le planning annuel et le tarif. Le syndic la présente en conseil syndical ou en assemblée générale. Le contrat démarre à la date convenue, souvent au début du printemps.",
+    "en": "A landscaper visits the residence, records the areas and plants, then gives you a proposal with the scope, the annual schedule and the rate. The property manager presents it to the owners' council or the general meeting. The contract starts on the agreed date, often at the beginning of spring."
+  },
+  "sections[4].items[1].question": {
+    "fr": "Combien de passages par an prévoyez-vous ?",
+    "en": "How many visits per year do you plan?"
+  },
+  "sections[4].items[1].answer[0].children[0].text": {
+    "fr": "Cela dépend de la résidence : surfaces de pelouse, longueur de haies, arbres, arrosage. Le planning est plus dense d'avril à octobre et allégé en hiver ; il est fixé au contrat après la visite de la résidence.",
+    "en": "It depends on the residence: lawn areas, length of hedges, trees, irrigation. The schedule is busier from April to October and lighter in winter; it is set in the contract after visiting the residence."
+  },
+  "sections[4].items[2].question": {
+    "fr": "Fournissez-vous un compte rendu après chaque intervention ?",
+    "en": "Do you provide a report after each visit?"
+  },
+  "sections[4].items[2].answer[0].children[0].text": {
+    "fr": "Oui. Chaque passage donne lieu à un compte rendu daté, avec photos, que le syndic peut transmettre au conseil syndical.",
+    "en": "Yes. Every visit results in a dated report, with photos, which the property manager can pass on to the owners' council."
+  },
+  "sections[4].items[3].question": {
+    "fr": "L'élagage des arbres est-il compris dans le contrat ?",
+    "en": "Is tree pruning included in the contract?"
+  },
+  "sections[4].items[3].answer[0].children[0].text": {
+    "fr": "L'élagage est planifié sur plusieurs années et chiffré séparément, car il dépend de chaque arbre. Nous l'intégrons au contrat si vous le souhaitez, ou nous le réalisons en prestation ponctuelle : voir notre page ",
+    "en": "Tree pruning is planned over several years and priced separately, as it depends on each tree. We include it in the contract if you wish, or carry it out as a one-off service: see our page on "
+  },
+  "sections[4].items[3].answer[0].children[1].text": {
+    "fr": "élagage et débroussaillage",
+    "en": "tree pruning and brush clearing"
+  },
+  "sections[4].items[4].question": {
+    "fr": "Intervenez-vous aussi dans les halls et les parties communes intérieures ?",
+    "en": "Do you also work in entrance halls and indoor common areas?"
+  },
+  "sections[4].items[4].answer[0].children[0].text": {
+    "fr": "Oui, pour les plantes : ",
+    "en": "Yes, for plants: "
+  },
+  "sections[4].items[4].answer[0].children[1].text": {
+    "fr": "location et entretien de plantes",
+    "en": "plant rental and maintenance"
+  },
+  "sections[4].items[4].answer[0].children[2].text": {
+    "fr": " dans les halls d'immeubles et les accueils de résidences, avec les mêmes équipes. Un seul prestataire pour l'intérieur et l'extérieur de la résidence.",
+    "en": " in building entrance halls and residence reception areas, with the same teams. A single provider for both the inside and the outside of the residence."
+  },
+  "heroImage.alt": {
+    "fr": "Copropriétés et syndics",
+    "en": "Residential buildings and property managers"
+  },
+  "related.items[0].title": {
+    "fr": "Création et aménagement",
+    "en": "Landscape design and installation"
+  },
+  "related.items[1].title": {
+    "fr": "Élagage et débroussaillage",
+    "en": "Tree pruning and brush clearing"
+  },
+  "related.items[2].title": {
+    "fr": "Terrasses végétalisées",
+    "en": "Planted terraces"
+  }
+}

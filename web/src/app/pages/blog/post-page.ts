@@ -24,13 +24,13 @@ import { FinalCta } from '../content-page/final-cta';
     <article>
       <header class="head">
         <div class="wrap head__inner">
-          <nav aria-label="Fil d'Ariane" class="crumb">
-            <a routerLink="/">Accueil</a> <span aria-hidden="true">/</span> <a routerLink="/blog/">Blog</a>
+          <nav [attr.aria-label]="t().breadcrumb.label" class="crumb">
+            <a [routerLink]="t().routes.home">{{ t().breadcrumb.home }}</a> <span aria-hidden="true">/</span> <a [routerLink]="t().routes.blog">{{ t().blog.blog }}</a>
           </nav>
           <h1 class="h1" id="page-title"><fc-accent [text]="p.title" /></h1>
           <p class="small">
-            Publié le <time [attr.datetime]="p.pubDate">{{ p.pubDate | date: 'd MMMM y' : undefined : 'fr' }}</time>
-            · par <a class="link" routerLink="/qui-sommes-nous/">{{ p.author?.name ?? "L'équipe Flora Concept" }}</a>
+            {{ t().blog.published }} <time [attr.datetime]="p.pubDate">{{ p.pubDate | date: 'd MMMM y' : undefined : t().locale }}</time>
+            · {{ t().blog.by }} <a class="link" [routerLink]="t().routes.about">{{ p.author?.name ?? t().blog.team }}</a>
           </p>
         </div>
       </header>
@@ -41,23 +41,23 @@ import { FinalCta } from '../content-page/final-cta';
         <div class="prose"><fc-rich-text [value]="p.body" /></div>
         @if (p.faq?.length) {
           <section class="faq" aria-labelledby="post-faq">
-            <h2 class="h2" id="post-faq">Questions <em class="accent">fréquentes</em></h2>
+            <h2 class="h2" id="post-faq">{{ t().blog.faq[0] }} <em class="accent">{{ t().blog.faq[1] }}</em></h2>
             @for (f of p.faq; track f._key) {
               <div class="faq__item"><h3 class="h3">{{ f.question }}</h3><div class="prose prose--muted"><fc-rich-text [value]="f.answer" /></div></div>
             }
           </section>
         }
-        <aside class="author" aria-label="Auteur">
+        <aside class="author" [attr.aria-label]="t().blog.author">
           @if (p.author?.photo) { <fc-photo class="author__img" ratio="1/1" [image]="p.author!.photo" sizes="20vw" /> }
           <div>
-            <p class="author__name">{{ p.author?.name ?? "L'équipe Flora Concept" }}</p>
+            <p class="author__name">{{ p.author?.name ?? t().blog.team }}</p>
             @if (p.author?.role) { <p class="small">{{ p.author!.role }}</p> }
-            <a class="link small" routerLink="/qui-sommes-nous/">Qui sommes-nous</a>
+            <a class="link small" [routerLink]="t().routes.about">{{ t().blog.about }}</a>
           </div>
         </aside>
       </div>
     </article>
-    <fc-final-cta line="Votre devis gratuit en une minute" />
+    <fc-final-cta [line]="t().cta.finalLine" />
   `,
   styles: `
     .head { padding: calc(var(--header-h) + 48px) 0 32px; }
@@ -81,6 +81,7 @@ export class PostPage {
   private readonly fx = inject(FxService);
   private readonly browser = isPlatformBrowser(inject(PLATFORM_ID));
   readonly post = input.required<Post>();
+  protected readonly t = this.site.t;
 
   constructor() {
     effect(() => {

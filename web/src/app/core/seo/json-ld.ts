@@ -1,4 +1,5 @@
 import { Page, Person, Post, SiteSettings } from '../content/content.models';
+import { UI } from '../i18n/i18n';
 import { floraImageLoader } from '../media/image-loader';
 
 /*
@@ -74,9 +75,11 @@ function breadcrumb(s: SiteSettings, trail: { name: string; path: string }[]) {
 }
 
 export function pageTrail(page: Page): { name: string; path: string }[] {
-  if (page.slug === '/') return [{ name: 'Accueil', path: '/' }];
+  const ui = UI[page.lang ?? 'fr'];
+  const home = { name: ui.breadcrumb.home, path: ui.routes.home };
+  if (page.slug === home.path) return [home];
   return [
-    { name: 'Accueil', path: '/' },
+    home,
     ...(page.parent ? [{ name: page.parent.name, path: page.parent.slug }] : []),
     { name: page.name, path: page.slug },
   ];
@@ -87,7 +90,7 @@ export function buildPageGraph(page: Page, s: SiteSettings): object {
   const sd = page.structuredData;
   const team = page.sections.flatMap((x) => (x._type === 'sectionTeam' ? x.members : []));
   const graph: object[] = [
-    { '@type': 'WebSite', '@id': `${s.siteUrl}/#website`, url: `${s.siteUrl}/`, name: s.siteName, inLanguage: 'fr-FR', publisher: { '@id': `${s.siteUrl}/#organization` } },
+    { '@type': 'WebSite', '@id': `${s.siteUrl}/#website`, url: `${s.siteUrl}/`, name: s.siteName, inLanguage: ['fr-FR', 'en-GB'], publisher: { '@id': `${s.siteUrl}/#organization` } },
     organization(s, team),
   ];
   if (sd.localBusiness) graph.push(localBusiness(s));
@@ -98,9 +101,9 @@ export function buildPageGraph(page: Page, s: SiteSettings): object {
     url,
     name: page.seo.title,
     description: page.seo.description,
-    inLanguage: 'fr-FR',
+    inLanguage: page.lang === 'en' ? 'en-GB' : 'fr-FR',
     isPartOf: { '@id': `${s.siteUrl}/#website` },
-    ...(page.slug !== '/' ? { breadcrumb: { '@id': `${url}#breadcrumb` } } : {}),
+    ...(pageTrail(page).length > 1 ? { breadcrumb: { '@id': `${url}#breadcrumb` } } : {}),
     ...(page.heroImage ? { primaryImageOfPage: imageUrl(s, page.heroImage.src) } : {}),
     ...(sd.type === 'AboutPage' ? { mainEntity: { '@id': `${s.siteUrl}/#organization` } } : {}),
     ...(page.updatedAt ? { dateModified: page.updatedAt } : {}),
@@ -117,7 +120,7 @@ export function buildPageGraph(page: Page, s: SiteSettings): object {
       areaServed: (sd.areaServed ?? s.areas).map(area),
     });
   }
-  if (page.slug !== '/') graph.push(breadcrumb(s, pageTrail(page)));
+  if (pageTrail(page).length > 1) graph.push(breadcrumb(s, pageTrail(page)));
   return { '@context': 'https://schema.org', '@graph': graph };
 }
 

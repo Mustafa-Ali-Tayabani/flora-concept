@@ -75,6 +75,7 @@ $besoin = $str('besoin', 3000);
 $zone = in_array($in['zone'] ?? '', ['paris', 'nice', 'marseille'], true) ? $in['zone'] : '';
 $source = preg_match('#^/[a-z0-9\-/]*$#', (string) ($in['source'] ?? '')) ? (string) $in['source'] : '';
 $elapsed = is_numeric($in['elapsed'] ?? null) ? (int) $in['elapsed'] : 0;
+$lang = ($in['lang'] ?? '') === 'en' ? 'English' : 'Français';
 
 // --- Bots: honeypot filled or form submitted inhumanly fast -----------------
 if ($str('website', 200) !== '' || $elapsed < $config['min_fill_ms']) {
@@ -152,6 +153,7 @@ $body = "Nouvelle demande de devis\n\n"
     . "Contact : {$contact}\n"
     . "Équipe : {$zoneLabel}\n"
     . 'Page d’origine : ' . ($source ?: '—') . "\n"
+    . "Langue du visiteur : {$lang}\n"
     . 'Date : ' . date('d/m/Y H:i') . "\n\n"
     . "Besoin :\n{$besoin}\n";
 

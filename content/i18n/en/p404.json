@@ -1,0 +1,54 @@
+{
+  "name": {
+    "fr": "Page introuvable",
+    "en": "Page not found"
+  },
+  "seo.title": {
+    "fr": "Page introuvable | Flora Concept",
+    "en": "Page not found | Flora Concept"
+  },
+  "h1": {
+    "fr": "Cette page n'existe pas (ou n'existe plus)",
+    "en": "This page does not exist (or no longer exists)"
+  },
+  "answer[0].children[0].text": {
+    "fr": "La page que vous cherchez a peut-être été déplacée lors de la refonte du site. Voici les accès directs les plus utiles :",
+    "en": "The page you are looking for may have been moved during the website redesign. Here are the most useful direct links:"
+  },
+  "answer[1].children[0].text": {
+    "fr": "Accueil",
+    "en": "Home"
+  },
+  "answer[2].children[0].text": {
+    "fr": "Location de plantes pour bureaux",
+    "en": "Office plant rental"
+  },
+  "answer[3].children[0].text": {
+    "fr": "Entretien de plantes en entreprise",
+    "en": "Plant maintenance for businesses"
+  },
+  "answer[4].children[0].text": {
+    "fr": "Murs végétaux intérieurs",
+    "en": "Indoor green walls"
+  },
+  "answer[5].children[0].text": {
+    "fr": "Nos agences : Paris",
+    "en": "Our branches: Paris"
+  },
+  "answer[5].children[2].text": {
+    "fr": "Nice",
+    "en": "Nice"
+  },
+  "answer[5].children[4].text": {
+    "fr": "Marseille",
+    "en": "Marseille"
+  },
+  "answer[6].children[0].text": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "answer[7].children[0].text": {
+    "fr": "Vous cherchiez une information précise ? Appelez l'équipe de votre région, nous vous répondrons directement.",
+    "en": "Looking for specific information? Call your regional team and we will answer you directly."
+  }
+}

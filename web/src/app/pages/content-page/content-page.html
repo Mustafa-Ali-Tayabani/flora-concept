@@ -23,7 +23,7 @@
 }
 
 @if (faqJump().length) {
-  <nav class="wrap jump" aria-label="Sur cette page">
+  <nav class="wrap jump" [attr.aria-label]="t().sections.onThisPage">
     @for (j of faqJump(); track j.id) {
       <a [routerLink]="[]" [fragment]="j.id">{{ j.title }}</a>
     }
@@ -43,7 +43,7 @@
     <section class="related" aria-labelledby="related-title">
       <div class="wrap">
         <div class="related__head">
-          <h2 class="h2" id="related-title">Voir <em class="accent">aussi</em></h2>
+          <h2 class="h2" id="related-title">{{ t().sections.seeAlso[0] }} <em class="accent">{{ t().sections.seeAlso[1] }}</em></h2>
           <a class="btn btn--outline btn--sm" [routerLink]="rel.hub.slug">{{ rel.hub.name }} <fc-leaf /></a>
         </div>
         <fc-card-grid [cards]="rel.items" [min]="280" />
@@ -53,5 +53,5 @@
 }
 
 @if (finalCta()) {
-  <fc-final-cta [line]="p.finalCta || 'Votre devis gratuit en une minute'" />
+  <fc-final-cta [line]="p.finalCta || t().cta.finalLine" />
 }

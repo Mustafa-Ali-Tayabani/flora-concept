@@ -17,12 +17,30 @@ export const page = defineType({
     { name: 'settings', title: 'Réglages' },
   ],
   fields: [
+    defineField({
+      name: 'language',
+      type: 'string',
+      group: 'settings',
+      title: 'Langue',
+      options: { list: [{ title: 'Français', value: 'fr' }, { title: 'English', value: 'en' }], layout: 'radio', direction: 'horizontal' },
+      initialValue: 'fr',
+      validation: (r) => r.required(),
+    }),
+    defineField({
+      name: 'translation',
+      type: 'reference',
+      group: 'settings',
+      title: 'Version dans l’autre langue',
+      description: 'Relie la page FR et la page EN (hreflang, sélecteur de langue).',
+      to: [{ type: 'page' }],
+      options: { filter: ({ document }) => ({ filter: 'language != $lang', params: { lang: document?.language ?? 'fr' } }) },
+    }),
     defineField({ name: 'name', type: 'string', title: 'Nom court (menus, fil d’Ariane)', group: 'settings', validation: (r) => r.required() }),
     defineField({
       name: 'slug',
       type: 'slug',
       group: 'settings',
-      description: 'Final et validé : ne jamais modifier un slug publié sans redirection.',
+      description: 'Final et validé : ne jamais modifier un slug publié sans redirection. Pages anglaises : /en/…/',
       validation: slugRule,
     }),
     defineField({
@@ -72,7 +90,10 @@ export const page = defineType({
     }),
     defineField({ name: 'finalCta', type: 'string', title: 'Phrase du bandeau final', group: 'content', validation: safeString }),
   ],
-  preview: { select: { title: 'name', subtitle: 'slug.current', media: 'heroImage' } },
+  preview: {
+    select: { title: 'name', slug: 'slug.current', lang: 'language', media: 'heroImage' },
+    prepare: ({ title, slug, lang, media }) => ({ title: `${(lang ?? 'fr').toUpperCase()} · ${title}`, subtitle: slug, media }),
+  },
   orderings: [{ title: 'Slug', name: 'slug', by: [{ field: 'slug.current', direction: 'asc' }] }],
 });
 

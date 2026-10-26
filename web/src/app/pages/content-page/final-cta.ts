@@ -14,8 +14,8 @@ import { LeafIcon } from '../../shared/icons';
         <div class="g5__inner">
           <h2 class="h2 g5__title" id="final-cta"><fc-accent [text]="line()" /></h2>
           <div class="g5__actions">
-            <a class="btn btn--primary g5__btn" routerLink="/devis/">Recevoir mon devis gratuit <fc-leaf /></a>
-            <a class="link g5__call" [href]="'tel:' + phone().e164" [attr.data-zone]="site.zone()">ou appelez-nous</a>
+            <a class="btn btn--primary g5__btn" [routerLink]="site.t().routes.quote">{{ site.t().cta.quote }} <fc-leaf /></a>
+            <a class="link g5__call" [href]="'tel:' + phone().e164" [attr.data-zone]="site.zone()">{{ site.t().cta.orCall }}</a>
           </div>
         </div>
       </div>

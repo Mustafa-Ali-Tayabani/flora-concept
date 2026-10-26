@@ -1,0 +1,166 @@
+{
+  "name": {
+    "fr": "FAQ",
+    "en": "FAQ"
+  },
+  "seo.title": {
+    "fr": "FAQ : location, entretien et végétalisation d'entreprise",
+    "en": "FAQ: plant rental, maintenance and office greening"
+  },
+  "seo.description": {
+    "fr": "Location ou achat, contrat d'entretien, murs végétaux, zones couvertes : les réponses de Flora Concept aux questions des entreprises. Paris, Nice, Marseille.",
+    "en": "Rent or buy, maintenance contracts, green walls, areas covered: Flora Concept answers the questions businesses ask us. Paris, Nice, Marseille."
+  },
+  "h1": {
+    "fr": "Questions fréquentes sur les plantes en entreprise",
+    "en": "Frequently asked questions about plants in the workplace"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Vous préparez un projet de végétalisation, un contrat d'entretien ou un appel d'offres ? Voici les réponses aux questions que nous posent les office managers, services généraux, directeurs d'hôtels et gestionnaires. Pour une réponse personnalisée, demandez un devis gratuit : un paysagiste de l'équipe de votre région vous rappelle.",
+    "en": "Are you preparing a greening project, a maintenance contract or a call for tenders? Here are the answers to the questions we are asked by office managers, facilities departments, hotel managers and building managers. For a personalised answer, request a free quote: a landscaper from the team in your region will call you back."
+  },
+  "sections[0].title": {
+    "fr": "Choisir sa formule",
+    "en": "Choosing your option"
+  },
+  "sections[0].items[0].question": {
+    "fr": "Vaut-il mieux louer ou acheter des plantes pour ses bureaux ?",
+    "en": "Is it better to rent or buy plants for your offices?"
+  },
+  "sections[0].items[0].answer[0].children[0].text": {
+    "fr": "La location avec entretien compris convient à la plupart des entreprises : aucun investissement initial, entretien et remplacement inclus, budget mensuel prévisible. L'achat garde du sens pour un aménagement ponctuel, idéalement complété d'un contrat d'entretien. Sur la durée, la location évite surtout le vrai coût caché : des plantes dépéries à remplacer et des espaces négligés.",
+    "en": "Rental with maintenance included suits most businesses: no upfront investment, maintenance and replacement included, a predictable monthly budget. Buying still makes sense for a one-off installation, ideally combined with a maintenance contract. Over time, rental above all avoids the real hidden cost: withered plants to replace and neglected spaces."
+  },
+  "sections[0].items[1].question": {
+    "fr": "Que comprend un contrat d'entretien de plantes en entreprise ?",
+    "en": "What does an office plant maintenance contract include?"
+  },
+  "sections[0].items[1].answer[0].children[0].text": {
+    "fr": "Des passages réguliers d'un jardinier : arrosage, taille, nettoyage du feuillage, fertilisation, contrôle sanitaire et remplacement des plantes fatiguées selon les conditions du contrat. La fréquence est fixée au devis en fonction du nombre de plantes, des espèces et des conditions des locaux (lumière, climatisation).",
+    "en": "Regular visits from a gardener: watering, pruning, leaf cleaning, feeding, health checks and replacement of tired plants according to the terms of the contract. The frequency is set in the quote based on the number of plants, the species and the conditions in the premises (light, air conditioning)."
+  },
+  "sections[0].items[2].question": {
+    "fr": "Existe-t-il des plantes de bureau sans entretien ?",
+    "en": "Are there maintenance-free office plants?"
+  },
+  "sections[0].items[2].answer[0].children[0].text": {
+    "fr": "Aucune plante vivante ne vit sans soin : « sans entretien » signifie en réalité « entretenue par quelqu'un d'autre ». Les deux vraies solutions sont le contrat d'entretien par un professionnel pour les plantes vivantes, et le végétal stabilisé (murs, cadres, compositions), naturel mais préservé, qui ne demande ni eau ni lumière.",
+    "en": "No living plant survives without care: “maintenance-free” actually means “maintained by someone else”. The two real solutions are a professional maintenance contract for living plants, and preserved plants (walls, frames, arrangements), natural but preserved, which need neither water nor light."
+  },
+  "sections[0].items[3].question": {
+    "fr": "Combien coûte la végétalisation de bureaux ?",
+    "en": "How much does office greening cost?"
+  },
+  "sections[0].items[3].answer[0].children[0].text": {
+    "fr": "Le budget dépend du nombre de plantes, de leur taille, des contenants, de la technique (plantes en bacs, mur végétal, stabilisé) et de la fréquence d'entretien. Chaque projet étant dimensionné sur mesure, nous établissons un devis gratuit et détaillé après un échange ou une visite de vos locaux.",
+    "en": "The budget depends on the number of plants, their size, the containers, the technique (potted plants, green wall, preserved) and the maintenance frequency. As each project is tailored, we provide a free, detailed quote after a conversation or a visit to your premises."
+  },
+  "sections[1].title": {
+    "fr": "Plantes et espaces difficiles",
+    "en": "Plants and difficult spaces"
+  },
+  "sections[1].items[0].question": {
+    "fr": "Quelles plantes pour un bureau sans fenêtre ou sans lumière ?",
+    "en": "Which plants for an office without windows or light?"
+  },
+  "sections[1].items[0].answer[0].children[0].text": {
+    "fr": "En dessous d'un certain seuil de lumière, aucune plante vivante ne tient durablement. Pour les couloirs, salles de réunion aveugles et espaces très sombres, le végétal stabilisé (cadres, murs, compositions) offre un rendu naturel sans lumière ni arrosage. Dans les zones à lumière faible mais réelle, les espèces les plus tolérantes conviennent : zamioculcas, sansevieria, pothos, aglaonema. Nos paysagistes tranchent après une visite.",
+    "en": "Below a certain light threshold, no living plant lasts. For corridors, windowless meeting rooms and very dark spaces, preserved plants (frames, walls, arrangements) offer a natural look with no light or watering. In areas with low but real light, the most tolerant species are suitable: zamioculcas, sansevieria, pothos, aglaonema. Our landscapers decide after a visit."
+  },
+  "sections[1].items[1].question": {
+    "fr": "Quelles plantes résistent à la climatisation ?",
+    "en": "Which plants withstand air conditioning?"
+  },
+  "sections[1].items[1].answer[0].children[0].text": {
+    "fr": "La climatisation assèche l'air et éprouve la plupart des végétaux. Nous sélectionnons des espèces qui la tolèrent bien (kentia, dracaena, zamioculcas, sansevieria), éloignons les plantes des flux d'air direct et ajustons l'arrosage à chaque passage. C'est un critère central en PACA, où la climatisation tourne en continu l'été.",
+    "en": "Air conditioning dries the air and puts most plants under strain. We select species that tolerate it well (kentia, dracaena, zamioculcas, sansevieria), keep plants away from direct airflow and adjust watering at each visit. It is a key criterion in PACA, where air conditioning runs continuously in summer."
+  },
+  "sections[1].items[2].question": {
+    "fr": "Les plantes au bureau améliorent-elles vraiment le bien-être ?",
+    "en": "Do plants in the office really improve wellbeing?"
+  },
+  "sections[1].items[2].answer[0].children[0].text": {
+    "fr": "Les espaces végétalisés sont perçus comme plus agréables et plus accueillants, et les plantes contribuent à l'absorption du bruit et à la qualité ressentie de l'air. Au-delà des études, l'effet le plus concret est visible : un accueil végétalisé change l'image d'une entreprise pour ses visiteurs comme pour ses équipes.",
+    "en": "Spaces with plants are perceived as more pleasant and welcoming, and plants help absorb noise and improve perceived air quality. Beyond the studies, the most tangible effect is visible: a reception area with plants changes a company’s image for visitors and staff alike."
+  },
+  "sections[1].items[3].question": {
+    "fr": "Que deviennent les plantes pendant les congés d'été ?",
+    "en": "What happens to the plants during the summer holidays?"
+  },
+  "sections[1].items[3].answer[0].children[0].text": {
+    "fr": "Avec un contrat d'entretien, nos passages continuent pendant vos fermetures si l'accès est organisé (badge, gardien, consigne). C'est le moment où les plantes souffrent le plus, surtout en PACA : arrosage adapté, surveillance de la climatisation et remplacements éventuels à la rentrée.",
+    "en": "With a maintenance contract, our visits continue while you are closed if access is arranged (badge, caretaker, instructions). This is when plants suffer most, especially in PACA: adapted watering, monitoring of the air conditioning and any replacements in September."
+  },
+  "sections[2].title": {
+    "fr": "Prestations et zones",
+    "en": "Services and areas"
+  },
+  "sections[2].items[0].question": {
+    "fr": "Dans quelles villes Flora Concept intervient-il ?",
+    "en": "In which cities does Flora Concept operate?"
+  },
+  "sections[2].items[0].answer[0].children[0].text": {
+    "fr": "Nos équipes couvrent deux régions : l'Île-de-France (Paris, La Défense, Hauts-de-Seine) et la Provence-Alpes-Côte d'Azur (Marseille, Aix-en-Provence, Toulon et le Var, Nice, Monaco et les Alpes-Maritimes, Avignon et le Vaucluse). Pour les entreprises multi-sites dans ces régions, un contrat unique suffit ; au-delà, chaque demande est étudiée. Voir nos pages ",
+    "en": "Our teams cover two regions: Île-de-France (Paris, La Défense, Hauts-de-Seine) and Provence-Alpes-Côte d'Azur (Marseille, Aix-en-Provence, Toulon and the Var, Nice, Monaco and the Alpes-Maritimes, Avignon and the Vaucluse). For multi-site businesses within these regions, a single contract is enough; beyond them, each request is considered individually. See our "
+  },
+  "sections[2].items[0].answer[0].children[1].text": {
+    "fr": "Paris",
+    "en": "Paris"
+  },
+  "sections[2].items[0].answer[0].children[3].text": {
+    "fr": "Nice",
+    "en": "Nice"
+  },
+  "sections[2].items[0].answer[0].children[4].text": {
+    "fr": " et ",
+    "en": " and "
+  },
+  "sections[2].items[0].answer[0].children[5].text": {
+    "fr": "Marseille",
+    "en": "Marseille"
+  },
+  "sections[2].items[1].question": {
+    "fr": "Pouvez-vous gérer plusieurs sites avec un seul contrat ?",
+    "en": "Can you manage several sites under a single contract?"
+  },
+  "sections[2].items[1].answer[0].children[0].text": {
+    "fr": "Oui : un contrat cadre, un interlocuteur unique, des jardiniers locaux dans chaque région et un reporting commun. C'est l'offre décrite sur notre page ",
+    "en": "Yes: a framework contract, a single point of contact, local gardeners in each region and shared reporting. This is the offer described on our "
+  },
+  "sections[2].items[1].answer[0].children[1].text": {
+    "fr": "entreprises multi-sites",
+    "en": "multi-site businesses"
+  },
+  "sections[2].items[1].answer[0].children[2].text": {
+    "fr": ", pensée pour les services généraux et les facility managers.",
+    "en": " page, designed for facilities departments and facility managers."
+  },
+  "sections[2].items[2].question": {
+    "fr": "Réalisez-vous des murs végétaux avec un logo d'entreprise ?",
+    "en": "Do you make green walls with a company logo?"
+  },
+  "sections[2].items[2].answer[0].children[0].text": {
+    "fr": "Oui. Le logo est reproduit en végétaux stabilisés (lettrage découpé ou incrustation) dans un mur ou un cadre sur mesure, à partir de votre charte graphique. Vous validez une maquette avant fabrication, puis la pièce est fabriquée, livrée et posée par nos équipes.",
+    "en": "Yes. The logo is reproduced in preserved plants (cut-out lettering or inlay) in a bespoke wall or frame, based on your brand guidelines. You approve a mock-up before production, then the piece is made, delivered and installed by our teams."
+  },
+  "sections[2].items[3].question": {
+    "fr": "Travaillez-vous avec les hôtels et les restaurants ?",
+    "en": "Do you work with hotels and restaurants?"
+  },
+  "sections[2].items[3].answer[0].children[0].text": {
+    "fr": "Oui : lobbies, restaurants, spas et terrasses couvertes font partie de nos interventions régulières, en particulier sur la Côte d'Azur et à Paris. Les passages d'entretien sont planifiés en dehors des heures d'affluence, et le végétal stabilisé complète les plantes vivantes dans les zones sans lumière.",
+    "en": "Yes: lobbies, restaurants, spas and covered terraces are part of our regular work, particularly on the Côte d'Azur and in Paris. Maintenance visits are scheduled outside peak hours, and preserved plants complement living plants in areas without light."
+  },
+  "sections[2].items[4].question": {
+    "fr": "Comment se passe une demande de devis ?",
+    "en": "How does a quote request work?"
+  },
+  "sections[2].items[4].answer[0].children[0].text": {
+    "fr": "Vous remplissez le formulaire (une minute) ou appelez l'équipe de votre région. Un paysagiste vous recontacte, visite vos locaux si le projet le demande, puis vous envoie une proposition détaillée : végétaux, contenants, fréquence d'entretien et budget. Le devis est gratuit et sans engagement.",
+    "en": "You fill in the form (one minute) or call the team in your region. A landscaper contacts you, visits your premises if the project requires it, then sends you a detailed proposal: plants, containers, maintenance frequency and budget. The quote is free and without obligation."
+  },
+  "heroImage.alt": {
+    "fr": "FAQ",
+    "en": "FAQ"
+  }
+}

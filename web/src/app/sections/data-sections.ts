@@ -1,4 +1,5 @@
-import { ChangeDetectionStrategy, Component, input } from '@angular/core';
+import { ChangeDetectionStrategy, Component, inject, input } from '@angular/core';
+import { SiteStore } from '../core/site/site.store';
 import { RouterLink } from '@angular/router';
 import {
   CaseStudiesSection,
@@ -175,7 +176,7 @@ export class TimelineSectionComponent {
         </div>
       }
       @if (section().showConsentButton) {
-        <div><button type="button" class="btn btn--outline" data-action="manage-cookies">Gérer mes cookies</button></div>
+        <div><button type="button" class="btn btn--outline" data-action="manage-cookies">{{ t().sections.manageCookies }}</button></div>
       }
     </div>
   `,
@@ -192,5 +193,6 @@ export class TimelineSectionComponent {
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class LegalSectionComponent {
+  protected readonly t = inject(SiteStore).t;
   readonly section = input.required<LegalSection>();
 }

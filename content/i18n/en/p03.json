@@ -1,0 +1,230 @@
+{
+  "name": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "seo.title": {
+    "fr": "Location de plantes vertes pour bureaux et entreprises",
+    "en": "Indoor plant rental for offices and businesses"
+  },
+  "seo.description": {
+    "fr": "Location de plantes vertes pour bureaux et entreprises, entretien et remplacement compris par nos jardiniers. Agences à Paris, Nice et Marseille. Devis gratuit.",
+    "en": "Indoor plant rental for offices and businesses, with maintenance and replacement by our gardeners included. Branches in Paris, Nice and Marseille. Free quote."
+  },
+  "h1": {
+    "fr": "Location de plantes pour vos bureaux, entretien compris",
+    "en": "Plant rental for your offices, maintenance included"
+  },
+  "answer[0].children[0].text": {
+    "fr": "La location de plantes pour bureau est la façon la plus simple de végétaliser une entreprise : Flora Concept sélectionne les plantes et les bacs adaptés à vos espaces, les installe, puis les entretient à chaque passage, remplacement compris. Vous ne portez ni l'investissement d'achat, ni le risque de voir vos plantes dépérir : le loyer mensuel couvre le végétal, le contenant et le service. Paysagiste d'intérieur pour les entreprises depuis 1999, nous louons des plantes vertes à des bureaux, hôtels, commerces et résidences depuis notre base du sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France. La mise en place est rapide : un paysagiste visite vos locaux, vous propose une sélection selon la lumière et votre décoration, et nos équipes installent le tout. Ensuite, nos jardiniers passent régulièrement pour arroser, tailler et remplacer les sujets fatigués. Demandez un devis gratuit : vous recevez une proposition détaillée adaptée à vos espaces.",
+    "en": "Office plant rental is the simplest way to bring greenery into a business: Flora Concept selects the plants and planters suited to your spaces, installs them, then maintains them at every visit, replacements included. You bear neither the cost of buying them nor the risk of seeing your plants wither: the monthly rental covers the plants, the container and the service. An interior landscaper for businesses since 1999, we rent indoor plants to offices, hotels, shops and residences from our base in the south of France near Aix-en-Provence, with teams in Provence-Alpes-Côte d'Azur and Île-de-France. Setting up is quick: a landscaper visits your premises, suggests a selection based on the light and your decor, and our teams install everything. Our gardeners then visit regularly to water, trim and replace tired plants. Request a free quote: you will receive a detailed proposal tailored to your spaces."
+  },
+  "structuredData.serviceType": {
+    "fr": "location de plantes pour entreprises",
+    "en": "plant rental for businesses"
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Île-de-France",
+    "en": "Île-de-France"
+  },
+  "structuredData.areaServed[1]": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "sections[0].title": {
+    "fr": "Ce que comprend la location",
+    "en": "What the rental includes"
+  },
+  "sections[0].items[0].lead": {
+    "fr": "Le végétal",
+    "en": "The plants"
+  },
+  "sections[0].items[0].text[0].children[0].text": {
+    "fr": "plantes vertes de qualité professionnelle, choisies pour durer en intérieur (lumière, climatisation, chauffage).",
+    "en": "professional-quality indoor plants, chosen to last indoors (light, air conditioning, heating)."
+  },
+  "sections[0].items[1].lead": {
+    "fr": "Le contenant",
+    "en": "The container"
+  },
+  "sections[0].items[1].text[0].children[0].text": {
+    "fr": "bacs et cache-pots assortis à votre aménagement, avec réserve d'eau si pertinent.",
+    "en": "planters and pot covers matched to your interior, with a water reservoir where relevant."
+  },
+  "sections[0].items[2].lead": {
+    "fr": "L'installation",
+    "en": "Installation"
+  },
+  "sections[0].items[2].text[0].children[0].text": {
+    "fr": "livraison et mise en place par nos équipes, implantation validée avec vous.",
+    "en": "delivery and setup by our teams, placement agreed with you."
+  },
+  "sections[0].items[3].lead": {
+    "fr": "L'entretien",
+    "en": "Maintenance"
+  },
+  "sections[0].items[3].text[0].children[0].text": {
+    "fr": "passages réguliers d'un jardinier (arrosage, taille, nettoyage, nutrition). ",
+    "en": "regular visits from a gardener (watering, trimming, cleaning, feeding). "
+  },
+  "sections[0].items[4].lead": {
+    "fr": "Le remplacement",
+    "en": "Replacement"
+  },
+  "sections[0].items[4].text[0].children[0].text": {
+    "fr": "toute plante qui faiblit est remplacée dans le cadre du contrat. ",
+    "en": "any plant that weakens is replaced under the contract. "
+  },
+  "sections[1].title": {
+    "fr": "Location ou achat : que choisir ?",
+    "en": "Rental or purchase: which to choose?"
+  },
+  "sections[1].head[0]": {
+    "fr": "Critère",
+    "en": "Criterion"
+  },
+  "sections[1].head[1]": {
+    "fr": "Location avec entretien",
+    "en": "Rental with maintenance"
+  },
+  "sections[1].head[2]": {
+    "fr": "Achat",
+    "en": "Purchase"
+  },
+  "sections[1].rows[0].cells[0][0].children[0].text": {
+    "fr": "Investissement initial",
+    "en": "Initial investment"
+  },
+  "sections[1].rows[0].cells[1][0].children[0].text": {
+    "fr": "Aucun",
+    "en": "None"
+  },
+  "sections[1].rows[0].cells[2][0].children[0].text": {
+    "fr": "À prévoir (plantes + bacs)",
+    "en": "Required (plants + planters)"
+  },
+  "sections[1].rows[1].cells[0][0].children[0].text": {
+    "fr": "Entretien",
+    "en": "Maintenance"
+  },
+  "sections[1].rows[1].cells[1][0].children[0].text": {
+    "fr": "Compris, par nos jardiniers",
+    "en": "Included, by our gardeners"
+  },
+  "sections[1].rows[1].cells[2][0].children[0].text": {
+    "fr": "En option (contrat d'entretien)",
+    "en": "Optional (maintenance contract)"
+  },
+  "sections[1].rows[2].cells[0][0].children[0].text": {
+    "fr": "Remplacement des plantes",
+    "en": "Plant replacement"
+  },
+  "sections[1].rows[2].cells[1][0].children[0].text": {
+    "fr": "Compris",
+    "en": "Included"
+  },
+  "sections[1].rows[2].cells[2][0].children[0].text": {
+    "fr": "À votre charge, sauf contrat",
+    "en": "At your expense, unless under contract"
+  },
+  "sections[1].rows[3].cells[0][0].children[0].text": {
+    "fr": "Budget",
+    "en": "Budget"
+  },
+  "sections[1].rows[3].cells[1][0].children[0].text": {
+    "fr": "Loyer mensuel lissé",
+    "en": "Even monthly rental"
+  },
+  "sections[1].rows[3].cells[2][0].children[0].text": {
+    "fr": "Coût initial puis entretien",
+    "en": "Initial cost, then maintenance"
+  },
+  "sections[1].rows[4].cells[0][0].children[0].text": {
+    "fr": "Pour qui",
+    "en": "Who it suits"
+  },
+  "sections[1].rows[4].cells[1][0].children[0].text": {
+    "fr": "Bureaux, accueils, open spaces",
+    "en": "Offices, reception areas, open-plan spaces"
+  },
+  "sections[1].rows[4].cells[2][0].children[0].text": {
+    "fr": "Projets d'aménagement ponctuels",
+    "en": "One-off fit-out projects"
+  },
+  "sections[2].title": {
+    "fr": "Pour quels espaces",
+    "en": "For which spaces"
+  },
+  "sections[2].body[0].children[0].text": {
+    "fr": "Accueil et hall d'entrée, open space, bureaux de direction, salles de réunion, cafétéria et espaces détente, vitrines et showrooms, terrasses intérieures. Selon la lumière de chaque zone, nos valeurs sûres : kentia et ficus lyrata pour les espaces lumineux, dracaena et spathiphyllum en lumière moyenne, zamioculcas et sansevieria pour les coins les plus sombres. Pour les zones sans lumière, voir les ",
+    "en": "Reception and entrance hall, open-plan office, executive offices, meeting rooms, cafeteria and break areas, shop windows and showrooms, indoor terraces. Depending on the light in each area, our reliable choices: kentia and ficus lyrata for bright spaces, dracaena and spathiphyllum in medium light, zamioculcas and sansevieria for the darkest corners. For areas without light, see the "
+  },
+  "sections[2].body[0].children[1].text": {
+    "fr": "cadres végétaux stabilisés",
+    "en": "preserved plant frames"
+  },
+  "sections[3].title": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "sections[4].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[4].items[0].question": {
+    "fr": "Comment fonctionne la location de plantes pour un bureau ?",
+    "en": "How does office plant rental work?"
+  },
+  "sections[4].items[0].answer[0].children[0].text": {
+    "fr": "Un paysagiste visite vos locaux, propose une sélection de plantes et de bacs adaptée à la lumière et à votre décoration, puis nos équipes installent le tout. Un loyer mensuel couvre les végétaux, les contenants, l'entretien régulier et le remplacement des plantes fatiguées.",
+    "en": "A landscaper visits your premises and suggests a selection of plants and planters suited to the light and your decor, then our teams install everything. A monthly rental fee covers the plants, the containers, regular maintenance and the replacement of tired plants."
+  },
+  "sections[4].items[1].question": {
+    "fr": "Combien coûte la location de plantes pour une entreprise ?",
+    "en": "How much does plant rental cost for a business?"
+  },
+  "sections[4].items[1].answer[0].children[0].text": {
+    "fr": "Le budget dépend du nombre de plantes, de leur taille, des contenants choisis et de la fréquence d'entretien. Nous établissons un devis gratuit et détaillé après un échange ou une visite de vos locaux, sans engagement.",
+    "en": "The budget depends on the number of plants, their size, the containers chosen and how often maintenance takes place. We provide a free, detailed quote after a conversation or a visit to your premises, with no obligation."
+  },
+  "sections[4].items[2].question": {
+    "fr": "Que se passe-t-il si une plante dépérit ?",
+    "en": "What happens if a plant withers?"
+  },
+  "sections[4].items[2].answer[0].children[0].text": {
+    "fr": "Elle est remplacée par nos jardiniers dans le cadre du contrat de location. C'est l'avantage principal de la formule : vos espaces restent impeccables en permanence, sans aucune gestion de votre côté. ",
+    "en": "It is replaced by our gardeners under the rental contract. This is the main advantage of the formula: your spaces stay impeccable at all times, with no management on your part. "
+  },
+  "sections[4].items[3].question": {
+    "fr": "Quelle est la durée d'engagement d'un contrat de location ?",
+    "en": "What is the commitment period for a rental contract?"
+  },
+  "sections[4].items[4].question": {
+    "fr": "Peut-on louer des plantes pour une courte durée ?",
+    "en": "Can plants be rented for a short period?"
+  },
+  "sections[4].items[4].answer[0].children[0].text": {
+    "fr": "Oui, pour un salon, un séminaire ou un événement, nous proposons une location courte durée avec livraison, installation et reprise : voir la ",
+    "en": "Yes, for a trade show, a seminar or an event, we offer short-term rental with delivery, installation and collection: see "
+  },
+  "sections[4].items[4].answer[0].children[1].text": {
+    "fr": "location de plantes pour événements",
+    "en": "plant rental for events"
+  },
+  "heroImage.alt": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "related.items[0].title": {
+    "fr": "Entretien de plantes",
+    "en": "Plant maintenance"
+  },
+  "related.items[1].title": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  },
+  "related.items[2].title": {
+    "fr": "Cadres végétaux stabilisés",
+    "en": "Preserved plant frames"
+  }
+}

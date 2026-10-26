@@ -50,6 +50,7 @@ export class ContentPage {
   readonly page = input.required<Page>();
 
   protected readonly settings = this.site.settings;
+  protected readonly t = this.site.t;
   protected readonly template = computed(() => this.page().template);
   /** G5 is the last band of every page except quote, legal and 404. */
   protected readonly finalCta = computed(() => !['quote', 'legal', 'notFound'].includes(this.template()));

@@ -105,7 +105,8 @@ summary {
     display: none;
   }
 
-  .leaf-dot {
+  /* Rotate the icon, not the round badge: a rotated box would overflow the row. */
+  .leaf-dot ::ng-deep svg {
     transition: transform 0.4s cubic-bezier(0.2, 0.8, 0.2, 1);
   }
 
@@ -114,7 +115,7 @@ summary {
   }
 }
 
-details[open] > summary .leaf-dot {
+details[open] > summary .leaf-dot ::ng-deep svg {
   transform: rotate(-35deg);
 }
 

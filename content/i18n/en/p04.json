@@ -1,0 +1,150 @@
+{
+  "name": {
+    "fr": "Entretien de plantes",
+    "en": "Plant maintenance"
+  },
+  "seo.title": {
+    "fr": "Entretien de plantes en entreprise : contrat sur mesure",
+    "en": "Office plant maintenance: a tailored contract"
+  },
+  "seo.description": {
+    "fr": "Contrat d'entretien de plantes pour entreprises : passages réguliers de jardiniers, arrosage, taille, remplacement. Paris, Nice, Marseille et leurs régions.",
+    "en": "Plant maintenance contracts for businesses: regular gardener visits, watering, pruning, replacement. Paris, Nice, Marseille and their surrounding regions."
+  },
+  "h1": {
+    "fr": "Entretien de plantes en entreprise : vos végétaux entre les mains de jardiniers",
+    "en": "Plant maintenance for businesses: your plants in the hands of gardeners"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Flora Concept assure l'entretien des plantes en entreprise avec un contrat sur mesure : un jardinier passe régulièrement dans vos locaux pour arroser, tailler, nettoyer le feuillage, fertiliser et remplacer les plantes qui faiblissent. Le service couvre aussi bien les plantes que nous louons que votre parc végétal existant, repris après un diagnostic. Entreprise d'entretien de plantes d'intérieur depuis 1999, nous intervenons auprès des bureaux, hôtels, résidences et commerces depuis notre base du sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France, sur l'Île-de-France, les Alpes-Maritimes, les Bouches-du-Rhône, le Var et le Vaucluse. La fréquence des passages est définie avec vous selon la taille du parc, les espèces et les conditions de vos locaux. Vous gardez un interlocuteur unique et des locaux impeccables toute l'année, sans mobiliser vos équipes. Demandez un devis gratuit : nous diagnostiquons votre parc et vous proposons un contrat adapté.",
+    "en": "Flora Concept provides plant maintenance for businesses with a tailored contract: a gardener visits your premises regularly to water, prune, clean the foliage, fertilise and replace plants that are struggling. The service covers both the plants we rent out and your existing plant collection, taken over after an assessment. As an indoor plant maintenance company since 1999, we work for offices, hotels, residences and shops from our base in the south of France near Aix-en-Provence, with teams in Provence-Alpes-Côte d'Azur and Île-de-France, covering Île-de-France, the Alpes-Maritimes, the Bouches-du-Rhône, the Var and the Vaucluse. The frequency of visits is set with you according to the size of the collection, the species and the conditions in your premises. You keep a single point of contact and immaculate premises all year round, without tying up your teams. Request a free quote: we assess your plant collection and propose a suitable contract."
+  },
+  "structuredData.serviceType": {
+    "fr": "entretien de plantes d'intérieur pour entreprises",
+    "en": "indoor plant maintenance for businesses"
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Île-de-France",
+    "en": "Île-de-France"
+  },
+  "structuredData.areaServed[1]": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "sections[0].title": {
+    "fr": "Ce que fait notre jardinier à chaque passage",
+    "en": "What our gardener does at every visit"
+  },
+  "sections[0].items[0].text[0].children[0].text": {
+    "fr": "Arrosage adapté à chaque espèce et à la saison",
+    "en": "Watering adapted to each species and the season"
+  },
+  "sections[0].items[1].text[0].children[0].text": {
+    "fr": "Taille, nettoyage du feuillage et retrait des parties sèches",
+    "en": "Pruning, cleaning the foliage and removing dry parts"
+  },
+  "sections[0].items[2].text[0].children[0].text": {
+    "fr": "Fertilisation et surfaçage des substrats",
+    "en": "Fertilising and top-dressing the growing medium"
+  },
+  "sections[0].items[3].text[0].children[0].text": {
+    "fr": "Contrôle sanitaire (parasites, maladies) et traitement si nécessaire",
+    "en": "Health checks (pests, diseases) and treatment if necessary"
+  },
+  "sections[0].items[4].text[0].children[0].text": {
+    "fr": "Remplacement des sujets fatigués ",
+    "en": "Replacement of tired plants "
+  },
+  "sections[0].items[5].text[0].children[0].text": {
+    "fr": "Compte rendu à votre contact ",
+    "en": "Report to your contact "
+  },
+  "sections[1].title": {
+    "fr": "Nous reprenons aussi les parcs existants",
+    "en": "We also take over existing plant collections"
+  },
+  "sections[1].body[0].children[0].text": {
+    "fr": "Vos plantes ont été achetées il y a des années et personne ne s'en occupe vraiment ? C'est le cas le plus fréquent. Nos paysagistes commencent par un diagnostic gratuit du parc : état de chaque sujet, rempotages à prévoir, sujets à remplacer. Vous recevez ensuite un contrat d'entretien clair, avec une fréquence de passage adaptée. Si certaines plantes sont trop abîmées, nous proposons leur remplacement, ou le passage à la ",
+    "en": "Were your plants bought years ago and nobody really looks after them? That is the most common situation. Our landscapers start with a free assessment of the collection: the condition of each plant, repotting needed, plants to be replaced. You then receive a clear maintenance contract, with a suitable visit frequency. If some plants are too damaged, we offer to replace them, or to switch to "
+  },
+  "sections[1].body[0].children[1].text": {
+    "fr": "location avec entretien compris",
+    "en": "rental with maintenance included"
+  },
+  "sections[1].body[0].children[2].text": {
+    "fr": ", souvent plus simple à budget comparable.",
+    "en": ", which is often simpler for a comparable budget."
+  },
+  "sections[2].title": {
+    "fr": "Pour les services généraux et les office managers",
+    "en": "For facilities departments and office managers"
+  },
+  "sections[2].body[0].children[0].text": {
+    "fr": "Un contrat d'entretien Flora Concept, c'est un prestataire unique, des passages planifiés, un jardinier identifié et un résultat constant, sans gestion au quotidien. Nous travaillons avec les services généraux, les office managers et les facility managers, y compris sur des cahiers des charges et appels d'offres multi-sites : voir notre page ",
+    "en": "A Flora Concept maintenance contract means a single supplier, scheduled visits, a dedicated gardener and consistent results, with no day-to-day management. We work with facilities departments, office managers and facility managers, including on multi-site specifications and tenders: see our page on "
+  },
+  "sections[2].body[0].children[1].text": {
+    "fr": "entreprises multi-sites",
+    "en": "multi-site businesses"
+  },
+  "sections[3].title": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "sections[4].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[4].items[0].question": {
+    "fr": "Que comprend un contrat d'entretien de plantes en entreprise ?",
+    "en": "What does a business plant maintenance contract include?"
+  },
+  "sections[4].items[0].answer[0].children[0].text": {
+    "fr": "Des passages réguliers d'un jardinier pour l'arrosage, la taille, le nettoyage, la fertilisation et le contrôle sanitaire, ainsi que le remplacement des plantes fatiguées selon les conditions du contrat. La fréquence et le périmètre sont définis au devis, après diagnostic de votre parc.",
+    "en": "Regular visits from a gardener for watering, pruning, cleaning, fertilising and health checks, as well as the replacement of tired plants according to the terms of the contract. The frequency and scope are defined in the quote, after an assessment of your plant collection."
+  },
+  "sections[4].items[1].question": {
+    "fr": "À quelle fréquence passez-vous ?",
+    "en": "How often do you visit?"
+  },
+  "sections[4].items[1].answer[0].children[0].text": {
+    "fr": "La fréquence dépend du nombre de plantes, des espèces et des conditions de vos locaux (lumière, climatisation). Elle est fixée au contrat après le diagnostic. ",
+    "en": "The frequency depends on the number of plants, the species and the conditions in your premises (light, air conditioning). It is set in the contract after the assessment. "
+  },
+  "sections[4].items[2].question": {
+    "fr": "Pouvez-vous entretenir des plantes que nous avons achetées ailleurs ?",
+    "en": "Can you maintain plants we bought elsewhere?"
+  },
+  "sections[4].items[2].answer[0].children[0].text": {
+    "fr": "Oui. Nous reprenons les parcs existants après un diagnostic gratuit : état des sujets, soins à prévoir, remplacements conseillés. Vous n'êtes pas obligé de louer nos plantes pour bénéficier de nos jardiniers.",
+    "en": "Yes. We take over existing plant collections after a free assessment: condition of the plants, care required, recommended replacements. You do not have to rent our plants to benefit from our gardeners."
+  },
+  "sections[4].items[3].question": {
+    "fr": "Utilisez-vous des produits phytosanitaires ?",
+    "en": "Do you use plant protection products?"
+  },
+  "sections[4].items[4].question": {
+    "fr": "Que deviennent nos plantes pendant les congés d'été ?",
+    "en": "What happens to our plants during the summer holidays?"
+  },
+  "sections[4].items[4].answer[0].children[0].text": {
+    "fr": "Nos passages continuent selon le planning du contrat, y compris pendant vos fermetures estivales si l'accès est organisé. C'est un point important en PACA, où chaleur et climatisation éprouvent les végétaux : nous adaptons l'arrosage en conséquence.",
+    "en": "Our visits continue according to the contract schedule, including during your summer closures if access is arranged. This is an important point in PACA, where heat and air conditioning put plants under strain: we adjust watering accordingly."
+  },
+  "heroImage.alt": {
+    "fr": "Entretien de plantes",
+    "en": "Plant maintenance"
+  },
+  "related.items[0].title": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "related.items[1].title": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  },
+  "related.items[2].title": {
+    "fr": "Cadres végétaux stabilisés",
+    "en": "Preserved plant frames"
+  }
+}

@@ -9,9 +9,9 @@ import { SiteStore } from '../core/site/site.store';
   imports: [RouterLink],
   template: `
     @if (visible()) {
-      <nav class="bar" aria-label="Actions rapides">
-        <a class="btn btn--primary" routerLink="/devis/">Devis</a>
-        <a class="btn btn--outline" [href]="'tel:' + site.phone().e164" [attr.data-zone]="site.zone()">Appeler</a>
+      <nav class="bar" [attr.aria-label]="site.t().cta.quickActions">
+        <a class="btn btn--primary" [routerLink]="site.t().routes.quote">{{ site.t().cta.shortQuote }}</a>
+        <a class="btn btn--outline" [href]="'tel:' + site.phone().e164" [attr.data-zone]="site.zone()">{{ site.t().cta.call }}</a>
       </nav>
     }
   `,

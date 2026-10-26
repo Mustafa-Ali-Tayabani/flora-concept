@@ -24,10 +24,10 @@ export function inSeason(month: number, from: number, to: number): boolean {
     @if (visible()) {
       <div class="season">
         <a class="season__link" [routerLink]="cfg().href">
-          <span class="season__tag">Saison</span>
+          <span class="season__tag">{{ site.t().season.tag }}</span>
           {{ cfg().text }} <span aria-hidden="true">→</span>
         </a>
-        <button type="button" class="season__close" aria-label="Fermer le bandeau saisonnier" (click)="close()">✕</button>
+        <button type="button" class="season__close" [attr.aria-label]="site.t().season.close" (click)="close()">✕</button>
       </div>
     }
   `,
@@ -51,7 +51,7 @@ export function inSeason(month: number, from: number, to: number): boolean {
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class SeasonalBanner {
-  private readonly site = inject(SiteStore);
+  protected readonly site = inject(SiteStore);
   private readonly browser = isPlatformBrowser(inject(PLATFORM_ID));
   protected readonly cfg = computed(() => this.site.settings().seasonal);
   private readonly state = inject(TransferState);

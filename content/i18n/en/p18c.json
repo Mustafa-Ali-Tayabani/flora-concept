@@ -1,0 +1,190 @@
+{
+  "name": {
+    "fr": "Élagage et débroussaillage",
+    "en": "Tree pruning and brush clearing"
+  },
+  "seo.title": {
+    "fr": "Élagage et débroussaillage à Marseille et Aix-en-Provence",
+    "en": "Tree pruning and brush clearing: Marseille, Aix-en-Provence"
+  },
+  "seo.description": {
+    "fr": "Élagage pour sièges, hôtels et copropriétés à Marseille, Aix-en-Provence et en PACA : taille, abattage, nacelle, débroussaillage obligatoire. Devis gratuit.",
+    "en": "Tree pruning for head offices, hotels and residential buildings in Marseille, Aix-en-Provence, PACA: trimming, felling, aerial lift, mandatory brush clearing. Free quote."
+  },
+  "h1": {
+    "fr": "Élagage, taille et débroussaillage pour les entreprises à Marseille et Aix-en-Provence",
+    "en": "Tree pruning, trimming and brush clearing for businesses in Marseille and Aix-en-Provence"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Flora Concept réalise l'élagage, la taille des arbres et le débroussaillage pour les entreprises, les hôtels et les copropriétés à Marseille, Aix-en-Provence, Aubagne, Toulon et dans toute la Provence-Alpes-Côte d'Azur. Nos élagueurs interviennent à la nacelle ou en grimpe sur les platanes, pins, palmiers, oliviers et arbres d'alignement de vos parkings et de vos jardins : taille d'entretien, taille de sécurité, élagage réglementaire en limite de voirie et de propriété, abattage et dessouchage quand c'est nécessaire, évacuation des déchets verts. Nous assurons aussi la taille des haies et le débroussaillage, y compris le débroussaillement obligatoire autour des bâtiments dans les zones exposées aux incendies de forêt. Entreprise d'espaces verts depuis 1999, basée près d'Aix-en-Provence, nous travaillons avec du matériel électrique partout où c'est possible, pour des chantiers moins bruyants à proximité des bureaux et des chambres d'hôtel. Demandez un devis gratuit : un responsable visite vos arbres et vous remet un chiffrage par sujet.",
+    "en": "Flora Concept carries out tree pruning, tree trimming and brush clearing for businesses, hotels and residential buildings in Marseille, Aix-en-Provence, Aubagne, Toulon and throughout Provence-Alpes-Côte d'Azur. Our arborists work from aerial lifts or by climbing on the plane trees, pines, palms, olive trees and avenue trees in your car parks and gardens: maintenance pruning, safety pruning, regulatory pruning along roads and property boundaries, felling and stump removal when necessary, removal of green waste. We also trim hedges and clear brush, including the mandatory brush clearing around buildings in areas exposed to forest fires. A grounds maintenance company since 1999, based near Aix-en-Provence, we use electric equipment wherever possible, for quieter work near offices and hotel rooms. Request a free quote: a manager inspects your trees and gives you a price for each tree."
+  },
+  "structuredData.serviceType": {
+    "fr": "élagage, taille et débroussaillage pour entreprises",
+    "en": "tree pruning, trimming and brush clearing for businesses"
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Bouches-du-Rhône",
+    "en": "Bouches-du-Rhône"
+  },
+  "structuredData.areaServed[1]": {
+    "fr": "Var",
+    "en": "Var"
+  },
+  "structuredData.areaServed[2]": {
+    "fr": "Vaucluse",
+    "en": "Vaucluse"
+  },
+  "structuredData.areaServed[3]": {
+    "fr": "Alpes-Maritimes",
+    "en": "Alpes-Maritimes"
+  },
+  "sections[0].title": {
+    "fr": "Élagage, taille, abattage",
+    "en": "Tree pruning, trimming, felling"
+  },
+  "sections[0].items[0].lead": {
+    "fr": "Taille d'entretien et de formation",
+    "en": "Maintenance and formative pruning"
+  },
+  "sections[0].items[0].text[0].children[0].text": {
+    "fr": "équilibre de la couronne, suppression du bois mort, éclaircie pour la lumière.",
+    "en": "balancing the crown, removing dead wood, thinning to let in light."
+  },
+  "sections[0].items[1].lead": {
+    "fr": "Taille de sécurité",
+    "en": "Safety pruning"
+  },
+  "sections[0].items[1].text[0].children[0].text": {
+    "fr": "branches menaçant une toiture, un parking, une ligne ou une voie de circulation.",
+    "en": "branches threatening a roof, a car park, a power line or a traffic route."
+  },
+  "sections[0].items[2].lead": {
+    "fr": "Élagage réglementaire",
+    "en": "Regulatory pruning"
+  },
+  "sections[0].items[2].text[0].children[0].text": {
+    "fr": "respect des distances en limite de propriété et de voie publique, dégagement des façades et des enseignes.",
+    "en": "compliance with clearance distances at property boundaries and along public roads, clearing of façades and signs."
+  },
+  "sections[0].items[3].lead": {
+    "fr": "Palmiers",
+    "en": "Palm trees"
+  },
+  "sections[0].items[3].text[0].children[0].text": {
+    "fr": "nettoyage des stipes, taille des palmes, intervention à la nacelle.",
+    "en": "cleaning of trunks, pruning of fronds, work from an aerial lift."
+  },
+  "sections[0].items[4].lead": {
+    "fr": "Abattage et dessouchage",
+    "en": "Felling and stump removal"
+  },
+  "sections[0].items[4].text[0].children[0].text": {
+    "fr": "arbres dangereux, dépérissants ou gênant un projet, avec évacuation et rognage de souche.",
+    "en": "dangerous or declining trees, or trees obstructing a project, with removal and stump grinding."
+  },
+  "sections[0].items[5].lead": {
+    "fr": "Planning pluriannuel",
+    "en": "Multi-year schedule"
+  },
+  "sections[0].items[5].text[0].children[0].text": {
+    "fr": "pour un parc d'arbres de siège, de résidence ou d'hôtel, nous établissons un calendrier de tailles sur plusieurs années, avec un chiffrage par sujet.",
+    "en": "for the trees of a head office, residence or hotel, we draw up a pruning schedule over several years, with a price for each tree."
+  },
+  "sections[1].title": {
+    "fr": "Débroussaillage et obligation légale de débroussaillement",
+    "en": "Brush clearing and the legal brush-clearing obligation"
+  },
+  "sections[1].body[0].children[0].text": {
+    "fr": "Dans les Bouches-du-Rhône, le Var et une grande partie de la région, les terrains situés en zone exposée aux incendies de forêt sont soumis à une obligation légale de débroussaillement (OLD) autour des constructions, sur une distance fixée par l'arrêté préfectoral du département, en général 50 mètres. Elle s'applique aux entreprises, aux hôtels, aux résidences et aux zones d'activité comme aux particuliers, et son non-respect engage la responsabilité du propriétaire ou du gestionnaire.",
+    "en": "In the Bouches-du-Rhône, the Var and much of the region, land located in areas exposed to forest fires is subject to a legal brush-clearing obligation (OLD) around buildings, over a distance set by the department’s prefectoral order, generally 50 metres. It applies to businesses, hotels, residences and business parks as well as to private individuals, and failure to comply makes the owner or manager liable."
+  },
+  "sections[1].body[1].children[0].text": {
+    "fr": "Nous réalisons ce débroussaillement réglementaire : coupe des broussailles et de la végétation basse, élagage des arbres jusqu'à la hauteur requise, mise à distance des houppiers entre eux et par rapport aux bâtiments, évacuation des rémanents, puis entretien annuel pour rester conforme. Nous vous indiquons ce qui s'applique à votre parcelle.",
+    "en": "We carry out this regulatory brush clearing: cutting of scrub and low vegetation, pruning of trees up to the required height, spacing of tree crowns from each other and from buildings, removal of cuttings, then annual maintenance to remain compliant. We tell you what applies to your plot."
+  },
+  "sections[1].body[2].children[0].text": {
+    "fr": "Hors zone à risque, le débroussaillage reste la première étape de toute remise en état : talus, abords de parkings, terrains laissés à l'abandon.",
+    "en": "Outside risk areas, brush clearing remains the first step in any restoration work: embankments, car park surroundings, abandoned land."
+  },
+  "sections[2].title": {
+    "fr": "Taille de haies et sécurité des chantiers",
+    "en": "Hedge trimming and site safety"
+  },
+  "sections[2].body[0].children[0].text": {
+    "fr": "Taille des haies de clôture et des brise-vue (cyprès, lauriers, photinias, pittosporums), une à deux fois par an selon les espèces, avec évacuation des déchets. Sur chantier : balisage, protection des véhicules et des façades, interventions planifiées en dehors de vos heures d'affluence quand c'est possible.",
+    "en": "Trimming of boundary and screening hedges (cypress, laurel, photinia, pittosporum), once or twice a year depending on the species, with waste removal. On site: marking off the work area, protection of vehicles and façades, work scheduled outside your peak hours whenever possible."
+  },
+  "sections[3].title": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "sections[4].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[4].items[0].question": {
+    "fr": "À quelle période faut-il élaguer ?",
+    "en": "When should trees be pruned?"
+  },
+  "sections[4].items[0].answer[0].children[0].text": {
+    "fr": "Pour la plupart des feuillus, en dehors de la montée de sève, de l'automne à la fin de l'hiver ; les palmiers et certains persistants se taillent plutôt au printemps et en été. La période de nidification des oiseaux, de mi-mars à fin juillet, est à éviter pour les tailles importantes. Nous planifions chaque sujet selon son espèce.",
+    "en": "For most deciduous trees, outside the period when the sap rises, from autumn to the end of winter; palms and some evergreens are better pruned in spring and summer. The bird nesting season, from mid-March to the end of July, should be avoided for major pruning. We schedule each tree according to its species."
+  },
+  "sections[4].items[1].question": {
+    "fr": "Intervenez-vous à la nacelle ?",
+    "en": "Do you work from aerial lifts?"
+  },
+  "sections[4].items[1].answer[0].children[0].text": {
+    "fr": "Oui, à la nacelle pour les grands sujets et les palmiers, ou en grimpe quand l'accès ne permet pas la nacelle. Le mode d'intervention est précisé dans le devis, arbre par arbre.",
+    "en": "Yes, from an aerial lift for large trees and palms, or by climbing when access does not allow a lift. The method is specified in the quote, tree by tree."
+  },
+  "sections[4].items[2].question": {
+    "fr": "Qu'est-ce que l'obligation légale de débroussaillement ?",
+    "en": "What is the legal brush-clearing obligation?"
+  },
+  "sections[4].items[2].answer[0].children[0].text": {
+    "fr": "C'est l'obligation, dans les zones exposées aux incendies de forêt, de débroussailler autour des constructions sur une distance fixée par arrêté préfectoral, en général 50 mètres. Elle concerne les entreprises comme les particuliers. Nous réalisons les travaux et leur entretien annuel.",
+    "en": "It is the obligation, in areas exposed to forest fires, to clear brush around buildings over a distance set by prefectoral order, generally 50 metres. It applies to businesses as well as private individuals. We carry out the work and its annual maintenance."
+  },
+  "sections[4].items[3].question": {
+    "fr": "Que deviennent les déchets de coupe ?",
+    "en": "What happens to the cuttings?"
+  },
+  "sections[4].items[3].answer[0].children[0].text": {
+    "fr": "Ils sont broyés et évacués par nos soins vers une filière de valorisation des déchets verts. Sur demande, le broyat peut être laissé sur place en paillage de vos massifs.",
+    "en": "We shred them and take them to a green waste recovery facility. On request, the shredded material can be left on site as mulch for your planted beds."
+  },
+  "sections[4].items[4].question": {
+    "fr": "Faites-vous aussi l'entretien courant des espaces verts ?",
+    "en": "Do you also provide routine grounds maintenance?"
+  },
+  "sections[4].items[4].answer[0].children[0].text": {
+    "fr": "Oui. L'élagage s'intègre souvent dans un ",
+    "en": "Yes. Tree pruning is often part of an "
+  },
+  "sections[4].items[4].answer[0].children[1].text": {
+    "fr": "contrat annuel d'entretien des espaces verts",
+    "en": "annual grounds maintenance contract"
+  },
+  "sections[4].items[4].answer[0].children[2].text": {
+    "fr": " : tonte, taille des haies, débroussaillage, arrosage, avec un planning d'élagage pluriannuel.",
+    "en": ": mowing, hedge trimming, brush clearing, watering, with a multi-year pruning schedule."
+  },
+  "heroImage.alt": {
+    "fr": "Élagage et débroussaillage",
+    "en": "Tree pruning and brush clearing"
+  },
+  "related.items[0].title": {
+    "fr": "Copropriétés et syndics",
+    "en": "Residential buildings and property managers"
+  },
+  "related.items[1].title": {
+    "fr": "Création et aménagement",
+    "en": "Landscape design and installation"
+  },
+  "related.items[2].title": {
+    "fr": "Terrasses végétalisées",
+    "en": "Planted terraces"
+  }
+}

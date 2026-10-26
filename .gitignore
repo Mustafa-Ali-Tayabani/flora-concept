@@ -8,6 +8,8 @@ studio/.sanity/
 
 # Generated at build time from Sanity / content/seed
 web/public/content/
+# English seed: built from content/seed + content/i18n/en by scripts/i18n/build-en.mjs
+content/seed/en/
 
 # Secrets
 .vercel/

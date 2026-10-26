@@ -1,0 +1,206 @@
+{
+  "name": {
+    "fr": "Création et aménagement",
+    "en": "Landscape design and installation"
+  },
+  "seo.title": {
+    "fr": "Création et aménagement d'espaces verts d'entreprise",
+    "en": "Corporate landscape design and installation"
+  },
+  "seo.description": {
+    "fr": "Création d'espaces verts pour entreprises en PACA : conception, terrassement, plantations, arrosage automatique, maçonnerie paysagère. Devis gratuit, PACA.",
+    "en": "Corporate green space design and installation in PACA: planning, earthworks, planting, automatic irrigation, hard landscaping. Free quote, PACA."
+  },
+  "h1": {
+    "fr": "Création et aménagement d'espaces verts pour les entreprises en Provence",
+    "en": "Landscape design and installation for businesses in Provence"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Flora Concept conçoit et réalise la création d'espaces verts pour les entreprises en Provence-Alpes-Côte d'Azur : abords de sièges et de bureaux, parkings paysagers, jardins d'accueil, patios, terrains de zones d'activité, extérieurs d'hôtels et de résidences. Le projet va de l'esquisse à la plantation : relevé du terrain, plan d'aménagement, terrassement et apport de terre végétale, maçonnerie paysagère (bordures, murets, allées, terrasses), arrosage automatique, plantation d'espèces adaptées au climat provençal et éclairage solaire. Entreprise paysagiste depuis 1999, basée près d'Aix-en-Provence, nous choisissons des végétaux méditerranéens sobres en eau (oliviers, lavandes, myrtes, pittosporums, graminées) pour un jardin d'entreprise qui tient l'été sans arrosage excessif. Une fois la création livrée, nos jardiniers peuvent en assurer l'entretien en contrat annuel, avec du matériel entièrement électrique. Demandez un devis gratuit : un paysagiste visite votre terrain et vous remet une proposition d'aménagement.",
+    "en": "Flora Concept designs and creates green spaces for businesses in Provence-Alpes-Côte d'Azur: grounds around head offices and office buildings, landscaped car parks, reception gardens, patios, business park plots, hotel and residence grounds. The project runs from sketch to planting: site survey, landscape plan, earthworks and topsoil supply, hard landscaping (edgings, low walls, paths, terraces), automatic irrigation, planting of species suited to the Provençal climate and solar lighting. A landscaping company since 1999, based near Aix-en-Provence, we choose water-wise Mediterranean plants (olive trees, lavender, myrtle, pittosporum, ornamental grasses) for a corporate garden that gets through the summer without excessive watering. Once the project is handed over, our gardeners can maintain it under an annual contract, using fully electric equipment. Request a free quote: a landscaper visits your site and gives you a landscaping proposal."
+  },
+  "structuredData.serviceType": {
+    "fr": "création et aménagement d'espaces verts pour entreprises",
+    "en": "landscape design and installation for businesses"
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "sections[0].title": {
+    "fr": "De l'esquisse à la plantation",
+    "en": "From sketch to planting"
+  },
+  "sections[0].intro[0].children[0].text": {
+    "fr": "Le délai d'un chantier dépend de la surface et de la saison de plantation ; il est précisé dans le devis.",
+    "en": "The duration of a project depends on the area and the planting season; it is specified in the quote."
+  },
+  "sections[0].steps[0].lead": {
+    "fr": "Visite et relevé",
+    "en": "Visit and survey"
+  },
+  "sections[0].steps[0].text[0].children[0].text": {
+    "fr": "usages, contraintes d'accès, exposition, nature du sol, réseaux existants, budget.",
+    "en": "uses, access constraints, exposure, soil type, existing utilities, budget."
+  },
+  "sections[0].steps[1].lead": {
+    "fr": "Plan d'aménagement",
+    "en": "Landscape plan"
+  },
+  "sections[0].steps[1].text[0].children[0].text": {
+    "fr": "esquisse, choix des végétaux et des matériaux, estimation.",
+    "en": "sketch, choice of plants and materials, estimate."
+  },
+  "sections[0].steps[2].lead": {
+    "fr": "Préparation du terrain",
+    "en": "Ground preparation"
+  },
+  "sections[0].steps[2].text[0].children[0].text": {
+    "fr": "terrassement, déblais et remblais, apport de terre végétale et de sable, drainage.",
+    "en": "earthworks, cut and fill, topsoil and sand supply, drainage."
+  },
+  "sections[0].steps[3].lead": {
+    "fr": "Maçonnerie paysagère",
+    "en": "Hard landscaping"
+  },
+  "sections[0].steps[3].text[0].children[0].text": {
+    "fr": "bordures, murets, pavés, allées, terrasses.",
+    "en": "edgings, low walls, paving, paths, terraces."
+  },
+  "sections[0].steps[4].lead": {
+    "fr": "Réseaux",
+    "en": "Networks"
+  },
+  "sections[0].steps[4].text[0].children[0].text": {
+    "fr": "arrosage automatique programmable, éclairage solaire des allées et des massifs.",
+    "en": "programmable automatic irrigation, solar lighting for paths and planted beds."
+  },
+  "sections[0].steps[5].lead": {
+    "fr": "Plantation",
+    "en": "Planting"
+  },
+  "sections[0].steps[5].text[0].children[0].text": {
+    "fr": "arbres, arbustes, massifs, gazon semé ou en plaques, paillage.",
+    "en": "trees, shrubs, planted beds, seeded or turfed lawn, mulching."
+  },
+  "sections[0].steps[6].lead": {
+    "fr": "Suivi",
+    "en": "Follow-up"
+  },
+  "sections[0].steps[6].text[0].children[0].text": {
+    "fr": "contrat d'entretien si vous le souhaitez, conseillé la première année pour assurer la reprise des végétaux.",
+    "en": "maintenance contract if you wish, recommended in the first year to ensure the plants establish."
+  },
+  "sections[1].title": {
+    "fr": "Un jardin d'entreprise pensé pour le climat provençal",
+    "en": "A corporate garden designed for the Provençal climate"
+  },
+  "sections[1].body[0].children[0].text": {
+    "fr": "Chaleur, sécheresse estivale, mistral, restrictions d'arrosage de plus en plus fréquentes : un espace vert d'entreprise en Provence doit être conçu pour durer avec peu d'eau. Nous privilégions les végétaux méditerranéens (oliviers, lavandes, romarins, cistes, myrtes, pittosporums, graminées), le paillage des massifs, l'arrosage goutte à goutte programmé et, quand c'est pertinent, la réduction des surfaces de gazon au profit de massifs et de prairies fleuries. Résultat : moins d'arrosage, moins d'entretien, un jardin qui reste beau en août.",
+    "en": "Heat, summer drought, the mistral, increasingly frequent watering restrictions: a corporate green space in Provence must be designed to last with little water. We favour Mediterranean plants (olive trees, lavender, rosemary, rockrose, myrtle, pittosporum, ornamental grasses), mulched beds, programmed drip irrigation and, where relevant, smaller lawn areas in favour of planted beds and wildflower meadows. The result: less watering, less maintenance, and a garden that still looks good in August."
+  },
+  "sections[2].title": {
+    "fr": "Arrosage automatique",
+    "en": "Automatic irrigation"
+  },
+  "sections[2].body[0].children[0].text": {
+    "fr": "Nous installons et entretenons les systèmes d'arrosage automatique : goutte à goutte pour les massifs et les haies, aspersion pour les pelouses, programmateurs et électrovannes, avec une programmation adaptée à chaque saison. Un arrosage bien réglé consomme moins d'eau qu'un arrosage manuel et protège vos plantations pendant les fermetures estivales. Sur un espace vert existant, nous reprenons aussi les installations en place : diagnostic, réparations, reprogrammation.",
+    "en": "We install and maintain automatic irrigation systems: drip irrigation for planted beds and hedges, sprinklers for lawns, controllers and solenoid valves, with programming adapted to each season. Well-adjusted irrigation uses less water than manual watering and protects your plantings during summer closures. On an existing green space, we also take over the systems already in place: diagnosis, repairs, reprogramming."
+  },
+  "sections[3].title": {
+    "fr": "Terrains d'entreprise, abords et parkings",
+    "en": "Business sites, grounds and car parks"
+  },
+  "sections[3].groups[0].title": {
+    "fr": "Sièges et bureaux",
+    "en": "Head offices and offices"
+  },
+  "sections[3].groups[0].body[0].children[0].text": {
+    "fr": "Jardin d'accueil, patio, massifs d'entrée : l'extérieur fait la première impression. Nous dessinons des aménagements lisibles, faciles à entretenir, avec un éclairage qui met le bâtiment en valeur le soir.",
+    "en": "Reception garden, patio, entrance beds: the outside makes the first impression. We design clear, easy-to-maintain layouts, with lighting that shows off the building in the evening."
+  },
+  "sections[3].groups[1].title": {
+    "fr": "Parkings et zones d'activité",
+    "en": "Car parks and business parks"
+  },
+  "sections[3].groups[1].body[0].children[0].text": {
+    "fr": "Plantation d'arbres d'ombrage, haies brise-vue, noues et massifs drainants, bandes enherbées : un parking paysager, c'est moins de chaleur en été et une conformité facilitée avec les règles d'urbanisme locales.",
+    "en": "Planting of shade trees, screening hedges, swales and draining beds, grass strips: a landscaped car park means less heat in summer and easier compliance with local planning rules."
+  },
+  "sections[3].groups[2].title": {
+    "fr": "Hôtels et résidences",
+    "en": "Hotels and residences"
+  },
+  "sections[3].groups[2].body[0].children[0].text": {
+    "fr": "Jardins de piscine, allées, terrasses plantées, réaménagement entre deux saisons : nous travaillons en dehors des périodes d'occupation quand c'est possible. Voir aussi nos ",
+    "en": "Pool gardens, paths, planted terraces, redesign between seasons: we work outside periods of occupancy whenever possible. See also our "
+  },
+  "sections[3].groups[2].body[0].children[1].text": {
+    "fr": "terrasses végétalisées",
+    "en": "planted terraces"
+  },
+  "sections[4].title": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "sections[5].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[5].items[0].question": {
+    "fr": "Réalisez-vous la conception et les travaux, ou seulement les plantations ?",
+    "en": "Do you handle the design and the works, or just the planting?"
+  },
+  "sections[5].items[0].answer[0].children[0].text": {
+    "fr": "Les deux. Nous concevons le plan d'aménagement, préparons le terrain (terrassement, maçonnerie paysagère), installons l'arrosage et l'éclairage, puis plantons. Vous avez un seul interlocuteur du premier croquis à la livraison.",
+    "en": "Both. We design the landscape plan, prepare the ground (earthworks, hard landscaping), install irrigation and lighting, then plant. You have a single point of contact from the first sketch to handover."
+  },
+  "sections[5].items[1].question": {
+    "fr": "Quelles plantes recommandez-vous pour un espace vert d'entreprise en Provence ?",
+    "en": "Which plants do you recommend for a corporate green space in Provence?"
+  },
+  "sections[5].items[1].answer[0].children[0].text": {
+    "fr": "Des végétaux méditerranéens résistants à la sécheresse : oliviers, lavandes, romarins, cistes, myrtes, pittosporums, graminées, associés à un paillage et à un arrosage goutte à goutte. Ils demandent peu d'eau et peu d'entretien, et restent beaux pendant l'été.",
+    "en": "Drought-resistant Mediterranean plants: olive trees, lavender, rosemary, rockrose, myrtle, pittosporum, ornamental grasses, combined with mulching and drip irrigation. They need little water and little maintenance, and stay attractive throughout the summer."
+  },
+  "sections[5].items[2].question": {
+    "fr": "Pouvez-vous entretenir l'espace vert après sa création ?",
+    "en": "Can you maintain the green space after it has been created?"
+  },
+  "sections[5].items[2].answer[0].children[0].text": {
+    "fr": "Oui, c'est même conseillé la première année pour garantir la reprise des végétaux. Nous proposons un ",
+    "en": "Yes, and it is in fact recommended in the first year to ensure the plants establish. We offer an "
+  },
+  "sections[5].items[2].answer[0].children[1].text": {
+    "fr": "contrat d'entretien annuel",
+    "en": "annual maintenance contract"
+  },
+  "sections[5].items[2].answer[0].children[2].text": {
+    "fr": " avec des passages planifiés et un compte rendu à chaque intervention.",
+    "en": " with scheduled visits and a report after each visit."
+  },
+  "sections[5].items[3].question": {
+    "fr": "Installez-vous l'arrosage automatique seul, sans création de jardin ?",
+    "en": "Do you install automatic irrigation on its own, without creating a garden?"
+  },
+  "sections[5].items[3].answer[0].children[0].text": {
+    "fr": "Oui. Nous installons, réparons et reprogrammons les systèmes d'arrosage automatique sur des espaces verts existants, pour les entreprises, les hôtels et les copropriétés.",
+    "en": "Yes. We install, repair and reprogramme automatic irrigation systems on existing green spaces, for businesses, hotels and residential buildings."
+  },
+  "heroImage.alt": {
+    "fr": "Création et aménagement",
+    "en": "Landscape design and installation"
+  },
+  "related.items[0].title": {
+    "fr": "Copropriétés et syndics",
+    "en": "Residential buildings and property managers"
+  },
+  "related.items[1].title": {
+    "fr": "Élagage et débroussaillage",
+    "en": "Tree pruning and brush clearing"
+  },
+  "related.items[2].title": {
+    "fr": "Terrasses végétalisées",
+    "en": "Planted terraces"
+  }
+}

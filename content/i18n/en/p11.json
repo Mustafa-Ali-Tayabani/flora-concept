@@ -1,0 +1,178 @@
+{
+  "name": {
+    "fr": "Nice et Côte d'Azur",
+    "en": "Nice and the Côte d'Azur"
+  },
+  "seo.title": {
+    "fr": "Location et entretien de plantes à Nice, Côte d'Azur",
+    "en": "Plant rental and maintenance in Nice, Côte d'Azur"
+  },
+  "seo.description": {
+    "fr": "Location de plantes, entretien et murs végétaux pour les entreprises à Nice, Cannes, Antibes, Sophia Antipolis et Monaco. Jardiniers locaux, devis gratuit.",
+    "en": "Plant rental, maintenance and green walls for businesses in Nice, Cannes, Antibes, Sophia Antipolis and Monaco. Local gardeners, free quote."
+  },
+  "h1": {
+    "fr": "Location et entretien de plantes pour les entreprises à Nice et sur la Côte d'Azur",
+    "en": "Plant rental and maintenance for businesses in Nice and on the Côte d'Azur"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Les équipes niçoises de Flora Concept assurent la location de plantes à Nice et sur toute la Côte d'Azur : bureaux, hôtels, restaurants, résidences et commerces, de Monaco à Cannes en passant par Sophia Antipolis. Nos jardiniers installent les végétaux puis les entretiennent à chaque passage, remplacement compris ; nous reprenons aussi l'entretien des parcs de plantes existants après un diagnostic gratuit. Paysagiste d'intérieur depuis 1999, nous connaissons les spécificités des espaces azuréens : hôtellerie exigeante, halls de standing, terrasses et patios lumineux, climatisation continue en été. Nous réalisons également des murs végétaux naturels ou stabilisés et des cadres végétaux sur mesure, jusqu'au logo d'entreprise en végétal. Demandez un devis gratuit : un paysagiste de la région visite vos locaux et vous propose une solution adaptée à vos espaces et à votre image.",
+    "en": "Flora Concept's Nice teams provide plant rental in Nice and across the Côte d'Azur: offices, hotels, restaurants, residences and shops, from Monaco to Cannes by way of Sophia Antipolis. Our gardeners install the plants and then maintain them at every visit, replacements included; we also take over the maintenance of existing plant collections after a free assessment. As interior landscapers since 1999, we know the particular features of Riviera spaces: demanding hotels, upmarket lobbies, bright terraces and patios, continuous air conditioning in summer. We also create living or preserved green walls and bespoke plant frames, right up to your company logo in plants. Request a free quote: a landscaper from the region will visit your premises and propose a solution suited to your spaces and your image."
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Alpes-Maritimes",
+    "en": "Alpes-Maritimes"
+  },
+  "structuredData.areaServed[1]": {
+    "fr": "Monaco",
+    "en": "Monaco"
+  },
+  "sections[0].title": {
+    "fr": "Notre zone d'intervention sur la Côte d'Azur",
+    "en": "Our service area on the Côte d'Azur"
+  },
+  "sections[0].intro[0].children[0].text": {
+    "fr": "Nice et sa métropole, Monaco, Cannes, Antibes, Sophia Antipolis, et plus largement les Alpes-Maritimes. ",
+    "en": "Nice and its metropolitan area, Monaco, Cannes, Antibes, Sophia Antipolis, and the wider Alpes-Maritimes. "
+  },
+  "sections[0].intro[0].children[2].text": {
+    "fr": " Pour le Var et les Bouches-du-Rhône, voir la ",
+    "en": " For the Var and the Bouches-du-Rhône, see the "
+  },
+  "sections[0].intro[0].children[3].text": {
+    "fr": "zone Marseille et Provence",
+    "en": "Marseille and Provence area"
+  },
+  "sections[0].groups[0].title": {
+    "fr": "Sophia Antipolis et les entreprises technologiques",
+    "en": "Sophia Antipolis and technology companies"
+  },
+  "sections[0].groups[0].body[0].children[0].text": {
+    "fr": "Open spaces, plateaux d'équipes et espaces détente des entreprises de la technopole : la location avec entretien compris reste la formule la plus demandée, avec des passages planifiés sans perturber les équipes. ",
+    "en": "Open-plan offices, team floors and break areas in the technology park's companies: rental with maintenance included remains the most requested option, with scheduled visits that do not disturb the teams. "
+  },
+  "sections[0].groups[1].title": {
+    "fr": "Hôtels et restaurants de la Côte",
+    "en": "Hotels and restaurants on the Riviera"
+  },
+  "sections[0].groups[1].body[0].children[0].text": {
+    "fr": "Lobbies, terrasses couvertes, spas et restaurants : l'exigence esthétique de l'hôtellerie azuréenne demande des végétaux irréprochables et des passages discrets, souvent en dehors des heures d'affluence. Les murs et cadres stabilisés complètent les plantes vivantes dans les zones sans lumière. ",
+    "en": "Lobbies, covered terraces, spas and restaurants: the high aesthetic standards of Riviera hotels call for flawless plants and discreet visits, often outside peak hours. Preserved walls and frames complement living plants in areas without light. "
+  },
+  "sections[0].groups[2].title": {
+    "fr": "Monaco",
+    "en": "Monaco"
+  },
+  "sections[0].groups[2].body[0].children[0].text": {
+    "fr": "Nous intervenons en Principauté pour les bureaux, hôtels et résidences. ",
+    "en": "We work in the Principality for offices, hotels and residences. "
+  },
+  "sections[1].title": {
+    "fr": "Nos services à Nice",
+    "en": "Our services in Nice"
+  },
+  "sections[1].items[0].text[0].children[0].text": {
+    "fr": "Location de plantes avec entretien",
+    "en": "Plant rental with maintenance"
+  },
+  "sections[1].items[0].text[0].children[1].text": {
+    "fr": " : la formule tout compris pour les bureaux et accueils",
+    "en": ": the all-inclusive option for offices and reception areas"
+  },
+  "sections[1].items[1].text[0].children[0].text": {
+    "fr": "Entretien de parcs existants",
+    "en": "Maintenance of existing collections"
+  },
+  "sections[1].items[1].text[0].children[1].text": {
+    "fr": " : diagnostic gratuit puis contrat sur mesure",
+    "en": ": free assessment, then a tailored contract"
+  },
+  "sections[1].items[2].text[0].children[0].text": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  },
+  "sections[1].items[2].text[0].children[1].text": {
+    "fr": " naturels ou stabilisés et ",
+    "en": ", living or preserved, and "
+  },
+  "sections[1].items[2].text[0].children[2].text": {
+    "fr": "cadres végétaux",
+    "en": "plant frames"
+  },
+  "sections[1].items[2].text[0].children[3].text": {
+    "fr": " avec ou sans logo",
+    "en": " with or without a logo"
+  },
+  "sections[1].items[3].text[0].children[0].text": {
+    "fr": "Abonnement floral",
+    "en": "Flower subscription"
+  },
+  "sections[1].items[3].text[0].children[1].text": {
+    "fr": " pour les accueils et réceptions, ",
+    "en": " for reception and front desk areas, "
+  },
+  "sections[1].items[3].text[0].children[2].text": {
+    "fr": "décors de Noël",
+    "en": "Christmas decorations"
+  },
+  "sections[1].items[3].text[0].children[3].text": {
+    "fr": " en fin d'année",
+    "en": " at the end of the year"
+  },
+  "sections[2].title": {
+    "fr": "Références sur la Côte d'Azur",
+    "en": "References on the Côte d'Azur"
+  },
+  "sections[3].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[3].items[0].question": {
+    "fr": "Dans quelles villes intervenez-vous autour de Nice ?",
+    "en": "Which towns do you cover around Nice?"
+  },
+  "sections[3].items[0].answer[0].children[0].text": {
+    "fr": "Nos équipes couvrent Nice, Monaco, Cannes, Antibes, Sophia Antipolis et les Alpes-Maritimes. Les passages d'entretien sont organisés en tournées par secteur, ce qui garantit une fréquence régulière sur toute la zone. ",
+    "en": "Our teams cover Nice, Monaco, Cannes, Antibes, Sophia Antipolis and the Alpes-Maritimes. Maintenance visits are organised into rounds by sector, which guarantees a regular frequency across the whole area. "
+  },
+  "sections[3].items[1].question": {
+    "fr": "Travaillez-vous avec les hôtels de la Côte d'Azur ?",
+    "en": "Do you work with hotels on the Côte d'Azur?"
+  },
+  "sections[3].items[1].answer[0].children[0].text": {
+    "fr": "Oui, l'hôtellerie est au cœur de notre activité azuréenne : plantes de lobby, terrasses couvertes, spas et restaurants, avec des passages d'entretien discrets adaptés aux heures creuses de l'établissement.",
+    "en": "Yes, hotels are at the heart of our Riviera business: lobby plants, covered terraces, spas and restaurants, with discreet maintenance visits scheduled around the establishment's off-peak hours."
+  },
+  "sections[3].items[2].question": {
+    "fr": "Proposez-vous des plantes adaptées à la climatisation ?",
+    "en": "Do you offer plants suited to air conditioning?"
+  },
+  "sections[3].items[2].answer[0].children[0].text": {
+    "fr": "Oui. La climatisation continue des étés azuréens assèche l'air et éprouve les végétaux : nos paysagistes sélectionnent des espèces qui la tolèrent et ajustent l'arrosage à chaque passage. C'est l'un des premiers critères de notre choix d'espèces.",
+    "en": "Yes. The continuous air conditioning of Riviera summers dries the air and puts plants under strain: our landscapers select species that tolerate it and adjust watering at every visit. It is one of the main criteria in our choice of species."
+  },
+  "sections[3].items[3].question": {
+    "fr": "Comment obtenir un devis à Nice ?",
+    "en": "How do I get a quote in Nice?"
+  },
+  "sections[3].items[3].answer[0].children[0].text": {
+    "fr": "Remplissez le formulaire de devis en précisant vos espaces, ou appelez-nous directement. Un paysagiste local vous rappelle, visite vos locaux si nécessaire et vous envoie une proposition détaillée, gratuite et sans engagement.",
+    "en": "Fill in the quote form, specifying your spaces, or call us directly. A local landscaper will call you back, visit your premises if necessary and send you a detailed proposal, free and with no obligation."
+  },
+  "heroImage.alt": {
+    "fr": "Nice et Côte d'Azur",
+    "en": "Nice and the Côte d'Azur"
+  },
+  "related.items[0].title": {
+    "fr": "Location de plantes",
+    "en": "Plant rental"
+  },
+  "related.items[1].title": {
+    "fr": "Entretien de plantes",
+    "en": "Plant maintenance"
+  },
+  "related.items[2].title": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  }
+}

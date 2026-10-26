@@ -1,0 +1,186 @@
+{
+  "name": {
+    "fr": "Paysagisme d'intérieur",
+    "en": "Interior landscaping"
+  },
+  "seo.title": {
+    "fr": "Végétalisation de bureaux : paysagiste d'intérieur B2B",
+    "en": "Office greening: B2B interior landscaper"
+  },
+  "seo.description": {
+    "fr": "Végétalisation de bureaux et d'espaces professionnels par un paysagiste d'intérieur : conception, plantes, murs végétaux, entretien. Paris, Nice, Marseille.",
+    "en": "Greening for offices and professional spaces by an interior landscaper: design, plants, green walls and maintenance. Serving Paris, Nice and Marseille."
+  },
+  "h1": {
+    "fr": "Végétalisation de bureaux : votre paysagiste d'intérieur",
+    "en": "Office greening: your interior landscaper"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Flora Concept conçoit et réalise la végétalisation de bureaux et d'espaces professionnels : choix des plantes selon la lumière et les volumes, bacs et contenants assortis à votre décoration, murs végétaux, cadres stabilisés et entretien régulier par nos jardiniers. Paysagiste d'intérieur dédié aux entreprises depuis 1999, nous intervenons depuis notre base du sud de la France près d'Aix-en-Provence, avec des équipes en Provence-Alpes-Côte d'Azur et en Île-de-France auprès des bureaux, hôtels, restaurants, résidences et commerces. La formule la plus simple reste la location avec entretien compris : vous choisissez une ambiance, nous installons les végétaux et nous les gardons impeccables passage après passage, remplacement inclus. Pour un projet d'aménagement complet (open space, hall d'accueil, terrasse intérieure), notre équipe étudie vos plans et vous propose un projet sur mesure, du premier croquis à l'entretien. Demandez un devis gratuit : un paysagiste vous répond et se déplace dans vos locaux.",
+    "en": "Flora Concept designs and delivers greening for offices and professional spaces: plants chosen to suit the light and volumes, planters and containers matched to your decor, green walls, preserved frames and regular maintenance by our gardeners. An interior landscaper dedicated to businesses since 1999, we work from our base in the south of France near Aix-en-Provence, with teams in Provence-Alpes-Côte d'Azur and Île-de-France, serving offices, hotels, restaurants, residences and shops. The simplest option remains rental with maintenance included: you choose an atmosphere, we install the plants and keep them impeccable visit after visit, replacements included. For a complete fit-out project (open-plan office, reception hall, indoor terrace), our team studies your plans and proposes a bespoke project, from the first sketch to maintenance. Request a free quote: a landscaper will reply and visit your premises."
+  },
+  "structuredData.serviceType": {
+    "fr": "paysagisme d'intérieur / végétalisation de bureaux",
+    "en": "interior landscaping / office greening"
+  },
+  "structuredData.areaServed[0]": {
+    "fr": "Île-de-France",
+    "en": "Île-de-France"
+  },
+  "structuredData.areaServed[1]": {
+    "fr": "Provence-Alpes-Côte d'Azur",
+    "en": "Provence-Alpes-Côte d'Azur"
+  },
+  "sections[0].title": {
+    "fr": "Ce que recouvre le paysagisme d'intérieur",
+    "en": "What interior landscaping covers"
+  },
+  "sections[0].intro[0].children[0].text": {
+    "fr": "Le paysagisme d'intérieur regroupe tout ce qui met du végétal durable dans vos espaces de travail :",
+    "en": "Interior landscaping covers everything that brings lasting greenery into your workspaces:"
+  },
+  "sections[0].cards[0].title": {
+    "fr": "Plantes en bacs",
+    "en": "Plants in planters"
+  },
+  "sections[0].cards[0].text[0].children[0].text": {
+    "fr": "pour l'accueil, les open spaces, les bureaux de direction et les salles de réunion",
+    "en": "for reception, open-plan spaces, executive offices and meeting rooms"
+  },
+  "sections[0].cards[1].title": {
+    "fr": "Entretien professionnel",
+    "en": "Professional maintenance"
+  },
+  "sections[0].cards[1].text[0].children[0].text": {
+    "fr": "de vos plantes existantes ou louées",
+    "en": "of your existing or rented plants"
+  },
+  "sections[0].cards[2].title": {
+    "fr": "Murs végétaux",
+    "en": "Green walls"
+  },
+  "sections[0].cards[2].text[0].children[0].text": {
+    "fr": "naturels ou stabilisés",
+    "en": "living or preserved"
+  },
+  "sections[0].cards[3].title": {
+    "fr": "Cadres et tableaux végétaux stabilisés",
+    "en": "Preserved plant frames and artwork"
+  },
+  "sections[0].cards[3].text[0].children[0].text": {
+    "fr": ", y compris avec votre logo",
+    "en": ", including with your logo"
+  },
+  "sections[0].cards[4].title": {
+    "fr": "Cloisons végétales et plantes d'open space",
+    "en": "Plant partitions and open-plan plants"
+  },
+  "sections[0].cards[4].text[0].children[0].text": {
+    "fr": "pour structurer les espaces sans travaux",
+    "en": "to structure spaces without building work"
+  },
+  "sections[0].cards[5].title": {
+    "fr": "Fleurs et décors saisonniers",
+    "en": "Seasonal flowers and decorations"
+  },
+  "sections[0].cards[5].links[0].label": {
+    "fr": "Abonnement fleurs",
+    "en": "Flower subscription"
+  },
+  "sections[0].cards[5].links[1].label": {
+    "fr": "Fleurs et sapins de Noël",
+    "en": "Flowers and Christmas trees"
+  },
+  "sections[1].title": {
+    "fr": "Pourquoi végétaliser vos bureaux",
+    "en": "Why green your offices"
+  },
+  "sections[1].body[0].children[0].text": {
+    "fr": "Un espace de travail végétalisé est plus agréable à vivre et plus accueillant pour vos visiteurs. Les plantes structurent les volumes, absorbent une partie du bruit ambiant et donnent une image soignée de votre entreprise, en cohérence avec vos engagements de qualité de vie au travail et de RSE. Pour les services généraux et les office managers, la location avec entretien supprime la charge mentale : plus de plantes jaunies ni d'arrosoirs qui traînent, nos jardiniers s'occupent de tout.",
+    "en": "A planted workspace is more pleasant to work in and more welcoming for your visitors. Plants structure the volumes, absorb some of the ambient noise and give a polished image of your business, in line with your commitments to quality of life at work and CSR. For facilities departments and office managers, rental with maintenance removes the mental load: no more yellowing plants or watering cans lying around, our gardeners take care of everything."
+  },
+  "sections[2].title": {
+    "fr": "Notre méthode",
+    "en": "Our method"
+  },
+  "sections[2].steps[0].lead": {
+    "fr": "Audit de vos espaces",
+    "en": "Audit of your spaces"
+  },
+  "sections[2].steps[0].text[0].children[0].text": {
+    "fr": "lumière naturelle, climatisation, circulation, style de votre aménagement.",
+    "en": "natural light, air conditioning, circulation, style of your interior."
+  },
+  "sections[2].steps[1].lead": {
+    "fr": "Conception",
+    "en": "Design"
+  },
+  "sections[2].steps[1].text[0].children[0].text": {
+    "fr": "sélection des végétaux et des contenants, implantation sur plan, ambiances par zone.",
+    "en": "selection of plants and containers, layout on plan, atmospheres by area."
+  },
+  "sections[2].steps[2].lead": {
+    "fr": "Installation",
+    "en": "Installation"
+  },
+  "sections[2].steps[2].text[0].children[0].text": {
+    "fr": "livraison et mise en place par nos équipes, en dehors de vos heures de pointe si besoin.",
+    "en": "delivery and setup by our teams, outside your peak hours if needed."
+  },
+  "sections[2].steps[3].lead": {
+    "fr": "Entretien",
+    "en": "Maintenance"
+  },
+  "sections[2].steps[3].text[0].children[0].text": {
+    "fr": "passages réguliers, arrosage, taille, nutrition et remplacement des sujets fatigués.",
+    "en": "regular visits, watering, trimming, feeding and replacement of tired plants."
+  },
+  "sections[3].title": {
+    "fr": "Pour qui",
+    "en": "Who it is for"
+  },
+  "sections[3].body[0].children[0].text": {
+    "fr": "Bureaux et sièges sociaux, hôtels et restaurants, résidences services et syndics, cliniques et établissements de santé, commerces et showrooms, espaces de coworking. Chaque lieu a ses contraintes (lumière, passage, normes) : nos paysagistes adaptent les espèces et les contenants en conséquence.",
+    "en": "Offices and headquarters, hotels and restaurants, serviced residences and property managers, clinics and healthcare facilities, shops and showrooms, coworking spaces. Each site has its own constraints (light, footfall, standards): our landscapers adapt the species and containers accordingly."
+  },
+  "sections[4].title": {
+    "fr": "Questions fréquentes",
+    "en": "Frequently asked questions"
+  },
+  "sections[4].items[0].question": {
+    "fr": "Quelle est la différence entre un paysagiste d'intérieur et un fleuriste ?",
+    "en": "What is the difference between an interior landscaper and a florist?"
+  },
+  "sections[4].items[0].answer[0].children[0].text": {
+    "fr": "Le paysagiste d'intérieur conçoit des aménagements végétaux durables (plantes en bacs, murs végétaux) et en assure l'entretien dans la durée, alors que le fleuriste compose des bouquets et décors éphémères. Flora Concept propose les deux volets pour les entreprises, avec des contrats d'entretien réguliers.",
+    "en": "An interior landscaper designs lasting plant installations (plants in planters, green walls) and maintains them over time, whereas a florist creates ephemeral bouquets and decorations. Flora Concept offers both for businesses, with regular maintenance contracts."
+  },
+  "sections[4].items[1].question": {
+    "fr": "Faut-il beaucoup de lumière pour végétaliser des bureaux ?",
+    "en": "Do you need a lot of light to green offices?"
+  },
+  "sections[4].items[1].answer[0].children[0].text": {
+    "fr": "Non. Beaucoup d'espèces utilisées en entreprise tolèrent une lumière indirecte ou modérée : kentia, dracaena, zamioculcas, aglaonema. Pour les zones sans lumière naturelle, les végétaux stabilisés (murs et cadres sans arrosage) offrent un rendu naturel durable. Nos paysagistes choisissent les espèces après une visite de vos locaux.",
+    "en": "No. Many species used in businesses tolerate indirect or moderate light: kentia, dracaena, zamioculcas, aglaonema. For areas without natural light, preserved plants (walls and frames that need no watering) offer a lasting natural look. Our landscapers choose the species after visiting your premises."
+  },
+  "sections[4].items[2].question": {
+    "fr": "Proposez-vous un entretien après l'installation ?",
+    "en": "Do you offer maintenance after installation?"
+  },
+  "sections[4].items[2].answer[0].children[0].text": {
+    "fr": "Oui, c'est le cœur de notre métier. Nos jardiniers passent régulièrement pour arroser, tailler, nettoyer et remplacer les plantes qui faiblissent. La fréquence des passages est définie au devis selon vos espaces. ",
+    "en": "Yes, it is the core of our business. Our gardeners visit regularly to water, trim, clean and replace plants that are weakening. The frequency of visits is set in the quote according to your spaces. "
+  },
+  "sections[4].items[3].question": {
+    "fr": "Intervenez-vous en dehors de Paris, Nice et Marseille ?",
+    "en": "Do you work outside Paris, Nice and Marseille?"
+  },
+  "sections[4].items[3].answer[0].children[0].text": {
+    "fr": "Oui. Nos équipes couvrent la Provence-Alpes-Côte d'Azur (Bouches-du-Rhône, Alpes-Maritimes, Var, Vaucluse) et l'Île-de-France, et nous accompagnons les entreprises multi-sites implantées dans ces deux régions avec un interlocuteur unique. Au-delà, chaque demande est étudiée.",
+    "en": "Yes. Our teams cover Provence-Alpes-Côte d'Azur (Bouches-du-Rhône, Alpes-Maritimes, Var, Vaucluse) and Île-de-France, and we support multi-site businesses located in these two regions with a single point of contact. Beyond that, every request is considered."
+  },
+  "heroImage.alt": {
+    "fr": "Paysagisme d'intérieur",
+    "en": "Interior landscaping"
+  }
+}

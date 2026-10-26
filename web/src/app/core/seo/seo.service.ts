@@ -3,9 +3,13 @@ import { Injectable, inject } from '@angular/core';
 import { Meta, Title } from '@angular/platform-browser';
 import { ImageRef, Page, Post, SiteSettings } from '../content/content.models';
 import { floraImageLoader } from '../media/image-loader';
+import { UI } from '../i18n/i18n';
 import { buildPageGraph, buildPostGraph } from './json-ld';
 
 interface HeadInput {
+  lang: 'fr' | 'en';
+  /** Slugs of the page in each language (hreflang). */
+  alternates?: { fr?: string; en?: string };
   title: string;
   description: string;
   path: string;
@@ -23,7 +27,7 @@ export class SeoService {
 
   forPage(page: Page, settings: SiteSettings): void {
     this.apply(
-      { title: page.seo.title, description: page.seo.description, path: page.slug, noindex: page.seo.noindex, image: page.heroImage },
+      { lang: page.lang ?? 'fr', alternates: page.alternates, title: page.seo.title, description: page.seo.description, path: page.slug, noindex: page.seo.noindex, image: page.heroImage },
       settings,
     );
     this.setJsonLd(page.template === 'notFound' ? null : buildPageGraph(page, settings));
@@ -31,7 +35,7 @@ export class SeoService {
 
   forPost(post: Post, settings: SiteSettings): void {
     this.apply(
-      { title: post.seo.title, description: post.seo.description, path: `/blog/${post.slug}/`, image: post.image, type: 'article' },
+      { lang: 'fr', title: post.seo.title, description: post.seo.description, path: `/blog/${post.slug}/`, image: post.image, type: 'article' },
       settings,
     );
     this.setJsonLd(buildPostGraph(post, settings));
@@ -40,12 +44,13 @@ export class SeoService {
   private apply(input: HeadInput, settings: SiteSettings): void {
     const url = settings.siteUrl + input.path;
     this.title.setTitle(input.title);
+    this.doc.documentElement.lang = input.lang;
     const tags: [string, string, 'name' | 'property'][] = [
       ['description', input.description, 'name'],
       ['robots', input.noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large', 'name'],
       ['og:type', input.type ?? 'website', 'property'],
       ['og:site_name', settings.siteName, 'property'],
-      ['og:locale', 'fr_FR', 'property'],
+      ['og:locale', UI[input.lang].ogLocale, 'property'],
       ['og:title', input.title, 'property'],
       ['og:description', input.description, 'property'],
       ['og:url', url, 'property'],
@@ -58,6 +63,23 @@ export class SeoService {
       if (content) this.meta.updateTag({ [attr]: key, content }, `${attr}="${key}"`);
     }
     this.setCanonical(input.noindex ? null : url);
+    this.setAlternates(input.noindex ? {} : (input.alternates ?? {}), settings.siteUrl);
+  }
+
+  /** hreflang links between language versions; French is the default (x-default). */
+  private setAlternates(alternates: { fr?: string; en?: string }, siteUrl: string): void {
+    this.doc.head.querySelectorAll('link[rel="alternate"][hreflang]').forEach((l) => l.remove());
+    if (!alternates.fr || !alternates.en) return;
+    const add = (hreflang: string, path: string) => {
+      const link = this.doc.createElement('link');
+      link.setAttribute('rel', 'alternate');
+      link.setAttribute('hreflang', hreflang);
+      link.setAttribute('href', siteUrl + path);
+      this.doc.head.appendChild(link);
+    };
+    add('fr', alternates.fr);
+    add('en', alternates.en);
+    add('x-default', alternates.fr);
   }
 
   private setCanonical(url: string | null): void {

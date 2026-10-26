@@ -33,9 +33,8 @@ h1,
 h2,
 h3 {
   margin: 0;
+  /* No automatic hyphenation (« tra-vail »): words only break if they cannot fit at all. */
   overflow-wrap: break-word;
-  hyphens: auto;
-  -webkit-hyphens: auto;
 }
 
 p {

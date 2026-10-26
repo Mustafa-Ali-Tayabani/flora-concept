@@ -15,8 +15,8 @@
   --error: #b3261e;
 
   --font-display: 'Bricolage Grotesque', 'Bricolage Fallback', system-ui, sans-serif;
-  --font-serif: 'Instrument Serif', Georgia, serif;
-  --font-body: 'Familjen Grotesk', system-ui, -apple-system, 'Segoe UI', sans-serif;
+  --font-serif: 'Instrument Serif', 'Instrument Fallback', Georgia, serif;
+  --font-body: 'Familjen Grotesk', 'Familjen Fallback', system-ui, -apple-system, 'Segoe UI', sans-serif;
 
   --wrap: 1360px;
   --gutter: clamp(20px, 4vw, 56px);

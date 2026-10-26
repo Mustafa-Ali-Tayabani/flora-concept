@@ -27,6 +27,12 @@ describe('splitAnswer', () => {
     expect(`${quote} ${columns.join(' ')}`).toBe(text);
     expect(columns.length).toBe(2);
   });
+  it('also cuts English text at ": "', () => {
+    const text = 'Office plant rental is the simplest way to bring greenery into a business: Flora Concept selects the plants. Then our gardeners visit regularly.';
+    const { quote, columns } = splitAnswer(text);
+    expect(quote).toBe('Office plant rental is the simplest way to bring greenery into a business:');
+    expect(`${quote} ${columns.join(' ')}`).toBe(text);
+  });
 });
 
 describe('sectionRows', () => {
