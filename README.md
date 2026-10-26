@@ -4,7 +4,7 @@ Static, SEO/AI-first website for Flora Concept (B2B interior landscaping, PACA +
 
 - **Angular 22** (standalone, zoneless, signals), **prerendered to static HTML** (SSG): every word is in the served HTML, no server runtime.
 - **Sanity** (Studio v6) as the CMS, read **at build time only**.
-- **Vercel** hosting: static files + one serverless function for the quote form (`api/devis.mjs`).
+- **Vercel** hosting (services): the `web` service (static site + the quote function `web/api/devis.mjs`) and the `studio` service (Sanity Studio at `/studio`).
 - **Hostinger** (Apache + PHP) remains supported as an alternative: same build, `.htaccess` + `server/api/devis.php`.
 
 Read the brief first: `design/uploads/floraconcept-livraison-dev-2026-10-08/READ-ME-FIRST.md` and `DEV-REQUIREMENTS.md`. Every rule below comes from them.
@@ -63,7 +63,14 @@ Requires **Node ≥ 24.15** (see `.nvmrc`; Angular 22 refuses older versions). O
 
 ## Deployment (Vercel)
 
-Import the GitHub repository in Vercel. `vercel.json` sets everything: install, build, output directory, trailing slashes, security and cache headers, and the `api/devis` function. Leave the framework preset on « Other ».
+Import the GitHub repository in Vercel as one project. `vercel.json` declares two services:
+
+| Service | Root | Public path | Contents |
+|---|---|---|---|
+| `web` | `web/` | `/` (catch-all) | Prerendered site + `api/devis` function |
+| `studio` | `studio/` | `/studio` | Sanity Studio (add the domain to the Sanity project's CORS origins, with credentials) |
+
+There are no service bindings: the browser calls `/api/devis` on the same origin, and the site reads Sanity at build time from Sanity's own API. Trailing slashes, security headers and cache headers are top-level routing settings shared by both services.
 
 - **Node**: Vercel picks 24.x from `engines`.
 - **Environment variables** (Production):
@@ -89,7 +96,7 @@ Import the GitHub repository in Vercel. `vercel.json` sets everything: install, 
 
 ## Security
 
-- Static HTML, no server-side rendering at runtime. The only dynamic code is the quote endpoint (`api/devis.mjs` on Vercel, `server/api/devis.php` on Apache): same-origin check, JSON only, size limit, honeypot plus fill-time check, server-side validation, per-IP rate limit (5 per 10 min), header-injection-safe mail. Its config and storage live outside the web root.
+- Static HTML, no server-side rendering at runtime. The only dynamic code is the quote endpoint (`web/api/devis.mjs` on Vercel, `server/api/devis.php` on Apache): same-origin check, JSON only, size limit, honeypot plus fill-time check, server-side validation, per-IP rate limit (5 per 10 min), header-injection-safe mail. Its config and storage live outside the web root.
 - **Strict CSP** generated at build time (response header on Apache, `<meta>` on Vercel): scripts are limited to `'self'` plus the sha256 of each inline script, and GTM/Clarity hosts are allowed only for after consent. Plus HSTS, `X-Frame-Options: DENY`, `nosniff`, `Referrer-Policy`, `Permissions-Policy` and COOP. JS bundles have Subresource Integrity.
 - Content is rendered by interpolation only (no `innerHTML`); links are restricted to internal paths, `https:`, `tel:` and `mailto:`.
 - **Consent Mode v2, strict**: nothing is requested from Google or Microsoft before the visitor accepts. GTM is injected only after consent; `devis_submit`, `devis_start` and `call_click` go to the `dataLayer`.

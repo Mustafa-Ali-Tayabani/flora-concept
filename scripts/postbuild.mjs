@@ -195,7 +195,7 @@ Sitemap: ${SITE}/sitemap.xml
 );
 
 // --- Quote endpoint ----------------------------------------------------------------
-// On Vercel the endpoint is the function api/devis.mjs: never ship PHP source there.
+// On Vercel the endpoint is the function web/api/devis.mjs: never ship PHP source there.
 if (!VERCEL) {
   await mkdir(join(OUT, 'api'), { recursive: true });
   await cp(join(ROOT, 'server/api'), join(OUT, 'api'), { recursive: true });

@@ -12,6 +12,7 @@ export default defineConfig({
   title: 'Flora Concept',
   projectId,
   dataset,
+  basePath: '/studio',
   plugins: [structureTool({ structure }), visionTool({ defaultApiVersion: '2025-02-19' })],
   schema: {
     types: schemaTypes,
