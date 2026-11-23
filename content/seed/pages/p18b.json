@@ -202,10 +202,10 @@
         }
       ],
       "image": {
-        "src": "/img/entretien-exterieur",
+        "src": "/img/arrosage-automatique",
         "alt": "",
-        "width": 1200,
-        "height": 800
+        "width": 500,
+        "height": 500
       }
     },
     {
@@ -230,10 +230,10 @@
         }
       ],
       "image": {
-        "src": "/img/terrasse",
+        "src": "/img/entretien-exterieur",
         "alt": "",
-        "width": 500,
-        "height": 500
+        "width": 1200,
+        "height": 800
       }
     },
     {
@@ -258,10 +258,10 @@
         }
       ],
       "image": {
-        "src": "/img/banner-espaces-verts",
+        "src": "/img/terrasse",
         "alt": "",
-        "width": 1672,
-        "height": 941
+        "width": 500,
+        "height": 500
       }
     },
     {
@@ -352,10 +352,10 @@
         }
       ],
       "image": {
-        "src": "/img/elagage",
+        "src": "/img/banner-espaces-verts",
         "alt": "",
-        "width": 500,
-        "height": 500
+        "width": 1672,
+        "height": 941
       }
     },
     {
@@ -474,16 +474,16 @@
     }
   ],
   "heroImage": {
-    "src": "/img/amenagement",
+    "src": "/img/real-intercontinental-marseille-ricard-05",
     "alt": "Création et aménagement",
-    "width": 500,
-    "height": 500
+    "width": 1600,
+    "height": 1200
   },
   "answerImage": {
-    "src": "/img/arrosage-automatique",
+    "src": "/img/real-intercontinental-marseille-ricard-04",
     "alt": "",
-    "width": 500,
-    "height": 500
+    "width": 1200,
+    "height": 1600
   },
   "related": {
     "hub": {
@@ -521,10 +521,10 @@
         "href": "/terrasses-vegetalisees-entreprise/",
         "badge": "PACA",
         "image": {
-          "src": "/img/terrasse",
+          "src": "/img/real-maison-albar-nice-terrasses-04",
           "alt": "",
-          "width": 500,
-          "height": 500
+          "width": 1600,
+          "height": 1200
         }
       }
     ]

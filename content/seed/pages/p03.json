@@ -156,10 +156,10 @@
       ],
       "note": [],
       "image": {
-        "src": "/img/entretien-plantes",
+        "src": "/img/plante-grasse",
         "alt": "",
-        "width": 500,
-        "height": 500
+        "width": 1200,
+        "height": 800
       }
     },
     {
@@ -518,7 +518,7 @@
         }
       ],
       "image": {
-        "src": "/img/mur-vegetal",
+        "src": "/img/entretien-plantes",
         "alt": "",
         "width": 500,
         "height": 500
@@ -664,16 +664,16 @@
     }
   ],
   "heroImage": {
-    "src": "/img/plante-grasse",
+    "src": "/img/real-voltalia-08",
     "alt": "Location de plantes",
     "width": 1200,
-    "height": 800
+    "height": 1600
   },
   "answerImage": {
-    "src": "/img/alocasia",
+    "src": "/img/real-voltalia-02",
     "alt": "",
-    "width": 500,
-    "height": 500
+    "width": 1200,
+    "height": 1600
   },
   "related": {
     "hub": {

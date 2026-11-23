@@ -347,10 +347,10 @@
         }
       ],
       "image": {
-        "src": "/img/banner-espaces-verts",
+        "src": "/img/terrasse",
         "alt": "",
-        "width": 1672,
-        "height": 941
+        "width": 500,
+        "height": 500
       }
     },
     {
@@ -375,10 +375,10 @@
         }
       ],
       "image": {
-        "src": "/img/elagage",
+        "src": "/img/banner-espaces-verts",
         "alt": "",
-        "width": 500,
-        "height": 500
+        "width": 1672,
+        "height": 941
       }
     },
     {
@@ -477,16 +477,16 @@
     }
   ],
   "heroImage": {
-    "src": "/img/terrasse",
+    "src": "/img/real-maison-albar-nice-terrasses-04",
     "alt": "Terrasses végétalisées",
-    "width": 500,
-    "height": 500
+    "width": 1600,
+    "height": 1200
   },
   "answerImage": {
-    "src": "/img/amenagement",
+    "src": "/img/real-crowne-marseille-03",
     "alt": "",
-    "width": 500,
-    "height": 500
+    "width": 1200,
+    "height": 1600
   },
   "related": {
     "hub": {
@@ -512,10 +512,10 @@
         "href": "/creation-amenagement-espaces-verts/",
         "badge": "PACA",
         "image": {
-          "src": "/img/amenagement",
+          "src": "/img/real-intercontinental-marseille-ricard-05",
           "alt": "",
-          "width": 500,
-          "height": 500
+          "width": 1600,
+          "height": 1200
         }
       },
       {

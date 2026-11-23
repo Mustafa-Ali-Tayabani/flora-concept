@@ -77,10 +77,10 @@
             }
           ],
           "image": {
-            "src": "/img/plante-grasse",
+            "src": "/img/real-voltalia-08",
             "alt": "",
             "width": 1200,
-            "height": 800
+            "height": 1600
           }
         },
         {
@@ -470,9 +470,9 @@
     "height": 941
   },
   "answerImage": {
-    "src": "/img/alocasia",
+    "src": "/img/real-unicil-01",
     "alt": "",
-    "width": 500,
-    "height": 500
+    "width": 1600,
+    "height": 1200
   }
 }

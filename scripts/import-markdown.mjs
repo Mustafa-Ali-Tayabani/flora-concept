@@ -76,8 +76,26 @@ const img = (name, alt = '') => {
   if (!m) throw new Error(`Unknown image ${name}`);
   return { src: `/img/${name}`, alt, width: m.width, height: m.height };
 };
-const HERO_IMG = { p01: 'hero-equipe', p02: 'banner-paysagisme', p03: 'plante-grasse', p04: 'entretien-plantes', p05: 'mur-vegetal', p06: 'cadre-vegetal', p07: 'bouquet-fleurs', p08: 'banner-evenementiel', p09: 'sapin-de-noel', p10: 'paris-bureaux', p11: 'nice-hotel', p12: 'banner-espaces-verts', p13: 'banner-paysagisme', p14: 'hero-cover', p15: 'banner-contact', p16: 'hero-cover', p18: 'banner-espaces-verts', p18a: 'equipe-espaces-verts', p18b: 'amenagement', p18c: 'elagage', p18d: 'terrasse', p19: 'entretien-exterieur', pblog: 'alocasia' };
-const CARD_IMG = { '/location-plantes-bureau/': 'plante-grasse', '/entretien-plantes-entreprise/': 'entretien-plantes', '/mur-vegetal-interieur/': 'mur-vegetal', '/cadres-vegetaux-plantes-stabilisees/': 'cadre-vegetal', '/abonnement-fleurs-entreprise/': 'bouquet-fleurs', '/location-plantes-evenementiel/': 'banner-evenementiel', '/fleurs-sapins-noel/': 'sapin-de-noel', '/espaces-verts-entreprise/': 'entretien-exterieur', '/entretien-espaces-verts-copropriete/': 'equipe-espaces-verts', '/creation-amenagement-espaces-verts/': 'amenagement', '/elagage-entreprise-marseille-aix/': 'elagage', '/terrasses-vegetalisees-entreprise/': 'terrasse', '/ruches-entreprise/': 'entretien-exterieur', '/location-entretien-plantes-bureau-paris/': 'paris-bureaux', '/entretien-location-plantes-nice/': 'nice-hotel', '/entretien-location-plantes-marseille/': 'banner-espaces-verts', '/vegetalisation-bureaux-multisites-paris-paca/': 'banner-paysagisme' };
+const HERO_IMG = { p01: 'hero-equipe', p02: 'banner-paysagisme', p03: 'real-voltalia-08', p04: 'entretien-plantes', p05: 'mur-vegetal', p06: 'cadre-vegetal', p07: 'bouquet-fleurs', p08: 'banner-evenementiel', p09: 'sapin-de-noel', p10: 'paris-bureaux', p11: 'real-maison-albar-nice-terrasses-05', p12: 'real-crowne-marseille-02', p13: 'banner-paysagisme', p14: 'hero-cover', p15: 'banner-contact', p16: 'hero-cover', p18: 'banner-espaces-verts', p18a: 'equipe-espaces-verts', p18b: 'real-intercontinental-marseille-ricard-05', p18c: 'elagage', p18d: 'real-maison-albar-nice-terrasses-04', p19: 'entretien-exterieur', pblog: 'alocasia' };
+const CARD_IMG = { '/location-plantes-bureau/': 'real-voltalia-08', '/entretien-plantes-entreprise/': 'entretien-plantes', '/mur-vegetal-interieur/': 'mur-vegetal', '/cadres-vegetaux-plantes-stabilisees/': 'cadre-vegetal', '/abonnement-fleurs-entreprise/': 'bouquet-fleurs', '/location-plantes-evenementiel/': 'banner-evenementiel', '/fleurs-sapins-noel/': 'sapin-de-noel', '/espaces-verts-entreprise/': 'entretien-exterieur', '/entretien-espaces-verts-copropriete/': 'equipe-espaces-verts', '/creation-amenagement-espaces-verts/': 'real-intercontinental-marseille-ricard-05', '/elagage-entreprise-marseille-aix/': 'elagage', '/terrasses-vegetalisees-entreprise/': 'real-maison-albar-nice-terrasses-04', '/ruches-entreprise/': 'entretien-exterieur', '/location-entretien-plantes-bureau-paris/': 'paris-bureaux', '/entretien-location-plantes-nice/': 'real-maison-albar-nice-terrasses-05', '/entretien-location-plantes-marseille/': 'real-crowne-marseille-02', '/vegetalisation-bureaux-multisites-paris-paca/': 'banner-paysagisme' };
+/**
+ * Photos from our own projects (content/seed/pages/r-*.json) beside the direct
+ * answer, where the project matches the page. Never Paris: no Paris project yet.
+ * Chosen so that no photo repeats the cover shown in the page's Réalisations block.
+ */
+const ANSWER_IMG = {
+  p02: 'real-unicil-01',
+  p03: 'real-voltalia-02',
+  p04: 'real-voltalia-03',
+  p11: 'real-maison-albar-nice-terrasses-02',
+  p12: 'real-olympique-de-marseille-02',
+  p13: 'real-voltalia-05',
+  p16: 'real-fragonard-01',
+  p18: 'real-cbre-espace-gaymard-03',
+  p18b: 'real-intercontinental-marseille-ricard-04',
+  p18d: 'real-crowne-marseille-03',
+  p19: 'real-cbre-espace-gaymard-04',
+};
 const INPOOL = ['alocasia', 'plante-grasse', 'entretien-plantes', 'mur-vegetal', 'banner-paysagisme', 'bouquet-fleurs', 'cadre-vegetal'];
 const OUTPOOL = ['amenagement', 'arrosage-automatique', 'entretien-exterieur', 'terrasse', 'banner-espaces-verts', 'elagage', 'equipe-espaces-verts'];
 let pool = INPOOL, pix = 0;
@@ -511,7 +529,9 @@ async function buildPage(p) {
     page.microProof = rich(micro);
   } else {
     page.answer = rich(paras(sec(secs, /^Réponse directe/)));
-    page.answerImage = nextPic();
+    // The pool still advances, so the section photos stay the same.
+    const pooled = nextPic();
+    page.answerImage = ANSWER_IMG[p.id] ? img(ANSWER_IMG[p.id]) : pooled;
   }
   page.sections = buildSections(p, secs);
   if (p.template === 'about') page.finalCta = 'Envie de travailler avec nous ?';

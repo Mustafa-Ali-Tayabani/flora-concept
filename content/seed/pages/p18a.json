@@ -570,10 +570,10 @@
         "href": "/creation-amenagement-espaces-verts/",
         "badge": "PACA",
         "image": {
-          "src": "/img/amenagement",
+          "src": "/img/real-intercontinental-marseille-ricard-05",
           "alt": "",
-          "width": 500,
-          "height": 500
+          "width": 1600,
+          "height": 1200
         }
       },
       {
@@ -594,10 +594,10 @@
         "href": "/terrasses-vegetalisees-entreprise/",
         "badge": "PACA",
         "image": {
-          "src": "/img/terrasse",
+          "src": "/img/real-maison-albar-nice-terrasses-04",
           "alt": "",
-          "width": 500,
-          "height": 500
+          "width": 1600,
+          "height": 1200
         }
       }
     ]

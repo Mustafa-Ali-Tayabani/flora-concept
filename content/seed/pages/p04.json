@@ -398,10 +398,10 @@
     "height": 500
   },
   "answerImage": {
-    "src": "/img/alocasia",
+    "src": "/img/real-voltalia-03",
     "alt": "",
-    "width": 500,
-    "height": 500
+    "width": 1600,
+    "height": 1200
   },
   "related": {
     "hub": {
@@ -414,10 +414,10 @@
         "title": "Location de plantes",
         "href": "/location-plantes-bureau/",
         "image": {
-          "src": "/img/plante-grasse",
+          "src": "/img/real-voltalia-08",
           "alt": "",
           "width": 1200,
-          "height": 800
+          "height": 1600
         }
       },
       {

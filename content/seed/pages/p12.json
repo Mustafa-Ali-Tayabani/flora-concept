@@ -528,16 +528,16 @@
     }
   ],
   "heroImage": {
-    "src": "/img/banner-espaces-verts",
+    "src": "/img/real-crowne-marseille-02",
     "alt": "Marseille et Provence",
-    "width": 1672,
-    "height": 941
+    "width": 1200,
+    "height": 1600
   },
   "answerImage": {
-    "src": "/img/alocasia",
+    "src": "/img/real-olympique-de-marseille-02",
     "alt": "",
-    "width": 500,
-    "height": 500
+    "width": 1200,
+    "height": 1600
   },
   "related": {
     "hub": {
@@ -550,10 +550,10 @@
         "title": "Location de plantes",
         "href": "/location-plantes-bureau/",
         "image": {
-          "src": "/img/plante-grasse",
+          "src": "/img/real-voltalia-08",
           "alt": "",
           "width": 1200,
-          "height": 800
+          "height": 1600
         }
       },
       {

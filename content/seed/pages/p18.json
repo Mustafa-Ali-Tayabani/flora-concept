@@ -92,10 +92,10 @@
             }
           ],
           "image": {
-            "src": "/img/amenagement",
+            "src": "/img/real-intercontinental-marseille-ricard-05",
             "alt": "",
-            "width": 500,
-            "height": 500
+            "width": 1600,
+            "height": 1200
           }
         },
         {
@@ -146,10 +146,10 @@
             }
           ],
           "image": {
-            "src": "/img/terrasse",
+            "src": "/img/real-maison-albar-nice-terrasses-04",
             "alt": "",
-            "width": 500,
-            "height": 500
+            "width": 1600,
+            "height": 1200
           }
         }
       ],
@@ -681,9 +681,9 @@
     "height": 941
   },
   "answerImage": {
-    "src": "/img/amenagement",
+    "src": "/img/real-cbre-espace-gaymard-03",
     "alt": "",
-    "width": 500,
-    "height": 500
+    "width": 1200,
+    "height": 1600
   }
 }

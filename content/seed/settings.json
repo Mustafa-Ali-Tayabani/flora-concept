@@ -66,10 +66,10 @@
             "label": "Location de plantes",
             "sub": "Location de plantes",
             "image": {
-              "src": "/img/plante-grasse",
+              "src": "/img/real-voltalia-08",
               "alt": "",
               "width": 1200,
-              "height": 800
+              "height": 1600
             }
           },
           {
@@ -176,10 +176,10 @@
             "label": "Création",
             "sub": "Création et aménagement",
             "image": {
-              "src": "/img/amenagement",
+              "src": "/img/real-intercontinental-marseille-ricard-05",
               "alt": "",
-              "width": 500,
-              "height": 500
+              "width": 1600,
+              "height": 1200
             }
           },
           {
@@ -198,10 +198,10 @@
             "label": "Terrasses",
             "sub": "Terrasses végétalisées",
             "image": {
-              "src": "/img/terrasse",
+              "src": "/img/real-maison-albar-nice-terrasses-04",
               "alt": "",
-              "width": 500,
-              "height": 500
+              "width": 1600,
+              "height": 1200
             }
           },
           {
@@ -238,10 +238,10 @@
             "label": "Nice",
             "sub": "Nice et Côte d'Azur",
             "image": {
-              "src": "/img/nice-hotel",
+              "src": "/img/real-maison-albar-nice-terrasses-05",
               "alt": "",
-              "width": 500,
-              "height": 500
+              "width": 1200,
+              "height": 1600
             }
           },
           {
@@ -249,10 +249,10 @@
             "label": "Marseille",
             "sub": "Marseille et Provence",
             "image": {
-              "src": "/img/banner-espaces-verts",
+              "src": "/img/real-crowne-marseille-02",
               "alt": "",
-              "width": 1672,
-              "height": 941
+              "width": 1200,
+              "height": 1600
             }
           }
         ]
