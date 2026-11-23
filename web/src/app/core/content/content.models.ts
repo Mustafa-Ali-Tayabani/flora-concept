@@ -189,7 +189,9 @@ export interface FaqSection extends SectionBase {
 export interface CaseStudy {
   _key: string;
   client: string;
-  city: string;
+  /** Project headline (« Un souffle végétal et méditerranéen »). */
+  title?: string;
+  city?: string;
   service: string;
   since?: string;
   image?: ImageRef;
@@ -286,7 +288,10 @@ export type Template =
   | 'quote'
   | 'blog'
   | 'legal'
-  | 'notFound';
+  | 'notFound'
+  /** Réalisations: index of project stories, and one project story. */
+  | 'projects'
+  | 'project';
 
 export type Zone = 'paris' | 'nice' | 'marseille' | '';
 
@@ -332,8 +337,28 @@ export interface Page {
   /** "Voir aussi" sibling cards (services and city pages). */
   related?: { hub: { slug: string; name: string }; items: CardItem[] };
   finalCta?: string;
+  /** Project story (template `project`). */
+  project?: Project;
   /** Pages with unresolved client data cannot be published (see scripts/content-guard.mjs). */
   updatedAt?: string;
+}
+
+// ---------------------------------------------------------------------------
+// Réalisations (project stories, « Retour de chantier »)
+// ---------------------------------------------------------------------------
+
+export interface Project {
+  client: string;
+  subtitle: string;
+  /** Only when the client's story states it. */
+  place?: string;
+  category: string;
+  /** Position in the Réalisations list and in the « Réalisations » blocks. */
+  order: number;
+  /** Service and city pages where this project is shown (first = main service). */
+  services: { slug: string; name: string }[];
+  story: { _key: string; title: string; body: RichText }[];
+  gallery: ImageRef[];
 }
 
 // ---------------------------------------------------------------------------

@@ -30,6 +30,12 @@
   </nav>
 }
 
+@if (p.project; as project) {
+  @defer (on immediate; hydrate never) {
+    <fc-project-story [project]="project" />
+  }
+}
+
 <fc-page-sections [page]="p" />
 
 @if (p.template === 'blog') {

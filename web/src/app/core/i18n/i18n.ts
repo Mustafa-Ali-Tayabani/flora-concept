@@ -44,6 +44,7 @@ const fr = {
     sending: 'Envoi en cours…',
   },
   zones: { marseille: 'Marseille et Provence', nice: "Nice et Côte d'Azur", paris: 'Paris et Île-de-France', none: "Provence-Alpes-Côte d'Azur ou Île-de-France" },
+  project: { eyebrow: 'Retour de chantier', client: 'Client', place: 'Lieu', type: 'Projet', services: 'Prestations', gallery: ['En', 'images'] },
   blog: { published: 'Publié le', by: 'par', team: "L'équipe Flora Concept", read: 'Lire', about: 'Qui sommes-nous', author: 'Auteur', faq: ['Questions', 'fréquentes'], blog: 'Blog' },
 };
 
@@ -85,6 +86,7 @@ const en: Ui = {
     sending: 'Sending…',
   },
   zones: { marseille: 'Marseille and Provence', nice: "Nice and the Côte d'Azur", paris: 'Paris and Île-de-France', none: "Provence-Alpes-Côte d'Azur or Île-de-France" },
+  project: { eyebrow: 'Project story', client: 'Client', place: 'Location', type: 'Project', services: 'Services', gallery: ['In', 'pictures'] },
   blog: { published: 'Published on', by: 'by', team: 'The Flora Concept team', read: 'Read', about: 'About us', author: 'Author', faq: ['Frequently asked', 'questions'], blog: 'Blog' },
 };
 

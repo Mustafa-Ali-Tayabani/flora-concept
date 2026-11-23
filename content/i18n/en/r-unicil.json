@@ -1,0 +1,86 @@
+{
+  "name": {
+    "fr": "Unicil",
+    "en": "Unicil"
+  },
+  "seo.title": {
+    "fr": "Unicil : une ambiance méditerranéenne au bureau",
+    "en": "Unicil: A Mediterranean atmosphere at the office"
+  },
+  "seo.description": {
+    "fr": "Unicil voulait des espaces résolument méditerranéens : une identité forte, ancrée dans le Sud, qui donne du caractère aux bureaux et raconte un territoire.",
+    "en": "Unicil wanted resolutely Mediterranean spaces: a strong identity, rooted in the South, that gives the offices character and tells the story of a region."
+  },
+  "h1": {
+    "fr": "Unicil",
+    "en": "Unicil"
+  },
+  "heroImage.alt": {
+    "fr": "Cactus en poteries Ravel dans les bureaux Unicil",
+    "en": "Cacti in Ravel pottery in the Unicil offices"
+  },
+  "project.client": {
+    "fr": "Unicil",
+    "en": "Unicil"
+  },
+  "project.subtitle": {
+    "fr": "Une ambiance méditerranéenne au bureau",
+    "en": "A Mediterranean atmosphere at the office"
+  },
+  "project.category": {
+    "fr": "Plantes de bureau",
+    "en": "Office plants"
+  },
+  "project.story[0].title": {
+    "fr": "Le besoin",
+    "en": "The brief"
+  },
+  "project.story[0].body[0].children[0].text": {
+    "fr": "Unicil voulait des espaces résolument méditerranéens : une identité forte, ancrée dans le Sud, qui donne du caractère aux bureaux et raconte un territoire.",
+    "en": "Unicil wanted resolutely Mediterranean spaces: a strong identity, rooted in the South, that gives the offices character and tells the story of a region."
+  },
+  "project.story[1].title": {
+    "fr": "Notre réponse",
+    "en": "Our answer"
+  },
+  "project.story[1].body[0].children[0].text": {
+    "fr": "Nous avons sélectionné de belles poteries Ravel, la maison de céramique emblématique d'Aubagne, dont des vases cactus, pour leur savoir-faire artisanal et leurs teintes chaudes de terre cuite.",
+    "en": "We selected beautiful pottery from Ravel, Aubagne's iconic ceramics house, including cactus vases, for their craftsmanship and warm terracotta tones."
+  },
+  "project.story[1].body[1].children[0].text": {
+    "fr": "Le client a retenu un ensemble de cactus et de plantes succulentes adaptés à la vie de bureau : des végétaux sculpturaux, peu gourmands en eau, qui supportent parfaitement la lumière et la chaleur des espaces intérieurs.",
+    "en": "The client chose a set of cacti and succulents suited to office life: sculptural plants that need little water and cope perfectly with the light and warmth of indoor spaces."
+  },
+  "project.story[2].title": {
+    "fr": "L'ambiance",
+    "en": "The atmosphere"
+  },
+  "project.story[2].body[0].children[0].text": {
+    "fr": "Les cactus apportent un côté graphique, solaire et un brin dépaysant. Leurs silhouettes architecturales, associées aux poteries artisanales, évoquent les jardins secs de Provence et les patios du Sud : une atmosphère chaleureuse, authentique et apaisante, qui invite à la sérénité.",
+    "en": "The cacti bring a graphic, sunny and slightly exotic touch. Their architectural silhouettes, paired with handmade pottery, evoke the dry gardens of Provence and southern patios: a warm, authentic and soothing atmosphere that invites calm."
+  },
+  "project.story[2].body[1].children[0].text": {
+    "fr": "Un décor vivant, élégant et durable, à la fois sobre en entretien et riche en personnalité, à l'image d'un art de vivre méditerranéen.",
+    "en": "A living, elegant and lasting setting, easy to look after and full of personality, in the image of the Mediterranean art of living."
+  },
+  "project.gallery[0].alt": {
+    "fr": "Cactus en poteries Ravel dans les bureaux Unicil",
+    "en": "Cacti in Ravel pottery in the Unicil offices"
+  },
+  "project.gallery[1].alt": {
+    "fr": "Cactus en poteries Ravel dans les bureaux Unicil (2)",
+    "en": "Cacti in Ravel pottery in the Unicil offices (2)"
+  },
+  "project.gallery[2].alt": {
+    "fr": "Cactus en poteries Ravel dans les bureaux Unicil (3)",
+    "en": "Cacti in Ravel pottery in the Unicil offices (3)"
+  },
+  "project.gallery[3].alt": {
+    "fr": "Cactus en poteries Ravel dans les bureaux Unicil (4)",
+    "en": "Cacti in Ravel pottery in the Unicil offices (4)"
+  },
+  "project.gallery[4].alt": {
+    "fr": "Cactus en poteries Ravel dans les bureaux Unicil (5)",
+    "en": "Cacti in Ravel pottery in the Unicil offices (5)"
+  }
+}

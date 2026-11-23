@@ -26,5 +26,15 @@
   "/mentions-legales/": "/en/legal-notice/",
   "/politique-de-confidentialite/": "/en/privacy-policy/",
   "/cookies/": "/en/cookies/",
-  "/404/": "/en/404/"
+  "/404/": "/en/404/",
+  "/realisations/": "/en/projects/",
+  "/realisations/intercontinental-marseille-ricard/": "/en/projects/intercontinental-marseille-ricard/",
+  "/realisations/voltalia/": "/en/projects/voltalia/",
+  "/realisations/maison-albar-nice-terrasses/": "/en/projects/maison-albar-nice-terraces/",
+  "/realisations/crowne-marseille/": "/en/projects/crowne-marseille/",
+  "/realisations/cbre-espace-gaymard/": "/en/projects/cbre-espace-gaymard/",
+  "/realisations/unicil/": "/en/projects/unicil/",
+  "/realisations/olympique-de-marseille/": "/en/projects/olympique-de-marseille/",
+  "/realisations/maison-albar-entree/": "/en/projects/maison-albar-entrance/",
+  "/realisations/fragonard/": "/en/projects/fragonard/"
 }

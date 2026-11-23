@@ -1,0 +1,45 @@
+{
+  "_id": "page-realisations",
+  "slug": "/realisations/",
+  "template": "projects",
+  "name": "Réalisations",
+  "seo": {
+    "title": "Nos réalisations : bureaux, hôtels et terrasses en PACA",
+    "description": "Retours de chantier de Flora Concept : végétalisation de bureaux, terrasses d'hôtels, toitures-terrasses et aménagements extérieurs, à Marseille, à Nice et en Provence."
+  },
+  "h1": "Nos réalisations",
+  "answer": [
+    {
+      "_type": "block",
+      "_key": "1d87c662a04c",
+      "style": "normal",
+      "markDefs": [],
+      "children": [
+        {
+          "_type": "span",
+          "_key": "580cff3653b0",
+          "text": "Quelques retours de chantier de Flora Concept, racontés projet par projet : le besoin du client, notre réponse et le résultat, en photos. Bureaux, hôtels, toitures-terrasses et aménagements extérieurs, à Marseille, à Nice et en Provence.",
+          "marks": []
+        }
+      ]
+    }
+  ],
+  "zone": "",
+  "structuredData": {
+    "type": "CollectionPage"
+  },
+  "sections": [
+    {
+      "_key": "c43bc8dcd116",
+      "_type": "sectionCards",
+      "title": "Retours de chantier",
+      "cards": []
+    }
+  ],
+  "heroImage": {
+    "src": "/img/real-intercontinental-marseille-ricard-01",
+    "alt": "",
+    "width": 1200,
+    "height": 1600
+  }
+}

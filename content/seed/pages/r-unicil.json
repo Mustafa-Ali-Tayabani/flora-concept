@@ -1,0 +1,165 @@
+{
+  "_id": "page-r-unicil",
+  "slug": "/realisations/unicil/",
+  "template": "project",
+  "name": "Unicil",
+  "parent": {
+    "slug": "/realisations/",
+    "name": "Réalisations"
+  },
+  "seo": {
+    "title": "Unicil : une ambiance méditerranéenne au bureau",
+    "description": "Unicil voulait des espaces résolument méditerranéens : une identité forte, ancrée dans le Sud, qui donne du caractère aux bureaux et raconte un territoire."
+  },
+  "h1": "Unicil",
+  "answer": [],
+  "zone": "",
+  "structuredData": {
+    "type": "WebPage"
+  },
+  "sections": [],
+  "heroImage": {
+    "src": "/img/real-unicil-01",
+    "alt": "Cactus en poteries Ravel dans les bureaux Unicil",
+    "width": 1600,
+    "height": 1200
+  },
+  "project": {
+    "client": "Unicil",
+    "subtitle": "Une ambiance méditerranéenne au bureau",
+    "category": "Plantes de bureau",
+    "order": 6,
+    "services": [
+      {
+        "slug": "/location-plantes-bureau/",
+        "name": "Location de plantes"
+      },
+      {
+        "slug": "/entretien-plantes-entreprise/",
+        "name": "Entretien de plantes"
+      }
+    ],
+    "story": [
+      {
+        "_key": "6c0485deb00b",
+        "title": "Le besoin",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "664052e18a7b",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "32c132164a00",
+                "text": "Unicil voulait des espaces résolument méditerranéens : une identité forte, ancrée dans le Sud, qui donne du caractère aux bureaux et raconte un territoire.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "db6f5b269dfb",
+        "title": "Notre réponse",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "ccca366be4f2",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "97e053d6d3af",
+                "text": "Nous avons sélectionné de belles poteries Ravel, la maison de céramique emblématique d'Aubagne, dont des vases cactus, pour leur savoir-faire artisanal et leurs teintes chaudes de terre cuite.",
+                "marks": []
+              }
+            ]
+          },
+          {
+            "_type": "block",
+            "_key": "4ac016a26b33",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "4d11bcc8bbec",
+                "text": "Le client a retenu un ensemble de cactus et de plantes succulentes adaptés à la vie de bureau : des végétaux sculpturaux, peu gourmands en eau, qui supportent parfaitement la lumière et la chaleur des espaces intérieurs.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "a681d4cc11a9",
+        "title": "L'ambiance",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "9f3683ae515b",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "8a4e208c98a5",
+                "text": "Les cactus apportent un côté graphique, solaire et un brin dépaysant. Leurs silhouettes architecturales, associées aux poteries artisanales, évoquent les jardins secs de Provence et les patios du Sud : une atmosphère chaleureuse, authentique et apaisante, qui invite à la sérénité.",
+                "marks": []
+              }
+            ]
+          },
+          {
+            "_type": "block",
+            "_key": "4c7ef3f8bc61",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "642b847e51f9",
+                "text": "Un décor vivant, élégant et durable, à la fois sobre en entretien et riche en personnalité, à l'image d'un art de vivre méditerranéen.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/img/real-unicil-01",
+        "alt": "Cactus en poteries Ravel dans les bureaux Unicil",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-unicil-02",
+        "alt": "Cactus en poteries Ravel dans les bureaux Unicil (2)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-unicil-03",
+        "alt": "Cactus en poteries Ravel dans les bureaux Unicil (3)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-unicil-04",
+        "alt": "Cactus en poteries Ravel dans les bureaux Unicil (4)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-unicil-05",
+        "alt": "Cactus en poteries Ravel dans les bureaux Unicil (5)",
+        "width": 1600,
+        "height": 1200
+      }
+    ]
+  }
+}

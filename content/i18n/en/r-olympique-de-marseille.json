@@ -1,0 +1,102 @@
+{
+  "name": {
+    "fr": "Olympique de Marseille",
+    "en": "Olympique de Marseille"
+  },
+  "seo.title": {
+    "fr": "Olympique de Marseille : le végétal artificiel, plus vrai que nature",
+    "en": "Olympique de Marseille: Artificial plants, truer than life"
+  },
+  "seo.description": {
+    "fr": "L'OM souhaitait végétaliser ses espaces avec des plantes artificielles, sans renoncer au rendu d'un vrai jardin : le végétal devait paraître parfaitement…",
+    "en": "OM wanted to bring greenery into its spaces with artificial plants, without giving up the look of a real garden: the plants had to look perfectly natural…"
+  },
+  "h1": {
+    "fr": "Olympique de Marseille",
+    "en": "Olympique de Marseille"
+  },
+  "heroImage.alt": {
+    "fr": "Oliviers artificiels dans les salons de l'Olympique de Marseille",
+    "en": "Artificial olive trees in the Olympique de Marseille lounges"
+  },
+  "project.client": {
+    "fr": "Olympique de Marseille",
+    "en": "Olympique de Marseille"
+  },
+  "project.subtitle": {
+    "fr": "Le végétal artificiel, plus vrai que nature",
+    "en": "Artificial plants, truer than life"
+  },
+  "project.place": {
+    "fr": "Marseille",
+    "en": "Marseille"
+  },
+  "project.category": {
+    "fr": "Plantes artificielles",
+    "en": "Artificial plants"
+  },
+  "project.story[0].title": {
+    "fr": "Le besoin",
+    "en": "The brief"
+  },
+  "project.story[0].body[0].children[0].text": {
+    "fr": "L'OM souhaitait végétaliser ses espaces avec des plantes artificielles, sans renoncer au rendu d'un vrai jardin : le végétal devait paraître parfaitement naturel, tout en supportant une exposition intense au soleil.",
+    "en": "OM wanted to bring greenery into its spaces with artificial plants, without giving up the look of a real garden: the plants had to look perfectly natural while withstanding intense sun exposure."
+  },
+  "project.story[1].title": {
+    "fr": "Notre réponse",
+    "en": "Our answer"
+  },
+  "project.story[1].body[0].children[0].text": {
+    "fr": "Nous avons sélectionné des plantes artificielles haut de gamme, au réalisme bluffant : feuillages, troncs et nuances de couleurs ont été choisis pour se confondre avec de vrais végétaux, à l'image des oliviers, symboles de Marseille et de la Méditerranée.",
+    "en": "We selected premium artificial plants with stunning realism: foliage, trunks and colour shades were chosen to be indistinguishable from real plants, like the olive trees, symbols of Marseille and the Mediterranean."
+  },
+  "project.story[1].body[1].children[0].text": {
+    "fr": "Chaque sujet est traité anti-UV, pour garder ses couleurs et sa tenue malgré le soleil marseillais, sans arrosage ni taille, avec un entretien réduit au minimum.",
+    "en": "Each plant is UV-treated to keep its colours and shape despite the Marseille sun, with no watering or pruning and minimal upkeep."
+  },
+  "project.story[2].title": {
+    "fr": "Le résultat",
+    "en": "The result"
+  },
+  "project.story[2].body[0].children[0].text": {
+    "fr": "Un décor vert et méditerranéen, toujours impeccable, qui garde son éclat toute l'année : l'esthétique du naturel, la résistance et la sérénité d'entretien en plus.",
+    "en": "A green, Mediterranean setting that always looks immaculate and keeps its shine all year round: the look of nature, with added durability and peace of mind on upkeep."
+  },
+  "project.gallery[0].alt": {
+    "fr": "Oliviers artificiels dans les salons de l'Olympique de Marseille",
+    "en": "Artificial olive trees in the Olympique de Marseille lounges"
+  },
+  "project.gallery[1].alt": {
+    "fr": "Oliviers artificiels dans les salons de l'Olympique de Marseille (2)",
+    "en": "Artificial olive trees in the Olympique de Marseille lounges (2)"
+  },
+  "project.gallery[2].alt": {
+    "fr": "Oliviers artificiels dans les salons de l'Olympique de Marseille (3)",
+    "en": "Artificial olive trees in the Olympique de Marseille lounges (3)"
+  },
+  "project.gallery[3].alt": {
+    "fr": "Oliviers artificiels dans les salons de l'Olympique de Marseille (4)",
+    "en": "Artificial olive trees in the Olympique de Marseille lounges (4)"
+  },
+  "project.gallery[4].alt": {
+    "fr": "Oliviers artificiels dans les salons de l'Olympique de Marseille (5)",
+    "en": "Artificial olive trees in the Olympique de Marseille lounges (5)"
+  },
+  "project.gallery[5].alt": {
+    "fr": "Oliviers artificiels dans les salons de l'Olympique de Marseille (6)",
+    "en": "Artificial olive trees in the Olympique de Marseille lounges (6)"
+  },
+  "project.gallery[6].alt": {
+    "fr": "Oliviers artificiels dans les salons de l'Olympique de Marseille (7)",
+    "en": "Artificial olive trees in the Olympique de Marseille lounges (7)"
+  },
+  "project.gallery[7].alt": {
+    "fr": "Oliviers artificiels dans les salons de l'Olympique de Marseille (8)",
+    "en": "Artificial olive trees in the Olympique de Marseille lounges (8)"
+  },
+  "project.gallery[8].alt": {
+    "fr": "Oliviers artificiels dans les salons de l'Olympique de Marseille (9)",
+    "en": "Artificial olive trees in the Olympique de Marseille lounges (9)"
+  }
+}

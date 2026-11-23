@@ -1,0 +1,153 @@
+{
+  "_id": "page-r-maison-albar-entree",
+  "slug": "/realisations/maison-albar-entree/",
+  "template": "project",
+  "name": "Maison Albar",
+  "parent": {
+    "slug": "/realisations/",
+    "name": "Réalisations"
+  },
+  "seo": {
+    "title": "Maison Albar : l'entrée de l'hôtel",
+    "description": "La cliente souhaitait des plantes chic et résistantes pour l'entrée de l'hôtel, accompagnées de contenants à la hauteur du lieu : très élégants, originaux et…"
+  },
+  "h1": "Maison Albar",
+  "answer": [],
+  "zone": "",
+  "structuredData": {
+    "type": "WebPage"
+  },
+  "sections": [],
+  "heroImage": {
+    "src": "/img/real-maison-albar-entree-01",
+    "alt": "Lauriers-sauce en pyramide à l'entrée de Maison Albar",
+    "width": 1600,
+    "height": 1200
+  },
+  "project": {
+    "client": "Maison Albar",
+    "subtitle": "L'entrée de l'hôtel",
+    "category": "Entrée d'hôtel",
+    "order": 8,
+    "services": [
+      {
+        "slug": "/creation-amenagement-espaces-verts/",
+        "name": "Création et aménagement"
+      }
+    ],
+    "story": [
+      {
+        "_key": "b02d21a4f1dd",
+        "title": "Le besoin",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "2865be4520c0",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "ef474824d382",
+                "text": "La cliente souhaitait des plantes chic et résistantes pour l'entrée de l'hôtel, accompagnées de contenants à la hauteur du lieu : très élégants, originaux et capables de signer l'image de la maison dès le seuil.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "df5a0b662bbe",
+        "title": "Notre réponse",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "b33d4d61c438",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "797578c93569",
+                "text": "Le choix s'est porté sur des lauriers-sauce taillés en pyramide : un classique intemporel des belles adresses, au port structuré et au feuillage persistant, qui résiste parfaitement à l'extérieur toute l'année.",
+                "marks": []
+              }
+            ]
+          },
+          {
+            "_type": "block",
+            "_key": "97f9d49120c8",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "92f738f68cf9",
+                "text": "Pour les contenants, nous avons retenu la gamme Capi Nature « Rib » de Capi Europe : de hauts vases galbés en matériau composite léger et résistant, à la surface striée, presque sculptée. Leur finition bronze doré sur fond sombre accroche la lumière et apporte une touche originale et raffinée.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "f977fa9519f1",
+        "title": "Le résultat",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "ad43b74cca2e",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "217567847116",
+                "text": "Une entrée qui reflète le caractère chic et prestigieux de Maison Albar : la rigueur graphique des lauriers pyramidaux répond à l'éclat bronze doré des vases, pour un accueil élégant, chaleureux et mémorable.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/img/real-maison-albar-entree-01",
+        "alt": "Lauriers-sauce en pyramide à l'entrée de Maison Albar",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-maison-albar-entree-02",
+        "alt": "Lauriers-sauce en pyramide à l'entrée de Maison Albar (2)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-maison-albar-entree-03",
+        "alt": "Lauriers-sauce en pyramide à l'entrée de Maison Albar (3)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-maison-albar-entree-04",
+        "alt": "Lauriers-sauce en pyramide à l'entrée de Maison Albar (4)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-maison-albar-entree-05",
+        "alt": "Lauriers-sauce en pyramide à l'entrée de Maison Albar (5)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-maison-albar-entree-06",
+        "alt": "Lauriers-sauce en pyramide à l'entrée de Maison Albar (6)",
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  }
+}

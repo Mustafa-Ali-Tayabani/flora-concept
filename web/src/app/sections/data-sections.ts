@@ -27,9 +27,16 @@ import { SectionHead } from '../shared/section-head';
     <div class="grid">
       @for (c of section().cases; track c._key) {
         <article class="case" data-reveal>
-          <fc-photo class="case__img" ratio="3/2" [image]="c.image" alt="" sizes="(max-width: 860px) 100vw, 33vw" />
-          <h3 class="h3">@if (c.href) { <a class="link" [routerLink]="c.href">{{ c.client }}</a> } @else { {{ c.client }} }</h3>
-          <p class="small">{{ c.city }} · {{ c.service }}</p>
+          @if (c.href) {
+            <a class="case__media" [routerLink]="c.href" tabindex="-1" aria-hidden="true">
+              <fc-photo class="case__img" ratio="3/2" [image]="c.image" alt="" sizes="(max-width: 860px) 100vw, 33vw" />
+            </a>
+          } @else {
+            <fc-photo class="case__img" ratio="3/2" [image]="c.image" alt="" sizes="(max-width: 860px) 100vw, 33vw" />
+          }
+          <h3 class="h3">@if (c.href) { <a class="case__link" [routerLink]="c.href">{{ c.client }}</a> } @else { {{ c.client }} }</h3>
+          @if (c.title) { <p class="case__title">{{ c.title }}</p> }
+          <p class="small">@if (c.city) { {{ c.city }} · }{{ c.service }}</p>
           @if (c.since) { <p class="small">{{ c.since }}</p> }
         </article>
       }
@@ -39,7 +46,13 @@ import { SectionHead } from '../shared/section-head';
     :host { display: block; }
     .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(100%, 300px), 1fr)); gap: 24px; }
     .case { display: flex; flex-direction: column; gap: 10px; }
-    .case__img { border-radius: 22px; margin-bottom: 8px; }
+    .case__media { display: block; border-radius: 22px; overflow: hidden; margin-bottom: 8px; }
+    .case__media fc-photo { transition: transform 0.6s var(--ease-out); }
+    .case__media:hover fc-photo { transform: scale(1.03); }
+    .case__img { border-radius: 22px; }
+    .case__link { color: inherit; text-decoration: underline; text-decoration-color: var(--ac); text-decoration-thickness: 1px; text-underline-offset: 4px; }
+    .case__link:hover { color: var(--ac); }
+    .case__title { font-size: 16px; line-height: 1.45; color: var(--fg); }
   `,
   changeDetection: ChangeDetectionStrategy.OnPush,
 })

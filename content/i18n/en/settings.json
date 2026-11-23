@@ -208,14 +208,18 @@
     "en": "Marseille and Provence"
   },
   "nav.links[0].label": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "nav.links[1].label": {
     "fr": "Multi-sites",
     "en": "Multi-site"
   },
-  "nav.links[1].label": {
+  "nav.links[2].label": {
     "fr": "Blog",
     "en": "Blog"
   },
-  "nav.links[2].label": {
+  "nav.links[3].label": {
     "fr": "FAQ",
     "en": "FAQ"
   },
@@ -304,14 +308,18 @@
     "en": "About us"
   },
   "footer.columns[3].links[1].label": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "footer.columns[3].links[2].label": {
     "fr": "FAQ",
     "en": "FAQ"
   },
-  "footer.columns[3].links[2].label": {
+  "footer.columns[3].links[3].label": {
     "fr": "Blog",
     "en": "Blog"
   },
-  "footer.columns[3].links[3].label": {
+  "footer.columns[3].links[4].label": {
     "fr": "Devis",
     "en": "Quote"
   },

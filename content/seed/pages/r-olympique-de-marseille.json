@@ -1,0 +1,176 @@
+{
+  "_id": "page-r-olympique-de-marseille",
+  "slug": "/realisations/olympique-de-marseille/",
+  "template": "project",
+  "name": "Olympique de Marseille",
+  "parent": {
+    "slug": "/realisations/",
+    "name": "Réalisations"
+  },
+  "seo": {
+    "title": "Olympique de Marseille : le végétal artificiel, plus vrai que nature",
+    "description": "L'OM souhaitait végétaliser ses espaces avec des plantes artificielles, sans renoncer au rendu d'un vrai jardin : le végétal devait paraître parfaitement…"
+  },
+  "h1": "Olympique de Marseille",
+  "answer": [],
+  "zone": "marseille",
+  "structuredData": {
+    "type": "WebPage"
+  },
+  "sections": [],
+  "heroImage": {
+    "src": "/img/real-olympique-de-marseille-01",
+    "alt": "Oliviers artificiels dans les salons de l'Olympique de Marseille",
+    "width": 1200,
+    "height": 1600
+  },
+  "project": {
+    "client": "Olympique de Marseille",
+    "subtitle": "Le végétal artificiel, plus vrai que nature",
+    "place": "Marseille",
+    "category": "Plantes artificielles",
+    "order": 7,
+    "services": [
+      {
+        "slug": "/location-plantes-bureau/",
+        "name": "Location de plantes"
+      },
+      {
+        "slug": "/entretien-location-plantes-marseille/",
+        "name": "Marseille et Provence"
+      }
+    ],
+    "story": [
+      {
+        "_key": "12f2f4c010ad",
+        "title": "Le besoin",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "fbb7c20637de",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "2ee8733d8e03",
+                "text": "L'OM souhaitait végétaliser ses espaces avec des plantes artificielles, sans renoncer au rendu d'un vrai jardin : le végétal devait paraître parfaitement naturel, tout en supportant une exposition intense au soleil.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "bcd2df2f71f7",
+        "title": "Notre réponse",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "4e929e9a0b65",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "5716cf8772c5",
+                "text": "Nous avons sélectionné des plantes artificielles haut de gamme, au réalisme bluffant : feuillages, troncs et nuances de couleurs ont été choisis pour se confondre avec de vrais végétaux, à l'image des oliviers, symboles de Marseille et de la Méditerranée.",
+                "marks": []
+              }
+            ]
+          },
+          {
+            "_type": "block",
+            "_key": "d21cd8656419",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "6b5d7a25f99b",
+                "text": "Chaque sujet est traité anti-UV, pour garder ses couleurs et sa tenue malgré le soleil marseillais, sans arrosage ni taille, avec un entretien réduit au minimum.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "ef6f701d3c87",
+        "title": "Le résultat",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "2e9cd88a9410",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "2c73475ef62d",
+                "text": "Un décor vert et méditerranéen, toujours impeccable, qui garde son éclat toute l'année : l'esthétique du naturel, la résistance et la sérénité d'entretien en plus.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/img/real-olympique-de-marseille-01",
+        "alt": "Oliviers artificiels dans les salons de l'Olympique de Marseille",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-olympique-de-marseille-02",
+        "alt": "Oliviers artificiels dans les salons de l'Olympique de Marseille (2)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-olympique-de-marseille-03",
+        "alt": "Oliviers artificiels dans les salons de l'Olympique de Marseille (3)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-olympique-de-marseille-04",
+        "alt": "Oliviers artificiels dans les salons de l'Olympique de Marseille (4)",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-olympique-de-marseille-05",
+        "alt": "Oliviers artificiels dans les salons de l'Olympique de Marseille (5)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-olympique-de-marseille-06",
+        "alt": "Oliviers artificiels dans les salons de l'Olympique de Marseille (6)",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-olympique-de-marseille-07",
+        "alt": "Oliviers artificiels dans les salons de l'Olympique de Marseille (7)",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-olympique-de-marseille-08",
+        "alt": "Oliviers artificiels dans les salons de l'Olympique de Marseille (8)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-olympique-de-marseille-09",
+        "alt": "Oliviers artificiels dans les salons de l'Olympique de Marseille (9)",
+        "width": 1600,
+        "height": 1200
+      }
+    ]
+  }
+}

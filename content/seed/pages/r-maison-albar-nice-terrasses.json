@@ -1,0 +1,158 @@
+{
+  "_id": "page-r-maison-albar-nice-terrasses",
+  "slug": "/realisations/maison-albar-nice-terrasses/",
+  "template": "project",
+  "name": "Maison Albar · Nice",
+  "parent": {
+    "slug": "/realisations/",
+    "name": "Réalisations"
+  },
+  "seo": {
+    "title": "Maison Albar · Nice : des terrasses chic face à la Méditerranée",
+    "description": "Pour cet hôtel de luxe 5 étoiles à Nice, l'enjeu était de créer des terrasses à la hauteur de l'établissement : élégantes, généreuses et parfaitement…"
+  },
+  "h1": "Maison Albar · Nice",
+  "answer": [],
+  "zone": "nice",
+  "structuredData": {
+    "type": "WebPage"
+  },
+  "sections": [],
+  "heroImage": {
+    "src": "/img/real-maison-albar-nice-terrasses-01",
+    "alt": "Terrasse végétalisée de Maison Albar à Nice, face à la mer",
+    "width": 1200,
+    "height": 1600
+  },
+  "project": {
+    "client": "Maison Albar · Nice",
+    "subtitle": "Des terrasses chic face à la Méditerranée",
+    "place": "Nice",
+    "category": "Terrasses d'hôtel",
+    "order": 3,
+    "services": [
+      {
+        "slug": "/entretien-location-plantes-nice/",
+        "name": "Nice et Côte d'Azur"
+      },
+      {
+        "slug": "/terrasses-vegetalisees-entreprise/",
+        "name": "Terrasses végétalisées"
+      }
+    ],
+    "story": [
+      {
+        "_key": "f790cbb84089",
+        "title": "Le besoin",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "d6d64d12a3aa",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "1eff75c7d624",
+                "text": "Pour cet hôtel de luxe 5 étoiles à Nice, l'enjeu était de créer des terrasses à la hauteur de l'établissement : élégantes, généreuses et parfaitement adaptées au climat de la Côte d'Azur, avec la mer en toile de fond.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "e551339dc4af",
+        "title": "Notre réponse",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "91881b2bdafd",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "eebf8e05b152",
+                "text": "Nous avons choisi des espèces typiques de la Riviera, qui supportent le soleil, le vent et les embruns : des palmiers comme les Butia, des Strelitzia, les célèbres « oiseaux du paradis », et des plantes structurées aux silhouettes graphiques.",
+                "marks": []
+              }
+            ]
+          },
+          {
+            "_type": "block",
+            "_key": "ebb1533166dc",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "5b8671da31e8",
+                "text": "Installées dans des contenants sobres aux tons naturels, ces plantes dessinent des compositions épurées qui dialoguent avec l'architecture dorée du bâtiment et la vue sur la Baie des Anges.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "0787a9f543ea",
+        "title": "Le résultat",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "6c5b6b5252df",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "5f5447e0f1d4",
+                "text": "Des terrasses très chic, au parfum de vacances, qui prolongent l'expérience de l'hôtel en extérieur : un jardin méditerranéen raffiné, durable et parfaitement à sa place sur la Côte d'Azur.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/img/real-maison-albar-nice-terrasses-01",
+        "alt": "Terrasse végétalisée de Maison Albar à Nice, face à la mer",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-maison-albar-nice-terrasses-02",
+        "alt": "Terrasse végétalisée de Maison Albar à Nice, face à la mer (2)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-maison-albar-nice-terrasses-03",
+        "alt": "Terrasse végétalisée de Maison Albar à Nice, face à la mer (3)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-maison-albar-nice-terrasses-04",
+        "alt": "Terrasse végétalisée de Maison Albar à Nice, face à la mer (4)",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-maison-albar-nice-terrasses-05",
+        "alt": "Terrasse végétalisée de Maison Albar à Nice, face à la mer (5)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-maison-albar-nice-terrasses-06",
+        "alt": "Terrasse végétalisée de Maison Albar à Nice, face à la mer (6)",
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  }
+}

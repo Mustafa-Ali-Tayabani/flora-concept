@@ -571,14 +571,14 @@ async function buildSettings() {
           items: [['/location-entretien-plantes-bureau-paris/', 'Paris'], ['/entretien-location-plantes-nice/', 'Nice'], ['/entretien-location-plantes-marseille/', 'Marseille']].map(([h, l]) => link(h, l, sub(h))),
         },
       ],
-      links: [link('/vegetalisation-bureaux-multisites-paris-paca/', 'Multi-sites'), link('/blog/', 'Blog'), link('/faq/', 'FAQ')],
+      links: [link('/realisations/', 'Réalisations'), link('/vegetalisation-bureaux-multisites-paris-paca/', 'Multi-sites'), link('/blog/', 'Blog'), link('/faq/', 'FAQ')],
     },
     footer: {
       columns: [
         { title: 'Services', links: IN_MENU.map((h) => link(h, NAME[h])) },
         { title: 'Extérieur PACA', links: ['/espaces-verts-entreprise/', ...OUT_MENU].map((h) => link(h, NAME[h])) },
         { title: 'Nos villes', links: ['/location-entretien-plantes-bureau-paris/', '/entretien-location-plantes-nice/', '/entretien-location-plantes-marseille/'].map((h) => link(h, NAME[h])) },
-        { title: 'Flora Concept', links: [link('/qui-sommes-nous/', 'Qui sommes-nous'), link('/faq/', 'FAQ'), link('/blog/', 'Blog'), link('/devis/', 'Devis')] },
+        { title: 'Flora Concept', links: [link('/qui-sommes-nous/', 'Qui sommes-nous'), link('/realisations/', 'Réalisations'), link('/faq/', 'FAQ'), link('/blog/', 'Blog'), link('/devis/', 'Devis')] },
       ],
       legal: [link('/mentions-legales/', 'Mentions légales'), link('/politique-de-confidentialite/', 'Politique de confidentialité'), link('/cookies/', 'Cookies')],
       regionsLine: "Provence-Alpes-Côte d'Azur · Île-de-France",
@@ -591,6 +591,14 @@ async function buildSettings() {
 }
 
 // ---------------------------------------------------------------------------
+// Pages that do not come from the Markdown delivery (Réalisations: client stories
+// imported from the « Retour de chantier » documents) survive a re-import.
+const { readdir } = await import('node:fs/promises');
+const kept = [];
+for (const f of await readdir(join(OUT, 'pages')).catch(() => [])) {
+  const doc = JSON.parse(await readFile(join(OUT, 'pages', f), 'utf8'));
+  if (['project', 'projects'].includes(doc.template)) kept.push([f, doc]);
+}
 await rm(OUT, { recursive: true, force: true });
 await mkdir(join(OUT, 'pages'), { recursive: true });
 await mkdir(join(OUT, 'posts'), { recursive: true });
@@ -598,5 +606,6 @@ for (const p of PAGES) {
   const page = await buildPage(p);
   await writeFile(join(OUT, 'pages', `${p.id}.json`), JSON.stringify(page, null, 2) + '\n');
 }
+for (const [f, doc] of kept) await writeFile(join(OUT, 'pages', f), JSON.stringify(doc, null, 2) + '\n');
 await writeFile(join(OUT, 'settings.json'), JSON.stringify(await buildSettings(), null, 2) + '\n');
 console.log(`Imported ${PAGES.length} pages into ${OUT}`);

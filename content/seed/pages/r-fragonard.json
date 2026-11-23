@@ -1,0 +1,129 @@
+{
+  "_id": "page-r-fragonard",
+  "slug": "/realisations/fragonard/",
+  "template": "project",
+  "name": "Fragonard",
+  "parent": {
+    "slug": "/realisations/",
+    "name": "Réalisations"
+  },
+  "seo": {
+    "title": "Fragonard : un olivier centenaire, en collaboration avec la Poterie Ravel",
+    "description": "Pour Fragonard, maison emblématique de la parfumerie provençale, nous avons imaginé une pièce maîtresse végétale en collaboration avec la Poterie Ravel…"
+  },
+  "h1": "Fragonard",
+  "answer": [],
+  "zone": "",
+  "structuredData": {
+    "type": "WebPage"
+  },
+  "sections": [],
+  "heroImage": {
+    "src": "/img/real-fragonard-01",
+    "alt": "Olivier centenaire en pot Camélia de la Poterie Ravel devant la boutique Fragonard",
+    "width": 1600,
+    "height": 1200
+  },
+  "project": {
+    "client": "Fragonard",
+    "subtitle": "Un olivier centenaire, en collaboration avec la Poterie Ravel",
+    "category": "Olivier en poterie",
+    "order": 9,
+    "services": [
+      {
+        "slug": "/creation-amenagement-espaces-verts/",
+        "name": "Création et aménagement"
+      }
+    ],
+    "story": [
+      {
+        "_key": "4cc831e1182a",
+        "title": "Le projet",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "d85d0e2bb911",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "e0b36a28929d",
+                "text": "Pour Fragonard, maison emblématique de la parfumerie provençale, nous avons imaginé une pièce maîtresse végétale en collaboration avec la Poterie Ravel, l'atelier historique d'Aubagne.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "24b8e400fcc5",
+        "title": "Notre réponse",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "2c20a8480140",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "d6a2c3b65231",
+                "text": "Nous avons installé un bel olivier centenaire dans le pot Camélia, un grand standard de la Poterie Ravel. L'arbre, avec son tronc noueux et son feuillage argenté, porte un siècle d'histoire ; la terre cuite artisanale lui offre un écrin à sa mesure.",
+                "marks": []
+              }
+            ]
+          },
+          {
+            "_type": "block",
+            "_key": "e91203b929d6",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "e2e9c955f924",
+                "text": "La rencontre de deux savoir-faire provençaux : celui du végétal, et celui de la céramique façonnée à la main depuis 1837.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "f82243c78774",
+        "title": "Le résultat",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "bacece04c252",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "b2ba1067c07a",
+                "text": "Une composition intemporelle, chargée de sens et d'authenticité, qui raconte la Provence et fait écho à l'univers de Fragonard : le patrimoine, l'artisanat et l'art de vivre du Sud.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/img/real-fragonard-01",
+        "alt": "Olivier centenaire en pot Camélia de la Poterie Ravel devant la boutique Fragonard",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-fragonard-02",
+        "alt": "Olivier centenaire en pot Camélia de la Poterie Ravel devant la boutique Fragonard (2)",
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  }
+}

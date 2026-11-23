@@ -1,0 +1,98 @@
+{
+  "name": {
+    "fr": "Crowne Marseille",
+    "en": "Crowne Marseille"
+  },
+  "seo.title": {
+    "fr": "Crowne Marseille : un souffle végétal et méditerranéen",
+    "en": "Crowne Marseille: A breath of Mediterranean greenery"
+  },
+  "seo.description": {
+    "fr": "L'idée était d'apporter à l'établissement une dimension végétale et méditerranéenne, en cohérence avec son ancrage marseillais, tout en tenant compte de…",
+    "en": "The idea was to give the hotel a green, Mediterranean dimension in keeping with its Marseille roots, while dealing with tough constraints: heat and limited…"
+  },
+  "h1": {
+    "fr": "Crowne Marseille",
+    "en": "Crowne Marseille"
+  },
+  "heroImage.alt": {
+    "fr": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille",
+    "en": "Olive trees and planters on the terrace of the Crowne Marseille hotel"
+  },
+  "project.client": {
+    "fr": "Crowne Marseille",
+    "en": "Crowne Marseille"
+  },
+  "project.subtitle": {
+    "fr": "Un souffle végétal et méditerranéen",
+    "en": "A breath of Mediterranean greenery"
+  },
+  "project.place": {
+    "fr": "Marseille",
+    "en": "Marseille"
+  },
+  "project.category": {
+    "fr": "Aménagement extérieur",
+    "en": "Outdoor landscaping"
+  },
+  "project.story[0].title": {
+    "fr": "Le besoin",
+    "en": "The brief"
+  },
+  "project.story[0].body[0].children[0].text": {
+    "fr": "L'idée était d'apporter à l'établissement une dimension végétale et méditerranéenne, en cohérence avec son ancrage marseillais, tout en tenant compte de contraintes fortes : chaleur et arrosage limité.",
+    "en": "The idea was to give the hotel a green, Mediterranean dimension in keeping with its Marseille roots, while dealing with tough constraints: heat and limited watering."
+  },
+  "project.story[1].title": {
+    "fr": "Notre réponse",
+    "en": "Our answer"
+  },
+  "project.story[1].body[0].children[0].text": {
+    "fr": "Nous avons mis en place une grande jardinière plantée d'espèces robustes, comme des Dracaena, choisies pour leur résistance à la chaleur et leur faible besoin en eau.",
+    "en": "We installed a large planter filled with hardy species such as Dracaena, chosen for their heat tolerance and low water needs."
+  },
+  "project.story[1].body[1].children[0].text": {
+    "fr": "Des oliviers, symboles de la Méditerranée, viennent compléter l'aménagement. Ils sont installés dans de grands bacs gris graphite, sobres et contemporains, qui mettent en valeur leur feuillage argenté.",
+    "en": "Olive trees, symbols of the Mediterranean, complete the scheme. They sit in large graphite grey containers, understated and contemporary, which set off their silvery foliage."
+  },
+  "project.story[2].title": {
+    "fr": "Le résultat",
+    "en": "The result"
+  },
+  "project.story[2].body[0].children[0].text": {
+    "fr": "Un aménagement à la fois élégant et résistant, qui affirme l'identité méditerranéenne du lieu et offre aux clients un cadre accueillant, lumineux et durable.",
+    "en": "A scheme that is both elegant and resilient, which asserts the Mediterranean identity of the place and gives guests a welcoming, bright and lasting setting."
+  },
+  "project.gallery[0].alt": {
+    "fr": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille",
+    "en": "Olive trees and planters on the terrace of the Crowne Marseille hotel"
+  },
+  "project.gallery[1].alt": {
+    "fr": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille (2)",
+    "en": "Olive trees and planters on the terrace of the Crowne Marseille hotel (2)"
+  },
+  "project.gallery[2].alt": {
+    "fr": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille (3)",
+    "en": "Olive trees and planters on the terrace of the Crowne Marseille hotel (3)"
+  },
+  "project.gallery[3].alt": {
+    "fr": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille (4)",
+    "en": "Olive trees and planters on the terrace of the Crowne Marseille hotel (4)"
+  },
+  "project.gallery[4].alt": {
+    "fr": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille (5)",
+    "en": "Olive trees and planters on the terrace of the Crowne Marseille hotel (5)"
+  },
+  "project.gallery[5].alt": {
+    "fr": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille (6)",
+    "en": "Olive trees and planters on the terrace of the Crowne Marseille hotel (6)"
+  },
+  "project.gallery[6].alt": {
+    "fr": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille (7)",
+    "en": "Olive trees and planters on the terrace of the Crowne Marseille hotel (7)"
+  },
+  "project.gallery[7].alt": {
+    "fr": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille (8)",
+    "en": "Olive trees and planters on the terrace of the Crowne Marseille hotel (8)"
+  }
+}

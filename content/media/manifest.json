@@ -83,6 +83,286 @@
     "width": 1200,
     "height": 800
   },
+  "real-cbre-espace-gaymard-01": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-cbre-espace-gaymard-02": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-cbre-espace-gaymard-03": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-cbre-espace-gaymard-04": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-cbre-espace-gaymard-05": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-cbre-espace-gaymard-06": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-cbre-espace-gaymard-07": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-cbre-espace-gaymard-08": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-cbre-espace-gaymard-09": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-cbre-espace-gaymard-10": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-cbre-espace-gaymard-11": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-cbre-espace-gaymard-12": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-crowne-marseille-01": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-crowne-marseille-02": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-crowne-marseille-03": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-crowne-marseille-04": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-crowne-marseille-05": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-crowne-marseille-06": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-crowne-marseille-07": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-crowne-marseille-08": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-fragonard-01": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-fragonard-02": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-intercontinental-marseille-ricard-01": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-intercontinental-marseille-ricard-02": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-intercontinental-marseille-ricard-03": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-intercontinental-marseille-ricard-04": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-intercontinental-marseille-ricard-05": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-intercontinental-marseille-ricard-06": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-intercontinental-marseille-ricard-07": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-intercontinental-marseille-ricard-08": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-intercontinental-marseille-ricard-09": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-maison-albar-entree-01": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-maison-albar-entree-02": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-maison-albar-entree-03": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-maison-albar-entree-04": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-maison-albar-entree-05": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-maison-albar-entree-06": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-maison-albar-nice-terrasses-01": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-maison-albar-nice-terrasses-02": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-maison-albar-nice-terrasses-03": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-maison-albar-nice-terrasses-04": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-maison-albar-nice-terrasses-05": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-maison-albar-nice-terrasses-06": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-olympique-de-marseille-01": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-olympique-de-marseille-02": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-olympique-de-marseille-03": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-olympique-de-marseille-04": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-olympique-de-marseille-05": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-olympique-de-marseille-06": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-olympique-de-marseille-07": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-olympique-de-marseille-08": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-olympique-de-marseille-09": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-unicil-01": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-unicil-02": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-unicil-03": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-unicil-04": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-unicil-05": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-voltalia-01": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-voltalia-02": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-voltalia-03": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-voltalia-04": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-voltalia-05": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-voltalia-06": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-voltalia-07": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-voltalia-08": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-voltalia-09": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-voltalia-10": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-voltalia-11": {
+    "width": 1200,
+    "height": 1600
+  },
+  "real-voltalia-12": {
+    "width": 1600,
+    "height": 1200
+  },
+  "real-voltalia-13": {
+    "width": 1200,
+    "height": 1600
+  },
   "sapin-de-noel": {
     "width": 500,
     "height": 500

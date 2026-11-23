@@ -1,0 +1,26 @@
+{
+  "name": {
+    "fr": "Réalisations",
+    "en": "Projects"
+  },
+  "seo.title": {
+    "fr": "Nos réalisations : bureaux, hôtels et terrasses en PACA",
+    "en": "Our projects: offices, hotels and terraces in Provence"
+  },
+  "seo.description": {
+    "fr": "Retours de chantier de Flora Concept : végétalisation de bureaux, terrasses d'hôtels, toitures-terrasses et aménagements extérieurs, à Marseille, à Nice et en Provence.",
+    "en": "Flora Concept project stories: office planting, hotel terraces, roof terraces and outdoor landscaping in Marseille, Nice and across Provence."
+  },
+  "h1": {
+    "fr": "Nos réalisations",
+    "en": "Our projects"
+  },
+  "answer[0].children[0].text": {
+    "fr": "Quelques retours de chantier de Flora Concept, racontés projet par projet : le besoin du client, notre réponse et le résultat, en photos. Bureaux, hôtels, toitures-terrasses et aménagements extérieurs, à Marseille, à Nice et en Provence.",
+    "en": "A selection of Flora Concept projects, told one by one: the client's need, our answer and the result, in pictures. Offices, hotels, roof terraces and outdoor landscaping in Marseille, Nice and across Provence."
+  },
+  "sections[0].title": {
+    "fr": "Retours de chantier",
+    "en": "Project stories"
+  }
+}

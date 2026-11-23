@@ -41,6 +41,7 @@ function memberType(field, parent) {
   if (field === 'items' && parent === 'sectionFaq') return 'faqItem';
   if (field === 'items' && parent?.startsWith('navGroup')) return 'navLink';
   if (field === 'items' || field === 'steps') return 'leadItem';
+  if (field === 'story') return 'projectPart';
   return { groups: parent === 'nav' ? 'navGroup' : 'group', rows: 'row', parts: 'legalPart', phones: 'phoneLine', figures: 'figure', milestones: 'milestone', columns: 'footerColumn', links: 'navLink', legal: 'navLink', faq: 'faqItem' }[field];
 }
 
@@ -91,6 +92,9 @@ for (const p of pages) {
     slug: { _type: 'slug', current: p.slug },
     parent: p.parent ? { _type: 'reference', _ref: idBySlug.get(p.parent.slug) } : undefined,
     related: p.related ? { ...doc.related, hub: { _type: 'reference', _ref: idBySlug.get(p.related.hub.slug) } } : undefined,
+    project: p.project
+      ? { ...doc.project, services: p.project.services.map((x, i) => ({ _type: 'reference', _key: `s${i}`, _ref: idBySlug.get(x.slug) })) }
+      : undefined,
   });
 }
 await tx.commit();

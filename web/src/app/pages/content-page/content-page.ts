@@ -16,6 +16,7 @@ import { FinalCta } from './final-cta';
 import { HomeHero, PageHero } from './heroes';
 import { Marquee } from './marquee';
 import { PageSections } from './page-sections';
+import { ProjectStory } from './project-story';
 import { SeasonalBanner } from './seasonal-banner';
 
 /** Renders any CMS page; the template (home, hub, service, …) picks the layout. */
@@ -25,6 +26,7 @@ import { SeasonalBanner } from './seasonal-banner';
     HomeHero,
     PageHero,
     PageSections,
+    ProjectStory,
     Marquee,
     SeasonalBanner,
     FinalCta,

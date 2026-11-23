@@ -14,11 +14,15 @@ const postResolver = (route: ActivatedRouteSnapshot) => {
 
 /**
  * French pages at the root (`/<slug>/`, final slugs from the brief), English
- * pages under `/en/<slug>/`, blog posts under `/blog/<slug>/`.
+ * pages under `/en/<slug>/`, blog posts under `/blog/<slug>/`, project stories
+ * under `/realisations/<slug>/` (`/en/projects/<slug>/`).
  */
 export const routes: Routes = [
   { path: '', component: ContentPage, data: { slug: '/', lang: 'fr' }, resolve: { page: pageResolver } },
   { path: 'en', component: ContentPage, data: { slug: '/en/', lang: 'en' }, resolve: { page: pageResolver } },
+  // Réalisations: one page per project story.
+  { path: 'realisations/:slug', component: ContentPage, data: { lang: 'fr', base: '/realisations/' }, resolve: { page: pageResolver }, runGuardsAndResolvers: 'paramsChange' },
+  { path: 'en/projects/:slug', component: ContentPage, data: { lang: 'en', base: '/en/projects/' }, resolve: { page: pageResolver }, runGuardsAndResolvers: 'paramsChange' },
   { path: 'en/:slug', component: ContentPage, data: { lang: 'en' }, resolve: { page: pageResolver }, runGuardsAndResolvers: 'paramsChange' },
   { path: 'blog/:post', loadComponent: () => import('./pages/blog/post-page').then((m) => m.PostPage), resolve: { post: postResolver } },
   { path: ':slug', component: ContentPage, data: { lang: 'fr' }, resolve: { page: pageResolver }, runGuardsAndResolvers: 'paramsChange' },

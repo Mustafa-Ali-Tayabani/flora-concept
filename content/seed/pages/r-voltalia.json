@@ -1,0 +1,217 @@
+{
+  "_id": "page-r-voltalia",
+  "slug": "/realisations/voltalia/",
+  "template": "project",
+  "name": "Voltalia",
+  "parent": {
+    "slug": "/realisations/",
+    "name": "Réalisations"
+  },
+  "seo": {
+    "title": "Voltalia : végétalisation des bureaux",
+    "description": "Voltalia souhaitait égayer ses bureaux et y faire entrer la nature. L'objectif : embellir les espaces de travail et offrir aux collaborateurs un cadre de vie…"
+  },
+  "h1": "Voltalia",
+  "answer": [],
+  "zone": "",
+  "structuredData": {
+    "type": "WebPage"
+  },
+  "sections": [],
+  "heroImage": {
+    "src": "/img/real-voltalia-01",
+    "alt": "Plantes de bureau chez Voltalia",
+    "width": 1600,
+    "height": 1200
+  },
+  "project": {
+    "client": "Voltalia",
+    "subtitle": "Végétalisation des bureaux",
+    "category": "Végétalisation de bureaux",
+    "order": 2,
+    "services": [
+      {
+        "slug": "/location-plantes-bureau/",
+        "name": "Location de plantes"
+      },
+      {
+        "slug": "/entretien-plantes-entreprise/",
+        "name": "Entretien de plantes"
+      },
+      {
+        "slug": "/paysagisme-interieur/",
+        "name": "Paysagisme d'intérieur"
+      }
+    ],
+    "story": [
+      {
+        "_key": "47b1e54e6e1c",
+        "title": "Le besoin",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "c185f8b82fa9",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "f7de3093dca4",
+                "text": "Voltalia souhaitait égayer ses bureaux et y faire entrer la nature. L'objectif : embellir les espaces de travail et offrir aux collaborateurs un cadre de vie plus agréable, plus apaisant, où l'on a envie de se retrouver.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "838f03464380",
+        "title": "Notre réponse",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "dc4d1f731b98",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "278a6e75de32",
+                "text": "Nous avons misé sur des plantes de caractère, à l'image de grands Ficus lyrata, dont les larges feuilles structurent l'espace et créent immédiatement un effet « waouh ».",
+                "marks": []
+              }
+            ]
+          },
+          {
+            "_type": "block",
+            "_key": "01f417da076a",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "927ec873828e",
+                "text": "Pour habiller les zones de travail, nous avons composé des jardinières de Dracaena en hydroculture : une solution propre, durable et très simple d'entretien, idéale en milieu professionnel.",
+                "marks": []
+              }
+            ]
+          },
+          {
+            "_type": "block",
+            "_key": "21cdf95ad3d1",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "c6c1521c7150",
+                "text": "Côté contenants, des bacs blancs laqués aux lignes épurées apportent une touche nature et tendance, lumineuse et contemporaine. Pour l'entrée, nous avons choisi des bacs plus naturels en résine aspect pierre, qui accueillent les visiteurs avec une première impression chaleureuse et minérale.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "066b5335a9b3",
+        "title": "Le résultat",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "dda56f581fec",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "49cbccc9449f",
+                "text": "Des bureaux transformés : plus vivants, plus doux, plus humains. Le végétal adoucit l'architecture, améliore le confort visuel et participe au bien-être des équipes au quotidien.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/img/real-voltalia-01",
+        "alt": "Plantes de bureau chez Voltalia",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-voltalia-02",
+        "alt": "Plantes de bureau chez Voltalia (2)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-voltalia-03",
+        "alt": "Plantes de bureau chez Voltalia (3)",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-voltalia-04",
+        "alt": "Plantes de bureau chez Voltalia (4)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-voltalia-05",
+        "alt": "Plantes de bureau chez Voltalia (5)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-voltalia-06",
+        "alt": "Plantes de bureau chez Voltalia (6)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-voltalia-07",
+        "alt": "Plantes de bureau chez Voltalia (7)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-voltalia-08",
+        "alt": "Plantes de bureau chez Voltalia (8)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-voltalia-09",
+        "alt": "Plantes de bureau chez Voltalia (9)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-voltalia-10",
+        "alt": "Plantes de bureau chez Voltalia (10)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-voltalia-11",
+        "alt": "Plantes de bureau chez Voltalia (11)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-voltalia-12",
+        "alt": "Plantes de bureau chez Voltalia (12)",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-voltalia-13",
+        "alt": "Plantes de bureau chez Voltalia (13)",
+        "width": 1200,
+        "height": 1600
+      }
+    ]
+  }
+}

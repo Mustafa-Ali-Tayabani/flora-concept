@@ -1,0 +1,193 @@
+{
+  "_id": "page-r-cbre-espace-gaymard",
+  "slug": "/realisations/cbre-espace-gaymard/",
+  "template": "project",
+  "name": "CBRE · Espace Gaymard",
+  "parent": {
+    "slug": "/realisations/",
+    "name": "Réalisations"
+  },
+  "seo": {
+    "title": "CBRE · Espace Gaymard : toitures-terrasses en faveur de la biodiversité",
+    "description": "Ce chantier fait suite à l'audit écologique réalisé par Gondwana, cabinet de conseil spécialisé en biodiversité. L'audit avait mis en évidence le potentiel…"
+  },
+  "h1": "CBRE · Espace Gaymard",
+  "answer": [],
+  "zone": "",
+  "structuredData": {
+    "type": "WebPage"
+  },
+  "sections": [],
+  "heroImage": {
+    "src": "/img/real-cbre-espace-gaymard-01",
+    "alt": "Plantations mellifères sur les toitures-terrasses de l'Espace Gaymard",
+    "width": 1600,
+    "height": 1200
+  },
+  "project": {
+    "client": "CBRE · Espace Gaymard",
+    "subtitle": "Toitures-terrasses en faveur de la biodiversité",
+    "category": "Toitures-terrasses et biodiversité",
+    "order": 5,
+    "services": [
+      {
+        "slug": "/espaces-verts-entreprise/",
+        "name": "Espaces verts d'entreprise"
+      },
+      {
+        "slug": "/terrasses-vegetalisees-entreprise/",
+        "name": "Terrasses végétalisées"
+      }
+    ],
+    "story": [
+      {
+        "_key": "8721edad9b83",
+        "title": "Le contexte",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "bc594d64b6b8",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "d6640d9e7162",
+                "text": "Ce chantier fait suite à l'audit écologique réalisé par Gondwana, cabinet de conseil spécialisé en biodiversité. L'audit avait mis en évidence le potentiel des toitures-terrasses de l'Espace Gaymard et formulé des préconisations précises pour en faire de véritables refuges pour la faune locale.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "57c16b5dd59e",
+        "title": "Notre mission",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "090910e47246",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "5cc6bddf592c",
+                "text": "Refaire entièrement les plantations des toits-terrasses en suivant à la lettre les recommandations de l'audit : une palette végétale composée d'espèces mellifères, choisies pour nourrir abeilles, papillons et pollinisateurs tout au long de l'année, et sélectionnées parmi les espèces préconisées par Gondwana.",
+                "marks": []
+              }
+            ]
+          },
+          {
+            "_type": "block",
+            "_key": "849218242b9e",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "e4254f3971bf",
+                "text": "Nous avons également installé des nichoirs à insectes, qui offrent abri et lieux de ponte aux auxiliaires du jardin et complètent l'écosystème recréé sur le toit.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "bd20ab12c51a",
+        "title": "Le résultat",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "cd9061734aae",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "837b9f96bbb1",
+                "text": "Des toitures qui ne sont plus de simples surfaces techniques, mais des espaces vivants, fleuris et utiles : un relais de biodiversité en pleine ville, qui concrétise l'engagement environnemental du site et valorise le bâtiment auprès de ses occupants.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/img/real-cbre-espace-gaymard-01",
+        "alt": "Plantations mellifères sur les toitures-terrasses de l'Espace Gaymard",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-cbre-espace-gaymard-02",
+        "alt": "Plantations mellifères sur les toitures-terrasses de l'Espace Gaymard (2)",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-cbre-espace-gaymard-03",
+        "alt": "Plantations mellifères sur les toitures-terrasses de l'Espace Gaymard (3)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-cbre-espace-gaymard-04",
+        "alt": "Plantations mellifères sur les toitures-terrasses de l'Espace Gaymard (4)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-cbre-espace-gaymard-05",
+        "alt": "Plantations mellifères sur les toitures-terrasses de l'Espace Gaymard (5)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-cbre-espace-gaymard-06",
+        "alt": "Plantations mellifères sur les toitures-terrasses de l'Espace Gaymard (6)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-cbre-espace-gaymard-07",
+        "alt": "Plantations mellifères sur les toitures-terrasses de l'Espace Gaymard (7)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-cbre-espace-gaymard-08",
+        "alt": "Plantations mellifères sur les toitures-terrasses de l'Espace Gaymard (8)",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-cbre-espace-gaymard-09",
+        "alt": "Plantations mellifères sur les toitures-terrasses de l'Espace Gaymard (9)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-cbre-espace-gaymard-10",
+        "alt": "Plantations mellifères sur les toitures-terrasses de l'Espace Gaymard (10)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-cbre-espace-gaymard-11",
+        "alt": "Plantations mellifères sur les toitures-terrasses de l'Espace Gaymard (11)",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-cbre-espace-gaymard-12",
+        "alt": "Plantations mellifères sur les toitures-terrasses de l'Espace Gaymard (12)",
+        "width": 1600,
+        "height": 1200
+      }
+    ]
+  }
+}

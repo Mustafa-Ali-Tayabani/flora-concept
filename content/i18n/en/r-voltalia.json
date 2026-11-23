@@ -1,0 +1,118 @@
+{
+  "name": {
+    "fr": "Voltalia",
+    "en": "Voltalia"
+  },
+  "seo.title": {
+    "fr": "Voltalia : végétalisation des bureaux",
+    "en": "Voltalia: Bringing plants into the offices"
+  },
+  "seo.description": {
+    "fr": "Voltalia souhaitait égayer ses bureaux et y faire entrer la nature. L'objectif : embellir les espaces de travail et offrir aux collaborateurs un cadre de vie…",
+    "en": "Voltalia wanted to brighten up its offices and bring nature inside. The goal: make the workspaces more beautiful and give employees a more pleasant, more…"
+  },
+  "h1": {
+    "fr": "Voltalia",
+    "en": "Voltalia"
+  },
+  "heroImage.alt": {
+    "fr": "Plantes de bureau chez Voltalia",
+    "en": "Office plants at Voltalia"
+  },
+  "project.client": {
+    "fr": "Voltalia",
+    "en": "Voltalia"
+  },
+  "project.subtitle": {
+    "fr": "Végétalisation des bureaux",
+    "en": "Bringing plants into the offices"
+  },
+  "project.category": {
+    "fr": "Végétalisation de bureaux",
+    "en": "Office planting"
+  },
+  "project.story[0].title": {
+    "fr": "Le besoin",
+    "en": "The brief"
+  },
+  "project.story[0].body[0].children[0].text": {
+    "fr": "Voltalia souhaitait égayer ses bureaux et y faire entrer la nature. L'objectif : embellir les espaces de travail et offrir aux collaborateurs un cadre de vie plus agréable, plus apaisant, où l'on a envie de se retrouver.",
+    "en": "Voltalia wanted to brighten up its offices and bring nature inside. The goal: make the workspaces more beautiful and give employees a more pleasant, more soothing environment where people want to get together."
+  },
+  "project.story[1].title": {
+    "fr": "Notre réponse",
+    "en": "Our answer"
+  },
+  "project.story[1].body[0].children[0].text": {
+    "fr": "Nous avons misé sur des plantes de caractère, à l'image de grands Ficus lyrata, dont les larges feuilles structurent l'espace et créent immédiatement un effet « waouh ».",
+    "en": "We went for plants with character, such as tall Ficus lyrata, whose broad leaves structure the space and create an instant “wow” effect."
+  },
+  "project.story[1].body[1].children[0].text": {
+    "fr": "Pour habiller les zones de travail, nous avons composé des jardinières de Dracaena en hydroculture : une solution propre, durable et très simple d'entretien, idéale en milieu professionnel.",
+    "en": "To dress the work areas, we put together hydroculture Dracaena planters: a clean, durable and very low-maintenance solution, ideal for the workplace."
+  },
+  "project.story[1].body[2].children[0].text": {
+    "fr": "Côté contenants, des bacs blancs laqués aux lignes épurées apportent une touche nature et tendance, lumineuse et contemporaine. Pour l'entrée, nous avons choisi des bacs plus naturels en résine aspect pierre, qui accueillent les visiteurs avec une première impression chaleureuse et minérale.",
+    "en": "For the containers, white lacquered planters with clean lines add a natural, on-trend touch, bright and contemporary. For the entrance, we chose more natural stone-effect resin planters, which greet visitors with a warm, mineral first impression."
+  },
+  "project.story[2].title": {
+    "fr": "Le résultat",
+    "en": "The result"
+  },
+  "project.story[2].body[0].children[0].text": {
+    "fr": "Des bureaux transformés : plus vivants, plus doux, plus humains. Le végétal adoucit l'architecture, améliore le confort visuel et participe au bien-être des équipes au quotidien.",
+    "en": "Transformed offices: livelier, softer, more human. The plants soften the architecture, improve visual comfort and contribute to the team's wellbeing every day."
+  },
+  "project.gallery[0].alt": {
+    "fr": "Plantes de bureau chez Voltalia",
+    "en": "Office plants at Voltalia"
+  },
+  "project.gallery[1].alt": {
+    "fr": "Plantes de bureau chez Voltalia (2)",
+    "en": "Office plants at Voltalia (2)"
+  },
+  "project.gallery[2].alt": {
+    "fr": "Plantes de bureau chez Voltalia (3)",
+    "en": "Office plants at Voltalia (3)"
+  },
+  "project.gallery[3].alt": {
+    "fr": "Plantes de bureau chez Voltalia (4)",
+    "en": "Office plants at Voltalia (4)"
+  },
+  "project.gallery[4].alt": {
+    "fr": "Plantes de bureau chez Voltalia (5)",
+    "en": "Office plants at Voltalia (5)"
+  },
+  "project.gallery[5].alt": {
+    "fr": "Plantes de bureau chez Voltalia (6)",
+    "en": "Office plants at Voltalia (6)"
+  },
+  "project.gallery[6].alt": {
+    "fr": "Plantes de bureau chez Voltalia (7)",
+    "en": "Office plants at Voltalia (7)"
+  },
+  "project.gallery[7].alt": {
+    "fr": "Plantes de bureau chez Voltalia (8)",
+    "en": "Office plants at Voltalia (8)"
+  },
+  "project.gallery[8].alt": {
+    "fr": "Plantes de bureau chez Voltalia (9)",
+    "en": "Office plants at Voltalia (9)"
+  },
+  "project.gallery[9].alt": {
+    "fr": "Plantes de bureau chez Voltalia (10)",
+    "en": "Office plants at Voltalia (10)"
+  },
+  "project.gallery[10].alt": {
+    "fr": "Plantes de bureau chez Voltalia (11)",
+    "en": "Office plants at Voltalia (11)"
+  },
+  "project.gallery[11].alt": {
+    "fr": "Plantes de bureau chez Voltalia (12)",
+    "en": "Office plants at Voltalia (12)"
+  },
+  "project.gallery[12].alt": {
+    "fr": "Plantes de bureau chez Voltalia (13)",
+    "en": "Office plants at Voltalia (13)"
+  }
+}

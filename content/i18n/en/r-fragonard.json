@@ -1,0 +1,70 @@
+{
+  "name": {
+    "fr": "Fragonard",
+    "en": "Fragonard"
+  },
+  "seo.title": {
+    "fr": "Fragonard : un olivier centenaire, en collaboration avec la Poterie Ravel",
+    "en": "Fragonard: A hundred-year-old olive tree, in collaboration with Poterie Ravel"
+  },
+  "seo.description": {
+    "fr": "Pour Fragonard, maison emblématique de la parfumerie provençale, nous avons imaginé une pièce maîtresse végétale en collaboration avec la Poterie Ravel…",
+    "en": "For Fragonard, the iconic Provençal perfume house, we designed a green centrepiece in collaboration with Poterie Ravel, the historic pottery workshop in…"
+  },
+  "h1": {
+    "fr": "Fragonard",
+    "en": "Fragonard"
+  },
+  "heroImage.alt": {
+    "fr": "Olivier centenaire en pot Camélia de la Poterie Ravel devant la boutique Fragonard",
+    "en": "Hundred-year-old olive tree in a Poterie Ravel Camélia pot outside the Fragonard shop"
+  },
+  "project.client": {
+    "fr": "Fragonard",
+    "en": "Fragonard"
+  },
+  "project.subtitle": {
+    "fr": "Un olivier centenaire, en collaboration avec la Poterie Ravel",
+    "en": "A hundred-year-old olive tree, in collaboration with Poterie Ravel"
+  },
+  "project.category": {
+    "fr": "Olivier en poterie",
+    "en": "Olive tree in a terracotta pot"
+  },
+  "project.story[0].title": {
+    "fr": "Le projet",
+    "en": "The project"
+  },
+  "project.story[0].body[0].children[0].text": {
+    "fr": "Pour Fragonard, maison emblématique de la parfumerie provençale, nous avons imaginé une pièce maîtresse végétale en collaboration avec la Poterie Ravel, l'atelier historique d'Aubagne.",
+    "en": "For Fragonard, the iconic Provençal perfume house, we designed a green centrepiece in collaboration with Poterie Ravel, the historic pottery workshop in Aubagne."
+  },
+  "project.story[1].title": {
+    "fr": "Notre réponse",
+    "en": "Our answer"
+  },
+  "project.story[1].body[0].children[0].text": {
+    "fr": "Nous avons installé un bel olivier centenaire dans le pot Camélia, un grand standard de la Poterie Ravel. L'arbre, avec son tronc noueux et son feuillage argenté, porte un siècle d'histoire ; la terre cuite artisanale lui offre un écrin à sa mesure.",
+    "en": "We planted a fine hundred-year-old olive tree in the Camélia pot, a Poterie Ravel classic. With its gnarled trunk and silvery foliage, the tree carries a century of history; the handmade terracotta gives it a setting worthy of it."
+  },
+  "project.story[1].body[1].children[0].text": {
+    "fr": "La rencontre de deux savoir-faire provençaux : celui du végétal, et celui de la céramique façonnée à la main depuis 1837.",
+    "en": "The meeting of two Provençal crafts: plants, and ceramics shaped by hand since 1837."
+  },
+  "project.story[2].title": {
+    "fr": "Le résultat",
+    "en": "The result"
+  },
+  "project.story[2].body[0].children[0].text": {
+    "fr": "Une composition intemporelle, chargée de sens et d'authenticité, qui raconte la Provence et fait écho à l'univers de Fragonard : le patrimoine, l'artisanat et l'art de vivre du Sud.",
+    "en": "A timeless composition, full of meaning and authenticity, that tells the story of Provence and echoes the world of Fragonard: heritage, craftsmanship and the southern art of living."
+  },
+  "project.gallery[0].alt": {
+    "fr": "Olivier centenaire en pot Camélia de la Poterie Ravel devant la boutique Fragonard",
+    "en": "Hundred-year-old olive tree in a Poterie Ravel Camélia pot outside the Fragonard shop"
+  },
+  "project.gallery[1].alt": {
+    "fr": "Olivier centenaire en pot Camélia de la Poterie Ravel devant la boutique Fragonard (2)",
+    "en": "Hundred-year-old olive tree in a Poterie Ravel Camélia pot outside the Fragonard shop (2)"
+  }
+}

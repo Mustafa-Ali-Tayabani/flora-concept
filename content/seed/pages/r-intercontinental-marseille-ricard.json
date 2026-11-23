@@ -1,0 +1,180 @@
+{
+  "_id": "page-r-intercontinental-marseille-ricard",
+  "slug": "/realisations/intercontinental-marseille-ricard/",
+  "template": "project",
+  "name": "InterContinental Marseille × Ricard",
+  "parent": {
+    "slug": "/realisations/",
+    "name": "Réalisations"
+  },
+  "seo": {
+    "title": "InterContinental Marseille × Ricard : un mini terrain de boules dans le potager de l'hôtel",
+    "description": "Pour Ricard, partenaire du lieu, l'idée était de créer un espace atypique et convivial au cœur de l'hôtel InterContinental Marseille – Hôtel-Dieu : un mini…"
+  },
+  "h1": "InterContinental Marseille × Ricard",
+  "answer": [],
+  "zone": "marseille",
+  "structuredData": {
+    "type": "WebPage"
+  },
+  "sections": [],
+  "heroImage": {
+    "src": "/img/real-intercontinental-marseille-ricard-01",
+    "alt": "Mini terrain de pétanque dans le potager de l'InterContinental Marseille",
+    "width": 1200,
+    "height": 1600
+  },
+  "project": {
+    "client": "InterContinental Marseille × Ricard",
+    "subtitle": "Un mini terrain de boules dans le potager de l'hôtel",
+    "place": "Marseille",
+    "category": "Création d'un espace extérieur",
+    "order": 1,
+    "services": [
+      {
+        "slug": "/entretien-location-plantes-marseille/",
+        "name": "Marseille et Provence"
+      },
+      {
+        "slug": "/espaces-verts-entreprise/",
+        "name": "Espaces verts d'entreprise"
+      },
+      {
+        "slug": "/creation-amenagement-espaces-verts/",
+        "name": "Création et aménagement"
+      }
+    ],
+    "story": [
+      {
+        "_key": "e83f7f4968af",
+        "title": "Le projet",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "eb3ba65975ab",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "2677e485f5b3",
+                "text": "Pour Ricard, partenaire du lieu, l'idée était de créer un espace atypique et convivial au cœur de l'hôtel InterContinental Marseille – Hôtel-Dieu : un mini terrain de pétanque installé dans le potager de l'établissement, sur les restanques qui dominent le Vieux-Port. Un véritable symbole de Marseille et de l'art de vivre provençal.",
+                "marks": []
+              }
+            ]
+          },
+          {
+            "_type": "block",
+            "_key": "bc842deb4d99",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "502a77c1b7bc",
+                "text": "Le terrain est la pièce maîtresse du « Jardin méditerranéen » inauguré par l'hôtel en juin 2025 : un petit écrin de biodiversité avec plantes aromatiques cultivées pour les chefs et ruches, où les clients viennent jouer une partie autour d'un Ricard.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "b4ccd13019a8",
+        "title": "La difficulté",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "51efa70989ef",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "a032e6cd1dd3",
+                "text": "Le potager présentait un accès très compliqué, impossible à franchir avec des engins classiques. Nous avons dû grutter une mini-pelle jusqu'au site, puis adapter nos méthodes de travail aux contraintes et aux irrégularités du terrain pour réaliser un terrain de jeu parfaitement plan et durable.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "b21319f53996",
+        "title": "Le résultat",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "a9e7a9858126",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "adb0ddcdfc5f",
+                "text": "Un espace unique, où l'on joue aux boules entre les plantes du potager, avec vue sur Marseille : un lieu de partage authentique et chaleureux, qui marie l'élégance de l'hôtel et l'esprit de la pétanque, et qui illustre notre capacité à relever les chantiers les plus techniques.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/img/real-intercontinental-marseille-ricard-01",
+        "alt": "Mini terrain de pétanque dans le potager de l'InterContinental Marseille",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-intercontinental-marseille-ricard-02",
+        "alt": "Mini terrain de pétanque dans le potager de l'InterContinental Marseille (2)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-intercontinental-marseille-ricard-03",
+        "alt": "Mini terrain de pétanque dans le potager de l'InterContinental Marseille (3)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-intercontinental-marseille-ricard-04",
+        "alt": "Mini terrain de pétanque dans le potager de l'InterContinental Marseille (4)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-intercontinental-marseille-ricard-05",
+        "alt": "Mini terrain de pétanque dans le potager de l'InterContinental Marseille (5)",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-intercontinental-marseille-ricard-06",
+        "alt": "Mini terrain de pétanque dans le potager de l'InterContinental Marseille (6)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-intercontinental-marseille-ricard-07",
+        "alt": "Mini terrain de pétanque dans le potager de l'InterContinental Marseille (7)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-intercontinental-marseille-ricard-08",
+        "alt": "Mini terrain de pétanque dans le potager de l'InterContinental Marseille (8)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-intercontinental-marseille-ricard-09",
+        "alt": "Mini terrain de pétanque dans le potager de l'InterContinental Marseille (9)",
+        "width": 1600,
+        "height": 1200
+      }
+    ]
+  }
+}

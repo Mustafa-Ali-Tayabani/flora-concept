@@ -18,11 +18,20 @@ export const structure: StructureResolver = (S) =>
       S.listItem()
         .title('Pages (FR)')
         .schemaType('page')
-        .child(S.documentList().title('Pages (FR)').filter('_type == "page" && (language == "fr" || !defined(language))')),
+        .child(S.documentList().title('Pages (FR)').filter('_type == "page" && (language == "fr" || !defined(language)) && template != "project"')),
       S.listItem()
         .title('Pages (EN)')
         .schemaType('page')
-        .child(S.documentList().title('Pages (EN)').filter('_type == "page" && language == "en"')),
+        .child(S.documentList().title('Pages (EN)').filter('_type == "page" && language == "en" && template != "project"')),
+      S.listItem()
+        .title('Réalisations (retours de chantier)')
+        .schemaType('page')
+        .child(
+          S.documentList()
+            .title('Réalisations')
+            .filter('_type == "page" && template == "project"')
+            .defaultOrdering([{ field: 'project.order', direction: 'asc' }]),
+        ),
       S.listItem()
         .title('Articles du blog')
         .schemaType('post')
@@ -32,5 +41,5 @@ export const structure: StructureResolver = (S) =>
             .defaultOrdering([{ field: 'pubDate', direction: 'desc' }]),
         ),
       S.documentTypeListItem('person').title('Équipe'),
-      S.documentTypeListItem('caseStudy').title('Réalisations'),
+      S.documentTypeListItem('caseStudy').title('Références (cas sans page)'),
     ]);

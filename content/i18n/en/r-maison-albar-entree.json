@@ -1,0 +1,86 @@
+{
+  "name": {
+    "fr": "Maison Albar",
+    "en": "Maison Albar"
+  },
+  "seo.title": {
+    "fr": "Maison Albar : l'entrée de l'hôtel",
+    "en": "Maison Albar: The hotel entrance"
+  },
+  "seo.description": {
+    "fr": "La cliente souhaitait des plantes chic et résistantes pour l'entrée de l'hôtel, accompagnées de contenants à la hauteur du lieu : très élégants, originaux et…",
+    "en": "The client wanted chic, hardy plants for the hotel entrance, with containers worthy of the venue: very elegant, original and able to express the hotel's…"
+  },
+  "h1": {
+    "fr": "Maison Albar",
+    "en": "Maison Albar"
+  },
+  "heroImage.alt": {
+    "fr": "Lauriers-sauce en pyramide à l'entrée de Maison Albar",
+    "en": "Pyramid-trimmed bay laurels at the entrance of Maison Albar"
+  },
+  "project.client": {
+    "fr": "Maison Albar",
+    "en": "Maison Albar"
+  },
+  "project.subtitle": {
+    "fr": "L'entrée de l'hôtel",
+    "en": "The hotel entrance"
+  },
+  "project.category": {
+    "fr": "Entrée d'hôtel",
+    "en": "Hotel entrance"
+  },
+  "project.story[0].title": {
+    "fr": "Le besoin",
+    "en": "The brief"
+  },
+  "project.story[0].body[0].children[0].text": {
+    "fr": "La cliente souhaitait des plantes chic et résistantes pour l'entrée de l'hôtel, accompagnées de contenants à la hauteur du lieu : très élégants, originaux et capables de signer l'image de la maison dès le seuil.",
+    "en": "The client wanted chic, hardy plants for the hotel entrance, with containers worthy of the venue: very elegant, original and able to express the hotel's image from the doorstep."
+  },
+  "project.story[1].title": {
+    "fr": "Notre réponse",
+    "en": "Our answer"
+  },
+  "project.story[1].body[0].children[0].text": {
+    "fr": "Le choix s'est porté sur des lauriers-sauce taillés en pyramide : un classique intemporel des belles adresses, au port structuré et au feuillage persistant, qui résiste parfaitement à l'extérieur toute l'année.",
+    "en": "We chose pyramid-trimmed bay laurels: a timeless classic of fine addresses, with a structured shape and evergreen foliage, perfectly hardy outdoors all year round."
+  },
+  "project.story[1].body[1].children[0].text": {
+    "fr": "Pour les contenants, nous avons retenu la gamme Capi Nature « Rib » de Capi Europe : de hauts vases galbés en matériau composite léger et résistant, à la surface striée, presque sculptée. Leur finition bronze doré sur fond sombre accroche la lumière et apporte une touche originale et raffinée.",
+    "en": "For the containers, we selected the Capi Nature “Rib” range by Capi Europe: tall curved vases in a light, durable composite with a ribbed, almost sculpted surface. Their golden bronze finish on a dark base catches the light and adds an original, refined touch."
+  },
+  "project.story[2].title": {
+    "fr": "Le résultat",
+    "en": "The result"
+  },
+  "project.story[2].body[0].children[0].text": {
+    "fr": "Une entrée qui reflète le caractère chic et prestigieux de Maison Albar : la rigueur graphique des lauriers pyramidaux répond à l'éclat bronze doré des vases, pour un accueil élégant, chaleureux et mémorable.",
+    "en": "An entrance that reflects the chic, prestigious character of Maison Albar: the graphic precision of the pyramid laurels answers the golden bronze sheen of the vases, for an elegant, warm and memorable welcome."
+  },
+  "project.gallery[0].alt": {
+    "fr": "Lauriers-sauce en pyramide à l'entrée de Maison Albar",
+    "en": "Pyramid-trimmed bay laurels at the entrance of Maison Albar"
+  },
+  "project.gallery[1].alt": {
+    "fr": "Lauriers-sauce en pyramide à l'entrée de Maison Albar (2)",
+    "en": "Pyramid-trimmed bay laurels at the entrance of Maison Albar (2)"
+  },
+  "project.gallery[2].alt": {
+    "fr": "Lauriers-sauce en pyramide à l'entrée de Maison Albar (3)",
+    "en": "Pyramid-trimmed bay laurels at the entrance of Maison Albar (3)"
+  },
+  "project.gallery[3].alt": {
+    "fr": "Lauriers-sauce en pyramide à l'entrée de Maison Albar (4)",
+    "en": "Pyramid-trimmed bay laurels at the entrance of Maison Albar (4)"
+  },
+  "project.gallery[4].alt": {
+    "fr": "Lauriers-sauce en pyramide à l'entrée de Maison Albar (5)",
+    "en": "Pyramid-trimmed bay laurels at the entrance of Maison Albar (5)"
+  },
+  "project.gallery[5].alt": {
+    "fr": "Lauriers-sauce en pyramide à l'entrée de Maison Albar (6)",
+    "en": "Pyramid-trimmed bay laurels at the entrance of Maison Albar (6)"
+  }
+}

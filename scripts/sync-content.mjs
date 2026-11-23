@@ -191,6 +191,32 @@ for (const p of pages) {
   delete p.translation;
 }
 
+// Réalisations: the project pages (template `project`) feed the Réalisations list,
+// the « Réalisations » blocks of the service and city pages they name, and the
+// « See also » cards under each project. Blocks filled by hand in Sanity are kept.
+const projects = pages.filter((p) => p.template === 'project' && p.project).sort((a, b) => a.project.order - b.project.order);
+const plainBlock = (k, text) => [{ _type: 'block', _key: `${k}-b`, style: 'normal', markDefs: [], children: [{ _type: 'span', _key: `${k}-s`, text, marks: [] }] }];
+const cover = (p) => (p.heroImage ? { image: { ...p.heroImage, alt: '' } } : {});
+const projectCard = (p) => ({ _key: p._id, title: p.project.client, text: plainBlock(p._id, p.project.subtitle), href: p.slug, ...(p.project.place ? { badge: p.project.place } : {}), ...cover(p) });
+for (const page of pages) {
+  const mine = projects.filter((p) => p.lang === page.lang);
+  for (const s of page.sections ?? []) {
+    if (page.template === 'projects' && s._type === 'sectionCards' && !s.cards?.length) s.cards = mine.map(projectCard);
+    if (s._type === 'sectionCaseStudies' && !s.cases?.length) {
+      s.cases = mine
+        .filter((p) => p.project.services.some((x) => x.slug === page.slug))
+        .slice(0, 3)
+        .map((p) => ({ _key: p._id, client: p.project.client, title: p.project.subtitle, ...(p.project.place ? { city: p.project.place } : {}), service: p.project.category, href: p.slug, ...cover(p) }));
+    }
+  }
+  if (page.template === 'project' && page.project) {
+    const hub = pages.find((x) => x.slug === page.parent?.slug);
+    const i = mine.indexOf(page);
+    const next = [...mine.slice(i + 1), ...mine.slice(0, i)].slice(0, 3);
+    if (hub && next.length) page.related = { hub: { slug: hub.slug, name: hub.name }, items: next.map(projectCard) };
+  }
+}
+
 const publishedPosts = posts
   .filter((p) => p.pubDate && new Date(p.pubDate) <= NOW)
   .sort((a, b) => new Date(b.pubDate) - new Date(a.pubDate));

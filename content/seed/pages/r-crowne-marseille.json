@@ -1,0 +1,174 @@
+{
+  "_id": "page-r-crowne-marseille",
+  "slug": "/realisations/crowne-marseille/",
+  "template": "project",
+  "name": "Crowne Marseille",
+  "parent": {
+    "slug": "/realisations/",
+    "name": "Réalisations"
+  },
+  "seo": {
+    "title": "Crowne Marseille : un souffle végétal et méditerranéen",
+    "description": "L'idée était d'apporter à l'établissement une dimension végétale et méditerranéenne, en cohérence avec son ancrage marseillais, tout en tenant compte de…"
+  },
+  "h1": "Crowne Marseille",
+  "answer": [],
+  "zone": "marseille",
+  "structuredData": {
+    "type": "WebPage"
+  },
+  "sections": [],
+  "heroImage": {
+    "src": "/img/real-crowne-marseille-01",
+    "alt": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille",
+    "width": 1600,
+    "height": 1200
+  },
+  "project": {
+    "client": "Crowne Marseille",
+    "subtitle": "Un souffle végétal et méditerranéen",
+    "place": "Marseille",
+    "category": "Aménagement extérieur",
+    "order": 4,
+    "services": [
+      {
+        "slug": "/entretien-location-plantes-marseille/",
+        "name": "Marseille et Provence"
+      },
+      {
+        "slug": "/espaces-verts-entreprise/",
+        "name": "Espaces verts d'entreprise"
+      },
+      {
+        "slug": "/terrasses-vegetalisees-entreprise/",
+        "name": "Terrasses végétalisées"
+      }
+    ],
+    "story": [
+      {
+        "_key": "3e64fd49bea5",
+        "title": "Le besoin",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "2c5f1b17797c",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "4991d3cfa72e",
+                "text": "L'idée était d'apporter à l'établissement une dimension végétale et méditerranéenne, en cohérence avec son ancrage marseillais, tout en tenant compte de contraintes fortes : chaleur et arrosage limité.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "5101afbff62f",
+        "title": "Notre réponse",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "0d3f38f08442",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "50e2015e6c07",
+                "text": "Nous avons mis en place une grande jardinière plantée d'espèces robustes, comme des Dracaena, choisies pour leur résistance à la chaleur et leur faible besoin en eau.",
+                "marks": []
+              }
+            ]
+          },
+          {
+            "_type": "block",
+            "_key": "59633b1d20b4",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "472b4fd93b16",
+                "text": "Des oliviers, symboles de la Méditerranée, viennent compléter l'aménagement. Ils sont installés dans de grands bacs gris graphite, sobres et contemporains, qui mettent en valeur leur feuillage argenté.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "_key": "346db09afb6d",
+        "title": "Le résultat",
+        "body": [
+          {
+            "_type": "block",
+            "_key": "e66374188965",
+            "style": "normal",
+            "markDefs": [],
+            "children": [
+              {
+                "_type": "span",
+                "_key": "a6fe758b2267",
+                "text": "Un aménagement à la fois élégant et résistant, qui affirme l'identité méditerranéenne du lieu et offre aux clients un cadre accueillant, lumineux et durable.",
+                "marks": []
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "gallery": [
+      {
+        "src": "/img/real-crowne-marseille-01",
+        "alt": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-crowne-marseille-02",
+        "alt": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille (2)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-crowne-marseille-03",
+        "alt": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille (3)",
+        "width": 1200,
+        "height": 1600
+      },
+      {
+        "src": "/img/real-crowne-marseille-04",
+        "alt": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille (4)",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-crowne-marseille-05",
+        "alt": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille (5)",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-crowne-marseille-06",
+        "alt": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille (6)",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-crowne-marseille-07",
+        "alt": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille (7)",
+        "width": 1600,
+        "height": 1200
+      },
+      {
+        "src": "/img/real-crowne-marseille-08",
+        "alt": "Oliviers et jardinières sur la terrasse de l'hôtel Crowne Marseille (8)",
+        "width": 1600,
+        "height": 1200
+      }
+    ]
+  }
+}

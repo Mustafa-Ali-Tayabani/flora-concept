@@ -1,0 +1,90 @@
+{
+  "name": {
+    "fr": "Maison Albar · Nice",
+    "en": "Maison Albar · Nice"
+  },
+  "seo.title": {
+    "fr": "Maison Albar · Nice : des terrasses chic face à la Méditerranée",
+    "en": "Maison Albar · Nice: Chic terraces overlooking the Mediterranean"
+  },
+  "seo.description": {
+    "fr": "Pour cet hôtel de luxe 5 étoiles à Nice, l'enjeu était de créer des terrasses à la hauteur de l'établissement : élégantes, généreuses et parfaitement…",
+    "en": "For this 5-star luxury hotel in Nice, the challenge was to create terraces worthy of the establishment: elegant, generous and perfectly suited to the…"
+  },
+  "h1": {
+    "fr": "Maison Albar · Nice",
+    "en": "Maison Albar · Nice"
+  },
+  "heroImage.alt": {
+    "fr": "Terrasse végétalisée de Maison Albar à Nice, face à la mer",
+    "en": "Planted terrace of Maison Albar in Nice, facing the sea"
+  },
+  "project.client": {
+    "fr": "Maison Albar · Nice",
+    "en": "Maison Albar · Nice"
+  },
+  "project.subtitle": {
+    "fr": "Des terrasses chic face à la Méditerranée",
+    "en": "Chic terraces overlooking the Mediterranean"
+  },
+  "project.place": {
+    "fr": "Nice",
+    "en": "Nice"
+  },
+  "project.category": {
+    "fr": "Terrasses d'hôtel",
+    "en": "Hotel terraces"
+  },
+  "project.story[0].title": {
+    "fr": "Le besoin",
+    "en": "The brief"
+  },
+  "project.story[0].body[0].children[0].text": {
+    "fr": "Pour cet hôtel de luxe 5 étoiles à Nice, l'enjeu était de créer des terrasses à la hauteur de l'établissement : élégantes, généreuses et parfaitement adaptées au climat de la Côte d'Azur, avec la mer en toile de fond.",
+    "en": "For this 5-star luxury hotel in Nice, the challenge was to create terraces worthy of the establishment: elegant, generous and perfectly suited to the climate of the Côte d'Azur, with the sea as a backdrop."
+  },
+  "project.story[1].title": {
+    "fr": "Notre réponse",
+    "en": "Our answer"
+  },
+  "project.story[1].body[0].children[0].text": {
+    "fr": "Nous avons choisi des espèces typiques de la Riviera, qui supportent le soleil, le vent et les embruns : des palmiers comme les Butia, des Strelitzia, les célèbres « oiseaux du paradis », et des plantes structurées aux silhouettes graphiques.",
+    "en": "We chose species typical of the Riviera that cope with sun, wind and sea spray: palms such as Butia, Strelitzia, the famous “birds of paradise”, and structured plants with graphic silhouettes."
+  },
+  "project.story[1].body[1].children[0].text": {
+    "fr": "Installées dans des contenants sobres aux tons naturels, ces plantes dessinent des compositions épurées qui dialoguent avec l'architecture dorée du bâtiment et la vue sur la Baie des Anges.",
+    "en": "Set in understated containers in natural tones, these plants form clean compositions that echo the building's golden architecture and the view over the Baie des Anges."
+  },
+  "project.story[2].title": {
+    "fr": "Le résultat",
+    "en": "The result"
+  },
+  "project.story[2].body[0].children[0].text": {
+    "fr": "Des terrasses très chic, au parfum de vacances, qui prolongent l'expérience de l'hôtel en extérieur : un jardin méditerranéen raffiné, durable et parfaitement à sa place sur la Côte d'Azur.",
+    "en": "Very chic terraces with a holiday feel, which extend the hotel experience outdoors: a refined, lasting Mediterranean garden, perfectly at home on the Côte d'Azur."
+  },
+  "project.gallery[0].alt": {
+    "fr": "Terrasse végétalisée de Maison Albar à Nice, face à la mer",
+    "en": "Planted terrace of Maison Albar in Nice, facing the sea"
+  },
+  "project.gallery[1].alt": {
+    "fr": "Terrasse végétalisée de Maison Albar à Nice, face à la mer (2)",
+    "en": "Planted terrace of Maison Albar in Nice, facing the sea (2)"
+  },
+  "project.gallery[2].alt": {
+    "fr": "Terrasse végétalisée de Maison Albar à Nice, face à la mer (3)",
+    "en": "Planted terrace of Maison Albar in Nice, facing the sea (3)"
+  },
+  "project.gallery[3].alt": {
+    "fr": "Terrasse végétalisée de Maison Albar à Nice, face à la mer (4)",
+    "en": "Planted terrace of Maison Albar in Nice, facing the sea (4)"
+  },
+  "project.gallery[4].alt": {
+    "fr": "Terrasse végétalisée de Maison Albar à Nice, face à la mer (5)",
+    "en": "Planted terrace of Maison Albar in Nice, facing the sea (5)"
+  },
+  "project.gallery[5].alt": {
+    "fr": "Terrasse végétalisée de Maison Albar à Nice, face à la mer (6)",
+    "en": "Planted terrace of Maison Albar in Nice, facing the sea (6)"
+  }
+}

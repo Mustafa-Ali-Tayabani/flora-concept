@@ -14,10 +14,11 @@ export const pageResolver: ResolveFn<Page> = (route) => {
   const content = inject(ContentService);
   const site = inject(SiteStore);
   const lang: Lang = route.data['lang'] ?? 'fr';
-  const prefix = lang === 'en' ? '/en' : '';
+  // Base path of the route: `/`, `/en/`, or a section such as `/realisations/`.
+  const base = (route.data['base'] as string | undefined) ?? (lang === 'en' ? '/en/' : '/');
   const fixed = route.data['slug'] as string | undefined;
   const param = route.paramMap.get('slug');
-  const slug = fixed ?? (param && /^[a-z0-9-]+$/.test(param) ? `${prefix}/${param}/` : UI[lang].routes.notFound);
+  const slug = fixed ?? (param && /^[a-z0-9-]+$/.test(param) ? `${base}${param}/` : UI[lang].routes.notFound);
   return content.page(slug).pipe(
     switchMap((page) => (page ? of(page) : content.page(UI[lang].routes.notFound))),
     switchMap((page) => from(site.useLang((page as Page).lang ?? lang)).pipe(map(() => page as Page))),

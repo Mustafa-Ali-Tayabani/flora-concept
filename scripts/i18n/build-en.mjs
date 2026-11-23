@@ -70,7 +70,7 @@ for (const f of await readdir(join(SEED, 'pages'))) {
 // References to other pages carry their (English) name: breadcrumb parent, « See also » hub.
 const nameBySlug = Object.fromEntries(built.map(([, p]) => [p.slug, p.name]));
 for (const [f, en] of built) {
-  for (const ref of [en.parent, en.related?.hub]) if (ref) ref.name = nameBySlug[ref.slug] ?? ref.name;
+  for (const ref of [en.parent, en.related?.hub, ...(en.project?.services ?? [])]) if (ref) ref.name = nameBySlug[ref.slug] ?? ref.name;
   await writeFile(join(OUT, 'pages', f), JSON.stringify(en, null, 2) + '\n');
 }
 const settings = await translateDoc(JSON.parse(await readFile(join(SEED, 'settings.json'), 'utf8')), 'settings', errors);
